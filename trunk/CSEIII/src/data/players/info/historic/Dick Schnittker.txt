@@ -1,0 +1,10 @@
+Name:Dick Schnittker
+Number:15
+Position:F
+Height:6-5
+Weight:200
+Birth:1928-05-27
+Age:87
+Exp:5
+School:Ohio State
+OwingTeam:MNL

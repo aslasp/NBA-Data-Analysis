@@ -1,0 +1,10 @@
+Name:Juaquin Hawkins
+Number:29
+Position:F
+Height:6-7
+Weight:205
+Birth:1973-07-02
+Age:41
+Exp:0
+School:Long Beach State
+OwingTeam:HOU

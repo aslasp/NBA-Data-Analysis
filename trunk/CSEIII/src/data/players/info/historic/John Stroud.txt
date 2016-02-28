@@ -1,0 +1,10 @@
+Name:John Stroud
+Number:42
+Position:F
+Height:6-7
+Weight:215
+Birth:1957-10-29
+Age:57
+Exp:0
+School:Mississippi
+OwingTeam:HOU

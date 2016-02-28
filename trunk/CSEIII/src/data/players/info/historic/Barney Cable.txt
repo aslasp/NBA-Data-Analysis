@@ -1,0 +1,10 @@
+Name:Barney Cable
+Number:35
+Position:F
+Height:6-7
+Weight:175
+Birth:1935-07-29
+Age:79
+Exp:5
+School:Bradley
+OwingTeam:BLT

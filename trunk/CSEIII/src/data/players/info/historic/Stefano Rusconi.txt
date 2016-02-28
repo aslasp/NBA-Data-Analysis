@@ -1,0 +1,10 @@
+Name:Stefano Rusconi
+Number:51
+Position:F
+Height:6-9
+Weight:240
+Birth:1968-02-10
+Age:47
+Exp:0
+School:Italy
+OwingTeam:PHX

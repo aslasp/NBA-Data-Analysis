@@ -1,0 +1,10 @@
+Name:Adrian Smith
+Number:10
+Position:G
+Height:6-1
+Weight:180
+Birth:1936-10-05
+Age:78
+Exp:9
+School:Kentucky
+OwingTeam:SFW

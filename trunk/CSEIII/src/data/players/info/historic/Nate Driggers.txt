@@ -1,0 +1,10 @@
+Name:Nate Driggers
+Number:27
+Position:G-F
+Height:6-5
+Weight:215
+Birth:1973-10-12
+Age:41
+Exp:0
+School:Montevallo
+OwingTeam:BOS

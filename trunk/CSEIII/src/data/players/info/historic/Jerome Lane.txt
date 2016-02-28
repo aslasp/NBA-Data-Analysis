@@ -1,0 +1,10 @@
+Name:Jerome Lane
+Number:30
+Position:F
+Height:6-6
+Weight:230
+Birth:1966-12-04
+Age:48
+Exp:4
+School:Pittsburgh
+OwingTeam:CLE

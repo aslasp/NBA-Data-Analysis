@@ -1,0 +1,10 @@
+Name:Ira Bowman
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-06-11
+Age:41
+Exp:0
+School:Pennsylvania
+OwingTeam:

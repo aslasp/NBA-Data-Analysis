@@ -1,0 +1,10 @@
+Name:Bob McCann
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-04-22
+Age:51
+Exp:0
+School:Morehead State
+OwingTeam:

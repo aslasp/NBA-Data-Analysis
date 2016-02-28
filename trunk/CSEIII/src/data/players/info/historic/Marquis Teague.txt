@@ -1,0 +1,10 @@
+Name:Marquis Teague
+Number:12
+Position:G
+Height:6-2
+Weight:190
+Birth:1993-02-28
+Age:22
+Exp:1
+School:Kentucky
+OwingTeam:BKN

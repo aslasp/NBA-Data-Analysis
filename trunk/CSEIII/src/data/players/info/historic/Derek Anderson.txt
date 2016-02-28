@@ -1,0 +1,10 @@
+Name:Derek Anderson
+Number:1
+Position:G
+Height:6-5
+Weight:195
+Birth:1974-07-18
+Age:40
+Exp:10
+School:Kentucky
+OwingTeam:CHA

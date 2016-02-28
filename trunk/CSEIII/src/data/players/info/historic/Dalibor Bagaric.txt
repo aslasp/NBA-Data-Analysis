@@ -1,0 +1,10 @@
+Name:Dalibor Bagaric
+Number:11
+Position:C
+Height:7-1
+Weight:290
+Birth:1980-07-02
+Age:34
+Exp:2
+School:Croatia
+OwingTeam:CHI

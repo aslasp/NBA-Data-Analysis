@@ -1,0 +1,10 @@
+Name:Gani Lawal
+Number:31
+Position:F
+Height:6-9
+Weight:234
+Birth:1988-11-07
+Age:26
+Exp:0
+School:Georgia Tech
+OwingTeam:PHX

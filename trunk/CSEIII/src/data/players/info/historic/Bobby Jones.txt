@@ -1,0 +1,10 @@
+Name:Bobby Jones
+Number:11
+Position:F
+Height:6-7
+Weight:215
+Birth:1984-01-09
+Age:31
+Exp:1
+School:Washington
+OwingTeam:DEN

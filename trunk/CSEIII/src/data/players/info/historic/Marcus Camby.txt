@@ -1,0 +1,10 @@
+Name:Marcus Camby
+Number:23
+Position:C-F
+Height:6-11
+Weight:240
+Birth:1974-03-22
+Age:41
+Exp:16
+School:Massachusetts
+OwingTeam:NYK

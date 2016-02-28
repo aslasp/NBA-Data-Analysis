@@ -1,0 +1,10 @@
+Name:E.C. Coleman
+Number:12
+Position:F
+Height:6-8
+Weight:225
+Birth:1950-09-25
+Age:64
+Exp:5
+School:Houston Baptist
+OwingTeam:HOU

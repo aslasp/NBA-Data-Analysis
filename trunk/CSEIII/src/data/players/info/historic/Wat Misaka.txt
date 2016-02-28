@@ -1,0 +1,10 @@
+Name:Wat Misaka
+Number:15
+Position:G
+Height:5-7
+Weight:150
+Birth:1923-12-21
+Age:91
+Exp:0
+School:Utah
+OwingTeam:NYK

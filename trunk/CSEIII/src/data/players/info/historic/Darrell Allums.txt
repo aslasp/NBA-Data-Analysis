@@ -1,0 +1,10 @@
+Name:Darrell Allums
+Number:32
+Position:F
+Height:6-8
+Weight:220
+Birth:1958-09-12
+Age:56
+Exp:0
+School:California-Los Angeles
+OwingTeam:DAL

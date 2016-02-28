@@ -1,0 +1,10 @@
+Name:Shaler Halimon
+Number:11
+Position:G
+Height:6-5
+Weight:199
+Birth:1945-03-30
+Age:70
+Exp:3
+School:Utah State
+OwingTeam:ATL

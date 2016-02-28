@@ -1,0 +1,10 @@
+Name:Len Elmore
+Number:44
+Position:C
+Height:6-10
+Weight:220
+Birth:1952-03-28
+Age:63
+Exp:7
+School:Maryland
+OwingTeam:NYK

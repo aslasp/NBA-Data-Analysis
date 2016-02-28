@@ -1,0 +1,10 @@
+Name:Jack Hewson
+Number:17
+Position:F
+Height:6-6
+Weight:195
+Birth:1924-09-07
+Age:90
+Exp:0
+School:Temple
+OwingTeam:BOS

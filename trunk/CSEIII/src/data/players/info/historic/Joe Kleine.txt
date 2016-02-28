@@ -1,0 +1,10 @@
+Name:Joe Kleine
+Number:
+Position:
+Height:
+Weight:
+Birth:1962-01-04
+Age:53
+Exp:0
+School:Arkansas
+OwingTeam:

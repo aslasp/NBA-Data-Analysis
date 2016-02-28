@@ -1,0 +1,10 @@
+Name:Stacey King
+Number:33
+Position:F-C
+Height:6-11
+Weight:250
+Birth:1967-01-29
+Age:48
+Exp:6
+School:Oklahoma
+OwingTeam:DAL

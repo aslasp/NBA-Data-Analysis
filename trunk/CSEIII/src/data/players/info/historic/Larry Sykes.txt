@@ -1,0 +1,10 @@
+Name:Larry Sykes
+Number:54
+Position:F
+Height:6-9
+Weight:255
+Birth:1973-04-11
+Age:42
+Exp:0
+School:Xavier
+OwingTeam:BOS

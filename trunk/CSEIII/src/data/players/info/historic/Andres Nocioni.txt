@@ -1,0 +1,10 @@
+Name:Andres Nocioni
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-11-30
+Age:35
+Exp:0
+School:Santa Fe
+OwingTeam:

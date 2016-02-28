@@ -1,0 +1,10 @@
+Name:Johnny Davis
+Number:16
+Position:G
+Height:6-2
+Weight:170
+Birth:1955-10-21
+Age:59
+Exp:9
+School:Dayton
+OwingTeam:ATL

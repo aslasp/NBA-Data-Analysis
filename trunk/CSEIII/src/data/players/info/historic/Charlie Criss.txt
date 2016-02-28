@@ -1,0 +1,10 @@
+Name:Charlie Criss
+Number:14
+Position:G
+Height:5-8
+Weight:165
+Birth:1948-11-06
+Age:66
+Exp:7
+School:New Mexico State
+OwingTeam:ATL

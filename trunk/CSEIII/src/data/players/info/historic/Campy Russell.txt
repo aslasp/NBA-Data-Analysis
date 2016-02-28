@@ -1,0 +1,10 @@
+Name:Campy Russell
+Number:4
+Position:F
+Height:6-8
+Weight:215
+Birth:1952-01-12
+Age:63
+Exp:8
+School:Michigan
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Baron Davis
+Number:85
+Position:G
+Height:6-3
+Weight:212
+Birth:1979-04-13
+Age:36
+Exp:12
+School:California-Los Angeles
+OwingTeam:NYK

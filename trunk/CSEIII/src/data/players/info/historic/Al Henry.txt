@@ -1,0 +1,10 @@
+Name:Al Henry
+Number:26
+Position:C
+Height:6-9
+Weight:190
+Birth:1949-02-09
+Age:66
+Exp:1
+School:Wisconsin
+OwingTeam:PHL

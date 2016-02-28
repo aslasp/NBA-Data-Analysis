@@ -1,0 +1,10 @@
+Name:Jeff Slade
+Number:34
+Position:F
+Height:6-6
+Weight:220
+Birth:1941-03-01
+Age:74
+Exp:0
+School:Kenyon
+OwingTeam:CHZ

@@ -1,0 +1,10 @@
+Name:Bob Tough
+Number:
+Position:G
+Height:6-0
+Weight:185
+Birth:1920-08-28
+Age:94
+Exp:1
+School:St. John
+OwingTeam:WAT

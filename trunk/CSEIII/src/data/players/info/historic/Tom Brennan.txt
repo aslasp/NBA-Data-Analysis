@@ -1,0 +1,10 @@
+Name:Tom Brennan
+Number:14
+Position:F
+Height:6-3
+Weight:195
+Birth:1930-08-06
+Age:84
+Exp:0
+School:Villanova
+OwingTeam:PHW

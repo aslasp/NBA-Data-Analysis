@@ -1,0 +1,10 @@
+Name:Garfield Heard
+Number:24
+Position:F
+Height:6-6
+Weight:219
+Birth:1948-05-03
+Age:67
+Exp:10
+School:Oklahoma
+OwingTeam:SDC

@@ -1,0 +1,10 @@
+Name:Josh Davis
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-08-10
+Age:34
+Exp:0
+School:Wyoming
+OwingTeam:

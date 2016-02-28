@@ -1,0 +1,10 @@
+Name:Corey Maggette
+Number:50
+Position:F
+Height:6-6
+Weight:225
+Birth:1979-11-12
+Age:35
+Exp:13
+School:Duke
+OwingTeam:DET

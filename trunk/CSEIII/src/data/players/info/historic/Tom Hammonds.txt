@@ -1,0 +1,10 @@
+Name:Tom Hammonds
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-03-27
+Age:48
+Exp:0
+School:Georgia Tech
+OwingTeam:

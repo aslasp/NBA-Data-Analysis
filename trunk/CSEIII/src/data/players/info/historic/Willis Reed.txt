@@ -1,0 +1,10 @@
+Name:Willis Reed
+Number:19
+Position:C
+Height:6-10
+Weight:235
+Birth:1942-06-25
+Age:72
+Exp:9
+School:Grambling
+OwingTeam:NYK

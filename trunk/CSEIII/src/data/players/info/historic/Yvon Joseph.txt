@@ -1,0 +1,10 @@
+Name:Yvon Joseph
+Number:40
+Position:F
+Height:6-11
+Weight:245
+Birth:1957-10-31
+Age:57
+Exp:0
+School:Georgia Tech
+OwingTeam:NJN

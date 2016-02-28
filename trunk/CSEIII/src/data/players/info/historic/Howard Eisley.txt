@@ -1,0 +1,10 @@
+Name:Howard Eisley
+Number:10
+Position:G
+Height:6-2
+Weight:185
+Birth:1972-12-04
+Age:42
+Exp:11
+School:Boston College
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Darrell Griffith
+Number:35
+Position:G
+Height:6-4
+Weight:190
+Birth:1958-06-16
+Age:56
+Exp:9
+School:Louisville
+OwingTeam:UTH

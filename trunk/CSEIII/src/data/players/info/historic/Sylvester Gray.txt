@@ -1,0 +1,10 @@
+Name:Sylvester Gray
+Number:40
+Position:F
+Height:6-6
+Weight:230
+Birth:1967-07-08
+Age:47
+Exp:0
+School:Memphis
+OwingTeam:MIA

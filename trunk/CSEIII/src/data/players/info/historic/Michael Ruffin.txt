@@ -1,0 +1,10 @@
+Name:Michael Ruffin
+Number:51
+Position:F-C
+Height:6-8
+Weight:248
+Birth:1977-01-21
+Age:38
+Exp:8
+School:Tulsa
+OwingTeam:POR

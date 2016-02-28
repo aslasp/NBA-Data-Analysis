@@ -1,0 +1,10 @@
+Name:Tom Stith
+Number:8
+Position:F
+Height:6-5
+Weight:210
+Birth:1939-01-21
+Age:76
+Exp:0
+School:St. Bonaventure
+OwingTeam:NYK

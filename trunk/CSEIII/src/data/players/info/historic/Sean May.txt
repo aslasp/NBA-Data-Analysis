@@ -1,0 +1,10 @@
+Name:Sean May
+Number:42
+Position:C-F
+Height:6-9
+Weight:266
+Birth:1984-04-04
+Age:31
+Exp:3
+School:North Carolina
+OwingTeam:SAC

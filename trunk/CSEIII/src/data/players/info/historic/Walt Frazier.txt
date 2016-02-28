@@ -1,0 +1,10 @@
+Name:Walt Frazier
+Number:11
+Position:G
+Height:6-4
+Weight:200
+Birth:1945-03-29
+Age:70
+Exp:12
+School:Southern Illinois
+OwingTeam:CLE

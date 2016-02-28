@@ -1,0 +1,10 @@
+Name:Joe Dumars
+Number:4
+Position:G
+Height:6-3
+Weight:195
+Birth:1963-05-24
+Age:52
+Exp:13
+School:McNeese State
+OwingTeam:DET

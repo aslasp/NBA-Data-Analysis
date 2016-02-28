@@ -1,0 +1,10 @@
+Name:Michael Hawkins
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-10-28
+Age:42
+Exp:0
+School:Xavier
+OwingTeam:

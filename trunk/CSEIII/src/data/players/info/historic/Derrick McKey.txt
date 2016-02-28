@@ -1,0 +1,10 @@
+Name:Derrick McKey
+Number:9
+Position:F
+Height:6-10
+Weight:241
+Birth:1966-10-10
+Age:48
+Exp:14
+School:Alabama
+OwingTeam:PHI

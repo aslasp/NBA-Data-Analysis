@@ -1,0 +1,10 @@
+Name:Slava Medvedenko
+Number:3
+Position:F
+Height:6-10
+Weight:253
+Birth:1979-04-04
+Age:36
+Exp:6
+School:Ukraine
+OwingTeam:ATL

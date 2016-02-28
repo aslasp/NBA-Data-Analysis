@@ -1,0 +1,10 @@
+Name:Frankie Baumholtz
+Number:
+Position:G
+Height:5-10
+Weight:170
+Birth:1918-10-07
+Age:96
+Exp:0
+School:Ohio
+OwingTeam:CLR

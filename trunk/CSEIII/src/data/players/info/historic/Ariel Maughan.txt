@@ -1,0 +1,10 @@
+Name:Ariel Maughan
+Number:
+Position:F
+Height:6-4
+Weight:190
+Birth:1923-02-23
+Age:92
+Exp:4
+School:Utah State
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Nick Anderson
+Number:5
+Position:F-G
+Height:6-6
+Weight:228
+Birth:1968-01-20
+Age:47
+Exp:13
+School:Illinois
+OwingTeam:CLE

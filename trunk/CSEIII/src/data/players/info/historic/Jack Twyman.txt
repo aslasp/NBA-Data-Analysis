@@ -1,0 +1,10 @@
+Name:Jack Twyman
+Number:27
+Position:F
+Height:6-6
+Weight:210
+Birth:1934-05-11
+Age:81
+Exp:10
+School:Cincinnati
+OwingTeam:CIN

@@ -1,0 +1,10 @@
+Name:Jim Petersen
+Number:43
+Position:F
+Height:6-10
+Weight:235
+Birth:1962-02-22
+Age:53
+Exp:7
+School:Minnesota
+OwingTeam:GOS

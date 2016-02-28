@@ -1,0 +1,10 @@
+Name:Vester Marshall
+Number:45
+Position:F
+Height:6-7
+Weight:200
+Birth:1948-12-22
+Age:66
+Exp:0
+School:Oklahoma
+OwingTeam:SEA

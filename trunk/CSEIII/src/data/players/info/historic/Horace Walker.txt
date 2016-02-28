@@ -1,0 +1,10 @@
+Name:Horace Walker
+Number:15
+Position:F
+Height:6-3
+Weight:210
+Birth:1938-04-17
+Age:77
+Exp:0
+School:Michigan State
+OwingTeam:CHP

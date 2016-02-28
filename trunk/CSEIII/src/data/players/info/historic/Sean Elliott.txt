@@ -1,0 +1,10 @@
+Name:Sean Elliott
+Number:32
+Position:F
+Height:6-8
+Weight:220
+Birth:1968-02-02
+Age:47
+Exp:11
+School:Arizona
+OwingTeam:SAS

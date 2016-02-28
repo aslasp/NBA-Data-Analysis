@@ -1,0 +1,10 @@
+Name:Jelani McCoy
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-12-06
+Age:37
+Exp:0
+School:California-Los Angeles
+OwingTeam:

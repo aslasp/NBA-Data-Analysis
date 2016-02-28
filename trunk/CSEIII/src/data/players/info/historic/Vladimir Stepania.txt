@@ -1,0 +1,10 @@
+Name:Vladimir Stepania
+Number:11
+Position:C
+Height:7-1
+Weight:255
+Birth:1976-05-08
+Age:39
+Exp:5
+School:Slovenia
+OwingTeam:POR

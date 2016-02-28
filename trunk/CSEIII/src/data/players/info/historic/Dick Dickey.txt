@@ -1,0 +1,10 @@
+Name:Dick Dickey
+Number:23
+Position:G
+Height:6-1
+Weight:175
+Birth:1926-10-26
+Age:88
+Exp:0
+School:North Carolina State
+OwingTeam:BOS

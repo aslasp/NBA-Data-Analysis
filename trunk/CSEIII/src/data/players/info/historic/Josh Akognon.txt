@@ -1,0 +1,10 @@
+Name:Josh Akognon
+Number:10
+Position:G
+Height:5-11
+Weight:185
+Birth:1986-02-10
+Age:29
+Exp:0
+School:Cal State-Fullerton
+OwingTeam:DAL

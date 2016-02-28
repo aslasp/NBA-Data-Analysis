@@ -1,0 +1,10 @@
+Name:Mickael Pietrus
+Number:20
+Position:F
+Height:6-6
+Weight:215
+Birth:1982-02-07
+Age:33
+Exp:9
+School:Les Abymes
+OwingTeam:TOR

@@ -1,0 +1,10 @@
+Name:Todd Fuller
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-07-25
+Age:40
+Exp:0
+School:North Carolina State
+OwingTeam:

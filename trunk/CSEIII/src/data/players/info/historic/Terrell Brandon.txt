@@ -1,0 +1,10 @@
+Name:Terrell Brandon
+Number:7
+Position:G
+Height:5-11
+Weight:173
+Birth:1970-05-20
+Age:45
+Exp:11
+School:Oregon
+OwingTeam:MIN

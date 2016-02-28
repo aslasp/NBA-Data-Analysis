@@ -1,0 +1,10 @@
+Name:Elmer Behnke
+Number: 
+Position:C
+Height:6-7
+Weight:210
+Birth:1929-02-03
+Age:86
+Exp:0
+School:Bradley
+OwingTeam:MIH

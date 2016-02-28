@@ -1,0 +1,10 @@
+Name:Jarron Collins
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-12-02
+Age:36
+Exp:0
+School:Stanford
+OwingTeam:

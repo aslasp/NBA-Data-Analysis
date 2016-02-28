@@ -1,0 +1,10 @@
+Name:Bailey Howell
+Number:16
+Position:F
+Height:6-7
+Weight:210
+Birth:1937-01-20
+Age:78
+Exp:11
+School:Mississippi State
+OwingTeam:PHL

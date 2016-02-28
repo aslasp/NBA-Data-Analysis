@@ -1,0 +1,10 @@
+Name:LaSalle Thompson
+Number:
+Position:
+Height:
+Weight:
+Birth:1961-06-23
+Age:53
+Exp:0
+School:Texas
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Tom Abernethy
+Number:5
+Position:F
+Height:6-7
+Weight:220
+Birth:1954-05-06
+Age:61
+Exp:4
+School:Indiana
+OwingTeam:IND

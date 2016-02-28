@@ -1,0 +1,10 @@
+Name:Jared Reiner
+Number:55
+Position:C
+Height:6-11
+Weight:255
+Birth:1982-04-08
+Age:33
+Exp:1
+School:Iowa
+OwingTeam:MIL

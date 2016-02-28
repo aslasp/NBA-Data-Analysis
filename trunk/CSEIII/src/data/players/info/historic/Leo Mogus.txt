@@ -1,0 +1,10 @@
+Name:Leo Mogus
+Number:18
+Position:F
+Height:6-4
+Weight:190
+Birth:1921-04-13
+Age:94
+Exp:3
+School:Youngstown State
+OwingTeam:PHW

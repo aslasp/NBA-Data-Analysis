@@ -1,0 +1,10 @@
+Name:Dave Zeller
+Number:18
+Position:G
+Height:6-1
+Weight:175
+Birth:1939-06-08
+Age:75
+Exp:0
+School:Miami 
+OwingTeam:CIN

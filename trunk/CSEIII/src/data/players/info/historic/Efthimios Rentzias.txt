@@ -1,0 +1,10 @@
+Name:Efthimios Rentzias
+Number:14
+Position:C
+Height:6-11
+Weight:250
+Birth:1976-01-11
+Age:39
+Exp:0
+School:PAOK 
+OwingTeam:PHI

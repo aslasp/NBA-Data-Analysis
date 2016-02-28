@@ -1,0 +1,10 @@
+Name:Jerry Eaves
+Number:22
+Position:G
+Height:6-4
+Weight:180
+Birth:1959-02-08
+Age:56
+Exp:3
+School:Louisville
+OwingTeam:SAC

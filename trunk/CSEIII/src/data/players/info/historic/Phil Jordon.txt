@@ -1,0 +1,10 @@
+Name:Phil Jordon
+Number:29
+Position:C
+Height:6-10
+Weight:205
+Birth:1933-09-12
+Age:81
+Exp:6
+School:Whitworth
+OwingTeam:STL

@@ -1,0 +1,10 @@
+Name:Joel Kramer
+Number:50
+Position:F
+Height:6-7
+Weight:203
+Birth:1955-11-30
+Age:59
+Exp:4
+School:San Diego State
+OwingTeam:PHX

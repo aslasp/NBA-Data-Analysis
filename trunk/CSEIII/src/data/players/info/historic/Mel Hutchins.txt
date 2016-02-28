@@ -1,0 +1,10 @@
+Name:Mel Hutchins
+Number:10
+Position:F
+Height:6-6
+Weight:200
+Birth:1928-11-22
+Age:86
+Exp:6
+School:Brigham Young
+OwingTeam:NYK

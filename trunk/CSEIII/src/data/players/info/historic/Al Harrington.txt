@@ -1,0 +1,10 @@
+Name:Al Harrington
+Number:7
+Position:F
+Height:6-9
+Weight:245
+Birth:1980-02-17
+Age:35
+Exp:15
+School:St. Patrick
+OwingTeam:WAS

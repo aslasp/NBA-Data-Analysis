@@ -1,0 +1,10 @@
+Name:Ernest Brown
+Number:52
+Position:C
+Height:7-0
+Weight:244
+Birth:1979-05-17
+Age:36
+Exp:1
+School:Indian Hills Community College
+OwingTeam:BOS

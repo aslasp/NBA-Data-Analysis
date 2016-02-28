@@ -1,0 +1,10 @@
+Name:Travis Knight
+Number:44
+Position:C
+Height:7-0
+Weight:235
+Birth:1974-09-13
+Age:40
+Exp:6
+School:Connecticut
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Marcus Haislip
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-12-22
+Age:34
+Exp:0
+School:Tennessee
+OwingTeam:

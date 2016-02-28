@@ -1,0 +1,10 @@
+Name:Tony Bennett
+Number:25
+Position:G
+Height:6-0
+Weight:175
+Birth:1969-06-01
+Age:45
+Exp:2
+School:Green Bay
+OwingTeam:CHH

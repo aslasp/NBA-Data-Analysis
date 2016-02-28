@@ -1,0 +1,10 @@
+Name:Devin Ebanks
+Number:3
+Position:F
+Height:6-9
+Weight:215
+Birth:1989-10-28
+Age:25
+Exp:2
+School:West Virginia
+OwingTeam:LAL

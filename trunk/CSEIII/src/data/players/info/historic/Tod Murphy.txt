@@ -1,0 +1,10 @@
+Name:Tod Murphy
+Number:41
+Position:C
+Height:6-9
+Weight:220
+Birth:1963-12-24
+Age:51
+Exp:4
+School:California-Irvine
+OwingTeam:GOS

@@ -1,0 +1,10 @@
+Name:Bob Gantt
+Number:
+Position:F
+Height:6-4
+Weight:205
+Birth:1922-06-22
+Age:92
+Exp:0
+School:Duke
+OwingTeam:WAS

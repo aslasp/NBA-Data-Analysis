@@ -1,0 +1,10 @@
+Name:Nathan Jawai
+Number:15
+Position:F
+Height:6-10
+Weight:280
+Birth:1986-10-10
+Age:28
+Exp:1
+School:Midland
+OwingTeam:MIN

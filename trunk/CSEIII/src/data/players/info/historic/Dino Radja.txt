@@ -1,0 +1,10 @@
+Name:Dino Radja
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-04-24
+Age:48
+Exp:0
+School:Croatia
+OwingTeam:

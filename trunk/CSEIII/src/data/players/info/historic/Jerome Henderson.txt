@@ -1,0 +1,10 @@
+Name:Jerome Henderson
+Number:40
+Position:F
+Height:6-11
+Weight:230
+Birth:1959-10-05
+Age:55
+Exp:1
+School:New Mexico
+OwingTeam:MIL

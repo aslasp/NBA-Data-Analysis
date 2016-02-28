@@ -1,0 +1,10 @@
+Name:Steve Green
+Number:24
+Position:F
+Height:6-7
+Weight:220
+Birth:1953-10-04
+Age:61
+Exp:2
+School:Indiana
+OwingTeam:IND

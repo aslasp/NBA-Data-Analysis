@@ -1,0 +1,10 @@
+Name:Jerry Baskerville
+Number:44
+Position:F
+Height:6-7
+Weight:190
+Birth:1951-11-10
+Age:63
+Exp:0
+School:Temple
+OwingTeam:PHL

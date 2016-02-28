@@ -1,0 +1,10 @@
+Name:Bob Brown
+Number:
+Position:F
+Height:6-4
+Weight:205
+Birth:1923-11-12
+Age:91
+Exp:1
+School:Miami 
+OwingTeam:

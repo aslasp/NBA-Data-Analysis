@@ -1,0 +1,10 @@
+Name:Troy Hudson
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-03-13
+Age:39
+Exp:0
+School:Southern Illinois
+OwingTeam:

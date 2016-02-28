@@ -1,0 +1,10 @@
+Name:Marvin Webster
+Number:40
+Position:C
+Height:7-1
+Weight:225
+Birth:1952-04-13
+Age:63
+Exp:8
+School:Morgan State
+OwingTeam:MIL

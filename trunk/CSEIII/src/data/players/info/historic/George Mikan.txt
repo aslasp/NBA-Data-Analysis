@@ -1,0 +1,10 @@
+Name:George Mikan
+Number:99
+Position:C
+Height:6-10
+Weight:245
+Birth:1924-06-18
+Age:90
+Exp:6
+School:DePaul
+OwingTeam:MNL

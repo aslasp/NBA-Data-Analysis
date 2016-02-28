@@ -1,0 +1,10 @@
+Name:John McConathy
+Number:15
+Position:F
+Height:6-5
+Weight:195
+Birth:1930-04-09
+Age:85
+Exp:0
+School:Northwestern State
+OwingTeam:MIH

@@ -1,0 +1,10 @@
+Name:Ed Bartels
+Number:
+Position:F
+Height:6-6
+Weight:195
+Birth:1925-10-08
+Age:89
+Exp:1
+School:North Carolina State
+OwingTeam:WAS

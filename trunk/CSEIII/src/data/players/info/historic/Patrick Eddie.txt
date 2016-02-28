@@ -1,0 +1,10 @@
+Name:Patrick Eddie
+Number:41
+Position:C
+Height:6-11
+Weight:240
+Birth:1967-12-27
+Age:47
+Exp:0
+School:Mississippi
+OwingTeam:NYK

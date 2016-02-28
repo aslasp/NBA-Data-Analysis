@@ -1,0 +1,10 @@
+Name:Jamaal Wilkes
+Number:52
+Position:F
+Height:6-6
+Weight:190
+Birth:1953-05-02
+Age:62
+Exp:11
+School:California-Los Angeles
+OwingTeam:LAC

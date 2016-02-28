@@ -1,0 +1,10 @@
+Name:John Chaney
+Number:
+Position:F
+Height:6-3
+Weight:185
+Birth:1920-02-29
+Age:95
+Exp:0
+School:Louisiana State
+OwingTeam:SHE

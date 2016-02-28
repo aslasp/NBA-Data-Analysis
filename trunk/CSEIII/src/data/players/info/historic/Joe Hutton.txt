@@ -1,0 +1,10 @@
+Name:Joe Hutton
+Number:4-15
+Position:G
+Height:6-1
+Weight:170
+Birth:1928-10-06
+Age:86
+Exp:1
+School:Hamline
+OwingTeam:MNL

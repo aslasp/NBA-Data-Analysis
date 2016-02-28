@@ -1,0 +1,10 @@
+Name:Stacey Augmon
+Number:2
+Position:F-G
+Height:6-8
+Weight:213
+Birth:1968-08-01
+Age:46
+Exp:14
+School:Nevada-Las Vegas
+OwingTeam:ORL

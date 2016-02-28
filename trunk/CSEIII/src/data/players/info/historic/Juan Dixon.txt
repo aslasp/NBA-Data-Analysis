@@ -1,0 +1,10 @@
+Name:Juan Dixon
+Number:12
+Position:G
+Height:6-3
+Weight:165
+Birth:1978-10-09
+Age:36
+Exp:6
+School:Maryland
+OwingTeam:WAS

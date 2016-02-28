@@ -1,0 +1,10 @@
+Name:Carey Scurry
+Number:20
+Position:F
+Height:6-7
+Weight:188
+Birth:1962-12-04
+Age:52
+Exp:2
+School:Long Island-Brooklyn
+OwingTeam:NYK

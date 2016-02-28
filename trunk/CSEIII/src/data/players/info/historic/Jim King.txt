@@ -1,0 +1,10 @@
+Name:Jim King
+Number:21
+Position:G
+Height:6-2
+Weight:175
+Birth:1941-02-07
+Age:74
+Exp:9
+School:Tulsa
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Bracey Wright
+Number:6
+Position:G
+Height:6-3
+Weight:201
+Birth:1984-07-01
+Age:30
+Exp:1
+School:Indiana
+OwingTeam:MIN

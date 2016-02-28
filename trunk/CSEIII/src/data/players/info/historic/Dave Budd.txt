@@ -1,0 +1,10 @@
+Name:Dave Budd
+Number:10
+Position:F
+Height:6-6
+Weight:205
+Birth:1938-10-28
+Age:76
+Exp:4
+School:Wake Forest
+OwingTeam:NYK

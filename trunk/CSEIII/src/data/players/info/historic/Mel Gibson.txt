@@ -1,0 +1,10 @@
+Name:Mel Gibson
+Number:15
+Position:G
+Height:6-3
+Weight:180
+Birth:1940-12-30
+Age:74
+Exp:0
+School:Western Carolina
+OwingTeam:LAL

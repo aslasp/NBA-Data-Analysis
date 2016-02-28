@@ -1,0 +1,10 @@
+Name:Wally Anderzunas
+Number:21
+Position:C
+Height:6-7
+Weight:220
+Birth:1946-01-11
+Age:69
+Exp:0
+School:Creighton
+OwingTeam:CIN

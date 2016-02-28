@@ -1,0 +1,10 @@
+Name:Eric Leckner
+Number:55
+Position:C
+Height:6-11
+Weight:265
+Birth:1966-05-27
+Age:49
+Exp:7
+School:Wyoming
+OwingTeam:VAN

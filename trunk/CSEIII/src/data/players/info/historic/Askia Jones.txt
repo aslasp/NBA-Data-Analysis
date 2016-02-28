@@ -1,0 +1,10 @@
+Name:Askia Jones
+Number:2
+Position:F
+Height:6-5
+Weight:200
+Birth:1971-12-03
+Age:43
+Exp:0
+School:Kansas State
+OwingTeam:MIN

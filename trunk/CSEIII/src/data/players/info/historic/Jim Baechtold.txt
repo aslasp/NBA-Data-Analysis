@@ -1,0 +1,10 @@
+Name:Jim Baechtold
+Number:10
+Position:F
+Height:6-4
+Weight:205
+Birth:1927-12-09
+Age:87
+Exp:4
+School:Eastern Kentucky
+OwingTeam:NYK

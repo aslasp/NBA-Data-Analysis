@@ -1,0 +1,10 @@
+Name:Devean George
+Number:19
+Position:F
+Height:6-8
+Weight:235
+Birth:1977-08-29
+Age:37
+Exp:10
+School:Augsburg
+OwingTeam:GSW

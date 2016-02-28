@@ -1,0 +1,10 @@
+Name:Don Barksdale
+Number:17
+Position:F
+Height:6-6
+Weight:200
+Birth:1923-03-31
+Age:92
+Exp:3
+School:California-Los Angeles
+OwingTeam:BOS

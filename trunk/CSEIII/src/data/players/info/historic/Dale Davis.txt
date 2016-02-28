@@ -1,0 +1,10 @@
+Name:Dale Davis
+Number:34
+Position:C-F
+Height:6-11
+Weight:252
+Birth:1969-03-25
+Age:46
+Exp:15
+School:Clemson
+OwingTeam:DET

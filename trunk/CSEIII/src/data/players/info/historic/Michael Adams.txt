@@ -1,0 +1,10 @@
+Name:Michael Adams
+Number:23
+Position:G
+Height:5-10
+Weight:165
+Birth:1963-01-19
+Age:52
+Exp:10
+School:Boston College
+OwingTeam:CHH

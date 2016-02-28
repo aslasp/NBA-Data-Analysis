@@ -1,0 +1,10 @@
+Name:Mark Baker
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-11-11
+Age:45
+Exp:0
+School:Ohio State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Joel Przybilla
+Number:10
+Position:C
+Height:7-1
+Weight:245
+Birth:1979-10-10
+Age:35
+Exp:12
+School:Minnesota
+OwingTeam:MIL

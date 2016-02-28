@@ -1,0 +1,10 @@
+Name:Norm Nixon
+Number:10
+Position:G
+Height:6-2
+Weight:170
+Birth:1955-10-11
+Age:59
+Exp:9
+School:Duquesne
+OwingTeam:LAC

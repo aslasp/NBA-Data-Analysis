@@ -1,0 +1,10 @@
+Name:Mel Bennett
+Number:52
+Position:F
+Height:6-7
+Weight:200
+Birth:1955-01-04
+Age:60
+Exp:3
+School:Pittsburgh
+OwingTeam:CLE

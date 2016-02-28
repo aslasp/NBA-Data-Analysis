@@ -1,0 +1,10 @@
+Name:Kevin Gamble
+Number:
+Position:
+Height:
+Weight:
+Birth:1965-11-13
+Age:49
+Exp:0
+School:Iowa
+OwingTeam:

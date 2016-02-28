@@ -1,0 +1,10 @@
+Name:Jermareo Davidson
+Number:33
+Position:F
+Height:6-10
+Weight:230
+Birth:1984-11-17
+Age:30
+Exp:1
+School:Alabama
+OwingTeam:GSW

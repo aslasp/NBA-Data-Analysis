@@ -1,0 +1,10 @@
+Name:Ricky Blanton
+Number:17
+Position:F
+Height:6-7
+Weight:215
+Birth:1966-04-21
+Age:49
+Exp:0
+School:Louisiana State
+OwingTeam:CHI

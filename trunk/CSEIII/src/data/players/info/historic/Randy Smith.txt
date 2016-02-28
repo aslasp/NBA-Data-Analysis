@@ -1,0 +1,10 @@
+Name:Randy Smith
+Number:7
+Position:G
+Height:6-3
+Weight:180
+Birth:1948-12-12
+Age:66
+Exp:11
+School:Buffalo
+OwingTeam:ATL

@@ -1,0 +1,10 @@
+Name:Bill Turner
+Number:34
+Position:F
+Height:6-7
+Weight:220
+Birth:1944-02-18
+Age:71
+Exp:5
+School:Akron
+OwingTeam:POR

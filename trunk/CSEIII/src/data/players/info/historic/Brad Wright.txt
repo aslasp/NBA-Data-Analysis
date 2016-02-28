@@ -1,0 +1,10 @@
+Name:Brad Wright
+Number:35
+Position:F
+Height:6-11
+Weight:225
+Birth:1962-03-26
+Age:53
+Exp:1
+School:California-Los Angeles
+OwingTeam:DEN

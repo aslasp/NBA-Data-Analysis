@@ -1,0 +1,10 @@
+Name:Jack Parr
+Number:16
+Position:C
+Height:6-9
+Weight:220
+Birth:1936-03-13
+Age:79
+Exp:0
+School:Kansas State
+OwingTeam:CIN

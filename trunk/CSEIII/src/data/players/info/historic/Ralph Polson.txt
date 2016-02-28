@@ -1,0 +1,10 @@
+Name:Ralph Polson
+Number:15
+Position:F
+Height:6-7
+Weight:200
+Birth:1929-10-26
+Age:85
+Exp:0
+School:Whitworth
+OwingTeam:PHW

@@ -1,0 +1,10 @@
+Name:Alando Tucker
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-02-11
+Age:31
+Exp:0
+School:Wisconsin
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Patrick O'Bryant
+Number:13
+Position:C
+Height:7-0
+Weight:250
+Birth:1986-06-20
+Age:28
+Exp:3
+School:Bradley
+OwingTeam:TOR

@@ -1,0 +1,10 @@
+Name:Togo Palazzi
+Number:17
+Position:F
+Height:6-4
+Weight:205
+Birth:1932-08-08
+Age:82
+Exp:5
+School:Holy Cross
+OwingTeam:SYR

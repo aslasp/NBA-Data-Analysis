@@ -1,0 +1,10 @@
+Name:Jack Eskridge
+Number:
+Position:C
+Height:6-5
+Weight:200
+Birth:1924-01-21
+Age:91
+Exp:0
+School:Kansas
+OwingTeam:JET

@@ -1,0 +1,10 @@
+Name:Gary Melchionni
+Number:25
+Position:G
+Height:6-2
+Weight:185
+Birth:1951-01-19
+Age:64
+Exp:1
+School:Duke
+OwingTeam:PHX

@@ -1,0 +1,10 @@
+Name:Sidney Moncrief
+Number:15
+Position:G
+Height:6-4
+Weight:180
+Birth:1957-09-21
+Age:57
+Exp:10
+School:Arkansas
+OwingTeam:ATL

@@ -1,0 +1,10 @@
+Name:Jay Edwards
+Number:3
+Position:F
+Height:6-4
+Weight:185
+Birth:1969-01-03
+Age:46
+Exp:0
+School:Indiana
+OwingTeam:LAC

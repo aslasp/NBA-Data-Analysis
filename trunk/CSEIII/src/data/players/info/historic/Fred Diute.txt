@@ -1,0 +1,10 @@
+Name:Fred Diute
+Number:4
+Position:G
+Height:6-3
+Weight:210
+Birth:1929-01-09
+Age:86
+Exp:0
+School:St. Bonaventure
+OwingTeam:MIH

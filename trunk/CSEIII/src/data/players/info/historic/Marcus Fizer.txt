@@ -1,0 +1,10 @@
+Name:Marcus Fizer
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-08-10
+Age:36
+Exp:0
+School:Iowa State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Jermaine Taylor
+Number:
+Position:
+Height:
+Weight:
+Birth:1986-12-08
+Age:28
+Exp:0
+School:Central Florida
+OwingTeam:

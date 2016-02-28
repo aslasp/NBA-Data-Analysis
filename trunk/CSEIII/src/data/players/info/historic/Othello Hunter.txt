@@ -1,0 +1,10 @@
+Name:Othello Hunter
+Number:
+Position:
+Height:
+Weight:
+Birth:1986-05-28
+Age:29
+Exp:0
+School:Ohio State
+OwingTeam:

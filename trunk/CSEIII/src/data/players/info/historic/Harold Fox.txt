@@ -1,0 +1,10 @@
+Name:Harold Fox
+Number:7
+Position:G
+Height:6-2
+Weight:175
+Birth:1949-08-29
+Age:65
+Exp:0
+School:Jacksonville
+OwingTeam:BUF

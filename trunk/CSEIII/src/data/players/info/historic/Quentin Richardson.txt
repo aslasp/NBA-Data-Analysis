@@ -1,0 +1,10 @@
+Name:Quentin Richardson
+Number:55
+Position:F
+Height:6-6
+Weight:228
+Birth:1980-04-13
+Age:35
+Exp:12
+School:DePaul
+OwingTeam:NYK

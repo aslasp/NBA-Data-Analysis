@@ -1,0 +1,10 @@
+Name:Ron Horn
+Number:24
+Position:F
+Height:6-7
+Weight:220
+Birth:1938-05-24
+Age:77
+Exp:1
+School:Indiana
+OwingTeam:LAL

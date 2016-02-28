@@ -1,0 +1,10 @@
+Name:Dennis Johnson
+Number:3
+Position:G
+Height:6-4
+Weight:185
+Birth:1954-09-18
+Age:60
+Exp:13
+School:Pepperdine
+OwingTeam:BOS

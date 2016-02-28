@@ -1,0 +1,10 @@
+Name:Ben Clyde
+Number:33
+Position:F
+Height:6-7
+Weight:198
+Birth:1951-06-10
+Age:63
+Exp:0
+School:Florida State
+OwingTeam:BOS

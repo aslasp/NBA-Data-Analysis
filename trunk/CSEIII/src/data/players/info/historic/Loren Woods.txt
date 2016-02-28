@@ -1,0 +1,10 @@
+Name:Loren Woods
+Number:33
+Position:C
+Height:7-2
+Weight:260
+Birth:1978-06-21
+Age:36
+Exp:5
+School:Arizona
+OwingTeam:HOU

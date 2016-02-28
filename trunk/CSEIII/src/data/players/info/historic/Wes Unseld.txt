@@ -1,0 +1,10 @@
+Name:Wes Unseld
+Number:41
+Position:C
+Height:6-7
+Weight:245
+Birth:1946-03-14
+Age:69
+Exp:12
+School:Louisville
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Pat Dunn
+Number:19
+Position:G
+Height:6-2
+Weight:170
+Birth:1931-03-17
+Age:84
+Exp:0
+School:Utah State
+OwingTeam:PHW

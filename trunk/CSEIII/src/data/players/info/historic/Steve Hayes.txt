@@ -1,0 +1,10 @@
+Name:Steve Hayes
+Number:50
+Position:C
+Height:7-0
+Weight:205
+Birth:1955-08-02
+Age:59
+Exp:4
+School:Idaho State
+OwingTeam:UTH

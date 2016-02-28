@@ -1,0 +1,10 @@
+Name:Stan Washington
+Number:20
+Position:G
+Height:6-4
+Weight:190
+Birth:1952-01-23
+Age:63
+Exp:0
+School:San Diego
+OwingTeam:WAS

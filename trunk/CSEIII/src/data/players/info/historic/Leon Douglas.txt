@@ -1,0 +1,10 @@
+Name:Leon Douglas
+Number:13
+Position:C
+Height:6-10
+Weight:230
+Birth:1954-08-26
+Age:60
+Exp:6
+School:Alabama
+OwingTeam:KCK

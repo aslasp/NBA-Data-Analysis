@@ -1,0 +1,10 @@
+Name:Howie Carl
+Number:10
+Position:G
+Height:5-9
+Weight:160
+Birth:1938-06-07
+Age:76
+Exp:0
+School:DePaul
+OwingTeam:CHP

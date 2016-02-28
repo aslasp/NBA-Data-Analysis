@@ -1,0 +1,10 @@
+Name:Sergei Bazarevich
+Number:5
+Position:G
+Height:6-2
+Weight:168
+Birth:1965-03-15
+Age:50
+Exp:0
+School:
+OwingTeam:ATL

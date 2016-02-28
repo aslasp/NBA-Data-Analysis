@@ -1,0 +1,10 @@
+Name:Doug Kistler
+Number:5
+Position:F
+Height:6-9
+Weight:210
+Birth:1938-03-21
+Age:77
+Exp:0
+School:Duke
+OwingTeam:NYK

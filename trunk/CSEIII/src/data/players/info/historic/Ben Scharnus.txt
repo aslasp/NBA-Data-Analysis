@@ -1,0 +1,10 @@
+Name:Ben Scharnus
+Number:
+Position:F
+Height:6-2
+Weight:173
+Birth:1917-12-11
+Age:97
+Exp:1
+School:Seton Hall
+OwingTeam:PRO

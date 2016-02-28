@@ -1,0 +1,10 @@
+Name:Rock Lee
+Number:34
+Position:C
+Height:6-10
+Weight:220
+Birth:1955-05-01
+Age:60
+Exp:0
+School:San Diego State
+OwingTeam:SDC

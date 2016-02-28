@@ -1,0 +1,10 @@
+Name:Olden Polynice
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-11-21
+Age:50
+Exp:0
+School:Virginia
+OwingTeam:

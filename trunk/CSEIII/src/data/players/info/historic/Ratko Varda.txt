@@ -1,0 +1,10 @@
+Name:Ratko Varda
+Number:50
+Position:C
+Height:7-1
+Weight:265
+Birth:1979-05-06
+Age:36
+Exp:1
+School:Yugoslavia
+OwingTeam:WAS

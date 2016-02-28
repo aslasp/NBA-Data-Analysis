@@ -1,0 +1,10 @@
+Name:Dontell Jefferson
+Number:2
+Position:G
+Height:6-5
+Weight:195
+Birth:1983-12-15
+Age:31
+Exp:0
+School:Arkansas
+OwingTeam:CHA

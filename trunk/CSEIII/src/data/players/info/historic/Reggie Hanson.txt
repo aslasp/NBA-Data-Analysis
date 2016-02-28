@@ -1,0 +1,10 @@
+Name:Reggie Hanson
+Number:34
+Position:F
+Height:6-8
+Weight:195
+Birth:1968-10-08
+Age:46
+Exp:0
+School:Kentucky
+OwingTeam:BOS

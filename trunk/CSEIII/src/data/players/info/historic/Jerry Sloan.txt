@@ -1,0 +1,10 @@
+Name:Jerry Sloan
+Number:4
+Position:G
+Height:6-5
+Weight:195
+Birth:1942-03-28
+Age:73
+Exp:10
+School:Evansville
+OwingTeam:CHI

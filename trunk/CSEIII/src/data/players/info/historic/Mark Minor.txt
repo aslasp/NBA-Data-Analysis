@@ -1,0 +1,10 @@
+Name:Mark Minor
+Number:20
+Position:F
+Height:6-6
+Weight:215
+Birth:1950-05-14
+Age:65
+Exp:0
+School:Ohio State
+OwingTeam:BOS

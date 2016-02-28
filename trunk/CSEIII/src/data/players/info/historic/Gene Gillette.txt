@@ -1,0 +1,10 @@
+Name:Gene Gillette
+Number:
+Position:
+Height:
+Weight:
+Birth:1905-04-04
+Age:110
+Exp:0
+School:Saint Mary
+OwingTeam:WAS

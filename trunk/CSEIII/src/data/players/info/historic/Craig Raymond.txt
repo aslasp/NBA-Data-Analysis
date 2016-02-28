@@ -1,0 +1,10 @@
+Name:Craig Raymond
+Number:20
+Position:C
+Height:6-11
+Weight:235
+Birth:1945-04-05
+Age:70
+Exp:0
+School:Brigham Young
+OwingTeam:PHL

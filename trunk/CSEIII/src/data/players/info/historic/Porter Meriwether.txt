@@ -1,0 +1,10 @@
+Name:Porter Meriwether
+Number:14
+Position:G
+Height:6-2
+Weight:180
+Birth:1940-03-16
+Age:75
+Exp:0
+School:Tennessee State
+OwingTeam:SYR

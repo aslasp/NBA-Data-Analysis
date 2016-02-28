@@ -1,0 +1,10 @@
+Name:Jeff Martin
+Number:15
+Position:G
+Height:6-5
+Weight:195
+Birth:1967-01-14
+Age:48
+Exp:1
+School:Murray State
+OwingTeam:LAC

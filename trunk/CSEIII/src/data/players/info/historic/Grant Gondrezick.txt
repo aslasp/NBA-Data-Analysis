@@ -1,0 +1,10 @@
+Name:Grant Gondrezick
+Number:3
+Position:G
+Height:6-5
+Weight:205
+Birth:1963-01-19
+Age:52
+Exp:1
+School:Pepperdine
+OwingTeam:LAC

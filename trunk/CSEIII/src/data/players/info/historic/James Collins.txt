@@ -1,0 +1,10 @@
+Name:James Collins
+Number:32
+Position:G
+Height:6-4
+Weight:196
+Birth:1973-11-05
+Age:41
+Exp:0
+School:Florida State
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Maurice Stokes
+Number:12
+Position:F
+Height:6-7
+Weight:232
+Birth:1933-06-17
+Age:81
+Exp:2
+School:Saint Francis 
+OwingTeam:CIN

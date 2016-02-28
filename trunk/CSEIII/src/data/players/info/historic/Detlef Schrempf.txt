@@ -1,0 +1,10 @@
+Name:Detlef Schrempf
+Number:12
+Position:F
+Height:6-10
+Weight:235
+Birth:1963-01-21
+Age:52
+Exp:15
+School:Washington
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Rick Weitzman
+Number:26
+Position:G
+Height:6-2
+Weight:175
+Birth:1946-04-30
+Age:69
+Exp:0
+School:Northeastern
+OwingTeam:BOS

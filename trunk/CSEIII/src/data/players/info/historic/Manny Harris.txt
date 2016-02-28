@@ -1,0 +1,10 @@
+Name:Manny Harris
+Number:
+Position:
+Height:
+Weight:
+Birth:1989-09-21
+Age:25
+Exp:0
+School:Michigan
+OwingTeam:

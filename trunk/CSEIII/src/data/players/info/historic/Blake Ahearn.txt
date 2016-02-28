@@ -1,0 +1,10 @@
+Name:Blake Ahearn
+Number:2
+Position:G
+Height:6-2
+Weight:190
+Birth:1984-05-27
+Age:31
+Exp:2
+School:Missouri State
+OwingTeam:UTA

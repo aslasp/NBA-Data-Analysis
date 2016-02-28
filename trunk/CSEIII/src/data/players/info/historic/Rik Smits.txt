@@ -1,0 +1,10 @@
+Name:Rik Smits
+Number:45
+Position:C
+Height:7-4
+Weight:265
+Birth:1966-08-23
+Age:48
+Exp:11
+School:Marist
+OwingTeam:IND

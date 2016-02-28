@@ -1,0 +1,10 @@
+Name:Tom Ingelsby
+Number:24
+Position:G
+Height:6-3
+Weight:180
+Birth:1951-02-12
+Age:64
+Exp:0
+School:Villanova
+OwingTeam:ATL

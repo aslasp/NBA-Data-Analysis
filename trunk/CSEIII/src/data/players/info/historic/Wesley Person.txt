@@ -1,0 +1,10 @@
+Name:Wesley Person
+Number:10
+Position:G-F
+Height:6-6
+Weight:200
+Birth:1971-03-28
+Age:44
+Exp:10
+School:Auburn
+OwingTeam:DEN

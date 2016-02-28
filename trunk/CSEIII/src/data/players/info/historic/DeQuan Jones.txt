@@ -1,0 +1,10 @@
+Name:DeQuan Jones
+Number:20
+Position:F
+Height:6-8
+Weight:221
+Birth:1990-06-20
+Age:24
+Exp:0
+School:Miami 
+OwingTeam:ORL

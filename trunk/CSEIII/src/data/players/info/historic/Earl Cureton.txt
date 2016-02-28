@@ -1,0 +1,10 @@
+Name:Earl Cureton
+Number:
+Position:
+Height:
+Weight:
+Birth:1957-09-03
+Age:57
+Exp:0
+School:Detroit Mercy
+OwingTeam:

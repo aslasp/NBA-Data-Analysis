@@ -1,0 +1,10 @@
+Name:Carl Kilpatrick
+Number:51
+Position:C
+Height:6-10
+Weight:230
+Birth:1956-05-16
+Age:59
+Exp:0
+School:Louisiana-Monroe
+OwingTeam:UTH

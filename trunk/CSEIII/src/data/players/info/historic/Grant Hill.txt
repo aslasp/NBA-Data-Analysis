@@ -1,0 +1,10 @@
+Name:Grant Hill
+Number:33
+Position:F
+Height:6-8
+Weight:225
+Birth:1972-10-05
+Age:42
+Exp:17
+School:Duke
+OwingTeam:LAC

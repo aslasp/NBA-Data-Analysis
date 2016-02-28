@@ -1,0 +1,10 @@
+Name:Harry Davis
+Number:23
+Position:F
+Height:6-7
+Weight:220
+Birth:1956-01-27
+Age:59
+Exp:1
+School:Florida State
+OwingTeam:SAN

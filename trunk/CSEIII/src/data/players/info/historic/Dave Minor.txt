@@ -1,0 +1,10 @@
+Name:Dave Minor
+Number:8
+Position:G
+Height:6-2
+Weight:185
+Birth:1922-02-23
+Age:93
+Exp:1
+School:California-Los Angeles
+OwingTeam:MIH

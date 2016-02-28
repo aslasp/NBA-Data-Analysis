@@ -1,0 +1,10 @@
+Name:Victor Alexander
+Number:9
+Position:F
+Height:6-10
+Weight:265
+Birth:1969-08-31
+Age:45
+Exp:4
+School:Iowa State
+OwingTeam:DET

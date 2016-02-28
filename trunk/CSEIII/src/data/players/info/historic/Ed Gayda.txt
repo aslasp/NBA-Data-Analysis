@@ -1,0 +1,10 @@
+Name:Ed Gayda
+Number:10
+Position:G
+Height:6-4
+Weight:210
+Birth:1927-05-11
+Age:88
+Exp:0
+School:Washington State
+OwingTeam:TCB

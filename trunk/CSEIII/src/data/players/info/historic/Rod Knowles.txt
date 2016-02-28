@@ -1,0 +1,10 @@
+Name:Rod Knowles
+Number:23
+Position:C
+Height:6-9
+Weight:215
+Birth:1946-02-27
+Age:69
+Exp:0
+School:Davidson
+OwingTeam:PHX

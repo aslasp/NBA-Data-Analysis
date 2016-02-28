@@ -1,0 +1,10 @@
+Name:John Celestand
+Number:20
+Position:G
+Height:6-3
+Weight:190
+Birth:1977-03-06
+Age:38
+Exp:1
+School:Villanova
+OwingTeam:NJN

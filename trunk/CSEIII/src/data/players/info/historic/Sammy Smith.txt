@@ -1,0 +1,10 @@
+Name:Sammy Smith
+Number:28
+Position:F
+Height:6-4
+Weight:200
+Birth:1955-01-08
+Age:60
+Exp:1
+School:Nevada-Las Vegas
+OwingTeam:CHI

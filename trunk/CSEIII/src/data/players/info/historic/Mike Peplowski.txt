@@ -1,0 +1,10 @@
+Name:Mike Peplowski
+Number:54
+Position:C
+Height:6-10
+Weight:270
+Birth:1970-10-15
+Age:44
+Exp:2
+School:Michigan State
+OwingTeam:MIL

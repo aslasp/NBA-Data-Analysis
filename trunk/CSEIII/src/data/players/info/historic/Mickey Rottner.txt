@@ -1,0 +1,10 @@
+Name:Mickey Rottner
+Number:
+Position:G
+Height:5-10
+Weight:180
+Birth:1919-03-23
+Age:96
+Exp:1
+School:Loyola-Chicago
+OwingTeam:CHS

@@ -1,0 +1,10 @@
+Name:Leonard Gray
+Number:11
+Position:F
+Height:6-8
+Weight:240
+Birth:1951-12-19
+Age:63
+Exp:2
+School:Long Beach State
+OwingTeam:SEA

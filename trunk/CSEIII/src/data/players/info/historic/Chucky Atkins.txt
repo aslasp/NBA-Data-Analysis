@@ -1,0 +1,10 @@
+Name:Chucky Atkins
+Number:17
+Position:G
+Height:5-11
+Weight:185
+Birth:1974-08-14
+Age:40
+Exp:10
+School:South Florida
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Darnell Mee
+Number:4
+Position:G
+Height:6-5
+Weight:175
+Birth:1971-02-11
+Age:44
+Exp:1
+School:Western Kentucky
+OwingTeam:DEN

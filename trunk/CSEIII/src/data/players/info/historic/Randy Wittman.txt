@@ -1,0 +1,10 @@
+Name:Randy Wittman
+Number:14
+Position:G
+Height:6-6
+Weight:210
+Birth:1959-10-28
+Age:55
+Exp:8
+School:Indiana
+OwingTeam:IND

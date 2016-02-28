@@ -1,0 +1,10 @@
+Name:Ryan Humphrey
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-07-24
+Age:35
+Exp:0
+School:Notre Dame
+OwingTeam:

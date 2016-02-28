@@ -1,0 +1,10 @@
+Name:Jim Caldwell
+Number:23
+Position:C
+Height:6-10
+Weight:240
+Birth:1943-01-28
+Age:72
+Exp:0
+School:Georgia Tech
+OwingTeam:NYK

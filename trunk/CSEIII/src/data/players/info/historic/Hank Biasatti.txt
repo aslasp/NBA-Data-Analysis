@@ -1,0 +1,10 @@
+Name:Hank Biasatti
+Number:
+Position:G
+Height:5-11
+Weight:175
+Birth:1922-01-14
+Age:93
+Exp:0
+School:Long Island-Brooklyn
+OwingTeam:HUS

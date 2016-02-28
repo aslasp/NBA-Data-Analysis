@@ -1,0 +1,10 @@
+Name:Dale Schlueter
+Number:54
+Position:C
+Height:6-10
+Weight:225
+Birth:1945-11-12
+Age:69
+Exp:9
+School:Colorado State
+OwingTeam:POR

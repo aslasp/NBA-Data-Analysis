@@ -1,0 +1,10 @@
+Name:Howard Porter
+Number:54
+Position:F
+Height:6-8
+Weight:220
+Birth:1948-08-31
+Age:66
+Exp:6
+School:Villanova
+OwingTeam:NJN

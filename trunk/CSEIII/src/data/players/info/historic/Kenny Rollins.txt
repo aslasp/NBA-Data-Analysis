@@ -1,0 +1,10 @@
+Name:Kenny Rollins
+Number:4
+Position:G
+Height:6-0
+Weight:168
+Birth:1923-09-14
+Age:91
+Exp:2
+School:Kentucky
+OwingTeam:BOS

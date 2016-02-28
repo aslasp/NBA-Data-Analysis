@@ -1,0 +1,10 @@
+Name:John O'Boyle
+Number:3
+Position:G
+Height:6-2
+Weight:185
+Birth:1928-03-07
+Age:87
+Exp:0
+School:Colorado State
+OwingTeam:MIH

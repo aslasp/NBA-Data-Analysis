@@ -1,0 +1,10 @@
+Name:Brad Lohaus
+Number:54
+Position:F-C
+Height:6-11
+Weight:230
+Birth:1964-09-29
+Age:50
+Exp:8
+School:Iowa
+OwingTeam:SAS

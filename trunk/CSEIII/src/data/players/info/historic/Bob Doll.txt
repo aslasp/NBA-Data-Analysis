@@ -1,0 +1,10 @@
+Name:Bob Doll
+Number:19
+Position:F
+Height:6-4
+Weight:195
+Birth:1919-08-10
+Age:95
+Exp:3
+School:Colorado
+OwingTeam:BOS

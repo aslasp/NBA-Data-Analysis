@@ -1,0 +1,10 @@
+Name:Marcus Vinicius
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-05-31
+Age:31
+Exp:0
+School:Brazil
+OwingTeam:

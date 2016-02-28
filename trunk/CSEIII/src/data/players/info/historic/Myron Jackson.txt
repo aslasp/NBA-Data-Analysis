@@ -1,0 +1,10 @@
+Name:Myron Jackson
+Number:6
+Position:G
+Height:6-3
+Weight:185
+Birth:1964-05-06
+Age:51
+Exp:0
+School:Arkansas-Little Rock
+OwingTeam:DAL

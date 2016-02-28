@@ -1,0 +1,10 @@
+Name:Alec Kessler
+Number:33
+Position:F
+Height:6-11
+Weight:230
+Birth:1967-01-13
+Age:48
+Exp:3
+School:Georgia
+OwingTeam:MIA

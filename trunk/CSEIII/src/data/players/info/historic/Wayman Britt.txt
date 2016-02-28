@@ -1,0 +1,10 @@
+Name:Wayman Britt
+Number:12
+Position:G
+Height:6-2
+Weight:185
+Birth:1952-08-31
+Age:62
+Exp:0
+School:Michigan
+OwingTeam:DET

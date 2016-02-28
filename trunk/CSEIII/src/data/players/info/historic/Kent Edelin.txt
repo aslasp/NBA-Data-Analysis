@@ -1,0 +1,10 @@
+Name:Kent Edelin
+Number:
+Position:F
+Height:6-8
+Weight:205
+Birth:1962-05-24
+Age:53
+Exp:0
+School:Virginia
+OwingTeam:IND

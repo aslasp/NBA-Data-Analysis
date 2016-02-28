@@ -1,0 +1,10 @@
+Name:Thomas Gardner
+Number:3
+Position:G
+Height:6-5
+Weight:225
+Birth:1985-02-08
+Age:30
+Exp:1
+School:Missouri
+OwingTeam:ATL

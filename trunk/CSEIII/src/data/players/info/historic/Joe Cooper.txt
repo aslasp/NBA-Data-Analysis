@@ -1,0 +1,10 @@
+Name:Joe Cooper
+Number:53
+Position:C
+Height:6-10
+Weight:230
+Birth:1957-09-01
+Age:57
+Exp:2
+School:Colorado
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Chuck Gilmur
+Number:
+Position:F
+Height:6-4
+Weight:225
+Birth:1922-08-13
+Age:92
+Exp:4
+School:Washington
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Aaron Swinson
+Number:4
+Position:F
+Height:6-5
+Weight:230
+Birth:1970-12-21
+Age:44
+Exp:0
+School:Auburn
+OwingTeam:PHX

@@ -1,0 +1,10 @@
+Name:Ron Davis
+Number:42
+Position:G
+Height:6-6
+Weight:198
+Birth:1954-05-01
+Age:61
+Exp:2
+School:Washington State
+OwingTeam:SDC

@@ -1,0 +1,10 @@
+Name:Luke Schenscher
+Number:24
+Position:C
+Height:7-1
+Weight:265
+Birth:1981-12-31
+Age:33
+Exp:1
+School:Georgia Tech
+OwingTeam:POR

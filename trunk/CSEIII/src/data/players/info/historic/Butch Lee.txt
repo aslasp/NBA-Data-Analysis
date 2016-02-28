@@ -1,0 +1,10 @@
+Name:Butch Lee
+Number:15
+Position:G
+Height:6-0
+Weight:185
+Birth:1956-12-05
+Age:58
+Exp:1
+School:Marquette
+OwingTeam:CLE

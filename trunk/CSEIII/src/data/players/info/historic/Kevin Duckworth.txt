@@ -1,0 +1,10 @@
+Name:Kevin Duckworth
+Number:00
+Position:C
+Height:7-0
+Weight:300
+Birth:1964-04-01
+Age:51
+Exp:11
+School:Eastern Illinois
+OwingTeam:LAC

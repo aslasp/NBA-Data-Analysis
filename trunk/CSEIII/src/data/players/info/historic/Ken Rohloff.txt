@@ -1,0 +1,10 @@
+Name:Ken Rohloff
+Number: 
+Position:G
+Height:6-0
+Weight:195
+Birth:1939-04-18
+Age:76
+Exp:0
+School:North Carolina State
+OwingTeam:STL

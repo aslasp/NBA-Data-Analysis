@@ -1,0 +1,10 @@
+Name:Darren Morningstar
+Number:55
+Position:C
+Height:6-10
+Weight:235
+Birth:1969-04-22
+Age:46
+Exp:0
+School:Pittsburgh
+OwingTeam:UTH

@@ -1,0 +1,10 @@
+Name:Walt Miller
+Number:
+Position:F
+Height:6-2
+Weight:190
+Birth:1915-07-30
+Age:99
+Exp:0
+School:Duquesne
+OwingTeam:PIT

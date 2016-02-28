@@ -1,0 +1,10 @@
+Name:Dan Dickau
+Number:10
+Position:G
+Height:6-0
+Weight:180
+Birth:1978-09-16
+Age:36
+Exp:5
+School:Gonzaga
+OwingTeam:LAC

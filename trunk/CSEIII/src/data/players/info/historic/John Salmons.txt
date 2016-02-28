@@ -1,0 +1,10 @@
+Name:John Salmons
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-12-12
+Age:35
+Exp:0
+School:Miami 
+OwingTeam:

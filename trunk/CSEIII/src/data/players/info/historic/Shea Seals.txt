@@ -1,0 +1,10 @@
+Name:Shea Seals
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-08-26
+Age:39
+Exp:0
+School:Tulsa
+OwingTeam:

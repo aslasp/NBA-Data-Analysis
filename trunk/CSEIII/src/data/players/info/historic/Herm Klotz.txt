@@ -1,0 +1,10 @@
+Name:Herm Klotz
+Number:
+Position:G
+Height:5-7
+Weight:150
+Birth:1921-10-21
+Age:93
+Exp:0
+School:Villanova
+OwingTeam:BAL

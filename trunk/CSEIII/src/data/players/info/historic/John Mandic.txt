@@ -1,0 +1,10 @@
+Name:John Mandic
+Number:
+Position:F
+Height:6-4
+Weight:205
+Birth:1919-10-03
+Age:95
+Exp:1
+School:Oregon State
+OwingTeam:BAL

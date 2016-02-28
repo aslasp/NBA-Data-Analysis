@@ -1,0 +1,10 @@
+Name:Frank Brickowski
+Number:
+Position:
+Height:
+Weight:
+Birth:1959-08-14
+Age:55
+Exp:0
+School:Penn State
+OwingTeam:

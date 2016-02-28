@@ -1,0 +1,10 @@
+Name:Mario West
+Number:6
+Position:G
+Height:6-5
+Weight:210
+Birth:1984-06-19
+Age:30
+Exp:3
+School:Georgia Tech
+OwingTeam:NJN

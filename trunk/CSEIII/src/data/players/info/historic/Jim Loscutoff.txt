@@ -1,0 +1,10 @@
+Name:Jim Loscutoff
+Number:18
+Position:F
+Height:6-5
+Weight:220
+Birth:1930-02-04
+Age:85
+Exp:8
+School:Oregon
+OwingTeam:BOS

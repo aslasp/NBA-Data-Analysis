@@ -1,0 +1,10 @@
+Name:Malcolm Lee
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-05-22
+Age:25
+Exp:0
+School:California-Los Angeles
+OwingTeam:

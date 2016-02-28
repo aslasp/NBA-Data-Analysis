@@ -1,0 +1,10 @@
+Name:Lee Knorek
+Number:
+Position:C
+Height:6-7
+Weight:215
+Birth:1921-07-15
+Age:93
+Exp:3
+School:Detroit Mercy
+OwingTeam:BAL

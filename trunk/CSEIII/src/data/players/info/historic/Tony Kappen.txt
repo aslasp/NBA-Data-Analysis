@@ -1,0 +1,10 @@
+Name:Tony Kappen
+Number:
+Position:G
+Height:5-10
+Weight:165
+Birth:1919-04-13
+Age:96
+Exp:0
+School:
+OwingTeam:PIT

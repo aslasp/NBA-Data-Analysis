@@ -1,0 +1,10 @@
+Name:Phil Hubbard
+Number:35
+Position:F
+Height:6-8
+Weight:215
+Birth:1956-12-13
+Age:58
+Exp:9
+School:Michigan
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Happy Hairston
+Number:52
+Position:F
+Height:6-7
+Weight:225
+Birth:1942-05-31
+Age:73
+Exp:10
+School:New York University
+OwingTeam:LAL

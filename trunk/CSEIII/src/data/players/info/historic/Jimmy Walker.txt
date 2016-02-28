@@ -1,0 +1,10 @@
+Name:Jimmy Walker
+Number:24
+Position:G
+Height:6-3
+Weight:195
+Birth:1944-04-08
+Age:71
+Exp:8
+School:Providence
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Mike Penberthy
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-11-29
+Age:40
+Exp:0
+School:Master
+OwingTeam:

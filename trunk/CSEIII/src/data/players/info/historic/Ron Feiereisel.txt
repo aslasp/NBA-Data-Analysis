@@ -1,0 +1,10 @@
+Name:Ron Feiereisel
+Number:22
+Position:G
+Height:6-3
+Weight:185
+Birth:1931-08-06
+Age:83
+Exp:0
+School:DePaul
+OwingTeam:MNL

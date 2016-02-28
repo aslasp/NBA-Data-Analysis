@@ -1,0 +1,10 @@
+Name:Al Thornton
+Number:23
+Position:F
+Height:6-8
+Weight:235
+Birth:1983-12-07
+Age:31
+Exp:3
+School:Florida State
+OwingTeam:GSW

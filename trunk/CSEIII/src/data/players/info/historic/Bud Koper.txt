@@ -1,0 +1,10 @@
+Name:Bud Koper
+Number:15
+Position:G
+Height:6-6
+Weight:210
+Birth:1942-08-09
+Age:72
+Exp:0
+School:Oklahoma City
+OwingTeam:SFW

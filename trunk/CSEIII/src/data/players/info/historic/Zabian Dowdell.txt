@@ -1,0 +1,10 @@
+Name:Zabian Dowdell
+Number:22
+Position:G
+Height:6-3
+Weight:191
+Birth:1984-09-10
+Age:30
+Exp:0
+School:Virginia Tech
+OwingTeam:PHX

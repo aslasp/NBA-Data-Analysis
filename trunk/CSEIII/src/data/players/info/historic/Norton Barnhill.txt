@@ -1,0 +1,10 @@
+Name:Norton Barnhill
+Number:10
+Position:G
+Height:6-4
+Weight:205
+Birth:1953-07-15
+Age:61
+Exp:0
+School:Washington State
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Jerome Williams
+Number:31
+Position:F-C
+Height:6-9
+Weight:206
+Birth:1973-05-10
+Age:42
+Exp:8
+School:Georgetown
+OwingTeam:NYK

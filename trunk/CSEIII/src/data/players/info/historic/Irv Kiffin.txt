@@ -1,0 +1,10 @@
+Name:Irv Kiffin
+Number:21
+Position:F
+Height:6-9
+Weight:225
+Birth:1951-08-08
+Age:63
+Exp:0
+School:Oklahoma Baptist
+OwingTeam:SAN

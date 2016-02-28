@@ -1,0 +1,10 @@
+Name:Ossie Schectman
+Number:6
+Position:G
+Height:6-0
+Weight:175
+Birth:1919-03-30
+Age:96
+Exp:0
+School:Long Island-Brooklyn
+OwingTeam:NYK

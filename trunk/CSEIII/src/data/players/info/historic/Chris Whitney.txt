@@ -1,0 +1,10 @@
+Name:Chris Whitney
+Number:12
+Position:G
+Height:6-0
+Weight:175
+Birth:1971-10-05
+Age:43
+Exp:10
+School:Clemson
+OwingTeam:WAS

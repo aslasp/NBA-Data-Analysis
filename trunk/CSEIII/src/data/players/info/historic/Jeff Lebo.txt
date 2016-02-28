@@ -1,0 +1,10 @@
+Name:Jeff Lebo
+Number:12
+Position:F
+Height:6-2
+Weight:180
+Birth:1966-10-05
+Age:48
+Exp:0
+School:North Carolina
+OwingTeam:SAN

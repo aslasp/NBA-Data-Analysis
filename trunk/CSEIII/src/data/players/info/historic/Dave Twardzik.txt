@@ -1,0 +1,10 @@
+Name:Dave Twardzik
+Number:13
+Position:G
+Height:6-1
+Weight:175
+Birth:1950-09-20
+Age:64
+Exp:3
+School:Old Dominion
+OwingTeam:POR

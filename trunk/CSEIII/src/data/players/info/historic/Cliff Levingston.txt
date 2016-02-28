@@ -1,0 +1,10 @@
+Name:Cliff Levingston
+Number:53
+Position:F
+Height:6-8
+Weight:210
+Birth:1961-01-04
+Age:54
+Exp:10
+School:Wichita State
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Bobby Smith
+Number:21
+Position:G
+Height:6-4
+Weight:190
+Birth:1937-08-20
+Age:77
+Exp:1
+School:West Virginia
+OwingTeam:LAL

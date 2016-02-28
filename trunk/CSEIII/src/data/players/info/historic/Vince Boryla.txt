@@ -1,0 +1,10 @@
+Name:Vince Boryla
+Number:12
+Position:F
+Height:6-5
+Weight:210
+Birth:1927-03-11
+Age:88
+Exp:4
+School:Denver
+OwingTeam:NYK

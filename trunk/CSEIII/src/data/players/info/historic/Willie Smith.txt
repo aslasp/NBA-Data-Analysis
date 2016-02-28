@@ -1,0 +1,10 @@
+Name:Willie Smith
+Number:11
+Position:G
+Height:6-2
+Weight:170
+Birth:1953-10-26
+Age:61
+Exp:3
+School:Missouri
+OwingTeam:CLE

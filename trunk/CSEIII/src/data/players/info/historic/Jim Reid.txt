@@ -1,0 +1,10 @@
+Name:Jim Reid
+Number:12
+Position:C
+Height:6-6
+Weight:210
+Birth:1945-08-03
+Age:69
+Exp:0
+School:Winston-Salem State
+OwingTeam:PHL

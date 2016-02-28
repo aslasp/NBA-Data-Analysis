@@ -1,0 +1,10 @@
+Name:Anthony Frederick
+Number:24
+Position:F
+Height:6-7
+Weight:205
+Birth:1964-12-07
+Age:50
+Exp:2
+School:Pepperdine
+OwingTeam:CHH

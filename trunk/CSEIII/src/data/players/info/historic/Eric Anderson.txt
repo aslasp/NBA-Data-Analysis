@@ -1,0 +1,10 @@
+Name:Eric Anderson
+Number:42
+Position:F
+Height:6-9
+Weight:220
+Birth:1970-05-26
+Age:45
+Exp:1
+School:Indiana
+OwingTeam:NYK

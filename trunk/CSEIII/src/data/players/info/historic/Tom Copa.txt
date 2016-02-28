@@ -1,0 +1,10 @@
+Name:Tom Copa
+Number:30
+Position:F
+Height:6-10
+Weight:275
+Birth:1964-10-30
+Age:50
+Exp:0
+School:Marquette
+OwingTeam:SAN

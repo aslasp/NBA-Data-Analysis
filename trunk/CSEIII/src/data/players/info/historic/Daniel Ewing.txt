@@ -1,0 +1,10 @@
+Name:Daniel Ewing
+Number:3
+Position:G
+Height:6-3
+Weight:185
+Birth:1983-03-26
+Age:32
+Exp:1
+School:Duke
+OwingTeam:LAC

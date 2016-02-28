@@ -1,0 +1,10 @@
+Name:Ralph Hamilton
+Number:
+Position:G
+Height:6-1
+Weight:188
+Birth:1921-06-10
+Age:93
+Exp:0
+School:Indiana
+OwingTeam:JET

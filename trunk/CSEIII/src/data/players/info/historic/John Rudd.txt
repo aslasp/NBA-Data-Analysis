@@ -1,0 +1,10 @@
+Name:John Rudd
+Number:52
+Position:F
+Height:6-7
+Weight:230
+Birth:1955-08-07
+Age:59
+Exp:0
+School:McNeese State
+OwingTeam:NYK

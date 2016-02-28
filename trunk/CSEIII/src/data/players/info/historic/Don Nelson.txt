@@ -1,0 +1,10 @@
+Name:Don Nelson
+Number:19
+Position:F
+Height:6-6
+Weight:210
+Birth:1940-05-15
+Age:75
+Exp:13
+School:Iowa
+OwingTeam:BOS

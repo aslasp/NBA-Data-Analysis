@@ -1,0 +1,10 @@
+Name:Richard Hamilton
+Number:32
+Position:G
+Height:6-7
+Weight:193
+Birth:1978-02-14
+Age:37
+Exp:13
+School:Connecticut
+OwingTeam:CHI

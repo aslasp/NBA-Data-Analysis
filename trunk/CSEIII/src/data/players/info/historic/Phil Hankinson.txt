@@ -1,0 +1,10 @@
+Name:Phil Hankinson
+Number:20
+Position:F
+Height:6-8
+Weight:195
+Birth:1951-07-26
+Age:63
+Exp:1
+School:Pennsylvania
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Tom Gola
+Number:6
+Position:G
+Height:6-6
+Weight:205
+Birth:1933-01-13
+Age:82
+Exp:9
+School:La Salle
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Gorham Getchell
+Number:
+Position:C
+Height:6-4
+Weight:205
+Birth:1920-08-14
+Age:94
+Exp:0
+School:Temple
+OwingTeam:PIT

@@ -1,0 +1,10 @@
+Name:Larry Johnson
+Number:10
+Position:G
+Height:6-3
+Weight:205
+Birth:1954-11-28
+Age:60
+Exp:0
+School:Kentucky
+OwingTeam:BUF

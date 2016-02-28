@@ -1,0 +1,10 @@
+Name:Lou Roe
+Number:21
+Position:F
+Height:6-7
+Weight:220
+Birth:1972-07-14
+Age:42
+Exp:1
+School:Massachusetts
+OwingTeam:GSW

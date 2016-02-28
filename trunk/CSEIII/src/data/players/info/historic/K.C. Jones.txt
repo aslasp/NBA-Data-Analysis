@@ -1,0 +1,10 @@
+Name:K.C. Jones
+Number:25
+Position:G
+Height:6-1
+Weight:200
+Birth:1932-05-25
+Age:83
+Exp:8
+School:San Francisco
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Gus Johnson
+Number:13
+Position:F
+Height:6-6
+Weight:230
+Birth:1935-12-13
+Age:79
+Exp:9
+School:Idaho
+OwingTeam:PHX

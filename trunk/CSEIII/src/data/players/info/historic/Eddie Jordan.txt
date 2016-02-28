@@ -1,0 +1,10 @@
+Name:Eddie Jordan
+Number:15
+Position:G
+Height:6-1
+Weight:170
+Birth:1955-01-29
+Age:60
+Exp:6
+School:Rutgers
+OwingTeam:LAL

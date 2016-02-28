@@ -1,0 +1,10 @@
+Name:Malik Hairston
+Number:1
+Position:G
+Height:6-6
+Weight:220
+Birth:1987-02-23
+Age:28
+Exp:1
+School:Oregon
+OwingTeam:SAS

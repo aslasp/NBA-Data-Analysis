@@ -1,0 +1,10 @@
+Name:Ed Biedenbach
+Number:12
+Position:G
+Height:6-1
+Weight:175
+Birth:1945-08-12
+Age:69
+Exp:0
+School:North Carolina State
+OwingTeam:PHX

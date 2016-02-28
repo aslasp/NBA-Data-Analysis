@@ -1,0 +1,10 @@
+Name:Johnny Horan
+Number: 
+Position:F
+Height:6-8
+Weight:190
+Birth:1932-11-24
+Age:82
+Exp:0
+School:Dayton
+OwingTeam:MNL

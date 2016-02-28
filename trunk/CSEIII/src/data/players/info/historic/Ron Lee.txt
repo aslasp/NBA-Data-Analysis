@@ -1,0 +1,10 @@
+Name:Ron Lee
+Number:30
+Position:G
+Height:6-3
+Weight:193
+Birth:1952-11-02
+Age:62
+Exp:5
+School:Oregon
+OwingTeam:DET

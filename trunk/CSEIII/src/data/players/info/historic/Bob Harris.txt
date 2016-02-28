@@ -1,0 +1,10 @@
+Name:Bob Harris
+Number:13
+Position:F
+Height:6-7
+Weight:195
+Birth:1927-03-16
+Age:88
+Exp:4
+School:Oklahoma State
+OwingTeam:BOS

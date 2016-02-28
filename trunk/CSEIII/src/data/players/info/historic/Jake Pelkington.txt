@@ -1,0 +1,10 @@
+Name:Jake Pelkington
+Number:30
+Position:C
+Height:6-6
+Weight:220
+Birth:1916-01-03
+Age:99
+Exp:0
+School:Manhattan
+OwingTeam:FTW

@@ -1,0 +1,10 @@
+Name:Donny Marshall
+Number:13
+Position:F
+Height:6-7
+Weight:230
+Birth:1972-07-17
+Age:42
+Exp:4
+School:Connecticut
+OwingTeam:NJN

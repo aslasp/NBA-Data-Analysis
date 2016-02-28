@@ -1,0 +1,10 @@
+Name:Jack Nichols
+Number:16
+Position:C
+Height:6-7
+Weight:222
+Birth:1926-04-09
+Age:89
+Exp:8
+School:Washington
+OwingTeam:BOS

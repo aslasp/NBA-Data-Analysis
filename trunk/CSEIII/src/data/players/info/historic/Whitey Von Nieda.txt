@@ -1,0 +1,10 @@
+Name:Whitey Von Nieda
+Number:
+Position:
+Height:
+Weight:
+Birth:1922-06-19
+Age:92
+Exp:0
+School:Penn State
+OwingTeam:BAL

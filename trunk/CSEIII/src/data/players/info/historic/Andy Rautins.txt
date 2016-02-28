@@ -1,0 +1,10 @@
+Name:Andy Rautins
+Number:11
+Position:G
+Height:6-4
+Weight:190
+Birth:1986-11-02
+Age:28
+Exp:0
+School:Syracuse
+OwingTeam:NYK

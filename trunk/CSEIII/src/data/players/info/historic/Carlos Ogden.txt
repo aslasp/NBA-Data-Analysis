@@ -1,0 +1,10 @@
+Name:Carlos Ogden
+Number:28
+Position:F
+Height:6-6
+Weight:215
+Birth:1946-12-29
+Age:68
+Exp:1
+School:Santa Clara
+OwingTeam:PHL

@@ -1,0 +1,10 @@
+Name:Delaney Rudd
+Number:11
+Position:G
+Height:6-2
+Weight:180
+Birth:1962-11-08
+Age:52
+Exp:3
+School:Wake Forest
+OwingTeam:POR

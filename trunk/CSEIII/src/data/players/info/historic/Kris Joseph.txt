@@ -1,0 +1,10 @@
+Name:Kris Joseph
+Number:24
+Position:F
+Height:6-7
+Weight:210
+Birth:1988-12-17
+Age:26
+Exp:0
+School:Syracuse
+OwingTeam:BKN

@@ -1,0 +1,10 @@
+Name:Ed Horton
+Number:32
+Position:C
+Height:6-8
+Weight:230
+Birth:1967-12-17
+Age:47
+Exp:0
+School:Iowa
+OwingTeam:WAS

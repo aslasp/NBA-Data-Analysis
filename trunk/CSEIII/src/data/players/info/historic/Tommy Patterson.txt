@@ -1,0 +1,10 @@
+Name:Tommy Patterson
+Number:30
+Position:F
+Height:6-6
+Weight:220
+Birth:1948-10-15
+Age:66
+Exp:1
+School:Ouachita Baptist
+OwingTeam:CAP

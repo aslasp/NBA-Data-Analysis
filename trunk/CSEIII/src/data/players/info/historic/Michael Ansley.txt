@@ -1,0 +1,10 @@
+Name:Michael Ansley
+Number:54
+Position:F
+Height:6-7
+Weight:225
+Birth:1967-02-08
+Age:48
+Exp:2
+School:Alabama
+OwingTeam:CHH

@@ -1,0 +1,10 @@
+Name:Johnny Simmons
+Number:6
+Position:G
+Height:6-1
+Weight:184
+Birth:1924-07-07
+Age:90
+Exp:0
+School:New York University
+OwingTeam:BOS

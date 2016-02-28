@@ -1,0 +1,10 @@
+Name:Wayne Hightower
+Number:12
+Position:F
+Height:6-8
+Weight:192
+Birth:1940-01-14
+Age:75
+Exp:4
+School:Kansas
+OwingTeam:DET

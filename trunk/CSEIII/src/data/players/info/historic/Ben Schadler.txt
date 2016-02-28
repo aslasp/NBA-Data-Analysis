@@ -1,0 +1,10 @@
+Name:Ben Schadler
+Number:
+Position:F
+Height:6-0
+Weight:185
+Birth:1924-03-09
+Age:91
+Exp:0
+School:Northwestern
+OwingTeam:CHS

@@ -1,0 +1,10 @@
+Name:Greg Butler
+Number:45
+Position:C
+Height:6-11
+Weight:240
+Birth:1966-03-11
+Age:49
+Exp:2
+School:Stanford
+OwingTeam:LAC

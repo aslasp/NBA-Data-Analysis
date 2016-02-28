@@ -1,0 +1,10 @@
+Name:Emanuel Leaks
+Number:24
+Position:C
+Height:6-8
+Weight:225
+Birth:1945-11-27
+Age:69
+Exp:1
+School:Niagara
+OwingTeam:CAP

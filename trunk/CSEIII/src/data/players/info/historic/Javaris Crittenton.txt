@@ -1,0 +1,10 @@
+Name:Javaris Crittenton
+Number:8
+Position:G
+Height:6-5
+Weight:200
+Birth:1987-12-31
+Age:27
+Exp:2
+School:Georgia Tech
+OwingTeam:WAS

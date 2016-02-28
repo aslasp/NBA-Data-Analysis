@@ -1,0 +1,10 @@
+Name:Don Asmonga
+Number:
+Position:G
+Height:6-2
+Weight:185
+Birth:1928-02-15
+Age:87
+Exp:0
+School:Alliance
+OwingTeam:BAL

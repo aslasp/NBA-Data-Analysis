@@ -1,0 +1,10 @@
+Name:John Williams
+Number:24
+Position:F
+Height:6-8
+Weight:235
+Birth:1966-10-26
+Age:48
+Exp:7
+School:Louisiana State
+OwingTeam:IND

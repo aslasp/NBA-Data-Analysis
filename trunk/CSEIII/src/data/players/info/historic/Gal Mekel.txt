@@ -1,0 +1,10 @@
+Name:Gal Mekel
+Number:
+Position:
+Height:
+Weight:
+Birth:1988-03-04
+Age:27
+Exp:0
+School:Wichita State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Leo Katkaveck
+Number:
+Position:G
+Height:6-0
+Weight:185
+Birth:1923-04-17
+Age:92
+Exp:1
+School:North Carolina State
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Theo Ratliff
+Number:50
+Position:C
+Height:6-10
+Weight:235
+Birth:1973-04-17
+Age:42
+Exp:15
+School:Wyoming
+OwingTeam:LAL

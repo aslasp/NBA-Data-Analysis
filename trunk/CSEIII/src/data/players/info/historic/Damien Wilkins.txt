@@ -1,0 +1,10 @@
+Name:Damien Wilkins
+Number:8
+Position:G-F
+Height:6-6
+Weight:225
+Birth:1980-01-11
+Age:35
+Exp:8
+School:Georgia
+OwingTeam:PHI

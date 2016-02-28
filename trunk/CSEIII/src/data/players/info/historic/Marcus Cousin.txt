@@ -1,0 +1,10 @@
+Name:Marcus Cousin
+Number:50
+Position:F
+Height:6-11
+Weight:255
+Birth:1986-12-18
+Age:28
+Exp:0
+School:Houston
+OwingTeam:HOU

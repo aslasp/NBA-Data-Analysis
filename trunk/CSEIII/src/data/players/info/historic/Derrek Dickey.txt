@@ -1,0 +1,10 @@
+Name:Derrek Dickey
+Number:40
+Position:F
+Height:6-7
+Weight:218
+Birth:1951-03-20
+Age:64
+Exp:4
+School:Cincinnati
+OwingTeam:CHI

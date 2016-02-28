@@ -1,0 +1,10 @@
+Name:Calvin Garrett
+Number:0
+Position:F
+Height:6-7
+Weight:190
+Birth:1956-07-11
+Age:58
+Exp:3
+School:Oral Roberts
+OwingTeam:LAL

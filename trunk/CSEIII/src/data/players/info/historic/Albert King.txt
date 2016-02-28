@@ -1,0 +1,10 @@
+Name:Albert King
+Number:15
+Position:F
+Height:6-6
+Weight:190
+Birth:1959-12-17
+Age:55
+Exp:8
+School:Maryland
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Tim Perry
+Number:
+Position:
+Height:
+Weight:
+Birth:1965-06-04
+Age:49
+Exp:0
+School:Temple
+OwingTeam:

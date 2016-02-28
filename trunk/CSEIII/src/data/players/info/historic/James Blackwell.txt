@@ -1,0 +1,10 @@
+Name:James Blackwell
+Number:8
+Position:G
+Height:6-0
+Weight:190
+Birth:1968-02-25
+Age:47
+Exp:0
+School:Dartmouth
+OwingTeam:BOS

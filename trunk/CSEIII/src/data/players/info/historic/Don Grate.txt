@@ -1,0 +1,10 @@
+Name:Don Grate
+Number:
+Position:G
+Height:6-2
+Weight:185
+Birth:1923-08-27
+Age:91
+Exp:0
+School:Ohio State
+OwingTeam:SHE

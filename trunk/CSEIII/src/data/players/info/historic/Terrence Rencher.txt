@@ -1,0 +1,10 @@
+Name:Terrence Rencher
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-02-19
+Age:42
+Exp:0
+School:Texas
+OwingTeam:

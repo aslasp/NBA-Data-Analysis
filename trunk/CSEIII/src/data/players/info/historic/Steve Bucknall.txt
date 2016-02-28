@@ -1,0 +1,10 @@
+Name:Steve Bucknall
+Number:24
+Position:F
+Height:6-6
+Weight:215
+Birth:1966-03-17
+Age:49
+Exp:0
+School:North Carolina
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Gary Bergen
+Number:18
+Position:C
+Height:6-8
+Weight:210
+Birth:1932-07-16
+Age:82
+Exp:0
+School:Utah
+OwingTeam:NYK

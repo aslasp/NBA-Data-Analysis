@@ -1,0 +1,10 @@
+Name:Harold Kottman
+Number:9
+Position:C
+Height:6-8
+Weight:220
+Birth:1922-08-22
+Age:92
+Exp:0
+School:Culver-Stockton
+OwingTeam:BOS

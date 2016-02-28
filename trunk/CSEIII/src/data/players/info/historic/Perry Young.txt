@@ -1,0 +1,10 @@
+Name:Perry Young
+Number:2
+Position:G
+Height:6-5
+Weight:210
+Birth:1963-08-04
+Age:51
+Exp:0
+School:Virginia Tech
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Rich Kelley
+Number:50
+Position:C
+Height:7-0
+Weight:235
+Birth:1953-03-23
+Age:62
+Exp:10
+School:Stanford
+OwingTeam:SAC

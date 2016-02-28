@@ -1,0 +1,10 @@
+Name:Kim Anderson
+Number:42
+Position:F
+Height:6-7
+Weight:200
+Birth:1955-05-12
+Age:60
+Exp:0
+School:Missouri
+OwingTeam:POR

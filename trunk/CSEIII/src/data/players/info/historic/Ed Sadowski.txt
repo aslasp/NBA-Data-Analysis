@@ -1,0 +1,10 @@
+Name:Ed Sadowski
+Number:
+Position:C
+Height:6-5
+Weight:240
+Birth:1917-07-11
+Age:97
+Exp:3
+School:Seton Hall
+OwingTeam:BAL

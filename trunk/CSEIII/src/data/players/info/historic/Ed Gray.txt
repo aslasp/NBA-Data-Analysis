@@ -1,0 +1,10 @@
+Name:Ed Gray
+Number:22
+Position:G
+Height:6-3
+Weight:210
+Birth:1975-09-27
+Age:39
+Exp:1
+School:California
+OwingTeam:ATL

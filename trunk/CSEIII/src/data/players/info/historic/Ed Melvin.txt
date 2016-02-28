@@ -1,0 +1,10 @@
+Name:Ed Melvin
+Number:
+Position:F
+Height:5-9
+Weight:170
+Birth:1916-02-13
+Age:99
+Exp:0
+School:Duquesne
+OwingTeam:PIT

@@ -1,0 +1,10 @@
+Name:Billy Thomas
+Number:12
+Position:G
+Height:6-5
+Weight:220
+Birth:1975-12-23
+Age:39
+Exp:2
+School:Kansas
+OwingTeam:CLE

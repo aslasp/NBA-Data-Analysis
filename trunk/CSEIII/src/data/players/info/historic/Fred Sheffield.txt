@@ -1,0 +1,10 @@
+Name:Fred Sheffield
+Number:4
+Position:F
+Height:6-2
+Weight:165
+Birth:1923-11-05
+Age:91
+Exp:0
+School:Utah
+OwingTeam:PHW

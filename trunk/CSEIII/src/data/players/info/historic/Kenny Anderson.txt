@@ -1,0 +1,10 @@
+Name:Kenny Anderson
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-10-09
+Age:44
+Exp:0
+School:Georgia Tech
+OwingTeam:

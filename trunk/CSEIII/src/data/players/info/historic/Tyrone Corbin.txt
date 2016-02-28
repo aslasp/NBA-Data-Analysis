@@ -1,0 +1,10 @@
+Name:Tyrone Corbin
+Number:
+Position:
+Height:
+Weight:
+Birth:1962-12-31
+Age:52
+Exp:0
+School:DePaul
+OwingTeam:

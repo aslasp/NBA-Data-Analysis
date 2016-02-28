@@ -1,0 +1,10 @@
+Name:John Stroeder
+Number:25
+Position:F
+Height:6-10
+Weight:260
+Birth:1958-07-24
+Age:56
+Exp:1
+School:Montana
+OwingTeam:GOS

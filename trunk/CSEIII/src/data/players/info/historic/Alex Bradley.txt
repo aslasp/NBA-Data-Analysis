@@ -1,0 +1,10 @@
+Name:Alex Bradley
+Number:30
+Position:F
+Height:6-6
+Weight:215
+Birth:1959-10-30
+Age:55
+Exp:0
+School:Villanova
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Bill Herman
+Number:
+Position:G
+Height:6-3
+Weight:170
+Birth:1924-05-17
+Age:91
+Exp:0
+School:Mount Union
+OwingTeam:

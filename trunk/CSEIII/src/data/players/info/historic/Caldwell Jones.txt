@@ -1,0 +1,10 @@
+Name:Caldwell Jones
+Number:27
+Position:C
+Height:6-11
+Weight:217
+Birth:1950-08-04
+Age:64
+Exp:13
+School:Albany State 
+OwingTeam:SAN

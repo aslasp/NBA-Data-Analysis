@@ -1,0 +1,10 @@
+Name:David Pope
+Number:51
+Position:F
+Height:6-7
+Weight:220
+Birth:1962-04-15
+Age:53
+Exp:1
+School:Norfolk State
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Jim Brogan
+Number:15
+Position:G
+Height:6-4
+Weight:185
+Birth:1958-02-24
+Age:57
+Exp:1
+School:West Virginia Wesleyan
+OwingTeam:SDC

@@ -1,0 +1,10 @@
+Name:Bill Edwards
+Number:40
+Position:F
+Height:6-8
+Weight:215
+Birth:1971-09-22
+Age:43
+Exp:0
+School:Wright State
+OwingTeam:PHL

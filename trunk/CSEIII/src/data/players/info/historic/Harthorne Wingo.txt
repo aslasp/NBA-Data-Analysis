@@ -1,0 +1,10 @@
+Name:Harthorne Wingo
+Number:43
+Position:F
+Height:6-6
+Weight:210
+Birth:1947-09-09
+Age:67
+Exp:3
+School:
+OwingTeam:NYK

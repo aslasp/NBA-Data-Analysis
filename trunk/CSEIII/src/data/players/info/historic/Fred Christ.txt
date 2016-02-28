@@ -1,0 +1,10 @@
+Name:Fred Christ
+Number:9
+Position:G
+Height:6-4
+Weight:210
+Birth:1930-08-06
+Age:84
+Exp:0
+School:Fordham
+OwingTeam:NYK

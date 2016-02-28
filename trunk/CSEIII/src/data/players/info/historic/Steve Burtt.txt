@@ -1,0 +1,10 @@
+Name:Steve Burtt
+Number:15
+Position:G
+Height:6-2
+Weight:185
+Birth:1962-11-05
+Age:52
+Exp:3
+School:Iona
+OwingTeam:WAS

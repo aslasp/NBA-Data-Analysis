@@ -1,0 +1,10 @@
+Name:Byron Houston
+Number:35
+Position:F
+Height:6-5
+Weight:250
+Birth:1969-11-22
+Age:45
+Exp:3
+School:Oklahoma State
+OwingTeam:SAC

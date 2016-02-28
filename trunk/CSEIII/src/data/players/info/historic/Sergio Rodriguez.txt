@@ -1,0 +1,10 @@
+Name:Sergio Rodriguez
+Number:13
+Position:G
+Height:6-3
+Weight:176
+Birth:1986-06-12
+Age:28
+Exp:3
+School:Tenerife
+OwingTeam:NYK

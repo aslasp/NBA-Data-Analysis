@@ -1,0 +1,10 @@
+Name:Pavel Podkolzin
+Number:
+Position:
+Height:
+Weight:
+Birth:1985-01-15
+Age:30
+Exp:0
+School:Russia
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Connie Rea
+Number:
+Position:G
+Height:6-3
+Weight:175
+Birth:1935-01-27
+Age:80
+Exp:0
+School:Centenary 
+OwingTeam:BAL

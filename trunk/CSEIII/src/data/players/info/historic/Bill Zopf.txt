@@ -1,0 +1,10 @@
+Name:Bill Zopf
+Number:6
+Position:G
+Height:6-1
+Weight:170
+Birth:1948-06-07
+Age:66
+Exp:0
+School:Duquesne
+OwingTeam:MIL

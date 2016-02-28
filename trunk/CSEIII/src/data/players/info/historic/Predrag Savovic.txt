@@ -1,0 +1,10 @@
+Name:Predrag Savovic
+Number:4
+Position:G
+Height:6-6
+Weight:225
+Birth:1976-05-21
+Age:39
+Exp:0
+School:Hawaii
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Maurice Taylor
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-10-30
+Age:38
+Exp:0
+School:Michigan
+OwingTeam:

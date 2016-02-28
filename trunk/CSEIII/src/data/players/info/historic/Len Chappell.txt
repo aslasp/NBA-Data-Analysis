@@ -1,0 +1,10 @@
+Name:Len Chappell
+Number:25
+Position:F
+Height:6-8
+Weight:240
+Birth:1941-01-31
+Age:74
+Exp:8
+School:Wake Forest
+OwingTeam:ATL

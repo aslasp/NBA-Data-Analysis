@@ -1,0 +1,10 @@
+Name:Dan Swartz
+Number:12
+Position:F
+Height:6-4
+Weight:215
+Birth:1934-12-23
+Age:80
+Exp:0
+School:Morehead State
+OwingTeam:BOS

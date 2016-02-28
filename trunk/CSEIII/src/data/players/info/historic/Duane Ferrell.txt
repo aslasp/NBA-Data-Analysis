@@ -1,0 +1,10 @@
+Name:Duane Ferrell
+Number:33
+Position:F
+Height:6-7
+Weight:215
+Birth:1965-02-28
+Age:50
+Exp:10
+School:Georgia Tech
+OwingTeam:GSW

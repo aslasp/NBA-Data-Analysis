@@ -1,0 +1,10 @@
+Name:Vincenzo Esposito
+Number:4
+Position:G
+Height:6-3
+Weight:198
+Birth:1969-03-01
+Age:46
+Exp:0
+School:
+OwingTeam:TOR

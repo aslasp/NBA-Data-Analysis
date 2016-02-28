@@ -1,0 +1,10 @@
+Name:Adonal Foyle
+Number:31
+Position:C
+Height:6-10
+Weight:270
+Birth:1975-03-09
+Age:40
+Exp:12
+School:Colgate
+OwingTeam:ORL

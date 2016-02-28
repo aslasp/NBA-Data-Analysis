@@ -1,0 +1,10 @@
+Name:Jaren Jackson
+Number:2
+Position:G
+Height:6-6
+Weight:225
+Birth:1967-10-27
+Age:47
+Exp:11
+School:Georgetown
+OwingTeam:ORL

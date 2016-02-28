@@ -1,0 +1,10 @@
+Name:Andres Guibert
+Number:51
+Position:C
+Height:6-10
+Weight:225
+Birth:1968-10-28
+Age:46
+Exp:1
+School:
+OwingTeam:MIN

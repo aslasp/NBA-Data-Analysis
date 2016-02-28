@@ -1,0 +1,10 @@
+Name:Justin Reed
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-01-16
+Age:33
+Exp:0
+School:Mississippi
+OwingTeam:

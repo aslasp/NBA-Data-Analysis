@@ -1,0 +1,10 @@
+Name:Tony Dumas
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-08-25
+Age:42
+Exp:0
+School:Missouri-Kansas City
+OwingTeam:

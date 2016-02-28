@@ -1,0 +1,10 @@
+Name:Desmond Ferguson
+Number:5
+Position:F
+Height:6-7
+Weight:210
+Birth:1977-07-22
+Age:37
+Exp:0
+School:Detroit Mercy
+OwingTeam:POR

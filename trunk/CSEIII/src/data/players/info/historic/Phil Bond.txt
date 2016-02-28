@@ -1,0 +1,10 @@
+Name:Phil Bond
+Number:30
+Position:G
+Height:6-2
+Weight:175
+Birth:1954-07-27
+Age:60
+Exp:0
+School:Louisville
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Jim Price
+Number:5
+Position:G
+Height:6-3
+Weight:195
+Birth:1949-11-27
+Age:65
+Exp:6
+School:Louisville
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Mike Wilks
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-05-07
+Age:36
+Exp:0
+School:Rice
+OwingTeam:

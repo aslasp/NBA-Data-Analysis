@@ -1,0 +1,10 @@
+Name:Shelton Jones
+Number:31
+Position:F
+Height:6-8
+Weight:210
+Birth:1966-04-06
+Age:49
+Exp:0
+School:St. John
+OwingTeam:PHL

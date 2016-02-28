@@ -1,0 +1,10 @@
+Name:Kevin Williams
+Number:42
+Position:G
+Height:6-2
+Weight:175
+Birth:1961-09-11
+Age:53
+Exp:4
+School:St. John
+OwingTeam:LAC

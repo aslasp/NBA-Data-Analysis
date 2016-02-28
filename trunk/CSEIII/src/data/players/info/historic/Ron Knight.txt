@@ -1,0 +1,10 @@
+Name:Ron Knight
+Number:38
+Position:F
+Height:6-7
+Weight:215
+Birth:1947-08-04
+Age:67
+Exp:1
+School:Cal State-Los Angeles
+OwingTeam:POR

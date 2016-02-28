@@ -1,0 +1,10 @@
+Name:Kelly McCarty
+Number:11
+Position:G-F
+Height:6-7
+Weight:200
+Birth:1975-08-24
+Age:39
+Exp:0
+School:Southern Mississippi
+OwingTeam:DEN

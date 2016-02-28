@@ -1,0 +1,10 @@
+Name:Ben McDonald
+Number:30
+Position:F
+Height:6-8
+Weight:210
+Birth:1962-07-20
+Age:52
+Exp:3
+School:California-Irvine
+OwingTeam:GOS

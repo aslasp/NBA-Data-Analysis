@@ -1,0 +1,10 @@
+Name:Jeff Foote
+Number:
+Position:
+Height:
+Weight:
+Birth:1987-07-14
+Age:27
+Exp:0
+School:Cornell
+OwingTeam:

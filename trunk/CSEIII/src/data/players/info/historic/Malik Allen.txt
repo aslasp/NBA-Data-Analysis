@@ -1,0 +1,10 @@
+Name:Malik Allen
+Number:35
+Position:F
+Height:6-10
+Weight:255
+Birth:1978-06-27
+Age:36
+Exp:9
+School:Villanova
+OwingTeam:ORL

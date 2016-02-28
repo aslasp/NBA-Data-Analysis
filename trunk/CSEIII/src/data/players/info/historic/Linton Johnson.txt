@@ -1,0 +1,10 @@
+Name:Linton Johnson
+Number:54
+Position:F
+Height:6-8
+Weight:205
+Birth:1980-06-13
+Age:34
+Exp:5
+School:Tulane
+OwingTeam:CHI

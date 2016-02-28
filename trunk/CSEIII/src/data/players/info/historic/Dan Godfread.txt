@@ -1,0 +1,10 @@
+Name:Dan Godfread
+Number:35
+Position:F
+Height:6-10
+Weight:250
+Birth:1967-06-14
+Age:47
+Exp:1
+School:Evansville
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:William Bell
+Number:15
+Position:G
+Height:6-0
+Weight:180
+Birth:1932-09-13
+Age:82
+Exp:1
+School:North Carolina State
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Steve Alford
+Number:4
+Position:G
+Height:6-2
+Weight:183
+Birth:1964-11-23
+Age:50
+Exp:3
+School:Indiana
+OwingTeam:DAL

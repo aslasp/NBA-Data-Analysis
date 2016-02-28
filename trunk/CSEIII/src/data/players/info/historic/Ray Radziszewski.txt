@@ -1,0 +1,10 @@
+Name:Ray Radziszewski
+Number:19
+Position:F
+Height:6-5
+Weight:210
+Birth:1935-03-01
+Age:80
+Exp:0
+School:Saint Joseph
+OwingTeam:PHW

@@ -1,0 +1,10 @@
+Name:Donte Greene
+Number:13
+Position:F
+Height:6-11
+Weight:226
+Birth:1988-02-21
+Age:27
+Exp:4
+School:Syracuse
+OwingTeam:MEM

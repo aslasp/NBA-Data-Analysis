@@ -1,0 +1,10 @@
+Name:Otto Moore
+Number:34
+Position:C
+Height:6-11
+Weight:205
+Birth:1946-08-27
+Age:68
+Exp:8
+School:Texas-Pan American
+OwingTeam:NOJ

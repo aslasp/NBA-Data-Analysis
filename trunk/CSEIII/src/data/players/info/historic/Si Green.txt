@@ -1,0 +1,10 @@
+Name:Si Green
+Number:28
+Position:G
+Height:6-2
+Weight:185
+Birth:1933-08-20
+Age:81
+Exp:8
+School:Duquesne
+OwingTeam:BOS

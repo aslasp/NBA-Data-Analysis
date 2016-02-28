@@ -1,0 +1,10 @@
+Name:Dave Lattin
+Number:43
+Position:F
+Height:6-6
+Weight:225
+Birth:1943-12-23
+Age:71
+Exp:1
+School:Texas-El Paso
+OwingTeam:PHX

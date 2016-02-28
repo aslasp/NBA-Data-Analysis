@@ -1,0 +1,10 @@
+Name:James Silas
+Number:13
+Position:G
+Height:6-1
+Weight:180
+Birth:1949-02-11
+Age:66
+Exp:5
+School:Stephen F. Austin
+OwingTeam:CLE

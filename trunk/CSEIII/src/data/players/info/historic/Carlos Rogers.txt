@@ -1,0 +1,10 @@
+Name:Carlos Rogers
+Number:6
+Position:F-C
+Height:6-11
+Weight:232
+Birth:1971-02-06
+Age:44
+Exp:7
+School:Tennessee State
+OwingTeam:IND

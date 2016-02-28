@@ -1,0 +1,10 @@
+Name:Kiki Vandeweghe
+Number:55
+Position:F
+Height:6-8
+Weight:220
+Birth:1958-08-01
+Age:56
+Exp:12
+School:California-Los Angeles
+OwingTeam:LAC

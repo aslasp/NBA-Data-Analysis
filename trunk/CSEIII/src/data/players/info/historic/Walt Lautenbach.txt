@@ -1,0 +1,10 @@
+Name:Walt Lautenbach
+Number:
+Position:F
+Height:6-2
+Weight:185
+Birth:1922-11-17
+Age:92
+Exp:0
+School:Wisconsin
+OwingTeam:SHE

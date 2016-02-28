@@ -1,0 +1,10 @@
+Name:Eric Money
+Number:
+Position:G
+Height:6-0
+Weight:170
+Birth:1955-02-06
+Age:60
+Exp:5
+School:Arizona
+OwingTeam:DET

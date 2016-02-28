@@ -1,0 +1,10 @@
+Name:DJ Stephens
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-12-19
+Age:24
+Exp:0
+School:Memphis
+OwingTeam:

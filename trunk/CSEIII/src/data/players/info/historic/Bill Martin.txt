@@ -1,0 +1,10 @@
+Name:Bill Martin
+Number:26
+Position:F
+Height:6-7
+Weight:205
+Birth:1962-08-16
+Age:52
+Exp:2
+School:Georgetown
+OwingTeam:PHX

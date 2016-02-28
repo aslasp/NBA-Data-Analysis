@@ -1,0 +1,10 @@
+Name:Wilt Chamberlain
+Number:13
+Position:C
+Height:7-1
+Weight:250
+Birth:1936-08-21
+Age:78
+Exp:13
+School:Kansas
+OwingTeam:LAL

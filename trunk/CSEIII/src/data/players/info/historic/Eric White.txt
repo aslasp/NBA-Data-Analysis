@@ -1,0 +1,10 @@
+Name:Eric White
+Number:12
+Position:F
+Height:6-8
+Weight:200
+Birth:1965-12-30
+Age:49
+Exp:1
+School:Pepperdine
+OwingTeam:LAC

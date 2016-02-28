@@ -1,0 +1,10 @@
+Name:Johnny Cox
+Number:25
+Position:G
+Height:6-4
+Weight:180
+Birth:1936-11-01
+Age:78
+Exp:0
+School:Kentucky
+OwingTeam:CHZ

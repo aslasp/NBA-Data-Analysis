@@ -1,0 +1,10 @@
+Name:Rowland Garrett
+Number:24
+Position:F
+Height:6-6
+Weight:210
+Birth:1950-07-16
+Age:64
+Exp:4
+School:Florida State
+OwingTeam:MIL

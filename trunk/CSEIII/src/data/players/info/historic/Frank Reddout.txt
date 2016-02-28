@@ -1,0 +1,10 @@
+Name:Frank Reddout
+Number:21
+Position:F
+Height:6-5
+Weight:195
+Birth:1905-04-14
+Age:110
+Exp:0
+School:Syracuse
+OwingTeam:ROC

@@ -1,0 +1,10 @@
+Name:Rickey Brown
+Number:31
+Position:C
+Height:6-10
+Weight:215
+Birth:1958-08-20
+Age:56
+Exp:4
+School:Mississippi State
+OwingTeam:ATL

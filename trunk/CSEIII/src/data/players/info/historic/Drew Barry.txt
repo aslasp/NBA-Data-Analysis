@@ -1,0 +1,10 @@
+Name:Drew Barry
+Number:10
+Position:G
+Height:6-5
+Weight:191
+Birth:1973-02-17
+Age:42
+Exp:2
+School:Georgia Tech
+OwingTeam:ATL

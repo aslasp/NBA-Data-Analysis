@@ -1,0 +1,10 @@
+Name:Lamond Murray
+Number:31
+Position:F
+Height:6-7
+Weight:235
+Birth:1973-04-20
+Age:42
+Exp:10
+School:California
+OwingTeam:NJN

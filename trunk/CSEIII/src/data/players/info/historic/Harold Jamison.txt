@@ -1,0 +1,10 @@
+Name:Harold Jamison
+Number:40
+Position:F
+Height:6-9
+Weight:269
+Birth:1976-11-20
+Age:38
+Exp:2
+School:Clemson
+OwingTeam:CLE

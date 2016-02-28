@@ -1,0 +1,10 @@
+Name:Shareef Abdur-Rahim
+Number:3
+Position:F
+Height:6-9
+Weight:245
+Birth:1976-12-11
+Age:38
+Exp:11
+School:California
+OwingTeam:SAC

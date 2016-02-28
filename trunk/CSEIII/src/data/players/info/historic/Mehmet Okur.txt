@@ -1,0 +1,10 @@
+Name:Mehmet Okur
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-05-26
+Age:36
+Exp:0
+School:Yalova
+OwingTeam:

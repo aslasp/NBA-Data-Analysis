@@ -1,0 +1,10 @@
+Name:Walter Palmer
+Number:31
+Position:C
+Height:7-1
+Weight:215
+Birth:1968-10-23
+Age:46
+Exp:1
+School:Dartmouth
+OwingTeam:DAL

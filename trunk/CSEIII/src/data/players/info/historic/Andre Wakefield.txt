@@ -1,0 +1,10 @@
+Name:Andre Wakefield
+Number:15
+Position:G
+Height:6-2
+Weight:175
+Birth:1955-01-11
+Age:60
+Exp:1
+School:Loyola-Chicago
+OwingTeam:UTH

@@ -1,0 +1,10 @@
+Name:Chris Dudley
+Number:14
+Position:C
+Height:6-11
+Weight:260
+Birth:1965-02-22
+Age:50
+Exp:15
+School:Yale
+OwingTeam:POR

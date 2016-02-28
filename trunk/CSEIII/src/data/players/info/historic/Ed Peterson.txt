@@ -1,0 +1,10 @@
+Name:Ed Peterson
+Number:20
+Position:C
+Height:6-9
+Weight:220
+Birth:1924-06-27
+Age:90
+Exp:1
+School:Cornell
+OwingTeam:TCB

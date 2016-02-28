@@ -1,0 +1,10 @@
+Name:Norm Mager
+Number:
+Position:F
+Height:6-5
+Weight:185
+Birth:1926-03-23
+Age:89
+Exp:0
+School:City College of New York
+OwingTeam:BAL

@@ -1,0 +1,10 @@
+Name:Jumaine Jones
+Number:20
+Position:F
+Height:6-8
+Weight:230
+Birth:1979-02-10
+Age:36
+Exp:7
+School:Georgia
+OwingTeam:PHX

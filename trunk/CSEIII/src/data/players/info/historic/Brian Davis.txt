@@ -1,0 +1,10 @@
+Name:Brian Davis
+Number:23
+Position:F
+Height:6-7
+Weight:200
+Birth:1970-06-21
+Age:44
+Exp:0
+School:Duke
+OwingTeam:MIN

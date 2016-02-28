@@ -1,0 +1,10 @@
+Name:Marko Todorovich
+Number:19
+Position:F
+Height:6-5
+Weight:220
+Birth:1923-06-11
+Age:91
+Exp:1
+School:Wyoming
+OwingTeam:TCB

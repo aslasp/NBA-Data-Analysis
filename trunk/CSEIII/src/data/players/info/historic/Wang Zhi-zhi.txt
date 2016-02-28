@@ -1,0 +1,10 @@
+Name:Wang Zhi-zhi
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-07-08
+Age:37
+Exp:0
+School:China
+OwingTeam:

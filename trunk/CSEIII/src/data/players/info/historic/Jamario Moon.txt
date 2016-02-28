@@ -1,0 +1,10 @@
+Name:Jamario Moon
+Number:9
+Position:F
+Height:6-8
+Weight:205
+Birth:1980-06-13
+Age:34
+Exp:4
+School:Meridian Community College
+OwingTeam:CHA

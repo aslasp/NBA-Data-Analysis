@@ -1,0 +1,10 @@
+Name:Ryan Gomes
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-09-01
+Age:32
+Exp:0
+School:Providence
+OwingTeam:

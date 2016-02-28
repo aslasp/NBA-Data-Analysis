@@ -1,0 +1,10 @@
+Name:Tom Kelly
+Number:6
+Position:G
+Height:6-0
+Weight:170
+Birth:1924-03-05
+Age:91
+Exp:0
+School:New York University
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Steve Henson
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-02-02
+Age:47
+Exp:0
+School:Kansas State
+OwingTeam:

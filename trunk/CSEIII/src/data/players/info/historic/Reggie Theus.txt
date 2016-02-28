@@ -1,0 +1,10 @@
+Name:Reggie Theus
+Number:24
+Position:G
+Height:6-6
+Weight:190
+Birth:1957-10-13
+Age:57
+Exp:12
+School:Nevada-Las Vegas
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Jay Miller
+Number:12
+Position:F
+Height:6-5
+Weight:205
+Birth:1943-07-19
+Age:71
+Exp:1
+School:Notre Dame
+OwingTeam:MIL

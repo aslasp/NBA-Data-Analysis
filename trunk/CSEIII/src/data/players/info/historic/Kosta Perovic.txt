@@ -1,0 +1,10 @@
+Name:Kosta Perovic
+Number:19
+Position:C
+Height:7-2
+Weight:240
+Birth:1985-02-19
+Age:30
+Exp:0
+School:Serbia
+OwingTeam:GSW

@@ -1,0 +1,10 @@
+Name:Michael Sweetney
+Number:50
+Position:F
+Height:6-8
+Weight:270
+Birth:1982-10-25
+Age:32
+Exp:3
+School:Georgetown
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Carlos Clark
+Number:40
+Position:G
+Height:6-4
+Weight:210
+Birth:1960-08-10
+Age:54
+Exp:1
+School:Mississippi
+OwingTeam:BOS

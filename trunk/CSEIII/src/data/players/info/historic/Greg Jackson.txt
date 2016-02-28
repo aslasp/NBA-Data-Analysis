@@ -1,0 +1,10 @@
+Name:Greg Jackson
+Number:24
+Position:G
+Height:6-0
+Weight:180
+Birth:1952-08-02
+Age:62
+Exp:0
+School:Guilford
+OwingTeam:PHX

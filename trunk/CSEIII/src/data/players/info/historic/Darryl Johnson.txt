@@ -1,0 +1,10 @@
+Name:Darryl Johnson
+Number:30
+Position:G
+Height:6-1
+Weight:170
+Birth:1965-10-26
+Age:49
+Exp:0
+School:Michigan State
+OwingTeam:CLE

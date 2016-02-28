@@ -1,0 +1,10 @@
+Name:Reggie Miller
+Number:31
+Position:G
+Height:6-7
+Weight:195
+Birth:1965-08-24
+Age:49
+Exp:17
+School:California-Los Angeles
+OwingTeam:IND

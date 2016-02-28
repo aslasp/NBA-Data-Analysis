@@ -1,0 +1,10 @@
+Name:Cedric Maxwell
+Number:18
+Position:F
+Height:6-8
+Weight:205
+Birth:1955-11-21
+Age:59
+Exp:10
+School:North Carolina-Charlotte
+OwingTeam:HOU

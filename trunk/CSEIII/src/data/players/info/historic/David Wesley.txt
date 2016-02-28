@@ -1,0 +1,10 @@
+Name:David Wesley
+Number:4
+Position:G
+Height:6-1
+Weight:203
+Birth:1970-11-14
+Age:44
+Exp:13
+School:Baylor
+OwingTeam:CLE

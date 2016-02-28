@@ -1,0 +1,10 @@
+Name:George Reynolds
+Number:10
+Position:G
+Height:6-4
+Weight:195
+Birth:1947-11-23
+Age:67
+Exp:0
+School:Houston
+OwingTeam:DET

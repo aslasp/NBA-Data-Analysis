@@ -1,0 +1,10 @@
+Name:Bob Dandridge
+Number:10
+Position:F
+Height:6-6
+Weight:195
+Birth:1947-11-15
+Age:67
+Exp:12
+School:Norfolk State
+OwingTeam:MIL

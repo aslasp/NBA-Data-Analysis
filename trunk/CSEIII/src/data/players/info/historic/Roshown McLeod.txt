@@ -1,0 +1,10 @@
+Name:Roshown McLeod
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-11-17
+Age:39
+Exp:0
+School:Duke
+OwingTeam:

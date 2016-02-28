@@ -1,0 +1,10 @@
+Name:George Munroe
+Number:6
+Position:G
+Height:5-11
+Weight:170
+Birth:1922-01-05
+Age:93
+Exp:1
+School:Dartmouth
+OwingTeam:BOS

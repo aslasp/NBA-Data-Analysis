@@ -1,0 +1,10 @@
+Name:Dick Holub
+Number:11
+Position:C
+Height:6-6
+Weight:205
+Birth:1921-10-29
+Age:93
+Exp:0
+School:Long Island-Brooklyn
+OwingTeam:NYK

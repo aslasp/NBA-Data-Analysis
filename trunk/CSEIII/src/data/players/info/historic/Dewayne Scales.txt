@@ -1,0 +1,10 @@
+Name:Dewayne Scales
+Number:32
+Position:F
+Height:6-8
+Weight:208
+Birth:1958-12-28
+Age:56
+Exp:2
+School:Louisiana State
+OwingTeam:WAS

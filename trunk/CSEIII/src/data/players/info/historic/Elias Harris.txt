@@ -1,0 +1,10 @@
+Name:Elias Harris
+Number:
+Position:
+Height:
+Weight:
+Birth:1989-07-06
+Age:25
+Exp:0
+School:Gonzaga
+OwingTeam:

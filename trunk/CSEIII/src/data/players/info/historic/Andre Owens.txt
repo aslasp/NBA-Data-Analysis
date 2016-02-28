@@ -1,0 +1,10 @@
+Name:Andre Owens
+Number:20
+Position:G
+Height:6-4
+Weight:200
+Birth:1980-10-31
+Age:34
+Exp:1
+School:Houston
+OwingTeam:IND

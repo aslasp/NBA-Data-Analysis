@@ -1,0 +1,10 @@
+Name:Slick Watts
+Number:00
+Position:G
+Height:6-1
+Weight:175
+Birth:1951-07-22
+Age:63
+Exp:5
+School:Xavier 
+OwingTeam:HOU

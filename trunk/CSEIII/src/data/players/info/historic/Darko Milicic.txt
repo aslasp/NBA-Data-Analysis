@@ -1,0 +1,10 @@
+Name:Darko Milicic
+Number:
+Position:
+Height:
+Weight:
+Birth:1985-06-20
+Age:29
+Exp:0
+School:Novi Sad
+OwingTeam:

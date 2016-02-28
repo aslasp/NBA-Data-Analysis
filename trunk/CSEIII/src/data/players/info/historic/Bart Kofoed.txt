@@ -1,0 +1,10 @@
+Name:Bart Kofoed
+Number:12
+Position:F
+Height:6-4
+Weight:210
+Birth:1964-03-24
+Age:51
+Exp:4
+School:Nebraska-Kearney
+OwingTeam:BOS

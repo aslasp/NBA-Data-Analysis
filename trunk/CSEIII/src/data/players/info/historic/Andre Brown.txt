@@ -1,0 +1,10 @@
+Name:Andre Brown
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-05-12
+Age:34
+Exp:0
+School:DePaul
+OwingTeam:

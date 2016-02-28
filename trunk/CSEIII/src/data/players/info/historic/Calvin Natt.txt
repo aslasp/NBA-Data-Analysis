@@ -1,0 +1,10 @@
+Name:Calvin Natt
+Number:42
+Position:F
+Height:6-6
+Weight:220
+Birth:1957-01-08
+Age:58
+Exp:10
+School:Louisiana-Monroe
+OwingTeam:IND

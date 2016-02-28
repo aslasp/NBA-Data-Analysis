@@ -1,0 +1,10 @@
+Name:Michael Jackson
+Number:2
+Position:G
+Height:6-2
+Weight:183
+Birth:1964-07-13
+Age:50
+Exp:2
+School:Georgetown
+OwingTeam:SAC

@@ -1,0 +1,10 @@
+Name:George Senesky
+Number:8
+Position:G
+Height:6-2
+Weight:179
+Birth:1922-04-04
+Age:93
+Exp:7
+School:Saint Joseph
+OwingTeam:PHW

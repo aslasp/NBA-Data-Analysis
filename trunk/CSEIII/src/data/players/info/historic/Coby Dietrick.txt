@@ -1,0 +1,10 @@
+Name:Coby Dietrick
+Number:25
+Position:C
+Height:6-11
+Weight:220
+Birth:1948-07-23
+Age:66
+Exp:6
+School:San Jose State
+OwingTeam:SAN

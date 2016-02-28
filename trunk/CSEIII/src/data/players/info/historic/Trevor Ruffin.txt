@@ -1,0 +1,10 @@
+Name:Trevor Ruffin
+Number:8
+Position:G
+Height:6-1
+Weight:199
+Birth:1970-09-26
+Age:44
+Exp:1
+School:Hawaii
+OwingTeam:PHL

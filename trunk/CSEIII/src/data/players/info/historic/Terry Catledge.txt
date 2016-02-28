@@ -1,0 +1,10 @@
+Name:Terry Catledge
+Number:33
+Position:F
+Height:6-8
+Weight:220
+Birth:1963-08-22
+Age:51
+Exp:7
+School:South Alabama
+OwingTeam:ORL

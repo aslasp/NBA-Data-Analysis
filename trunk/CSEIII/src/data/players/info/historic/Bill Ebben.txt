@@ -1,0 +1,10 @@
+Name:Bill Ebben
+Number:6
+Position:G
+Height:6-4
+Weight:190
+Birth:1935-10-07
+Age:79
+Exp:0
+School:Detroit Mercy
+OwingTeam:DET

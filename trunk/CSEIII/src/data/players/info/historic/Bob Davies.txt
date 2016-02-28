@@ -1,0 +1,10 @@
+Name:Bob Davies
+Number:11
+Position:G
+Height:6-1
+Weight:175
+Birth:1920-01-15
+Age:95
+Exp:6
+School:Seton Hall
+OwingTeam:ROC

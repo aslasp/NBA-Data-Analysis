@@ -1,0 +1,10 @@
+Name:Laron Profit
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-08-05
+Age:37
+Exp:0
+School:Maryland
+OwingTeam:

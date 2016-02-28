@@ -1,0 +1,10 @@
+Name:Keith Closs
+Number:33
+Position:C
+Height:7-3
+Weight:212
+Birth:1976-04-03
+Age:39
+Exp:3
+School:Central Connecticut State
+OwingTeam:LAC

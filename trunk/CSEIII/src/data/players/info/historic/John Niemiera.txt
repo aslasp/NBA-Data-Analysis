@@ -1,0 +1,10 @@
+Name:John Niemiera
+Number:
+Position:G
+Height:6-1
+Weight:165
+Birth:1921-05-26
+Age:94
+Exp:1
+School:Notre Dame
+OwingTeam:AND

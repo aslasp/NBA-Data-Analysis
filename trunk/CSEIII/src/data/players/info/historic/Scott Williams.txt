@@ -1,0 +1,10 @@
+Name:Scott Williams
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-03-21
+Age:47
+Exp:0
+School:North Carolina
+OwingTeam:

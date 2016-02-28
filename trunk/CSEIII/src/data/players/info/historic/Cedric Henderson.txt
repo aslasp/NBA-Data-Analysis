@@ -1,0 +1,10 @@
+Name:Cedric Henderson
+Number:
+Position:F
+Height:6-8
+Weight:210
+Birth:1965-10-03
+Age:49
+Exp:0
+School:Georgia
+OwingTeam:MIL

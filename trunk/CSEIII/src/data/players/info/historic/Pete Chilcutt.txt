@@ -1,0 +1,10 @@
+Name:Pete Chilcutt
+Number:24
+Position:F
+Height:6-10
+Weight:245
+Birth:1968-09-14
+Age:46
+Exp:8
+School:North Carolina
+OwingTeam:LAC

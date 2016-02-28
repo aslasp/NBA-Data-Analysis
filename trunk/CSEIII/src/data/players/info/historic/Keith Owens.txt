@@ -1,0 +1,10 @@
+Name:Keith Owens
+Number:25
+Position:F
+Height:6-7
+Weight:225
+Birth:1969-05-31
+Age:46
+Exp:0
+School:California-Los Angeles
+OwingTeam:LAL

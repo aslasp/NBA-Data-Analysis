@@ -1,0 +1,10 @@
+Name:Red Holzman
+Number:10
+Position:G
+Height:5-10
+Weight:175
+Birth:1920-08-10
+Age:94
+Exp:5
+School:City College of New York
+OwingTeam:MIH

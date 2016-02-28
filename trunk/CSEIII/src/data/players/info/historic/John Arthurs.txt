@@ -1,0 +1,10 @@
+Name:John Arthurs
+Number:12
+Position:G
+Height:6-4
+Weight:185
+Birth:1947-08-15
+Age:67
+Exp:0
+School:Tulane
+OwingTeam:MIL

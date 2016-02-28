@@ -1,0 +1,10 @@
+Name:Tim Hardaway
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-09-01
+Age:48
+Exp:0
+School:Texas-El Paso
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Wiley Peck
+Number:54
+Position:G
+Height:6-7
+Weight:220
+Birth:1957-09-15
+Age:57
+Exp:0
+School:Mississippi State
+OwingTeam:SAN

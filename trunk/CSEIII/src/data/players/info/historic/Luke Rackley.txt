@@ -1,0 +1,10 @@
+Name:Luke Rackley
+Number:42
+Position:C
+Height:6-10
+Weight:220
+Birth:1946-06-11
+Age:68
+Exp:4
+School:Xavier
+OwingTeam:PHL

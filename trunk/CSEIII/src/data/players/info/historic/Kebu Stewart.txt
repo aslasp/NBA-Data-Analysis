@@ -1,0 +1,10 @@
+Name:Kebu Stewart
+Number:41
+Position:F
+Height:6-8
+Weight:239
+Birth:1973-12-19
+Age:41
+Exp:0
+School:Cal State-Bakersfield
+OwingTeam:PHI

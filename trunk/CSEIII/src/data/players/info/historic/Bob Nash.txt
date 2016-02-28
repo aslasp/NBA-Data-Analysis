@@ -1,0 +1,10 @@
+Name:Bob Nash
+Number:55
+Position:F
+Height:6-8
+Weight:195
+Birth:1950-08-24
+Age:64
+Exp:3
+School:Hawaii
+OwingTeam:KCK

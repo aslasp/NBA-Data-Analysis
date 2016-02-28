@@ -1,0 +1,10 @@
+Name:Chuck Osborne
+Number:23
+Position:F
+Height:6-6
+Weight:210
+Birth:1939-01-21
+Age:76
+Exp:0
+School:Western Kentucky
+OwingTeam:SYR

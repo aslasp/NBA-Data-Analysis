@@ -1,0 +1,10 @@
+Name:Larry Nance
+Number:22
+Position:F
+Height:6-10
+Weight:205
+Birth:1959-02-12
+Age:56
+Exp:12
+School:Clemson
+OwingTeam:CLE

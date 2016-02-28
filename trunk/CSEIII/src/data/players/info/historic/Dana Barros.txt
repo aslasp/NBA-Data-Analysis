@@ -1,0 +1,10 @@
+Name:Dana Barros
+Number:
+Position:G
+Height:5-11
+Weight:165
+Birth:1967-04-13
+Age:48
+Exp:13
+School:Boston College
+OwingTeam:BOS

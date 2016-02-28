@@ -1,0 +1,10 @@
+Name:Dave Scholz
+Number:25
+Position:F
+Height:6-8
+Weight:220
+Birth:1948-04-12
+Age:67
+Exp:0
+School:Illinois
+OwingTeam:PHL

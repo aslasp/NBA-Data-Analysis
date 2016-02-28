@@ -1,0 +1,10 @@
+Name:Scott Roth
+Number:3
+Position:F
+Height:6-8
+Weight:212
+Birth:1963-06-03
+Age:51
+Exp:2
+School:Wisconsin
+OwingTeam:MIN

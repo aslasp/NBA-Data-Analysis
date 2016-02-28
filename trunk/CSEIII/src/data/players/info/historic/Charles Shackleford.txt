@@ -1,0 +1,10 @@
+Name:Charles Shackleford
+Number:33
+Position:C
+Height:6-11
+Weight:245
+Birth:1966-04-22
+Age:49
+Exp:5
+School:North Carolina State
+OwingTeam:CHH

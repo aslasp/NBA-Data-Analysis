@@ -1,0 +1,10 @@
+Name:Matt Harpring
+Number:15
+Position:F
+Height:6-7
+Weight:230
+Birth:1976-05-31
+Age:39
+Exp:10
+School:Georgia Tech
+OwingTeam:UTA

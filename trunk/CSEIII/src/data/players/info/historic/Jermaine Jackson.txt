@@ -1,0 +1,10 @@
+Name:Jermaine Jackson
+Number:5
+Position:G
+Height:6-5
+Weight:204
+Birth:1976-06-07
+Age:38
+Exp:4
+School:Detroit Mercy
+OwingTeam:MIL

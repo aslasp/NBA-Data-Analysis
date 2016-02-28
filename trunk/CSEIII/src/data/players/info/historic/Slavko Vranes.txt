@@ -1,0 +1,10 @@
+Name:Slavko Vranes
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-01-30
+Age:32
+Exp:0
+School:Yugoslavia
+OwingTeam:

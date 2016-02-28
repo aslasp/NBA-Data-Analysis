@@ -1,0 +1,10 @@
+Name:Dexter Boney
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-04-27
+Age:45
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Stan Kimbrough
+Number:21
+Position:F
+Height:5-11
+Weight:153
+Birth:1966-04-24
+Age:49
+Exp:1
+School:Xavier
+OwingTeam:SAC

@@ -1,0 +1,10 @@
+Name:Larry Kenon
+Number:9
+Position:F
+Height:6-9
+Weight:205
+Birth:1952-12-13
+Age:62
+Exp:6
+School:Memphis
+OwingTeam:CLE

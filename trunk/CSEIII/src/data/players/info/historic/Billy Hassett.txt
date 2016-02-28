@@ -1,0 +1,10 @@
+Name:Billy Hassett
+Number:
+Position:G
+Height:5-10
+Weight:180
+Birth:1921-10-21
+Age:93
+Exp:1
+School:Notre Dame
+OwingTeam:BAL

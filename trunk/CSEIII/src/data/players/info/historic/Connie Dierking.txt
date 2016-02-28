@@ -1,0 +1,10 @@
+Name:Connie Dierking
+Number:18
+Position:C
+Height:6-10
+Weight:222
+Birth:1936-10-02
+Age:78
+Exp:9
+School:Cincinnati
+OwingTeam:PHL

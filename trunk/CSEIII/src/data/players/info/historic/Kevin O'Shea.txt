@@ -1,0 +1,10 @@
+Name:Kevin O'Shea
+Number:
+Position:G
+Height:6-2
+Weight:175
+Birth:1925-07-10
+Age:89
+Exp:2
+School:Notre Dame
+OwingTeam:BAL

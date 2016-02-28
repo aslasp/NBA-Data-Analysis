@@ -1,0 +1,10 @@
+Name:Haywoode Workman
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-01-23
+Age:49
+Exp:0
+School:Oral Roberts
+OwingTeam:

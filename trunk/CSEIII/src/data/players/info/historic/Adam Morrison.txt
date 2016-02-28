@@ -1,0 +1,10 @@
+Name:Adam Morrison
+Number:6
+Position:F
+Height:6-8
+Weight:205
+Birth:1984-07-19
+Age:30
+Exp:2
+School:Gonzaga
+OwingTeam:LAL

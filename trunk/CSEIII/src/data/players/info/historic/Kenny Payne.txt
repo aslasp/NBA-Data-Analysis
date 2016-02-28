@@ -1,0 +1,10 @@
+Name:Kenny Payne
+Number:21
+Position:F
+Height:6-8
+Weight:195
+Birth:1966-11-25
+Age:48
+Exp:3
+School:Louisville
+OwingTeam:PHL

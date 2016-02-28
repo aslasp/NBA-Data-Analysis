@@ -1,0 +1,10 @@
+Name:Vern Mikkelsen
+Number:19
+Position:F
+Height:6-7
+Weight:230
+Birth:1928-10-21
+Age:86
+Exp:9
+School:Hamline
+OwingTeam:MNL

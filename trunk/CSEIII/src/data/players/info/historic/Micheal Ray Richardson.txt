@@ -1,0 +1,10 @@
+Name:Micheal Ray Richardson
+Number:20
+Position:G
+Height:6-5
+Weight:189
+Birth:1955-04-11
+Age:60
+Exp:7
+School:Montana
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Bob Miller
+Number:41
+Position:F
+Height:6-10
+Weight:230
+Birth:1956-07-09
+Age:58
+Exp:0
+School:Cincinnati
+OwingTeam:SAN

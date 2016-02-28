@@ -1,0 +1,10 @@
+Name:Ken McBride
+Number:4
+Position:F
+Height:6-3
+Weight:190
+Birth:1905-04-14
+Age:110
+Exp:0
+School:Maryland-Eastern Shore
+OwingTeam:MIH

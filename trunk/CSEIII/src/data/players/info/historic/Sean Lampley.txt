@@ -1,0 +1,10 @@
+Name:Sean Lampley
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-09-03
+Age:35
+Exp:0
+School:California
+OwingTeam:

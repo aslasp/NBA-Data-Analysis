@@ -1,0 +1,10 @@
+Name:Trenton Hassell
+Number:44
+Position:F-G
+Height:6-5
+Weight:227
+Birth:1979-03-04
+Age:36
+Exp:8
+School:Austin Peay
+OwingTeam:NJN

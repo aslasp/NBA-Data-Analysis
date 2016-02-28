@@ -1,0 +1,10 @@
+Name:Darnell Jackson
+Number:41
+Position:F
+Height:6-9
+Weight:253
+Birth:1985-11-07
+Age:29
+Exp:2
+School:Kansas
+OwingTeam:SAC

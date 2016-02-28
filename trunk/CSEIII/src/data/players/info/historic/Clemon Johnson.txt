@@ -1,0 +1,10 @@
+Name:Clemon Johnson
+Number:45
+Position:C
+Height:6-10
+Weight:240
+Birth:1956-09-12
+Age:58
+Exp:9
+School:Florida A
+OwingTeam:SEA

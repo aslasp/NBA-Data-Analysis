@@ -1,0 +1,10 @@
+Name:Marv Schatzman
+Number:
+Position:F
+Height:6-5
+Weight:200
+Birth:1927-02-18
+Age:88
+Exp:0
+School:Saint Louis
+OwingTeam:BAL

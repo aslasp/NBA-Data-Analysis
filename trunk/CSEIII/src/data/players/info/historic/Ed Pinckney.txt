@@ -1,0 +1,10 @@
+Name:Ed Pinckney
+Number:54
+Position:F
+Height:6-9
+Weight:240
+Birth:1963-03-27
+Age:52
+Exp:11
+School:Villanova
+OwingTeam:MIA

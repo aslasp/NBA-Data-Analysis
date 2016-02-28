@@ -1,0 +1,10 @@
+Name:Tom McMillen
+Number:54
+Position:F
+Height:6-11
+Weight:215
+Birth:1952-05-26
+Age:63
+Exp:10
+School:Maryland
+OwingTeam:WAS

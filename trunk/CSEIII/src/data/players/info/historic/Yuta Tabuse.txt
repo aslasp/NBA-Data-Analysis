@@ -1,0 +1,10 @@
+Name:Yuta Tabuse
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-10-05
+Age:34
+Exp:0
+School:Brigham Young-Hawaii
+OwingTeam:

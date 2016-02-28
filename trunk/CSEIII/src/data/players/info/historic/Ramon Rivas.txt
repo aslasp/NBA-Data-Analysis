@@ -1,0 +1,10 @@
+Name:Ramon Rivas
+Number:45
+Position:F
+Height:6-10
+Weight:260
+Birth:1966-06-03
+Age:48
+Exp:0
+School:Temple
+OwingTeam:BOS

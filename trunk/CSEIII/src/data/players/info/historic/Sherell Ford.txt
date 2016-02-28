@@ -1,0 +1,10 @@
+Name:Sherell Ford
+Number:1
+Position:F
+Height:6-7
+Weight:210
+Birth:1972-08-26
+Age:42
+Exp:0
+School:Illinois-Chicago
+OwingTeam:SEA

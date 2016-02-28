@@ -1,0 +1,10 @@
+Name:Ronald Murray
+Number:6
+Position:G
+Height:6-3
+Weight:200
+Birth:1979-07-29
+Age:35
+Exp:7
+School:Shaw
+OwingTeam:CHI

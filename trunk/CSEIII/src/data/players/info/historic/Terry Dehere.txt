@@ -1,0 +1,10 @@
+Name:Terry Dehere
+Number:24
+Position:G
+Height:6-4
+Weight:190
+Birth:1971-09-12
+Age:43
+Exp:5
+School:Seton Hall
+OwingTeam:VAN

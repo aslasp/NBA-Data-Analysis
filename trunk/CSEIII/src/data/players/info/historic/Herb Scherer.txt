@@ -1,0 +1,10 @@
+Name:Herb Scherer
+Number:19-22
+Position:C
+Height:6-9
+Weight:212
+Birth:1929-12-21
+Age:85
+Exp:1
+School:Long Island-Brooklyn
+OwingTeam:NYK

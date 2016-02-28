@@ -1,0 +1,10 @@
+Name:Forest Able
+Number:6
+Position:G
+Height:6-3
+Weight:180
+Birth:1932-07-27
+Age:82
+Exp:0
+School:Western Kentucky
+OwingTeam:SYR

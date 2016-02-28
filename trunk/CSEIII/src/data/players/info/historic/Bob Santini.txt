@@ -1,0 +1,10 @@
+Name:Bob Santini
+Number:5
+Position:F
+Height:6-5
+Weight:190
+Birth:1935-02-17
+Age:80
+Exp:0
+School:Iona
+OwingTeam:NYK

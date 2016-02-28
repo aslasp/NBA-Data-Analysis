@@ -1,0 +1,10 @@
+Name:Lawrence Moten
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-03-25
+Age:43
+Exp:0
+School:Syracuse
+OwingTeam:

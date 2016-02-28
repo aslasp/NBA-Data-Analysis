@@ -1,0 +1,10 @@
+Name:Robert Nordmann
+Number:34
+Position:C
+Height:6-10
+Weight:225
+Birth:1939-12-11
+Age:75
+Exp:3
+School:Saint Louis
+OwingTeam:BOS

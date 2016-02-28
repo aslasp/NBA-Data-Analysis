@@ -1,0 +1,10 @@
+Name:Frido Frey
+Number:4
+Position:F
+Height:6-2
+Weight:195
+Birth:1921-10-26
+Age:93
+Exp:0
+School:Long Island-Brooklyn
+OwingTeam:NYK

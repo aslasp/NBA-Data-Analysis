@@ -1,0 +1,10 @@
+Name:Hiram Fuller
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-05-13
+Age:34
+Exp:0
+School:Fresno State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Terrel Harris
+Number:12
+Position:G
+Height:6-4
+Weight:190
+Birth:1987-08-10
+Age:27
+Exp:1
+School:Oklahoma State
+OwingTeam:NOH

@@ -1,0 +1,10 @@
+Name:Wilson Washington
+Number:42
+Position:F
+Height:6-9
+Weight:227
+Birth:1955-08-03
+Age:59
+Exp:1
+School:Old Dominion
+OwingTeam:NJN

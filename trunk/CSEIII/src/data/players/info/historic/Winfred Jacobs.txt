@@ -1,0 +1,10 @@
+Name:Winfred Jacobs
+Number:
+Position:F
+Height:6-3
+Weight:175
+Birth:1922-12-02
+Age:92
+Exp:0
+School:Denver
+OwingTeam:BOM

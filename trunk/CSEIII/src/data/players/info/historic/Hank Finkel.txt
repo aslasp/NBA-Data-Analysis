@@ -1,0 +1,10 @@
+Name:Hank Finkel
+Number:29
+Position:C
+Height:7-0
+Weight:240
+Birth:1942-04-20
+Age:73
+Exp:8
+School:Dayton
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Samuel Williams
+Number:
+Position:F
+Height:6-8
+Weight:210
+Birth:1959-03-07
+Age:56
+Exp:3
+School:Arizona State
+OwingTeam:PHL

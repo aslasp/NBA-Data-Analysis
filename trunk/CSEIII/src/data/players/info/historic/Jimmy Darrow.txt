@@ -1,0 +1,10 @@
+Name:Jimmy Darrow
+Number: 
+Position:G
+Height:5-10
+Weight:170
+Birth:1937-09-25
+Age:77
+Exp:0
+School:Bowling Green
+OwingTeam:STL

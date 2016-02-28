@@ -1,0 +1,10 @@
+Name:Carl Herrera
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-12-14
+Age:48
+Exp:0
+School:Houston
+OwingTeam:

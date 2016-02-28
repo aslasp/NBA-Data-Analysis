@@ -1,0 +1,10 @@
+Name:Tim Young
+Number:55
+Position:C
+Height:7-2
+Weight:270
+Birth:1976-02-06
+Age:39
+Exp:0
+School:Stanford
+OwingTeam:GSW

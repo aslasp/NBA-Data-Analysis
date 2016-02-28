@@ -1,0 +1,10 @@
+Name:Ronnie Grandison
+Number:20
+Position:F
+Height:6-6
+Weight:220
+Birth:1964-07-09
+Age:50
+Exp:3
+School:New Orleans
+OwingTeam:NYK

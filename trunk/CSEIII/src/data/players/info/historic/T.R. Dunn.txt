@@ -1,0 +1,10 @@
+Name:T.R. Dunn
+Number:23
+Position:G
+Height:6-4
+Weight:192
+Birth:1955-02-01
+Age:60
+Exp:13
+School:Alabama
+OwingTeam:DEN

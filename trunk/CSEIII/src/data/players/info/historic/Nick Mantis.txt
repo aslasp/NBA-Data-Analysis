@@ -1,0 +1,10 @@
+Name:Nick Mantis
+Number:23
+Position:G
+Height:6-3
+Weight:190
+Birth:1935-12-07
+Age:79
+Exp:1
+School:Northwestern
+OwingTeam:CHZ

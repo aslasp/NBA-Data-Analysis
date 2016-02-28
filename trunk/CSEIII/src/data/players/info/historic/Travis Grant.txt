@@ -1,0 +1,10 @@
+Name:Travis Grant
+Number:33
+Position:F
+Height:6-7
+Weight:215
+Birth:1950-01-01
+Age:65
+Exp:1
+School:Kentucky State
+OwingTeam:LAL

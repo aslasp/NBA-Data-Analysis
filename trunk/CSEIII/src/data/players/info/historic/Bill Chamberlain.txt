@@ -1,0 +1,10 @@
+Name:Bill Chamberlain
+Number:24
+Position:F
+Height:6-6
+Weight:188
+Birth:1949-12-16
+Age:65
+Exp:0
+School:North Carolina
+OwingTeam:PHX

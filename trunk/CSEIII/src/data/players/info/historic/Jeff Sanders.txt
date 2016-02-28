@@ -1,0 +1,10 @@
+Name:Jeff Sanders
+Number:34
+Position:F
+Height:6-8
+Weight:225
+Birth:1966-01-14
+Age:49
+Exp:3
+School:Georgia Southern
+OwingTeam:ATL

@@ -1,0 +1,10 @@
+Name:Lloyd Daniels
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-09-04
+Age:47
+Exp:0
+School:Mt. San Antonio
+OwingTeam:

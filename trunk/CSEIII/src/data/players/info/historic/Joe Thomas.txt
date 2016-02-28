@@ -1,0 +1,10 @@
+Name:Joe Thomas
+Number:40
+Position:F
+Height:6-6
+Weight:205
+Birth:1948-06-27
+Age:66
+Exp:0
+School:Marquette
+OwingTeam:PHX

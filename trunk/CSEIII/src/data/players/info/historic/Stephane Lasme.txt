@@ -1,0 +1,10 @@
+Name:Stephane Lasme
+Number:45
+Position:F
+Height:6-8
+Weight:215
+Birth:1982-12-17
+Age:32
+Exp:0
+School:Massachusetts
+OwingTeam:MIA

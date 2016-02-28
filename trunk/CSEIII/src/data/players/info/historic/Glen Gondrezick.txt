@@ -1,0 +1,10 @@
+Name:Glen Gondrezick
+Number:22
+Position:F
+Height:6-6
+Weight:218
+Birth:1955-08-30
+Age:59
+Exp:5
+School:Nevada-Las Vegas
+OwingTeam:DEN

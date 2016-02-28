@@ -1,0 +1,10 @@
+Name:Ray Felix
+Number:14
+Position:C
+Height:6-11
+Weight:220
+Birth:1930-12-10
+Age:84
+Exp:8
+School:Long Island-Brooklyn
+OwingTeam:LAL

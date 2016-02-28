@@ -1,0 +1,10 @@
+Name:Cleveland Buckner
+Number:12
+Position:F
+Height:6-9
+Weight:210
+Birth:1938-08-17
+Age:76
+Exp:1
+School:Jackson State
+OwingTeam:NYK

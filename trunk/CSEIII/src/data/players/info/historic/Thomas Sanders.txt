@@ -1,0 +1,10 @@
+Name:Thomas Sanders
+Number:16
+Position:F
+Height:6-6
+Weight:210
+Birth:1938-11-08
+Age:76
+Exp:12
+School:New York University
+OwingTeam:BOS

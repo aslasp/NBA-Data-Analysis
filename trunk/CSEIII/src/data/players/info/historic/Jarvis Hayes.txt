@@ -1,0 +1,10 @@
+Name:Jarvis Hayes
+Number:22
+Position:F
+Height:6-8
+Weight:228
+Birth:1981-08-09
+Age:33
+Exp:6
+School:Georgia
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Arvydas Sabonis
+Number:11
+Position:C
+Height:7-3
+Weight:292
+Birth:1964-12-19
+Age:50
+Exp:6
+School:Lithuania
+OwingTeam:POR

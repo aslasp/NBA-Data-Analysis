@@ -1,0 +1,10 @@
+Name:Geoff Petrie
+Number:45
+Position:G
+Height:6-4
+Weight:190
+Birth:1948-04-17
+Age:67
+Exp:5
+School:Princeton
+OwingTeam:POR

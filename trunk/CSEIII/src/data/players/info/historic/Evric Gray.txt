@@ -1,0 +1,10 @@
+Name:Evric Gray
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-12-13
+Age:45
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:

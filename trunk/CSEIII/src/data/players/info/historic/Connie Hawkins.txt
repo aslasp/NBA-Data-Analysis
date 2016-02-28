@@ -1,0 +1,10 @@
+Name:Connie Hawkins
+Number:42
+Position:F
+Height:6-8
+Weight:210
+Birth:1942-07-17
+Age:72
+Exp:6
+School:Iowa
+OwingTeam:ATL

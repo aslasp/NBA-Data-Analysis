@@ -1,0 +1,10 @@
+Name:Robert Vaden
+Number:30
+Position:G-F
+Height:6-5
+Weight:205
+Birth:1985-03-03
+Age:30
+Exp:0
+School:Alabama-Birmingham
+OwingTeam:OKC

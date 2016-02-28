@@ -1,0 +1,10 @@
+Name:Yaroslav Korolev
+Number:8
+Position:F
+Height:6-9
+Weight:203
+Birth:1987-05-07
+Age:28
+Exp:1
+School:Russia
+OwingTeam:LAC

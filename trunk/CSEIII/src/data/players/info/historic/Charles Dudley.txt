@@ -1,0 +1,10 @@
+Name:Charles Dudley
+Number:5
+Position:G
+Height:6-2
+Weight:180
+Birth:1950-03-05
+Age:65
+Exp:5
+School:Washington
+OwingTeam:CHI

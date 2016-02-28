@@ -1,0 +1,10 @@
+Name:Richard Petruska
+Number:3
+Position:C
+Height:6-10
+Weight:260
+Birth:1969-01-25
+Age:46
+Exp:0
+School:California-Los Angeles
+OwingTeam:HOU

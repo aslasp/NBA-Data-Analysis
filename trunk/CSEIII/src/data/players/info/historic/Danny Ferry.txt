@@ -1,0 +1,10 @@
+Name:Danny Ferry
+Number:35
+Position:F
+Height:6-10
+Weight:235
+Birth:1966-10-17
+Age:48
+Exp:12
+School:Duke
+OwingTeam:SAS

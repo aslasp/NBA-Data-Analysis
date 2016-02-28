@@ -1,0 +1,10 @@
+Name:Bill Hewitt
+Number:31
+Position:F
+Height:6-7
+Weight:210
+Birth:1944-08-08
+Age:70
+Exp:5
+School:Southern California
+OwingTeam:CHI

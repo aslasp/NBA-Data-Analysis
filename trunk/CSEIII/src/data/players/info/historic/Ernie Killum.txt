@@ -1,0 +1,10 @@
+Name:Ernie Killum
+Number:20
+Position:G
+Height:6-3
+Weight:180
+Birth:1948-06-11
+Age:66
+Exp:0
+School:Stetson
+OwingTeam:LAL

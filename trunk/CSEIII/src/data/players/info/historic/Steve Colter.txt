@@ -1,0 +1,10 @@
+Name:Steve Colter
+Number:5
+Position:G
+Height:6-3
+Weight:165
+Birth:1962-07-24
+Age:52
+Exp:7
+School:New Mexico State
+OwingTeam:CLE

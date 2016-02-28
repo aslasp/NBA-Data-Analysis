@@ -1,0 +1,10 @@
+Name:Donta Smith
+Number:15
+Position:G
+Height:6-7
+Weight:215
+Birth:1983-11-27
+Age:31
+Exp:1
+School:Southeastern Illinois
+OwingTeam:ATL

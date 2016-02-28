@@ -1,0 +1,10 @@
+Name:David Rivers
+Number:32
+Position:G
+Height:6-0
+Weight:170
+Birth:1965-01-20
+Age:50
+Exp:2
+School:Notre Dame
+OwingTeam:LAC

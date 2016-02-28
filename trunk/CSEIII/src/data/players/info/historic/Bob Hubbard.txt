@@ -1,0 +1,10 @@
+Name:Bob Hubbard
+Number:
+Position:C
+Height:6-6
+Weight:215
+Birth:1922-12-27
+Age:92
+Exp:1
+School:Springfield
+OwingTeam:PRO

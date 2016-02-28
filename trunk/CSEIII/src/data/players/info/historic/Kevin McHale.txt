@@ -1,0 +1,10 @@
+Name:Kevin McHale
+Number:32
+Position:F
+Height:6-10
+Weight:210
+Birth:1957-12-19
+Age:57
+Exp:12
+School:Minnesota
+OwingTeam:BOS

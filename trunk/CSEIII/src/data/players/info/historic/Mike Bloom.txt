@@ -1,0 +1,10 @@
+Name:Mike Bloom
+Number:11
+Position:C
+Height:6-6
+Weight:190
+Birth:1915-01-14
+Age:100
+Exp:1
+School:Temple
+OwingTeam:MNL

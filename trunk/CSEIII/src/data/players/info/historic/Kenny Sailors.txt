@@ -1,0 +1,10 @@
+Name:Kenny Sailors
+Number:
+Position:G
+Height:5-10
+Weight:175
+Birth:1922-01-14
+Age:93
+Exp:4
+School:Wyoming
+OwingTeam:BAL

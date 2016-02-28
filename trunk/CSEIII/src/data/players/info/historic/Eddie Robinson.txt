@@ -1,0 +1,10 @@
+Name:Eddie Robinson
+Number:32
+Position:F
+Height:6-9
+Weight:210
+Birth:1976-04-19
+Age:39
+Exp:4
+School:Central Oklahoma
+OwingTeam:CHI

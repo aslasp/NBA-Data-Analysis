@@ -1,0 +1,10 @@
+Name:Toni Kukoc
+Number:7
+Position:F
+Height:6-11
+Weight:235
+Birth:1968-09-18
+Age:46
+Exp:12
+School:Croatia
+OwingTeam:MIL

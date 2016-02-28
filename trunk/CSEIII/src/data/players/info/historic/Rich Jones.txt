@@ -1,0 +1,10 @@
+Name:Rich Jones
+Number:33
+Position:F
+Height:6-8
+Weight:220
+Birth:1946-12-27
+Age:68
+Exp:0
+School:Memphis
+OwingTeam:NYN

@@ -1,0 +1,10 @@
+Name:John Trapp
+Number:31
+Position:F
+Height:6-7
+Weight:210
+Birth:1945-10-02
+Age:69
+Exp:4
+School:Nevada-Las Vegas
+OwingTeam:PHL

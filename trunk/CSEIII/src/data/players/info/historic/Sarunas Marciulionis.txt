@@ -1,0 +1,10 @@
+Name:Sarunas Marciulionis
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-06-13
+Age:50
+Exp:0
+School:Lithuania
+OwingTeam:

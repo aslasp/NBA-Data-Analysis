@@ -1,0 +1,10 @@
+Name:Bill Jones
+Number:20
+Position:F
+Height:6-7
+Weight:175
+Birth:1966-03-18
+Age:49
+Exp:0
+School:Iowa
+OwingTeam:NJN

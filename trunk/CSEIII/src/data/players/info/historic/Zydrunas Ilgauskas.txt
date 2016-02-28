@@ -1,0 +1,10 @@
+Name:Zydrunas Ilgauskas
+Number:11
+Position:C
+Height:7-3
+Weight:260
+Birth:1975-06-05
+Age:39
+Exp:12
+School:Kaunas
+OwingTeam:MIA

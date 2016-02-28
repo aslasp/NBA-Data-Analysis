@@ -1,0 +1,10 @@
+Name:Brooks Thompson
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-07-19
+Age:44
+Exp:0
+School:Oklahoma State
+OwingTeam:

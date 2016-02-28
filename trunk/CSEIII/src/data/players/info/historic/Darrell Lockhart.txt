@@ -1,0 +1,10 @@
+Name:Darrell Lockhart
+Number:32
+Position:F
+Height:6-9
+Weight:245
+Birth:1960-09-14
+Age:54
+Exp:0
+School:Auburn
+OwingTeam:SAN

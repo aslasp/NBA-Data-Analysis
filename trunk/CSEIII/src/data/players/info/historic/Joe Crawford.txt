@@ -1,0 +1,10 @@
+Name:Joe Crawford
+Number:5
+Position:G
+Height:6-5
+Weight:210
+Birth:1986-06-17
+Age:28
+Exp:0
+School:Kentucky
+OwingTeam:NYK

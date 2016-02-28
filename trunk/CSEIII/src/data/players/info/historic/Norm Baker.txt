@@ -1,0 +1,10 @@
+Name:Norm Baker
+Number:
+Position:G
+Height:6-0
+Weight:180
+Birth:1923-02-17
+Age:92
+Exp:0
+School:
+OwingTeam:CHS

@@ -1,0 +1,10 @@
+Name:Mel Daniels
+Number:34
+Position:C
+Height:6-9
+Weight:220
+Birth:1944-07-20
+Age:70
+Exp:0
+School:New Mexico
+OwingTeam:NYN

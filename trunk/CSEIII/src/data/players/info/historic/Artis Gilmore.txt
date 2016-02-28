@@ -1,0 +1,10 @@
+Name:Artis Gilmore
+Number:53
+Position:C
+Height:7-2
+Weight:240
+Birth:1948-09-21
+Age:66
+Exp:11
+School:Jacksonville
+OwingTeam:BOS

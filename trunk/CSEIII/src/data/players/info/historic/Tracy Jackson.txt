@@ -1,0 +1,10 @@
+Name:Tracy Jackson
+Number:7
+Position:G
+Height:6-6
+Weight:205
+Birth:1959-04-21
+Age:56
+Exp:2
+School:Notre Dame
+OwingTeam:IND

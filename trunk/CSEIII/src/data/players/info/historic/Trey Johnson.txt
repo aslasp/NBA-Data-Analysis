@@ -1,0 +1,10 @@
+Name:Trey Johnson
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-08-30
+Age:30
+Exp:0
+School:Jackson State
+OwingTeam:

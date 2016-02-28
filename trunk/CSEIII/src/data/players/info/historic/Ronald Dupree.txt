@@ -1,0 +1,10 @@
+Name:Ronald Dupree
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-01-26
+Age:34
+Exp:0
+School:Louisiana State
+OwingTeam:

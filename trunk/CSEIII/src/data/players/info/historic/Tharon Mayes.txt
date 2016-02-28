@@ -1,0 +1,10 @@
+Name:Tharon Mayes
+Number:8
+Position:G
+Height:6-3
+Weight:175
+Birth:1968-09-09
+Age:46
+Exp:0
+School:Florida State
+OwingTeam:LAC

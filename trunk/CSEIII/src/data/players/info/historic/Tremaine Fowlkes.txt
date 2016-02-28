@@ -1,0 +1,10 @@
+Name:Tremaine Fowlkes
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-04-11
+Age:39
+Exp:0
+School:Fresno State
+OwingTeam:

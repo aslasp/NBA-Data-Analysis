@@ -1,0 +1,10 @@
+Name:Pooh Jeter
+Number:5
+Position:G
+Height:5-11
+Weight:175
+Birth:1983-12-02
+Age:31
+Exp:0
+School:Portland
+OwingTeam:SAC

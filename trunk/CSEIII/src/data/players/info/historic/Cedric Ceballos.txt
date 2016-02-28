@@ -1,0 +1,10 @@
+Name:Cedric Ceballos
+Number:23
+Position:F
+Height:6-7
+Weight:220
+Birth:1969-08-02
+Age:45
+Exp:10
+School:Cal State-Fullerton
+OwingTeam:MIA

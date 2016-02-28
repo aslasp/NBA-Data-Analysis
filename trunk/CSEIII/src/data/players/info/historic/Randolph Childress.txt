@@ -1,0 +1,10 @@
+Name:Randolph Childress
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-09-21
+Age:42
+Exp:0
+School:Wake Forest
+OwingTeam:

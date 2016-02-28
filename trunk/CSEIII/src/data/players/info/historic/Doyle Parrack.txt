@@ -1,0 +1,10 @@
+Name:Doyle Parrack
+Number:
+Position:F
+Height:6-0
+Weight:165
+Birth:1921-12-06
+Age:93
+Exp:0
+School:Oklahoma State
+OwingTeam:CHS

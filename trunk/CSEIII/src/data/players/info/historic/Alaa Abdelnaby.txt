@@ -1,0 +1,10 @@
+Name:Alaa Abdelnaby
+Number:30
+Position:F
+Height:6-10
+Weight:240
+Birth:1968-06-24
+Age:46
+Exp:4
+School:Duke
+OwingTeam:PHL

@@ -1,0 +1,10 @@
+Name:Quinton Ross
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-04-30
+Age:34
+Exp:0
+School:Southern Methodist
+OwingTeam:

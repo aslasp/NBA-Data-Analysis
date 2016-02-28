@@ -1,0 +1,10 @@
+Name:Joe Strawder
+Number:16
+Position:C
+Height:6-10
+Weight:235
+Birth:1940-09-21
+Age:74
+Exp:2
+School:Bradley
+OwingTeam:DET

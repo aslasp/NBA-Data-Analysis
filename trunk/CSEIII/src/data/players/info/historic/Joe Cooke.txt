@@ -1,0 +1,10 @@
+Name:Joe Cooke
+Number:10
+Position:G
+Height:6-3
+Weight:175
+Birth:1948-08-14
+Age:66
+Exp:0
+School:Indiana
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Bill Ligon
+Number:26
+Position:G
+Height:6-4
+Weight:180
+Birth:1952-05-19
+Age:63
+Exp:0
+School:Vanderbilt
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Sebastian Telfair
+Number:
+Position:
+Height:
+Weight:
+Birth:1985-06-09
+Age:29
+Exp:0
+School:Abraham Lincoln HS 
+OwingTeam:

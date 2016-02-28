@@ -1,0 +1,10 @@
+Name:Drew Gordon
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-07-12
+Age:24
+Exp:0
+School:New Mexico
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Bill Bridges
+Number:32
+Position:F
+Height:6-5
+Weight:228
+Birth:1939-04-04
+Age:76
+Exp:12
+School:Kansas
+OwingTeam:LAL

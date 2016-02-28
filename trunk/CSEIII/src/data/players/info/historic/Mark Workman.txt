@@ -1,0 +1,10 @@
+Name:Mark Workman
+Number:
+Position:C
+Height:6-9
+Weight:215
+Birth:1930-03-10
+Age:85
+Exp:1
+School:West Virginia
+OwingTeam:BAL

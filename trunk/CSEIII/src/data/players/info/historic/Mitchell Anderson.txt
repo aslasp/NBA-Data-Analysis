@@ -1,0 +1,10 @@
+Name:Mitchell Anderson
+Number:11
+Position:F
+Height:6-8
+Weight:195
+Birth:1960-09-23
+Age:54
+Exp:2
+School:Bradley
+OwingTeam:UTH

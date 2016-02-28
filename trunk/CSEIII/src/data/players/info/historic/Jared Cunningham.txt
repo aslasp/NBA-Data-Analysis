@@ -1,0 +1,10 @@
+Name:Jared Cunningham
+Number:
+Position:
+Height:
+Weight:
+Birth:1991-05-22
+Age:24
+Exp:0
+School:Oregon State
+OwingTeam:

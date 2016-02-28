@@ -1,0 +1,10 @@
+Name:Rodney Buford
+Number:2
+Position:F-G
+Height:6-5
+Weight:195
+Birth:1977-11-02
+Age:37
+Exp:4
+School:Creighton
+OwingTeam:NJN

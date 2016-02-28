@@ -1,0 +1,10 @@
+Name:Monti Davis
+Number:43
+Position:F
+Height:6-7
+Weight:205
+Birth:1958-07-26
+Age:56
+Exp:0
+School:Tennessee State
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Jim McMillian
+Number:5
+Position:F
+Height:6-5
+Weight:215
+Birth:1948-03-11
+Age:67
+Exp:8
+School:Columbia
+OwingTeam:POR

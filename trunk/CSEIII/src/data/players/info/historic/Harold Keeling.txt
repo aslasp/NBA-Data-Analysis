@@ -1,0 +1,10 @@
+Name:Harold Keeling
+Number:43
+Position:G
+Height:6-4
+Weight:185
+Birth:1963-09-18
+Age:51
+Exp:0
+School:Santa Clara
+OwingTeam:DAL

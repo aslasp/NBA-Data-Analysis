@@ -1,0 +1,10 @@
+Name:Steve Mix
+Number:50
+Position:F
+Height:6-7
+Weight:215
+Birth:1947-12-30
+Age:67
+Exp:12
+School:Toledo
+OwingTeam:LAL

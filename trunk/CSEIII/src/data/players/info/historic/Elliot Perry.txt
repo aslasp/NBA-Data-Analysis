@@ -1,0 +1,10 @@
+Name:Elliot Perry
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-03-28
+Age:46
+Exp:0
+School:Memphis
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Clyde Lee
+Number:34
+Position:F
+Height:6-10
+Weight:205
+Birth:1944-03-14
+Age:71
+Exp:9
+School:Vanderbilt
+OwingTeam:PHL

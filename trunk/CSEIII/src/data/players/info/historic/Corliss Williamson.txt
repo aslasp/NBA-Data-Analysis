@@ -1,0 +1,10 @@
+Name:Corliss Williamson
+Number:34
+Position:F
+Height:6-7
+Weight:245
+Birth:1973-12-04
+Age:41
+Exp:11
+School:Arkansas
+OwingTeam:SAC

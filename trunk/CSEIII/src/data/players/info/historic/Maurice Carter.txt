@@ -1,0 +1,10 @@
+Name:Maurice Carter
+Number:5
+Position:G
+Height:6-5
+Weight:210
+Birth:1976-10-12
+Age:38
+Exp:0
+School:Louisiana State
+OwingTeam:NOH

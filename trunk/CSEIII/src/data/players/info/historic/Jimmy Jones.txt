@@ -1,0 +1,10 @@
+Name:Jimmy Jones
+Number:15
+Position:G
+Height:6-4
+Weight:188
+Birth:1945-01-01
+Age:70
+Exp:2
+School:Grambling
+OwingTeam:WAS

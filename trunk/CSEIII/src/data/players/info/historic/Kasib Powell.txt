@@ -1,0 +1,10 @@
+Name:Kasib Powell
+Number:12
+Position:F
+Height:6-7
+Weight:215
+Birth:1981-03-18
+Age:34
+Exp:0
+School:Texas Tech
+OwingTeam:MIA

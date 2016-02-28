@@ -1,0 +1,10 @@
+Name:Jeff Grayer
+Number:20
+Position:G
+Height:6-5
+Weight:210
+Birth:1965-12-17
+Age:49
+Exp:8
+School:Iowa State
+OwingTeam:GSW

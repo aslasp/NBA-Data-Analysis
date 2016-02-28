@@ -1,0 +1,10 @@
+Name:Joe Buckhalter
+Number:21
+Position:F
+Height:6-7
+Weight:210
+Birth:1937-08-01
+Age:77
+Exp:1
+School:Tennessee State
+OwingTeam:CIN

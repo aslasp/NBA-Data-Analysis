@@ -1,0 +1,10 @@
+Name:Jerome Harmon
+Number:40
+Position:G
+Height:6-4
+Weight:190
+Birth:1969-02-06
+Age:46
+Exp:0
+School:Louisville
+OwingTeam:PHL

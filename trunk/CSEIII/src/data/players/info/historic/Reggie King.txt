@@ -1,0 +1,10 @@
+Name:Reggie King
+Number:51
+Position:F
+Height:6-6
+Weight:225
+Birth:1957-02-14
+Age:58
+Exp:5
+School:Alabama
+OwingTeam:SEA

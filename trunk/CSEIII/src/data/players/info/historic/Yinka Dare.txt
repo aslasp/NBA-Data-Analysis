@@ -1,0 +1,10 @@
+Name:Yinka Dare
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-10-10
+Age:42
+Exp:0
+School:George Washington
+OwingTeam:

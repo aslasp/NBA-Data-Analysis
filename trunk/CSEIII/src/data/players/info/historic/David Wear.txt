@@ -1,0 +1,10 @@
+Name:David Wear
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-09-21
+Age:24
+Exp:0
+School:California-Los Angeles
+OwingTeam:

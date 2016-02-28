@@ -1,0 +1,10 @@
+Name:Dan McClintock
+Number:50
+Position:C
+Height:7-0
+Weight:270
+Birth:1977-04-19
+Age:38
+Exp:0
+School:Northern Arizona
+OwingTeam:DEN

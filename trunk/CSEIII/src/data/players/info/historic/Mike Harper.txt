@@ -1,0 +1,10 @@
+Name:Mike Harper
+Number:32
+Position:C
+Height:6-10
+Weight:195
+Birth:1957-12-09
+Age:57
+Exp:1
+School:North Park
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Bobby Wilson
+Number:7
+Position:G
+Height:6-2
+Weight:175
+Birth:1951-01-15
+Age:64
+Exp:3
+School:Wichita State
+OwingTeam:IND

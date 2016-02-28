@@ -1,0 +1,10 @@
+Name:Thales McReynolds
+Number:11
+Position:G
+Height:6-3
+Weight:185
+Birth:1943-06-08
+Age:71
+Exp:0
+School:Miles
+OwingTeam:BLT

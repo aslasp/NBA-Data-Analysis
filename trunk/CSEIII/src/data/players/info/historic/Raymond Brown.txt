@@ -1,0 +1,10 @@
+Name:Raymond Brown
+Number:24
+Position:F
+Height:6-8
+Weight:220
+Birth:1965-07-05
+Age:49
+Exp:0
+School:Idaho
+OwingTeam:UTH

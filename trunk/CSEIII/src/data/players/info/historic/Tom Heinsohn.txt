@@ -1,0 +1,10 @@
+Name:Tom Heinsohn
+Number:15
+Position:F
+Height:6-7
+Weight:218
+Birth:1934-08-26
+Age:80
+Exp:8
+School:Holy Cross
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Antonio Daniels
+Number:22
+Position:G
+Height:6-4
+Weight:205
+Birth:1975-03-19
+Age:40
+Exp:12
+School:Bowling Green
+OwingTeam:PHI

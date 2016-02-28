@@ -1,0 +1,10 @@
+Name:Isaiah Wilson
+Number:10
+Position:G
+Height:6-2
+Weight:175
+Birth:1948-05-31
+Age:67
+Exp:0
+School:Baltimore
+OwingTeam:DET

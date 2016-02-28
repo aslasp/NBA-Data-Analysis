@@ -1,0 +1,10 @@
+Name:Darnell Valentine
+Number:1
+Position:G
+Height:6-2
+Weight:183
+Birth:1959-02-03
+Age:56
+Exp:8
+School:Kansas
+OwingTeam:CLE

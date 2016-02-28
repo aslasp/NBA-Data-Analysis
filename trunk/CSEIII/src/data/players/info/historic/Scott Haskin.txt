@@ -1,0 +1,10 @@
+Name:Scott Haskin
+Number:43
+Position:F
+Height:6-11
+Weight:250
+Birth:1970-09-19
+Age:44
+Exp:0
+School:Oregon State
+OwingTeam:IND

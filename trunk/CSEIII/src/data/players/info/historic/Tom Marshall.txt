@@ -1,0 +1,10 @@
+Name:Tom Marshall
+Number:20
+Position:F
+Height:6-4
+Weight:215
+Birth:1931-01-06
+Age:84
+Exp:3
+School:Western Kentucky
+OwingTeam:CIN

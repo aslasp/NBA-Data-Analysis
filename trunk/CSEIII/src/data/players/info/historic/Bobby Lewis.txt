@@ -1,0 +1,10 @@
+Name:Bobby Lewis
+Number:5
+Position:G
+Height:6-3
+Weight:175
+Birth:1945-03-20
+Age:70
+Exp:3
+School:North Carolina
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Tellis Frank
+Number:32
+Position:F
+Height:6-10
+Weight:225
+Birth:1965-04-26
+Age:50
+Exp:4
+School:Western Kentucky
+OwingTeam:MIN

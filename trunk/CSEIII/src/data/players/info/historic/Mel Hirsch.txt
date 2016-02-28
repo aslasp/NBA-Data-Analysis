@@ -1,0 +1,10 @@
+Name:Mel Hirsch
+Number:3
+Position:G
+Height:5-6
+Weight:165
+Birth:1921-07-31
+Age:93
+Exp:0
+School:Brooklyn
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Jim Walsh
+Number:20
+Position:F
+Height:6-4
+Weight:195
+Birth:1931-08-29
+Age:83
+Exp:0
+School:Stanford
+OwingTeam:PHW

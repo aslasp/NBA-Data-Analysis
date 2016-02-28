@@ -1,0 +1,10 @@
+Name:Aleksandar Djordjevic
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-08-26
+Age:47
+Exp:0
+School:
+OwingTeam:

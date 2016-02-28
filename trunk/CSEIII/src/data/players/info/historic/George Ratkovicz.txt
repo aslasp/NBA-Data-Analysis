@@ -1,0 +1,10 @@
+Name:George Ratkovicz
+Number:13
+Position:F
+Height:6-7
+Weight:220
+Birth:1922-11-13
+Age:92
+Exp:5
+School:
+OwingTeam:MIH

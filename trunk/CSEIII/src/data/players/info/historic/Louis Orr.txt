@@ -1,0 +1,10 @@
+Name:Louis Orr
+Number:55
+Position:F
+Height:6-8
+Weight:175
+Birth:1958-05-07
+Age:57
+Exp:7
+School:Syracuse
+OwingTeam:NYK

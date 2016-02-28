@@ -1,0 +1,10 @@
+Name:Ed Ratleff
+Number:42
+Position:G
+Height:6-6
+Weight:195
+Birth:1950-03-29
+Age:65
+Exp:4
+School:Long Beach State
+OwingTeam:HOU

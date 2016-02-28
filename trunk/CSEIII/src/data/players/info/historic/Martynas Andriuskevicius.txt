@@ -1,0 +1,10 @@
+Name:Martynas Andriuskevicius
+Number:15
+Position:C
+Height:7-2
+Weight:240
+Birth:1986-03-12
+Age:29
+Exp:1
+School:Lithuania
+OwingTeam:CHI

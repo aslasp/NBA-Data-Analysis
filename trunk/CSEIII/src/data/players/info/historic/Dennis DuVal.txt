@@ -1,0 +1,10 @@
+Name:Dennis DuVal
+Number:21
+Position:G
+Height:6-3
+Weight:175
+Birth:1952-03-31
+Age:63
+Exp:1
+School:Syracuse
+OwingTeam:ATL

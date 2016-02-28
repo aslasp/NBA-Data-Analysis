@@ -1,0 +1,10 @@
+Name:Jamie Feick
+Number:14
+Position:F
+Height:6-8
+Weight:255
+Birth:1974-07-03
+Age:40
+Exp:5
+School:Michigan State
+OwingTeam:NJN

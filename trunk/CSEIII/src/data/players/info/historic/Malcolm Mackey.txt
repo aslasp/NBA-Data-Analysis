@@ -1,0 +1,10 @@
+Name:Malcolm Mackey
+Number:27
+Position:F
+Height:6-9
+Weight:248
+Birth:1970-07-11
+Age:44
+Exp:0
+School:Georgia Tech
+OwingTeam:PHX

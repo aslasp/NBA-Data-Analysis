@@ -1,0 +1,10 @@
+Name:Ian Lockhart
+Number:51
+Position:F
+Height:6-8
+Weight:240
+Birth:1967-06-25
+Age:47
+Exp:0
+School:Tennessee
+OwingTeam:PHX

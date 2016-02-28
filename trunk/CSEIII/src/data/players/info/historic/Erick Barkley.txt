@@ -1,0 +1,10 @@
+Name:Erick Barkley
+Number:1
+Position:G
+Height:6-1
+Weight:185
+Birth:1978-02-21
+Age:37
+Exp:2
+School:St. John
+OwingTeam:SAS

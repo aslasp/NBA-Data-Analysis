@@ -1,0 +1,10 @@
+Name:Kevin McKenna
+Number:12
+Position:F
+Height:6-5
+Weight:195
+Birth:1959-01-08
+Age:56
+Exp:5
+School:Creighton
+OwingTeam:NJN

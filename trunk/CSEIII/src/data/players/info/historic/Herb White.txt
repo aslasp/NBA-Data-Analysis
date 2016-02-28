@@ -1,0 +1,10 @@
+Name:Herb White
+Number:34
+Position:G
+Height:6-2
+Weight:195
+Birth:1948-06-15
+Age:66
+Exp:0
+School:Georgia
+OwingTeam:ATL

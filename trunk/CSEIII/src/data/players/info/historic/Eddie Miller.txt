@@ -1,0 +1,10 @@
+Name:Eddie Miller
+Number:
+Position:F
+Height:6-8
+Weight:225
+Birth:1931-06-18
+Age:83
+Exp:1
+School:Syracuse
+OwingTeam:BAL

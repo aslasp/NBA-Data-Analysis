@@ -1,0 +1,10 @@
+Name:Clem Haskins
+Number:14
+Position:G
+Height:6-3
+Weight:195
+Birth:1943-07-11
+Age:71
+Exp:8
+School:Western Kentucky
+OwingTeam:WAS

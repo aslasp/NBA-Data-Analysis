@@ -1,0 +1,10 @@
+Name:Murray Mitchell
+Number:
+Position:C
+Height:6-6
+Weight:
+Birth:1923-03-19
+Age:92
+Exp:0
+School:Sam Houston State
+OwingTeam:AND

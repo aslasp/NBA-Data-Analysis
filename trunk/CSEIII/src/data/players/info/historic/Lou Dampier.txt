@@ -1,0 +1,10 @@
+Name:Lou Dampier
+Number:
+Position:G
+Height:6-0
+Weight:170
+Birth:1944-11-20
+Age:70
+Exp:2
+School:Kentucky
+OwingTeam:SAN

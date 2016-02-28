@@ -1,0 +1,10 @@
+Name:Kenny Carr
+Number:34
+Position:F
+Height:6-7
+Weight:220
+Birth:1955-08-15
+Age:59
+Exp:9
+School:North Carolina State
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Todd Day
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-01-07
+Age:45
+Exp:0
+School:Arkansas
+OwingTeam:

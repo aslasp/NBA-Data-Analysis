@@ -1,0 +1,10 @@
+Name:Max Zaslofsky
+Number:10
+Position:G
+Height:6-2
+Weight:170
+Birth:1925-12-07
+Age:89
+Exp:9
+School:St. John
+OwingTeam:FTW

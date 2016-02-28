@@ -1,0 +1,10 @@
+Name:Joe Barry Carroll
+Number:2
+Position:C
+Height:7-0
+Weight:225
+Birth:1958-07-24
+Age:56
+Exp:9
+School:Purdue
+OwingTeam:PHX

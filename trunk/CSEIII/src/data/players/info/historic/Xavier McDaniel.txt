@@ -1,0 +1,10 @@
+Name:Xavier McDaniel
+Number:
+Position:
+Height:
+Weight:
+Birth:1963-06-04
+Age:51
+Exp:0
+School:Wichita State
+OwingTeam:

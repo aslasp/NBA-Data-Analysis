@@ -1,0 +1,10 @@
+Name:Frank Mangiapane
+Number:5
+Position:G
+Height:5-10
+Weight:195
+Birth:1925-08-25
+Age:89
+Exp:0
+School:New York University
+OwingTeam:NYK

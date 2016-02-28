@@ -1,0 +1,10 @@
+Name:Nate McMillan
+Number:10
+Position:G-F
+Height:6-5
+Weight:210
+Birth:1964-08-03
+Age:50
+Exp:11
+School:North Carolina State
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Randy White
+Number:52
+Position:F
+Height:6-8
+Weight:240
+Birth:1967-11-04
+Age:47
+Exp:4
+School:Louisiana Tech
+OwingTeam:DAL

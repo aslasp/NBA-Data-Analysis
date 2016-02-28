@@ -1,0 +1,10 @@
+Name:Antonio Harvey
+Number:4
+Position:F-C
+Height:6-11
+Weight:250
+Birth:1970-07-06
+Age:44
+Exp:7
+School:Pfeiffer
+OwingTeam:ATL

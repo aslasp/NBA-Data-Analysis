@@ -1,0 +1,10 @@
+Name:Chris Morris
+Number:34
+Position:F
+Height:6-8
+Weight:228
+Birth:1966-01-20
+Age:49
+Exp:10
+School:Auburn
+OwingTeam:PHX

@@ -1,0 +1,10 @@
+Name:Nate Williams
+Number:33
+Position:G
+Height:6-4
+Weight:215
+Birth:1950-05-02
+Age:65
+Exp:7
+School:Utah State
+OwingTeam:GOS

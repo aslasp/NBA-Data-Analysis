@@ -1,0 +1,10 @@
+Name:Keith Smith
+Number:11
+Position:G
+Height:6-3
+Weight:180
+Birth:1964-03-09
+Age:51
+Exp:0
+School:Loyola-Marymount
+OwingTeam:MIL

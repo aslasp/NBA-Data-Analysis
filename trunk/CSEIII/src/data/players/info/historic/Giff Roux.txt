@@ -1,0 +1,10 @@
+Name:Giff Roux
+Number:
+Position:F
+Height:6-5
+Weight:195
+Birth:1923-06-28
+Age:91
+Exp:2
+School:Kansas
+OwingTeam:PRO

@@ -1,0 +1,10 @@
+Name:Terrance Roberson
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-12-30
+Age:38
+Exp:0
+School:Fresno State
+OwingTeam:

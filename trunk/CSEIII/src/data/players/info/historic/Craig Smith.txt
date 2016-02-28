@@ -1,0 +1,10 @@
+Name:Craig Smith
+Number:83
+Position:F
+Height:6-7
+Weight:265
+Birth:1983-11-10
+Age:31
+Exp:5
+School:Boston College
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Tom Sluby
+Number:7
+Position:G
+Height:6-4
+Weight:200
+Birth:1962-02-18
+Age:53
+Exp:0
+School:Notre Dame
+OwingTeam:DAL

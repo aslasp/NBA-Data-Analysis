@@ -1,0 +1,10 @@
+Name:Art Collins
+Number:44
+Position:G
+Height:6-4
+Weight:185
+Birth:1954-04-14
+Age:61
+Exp:0
+School:St. Thomas 
+OwingTeam:ATL

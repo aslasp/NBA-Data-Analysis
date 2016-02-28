@@ -1,0 +1,10 @@
+Name:Bernard Thompson
+Number:25
+Position:G
+Height:6-6
+Weight:210
+Birth:1962-08-30
+Age:52
+Exp:4
+School:Fresno State
+OwingTeam:HOU

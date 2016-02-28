@@ -1,0 +1,10 @@
+Name:Andrew Goudelock
+Number:0
+Position:G
+Height:6-3
+Weight:200
+Birth:1988-12-07
+Age:26
+Exp:1
+School:College of Charleston
+OwingTeam:LAL

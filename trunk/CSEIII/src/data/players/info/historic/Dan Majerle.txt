@@ -1,0 +1,10 @@
+Name:Dan Majerle
+Number:9
+Position:G-F
+Height:6-6
+Weight:222
+Birth:1965-09-09
+Age:49
+Exp:13
+School:Central Michigan
+OwingTeam:PHX

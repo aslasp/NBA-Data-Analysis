@@ -1,0 +1,10 @@
+Name:Clyde Lovellette
+Number:34
+Position:C
+Height:6-9
+Weight:234
+Birth:1929-09-07
+Age:85
+Exp:10
+School:Kansas
+OwingTeam:BOS

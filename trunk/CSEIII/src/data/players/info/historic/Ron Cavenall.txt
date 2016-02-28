@@ -1,0 +1,10 @@
+Name:Ron Cavenall
+Number:40
+Position:C
+Height:7-1
+Weight:230
+Birth:1959-04-30
+Age:56
+Exp:1
+School:Texas Southern
+OwingTeam:NJN

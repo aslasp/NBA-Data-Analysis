@@ -1,0 +1,10 @@
+Name:Alan Ogg
+Number:50
+Position:C
+Height:7-2
+Weight:240
+Birth:1967-07-05
+Age:47
+Exp:2
+School:Alabama-Birmingham
+OwingTeam:WAS

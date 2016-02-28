@@ -1,0 +1,10 @@
+Name:Nate Johnston
+Number:33
+Position:C
+Height:6-8
+Weight:210
+Birth:1966-12-18
+Age:48
+Exp:0
+School:Tampa
+OwingTeam:POR

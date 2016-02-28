@@ -1,0 +1,10 @@
+Name:Harold Miner
+Number:4
+Position:G
+Height:6-5
+Weight:210
+Birth:1971-05-05
+Age:44
+Exp:3
+School:Southern California
+OwingTeam:CLE

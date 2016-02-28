@@ -1,0 +1,10 @@
+Name:Alvin Robertson
+Number:7
+Position:G
+Height:6-4
+Weight:208
+Birth:1962-07-22
+Age:52
+Exp:9
+School:Arkansas
+OwingTeam:TOR

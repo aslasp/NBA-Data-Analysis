@@ -1,0 +1,10 @@
+Name:Tyrone Nesby
+Number:8
+Position:F-G
+Height:6-6
+Weight:245
+Birth:1976-01-31
+Age:39
+Exp:3
+School:Nevada-Las Vegas
+OwingTeam:WAS

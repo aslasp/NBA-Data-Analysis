@@ -1,0 +1,10 @@
+Name:Dave Magley
+Number:30
+Position:F
+Height:6-8
+Weight:202
+Birth:1959-11-24
+Age:55
+Exp:0
+School:Kansas
+OwingTeam:CLE

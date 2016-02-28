@@ -1,0 +1,10 @@
+Name:John Barber
+Number:25
+Position:F
+Height:6-6
+Weight:210
+Birth:1927-06-27
+Age:87
+Exp:0
+School:Cal State-Los Angeles
+OwingTeam:STL

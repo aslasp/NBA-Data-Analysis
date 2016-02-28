@@ -1,0 +1,10 @@
+Name:Vince Taylor
+Number:8
+Position:G
+Height:6-5
+Weight:180
+Birth:1960-09-11
+Age:54
+Exp:0
+School:Duke
+OwingTeam:NYK

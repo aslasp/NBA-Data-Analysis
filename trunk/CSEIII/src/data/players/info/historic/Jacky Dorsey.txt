@@ -1,0 +1,10 @@
+Name:Jacky Dorsey
+Number:34
+Position:F
+Height:6-7
+Weight:230
+Birth:1954-12-18
+Age:60
+Exp:2
+School:Georgia
+OwingTeam:SEA

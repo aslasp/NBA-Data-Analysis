@@ -1,0 +1,10 @@
+Name:Scott Brooks
+Number:2
+Position:G
+Height:5-11
+Weight:165
+Birth:1965-07-31
+Age:49
+Exp:9
+School:California-Irvine
+OwingTeam:CLE

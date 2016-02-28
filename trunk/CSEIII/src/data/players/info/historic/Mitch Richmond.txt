@@ -1,0 +1,10 @@
+Name:Mitch Richmond
+Number:23
+Position:G
+Height:6-5
+Weight:220
+Birth:1965-06-30
+Age:49
+Exp:13
+School:Kansas State
+OwingTeam:LAL

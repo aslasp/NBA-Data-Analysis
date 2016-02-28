@@ -1,0 +1,10 @@
+Name:Joe Ellis
+Number:31
+Position:F
+Height:6-6
+Weight:175
+Birth:1944-05-03
+Age:71
+Exp:7
+School:San Francisco
+OwingTeam:GOS

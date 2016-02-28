@@ -1,0 +1,10 @@
+Name:Floyd Volker
+Number:
+Position:F
+Height:6-4
+Weight:205
+Birth:1921-06-21
+Age:93
+Exp:0
+School:Wyoming
+OwingTeam:

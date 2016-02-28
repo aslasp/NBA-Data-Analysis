@@ -1,0 +1,10 @@
+Name:Allen Leavell
+Number:30
+Position:G
+Height:6-1
+Weight:170
+Birth:1957-05-27
+Age:58
+Exp:9
+School:Oklahoma City
+OwingTeam:HOU

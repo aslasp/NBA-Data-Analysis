@@ -1,0 +1,10 @@
+Name:Roger Brown
+Number:55
+Position:C
+Height:6-11
+Weight:225
+Birth:1950-02-23
+Age:65
+Exp:3
+School:Kansas
+OwingTeam:CHI

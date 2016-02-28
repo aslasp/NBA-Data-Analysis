@@ -1,0 +1,10 @@
+Name:Francis Crossin
+Number:4
+Position:G
+Height:6-1
+Weight:165
+Birth:1924-07-04
+Age:90
+Exp:2
+School:Pennsylvania
+OwingTeam:PHW

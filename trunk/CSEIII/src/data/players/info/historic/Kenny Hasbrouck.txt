@@ -1,0 +1,10 @@
+Name:Kenny Hasbrouck
+Number:4
+Position:G
+Height:6-3
+Weight:190
+Birth:1986-08-14
+Age:28
+Exp:0
+School:Siena
+OwingTeam:MIA

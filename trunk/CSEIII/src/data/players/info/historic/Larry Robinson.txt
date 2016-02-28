@@ -1,0 +1,10 @@
+Name:Larry Robinson
+Number:25
+Position:G
+Height:6-3
+Weight:180
+Birth:1968-01-11
+Age:47
+Exp:6
+School:Centenary 
+OwingTeam:NYK

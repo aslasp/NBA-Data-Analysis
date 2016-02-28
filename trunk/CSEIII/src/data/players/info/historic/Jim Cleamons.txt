@@ -1,0 +1,10 @@
+Name:Jim Cleamons
+Number:35
+Position:G
+Height:6-3
+Weight:185
+Birth:1949-09-13
+Age:65
+Exp:8
+School:Ohio State
+OwingTeam:NYK

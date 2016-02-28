@@ -1,0 +1,10 @@
+Name:John Williamson
+Number:23
+Position:G
+Height:6-2
+Weight:185
+Birth:1951-11-10
+Age:63
+Exp:4
+School:New Mexico State
+OwingTeam:WAS

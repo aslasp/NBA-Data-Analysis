@@ -1,0 +1,10 @@
+Name:Stan Stutz
+Number:
+Position:G
+Height:5-10
+Weight:170
+Birth:1920-04-14
+Age:95
+Exp:2
+School:Rhode Island
+OwingTeam:BAL

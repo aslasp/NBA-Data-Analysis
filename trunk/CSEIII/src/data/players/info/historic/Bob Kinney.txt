@@ -1,0 +1,10 @@
+Name:Bob Kinney
+Number:22
+Position:C
+Height:6-6
+Weight:215
+Birth:1920-09-16
+Age:94
+Exp:1
+School:Rice
+OwingTeam:BOS

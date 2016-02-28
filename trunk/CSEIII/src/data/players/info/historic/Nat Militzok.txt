@@ -1,0 +1,10 @@
+Name:Nat Militzok
+Number:
+Position:F
+Height:6-3
+Weight:195
+Birth:1923-05-03
+Age:92
+Exp:0
+School:Cornell
+OwingTeam:HUS

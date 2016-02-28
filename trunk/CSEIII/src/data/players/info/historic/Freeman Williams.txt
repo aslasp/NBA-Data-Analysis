@@ -1,0 +1,10 @@
+Name:Freeman Williams
+Number:20
+Position:G
+Height:6-4
+Weight:190
+Birth:1956-05-15
+Age:59
+Exp:5
+School:Portland State
+OwingTeam:WAS

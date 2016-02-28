@@ -1,0 +1,10 @@
+Name:Robert Rose
+Number:42
+Position:F
+Height:6-5
+Weight:180
+Birth:1964-12-27
+Age:50
+Exp:0
+School:George Mason
+OwingTeam:LAC

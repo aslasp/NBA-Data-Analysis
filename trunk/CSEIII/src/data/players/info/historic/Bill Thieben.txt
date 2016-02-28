@@ -1,0 +1,10 @@
+Name:Bill Thieben
+Number:9
+Position:F
+Height:6-6
+Weight:215
+Birth:1935-03-28
+Age:80
+Exp:1
+School:Hofstra
+OwingTeam:DET

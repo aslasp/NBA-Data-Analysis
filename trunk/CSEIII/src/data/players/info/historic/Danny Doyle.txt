@@ -1,0 +1,10 @@
+Name:Danny Doyle
+Number:14
+Position:F
+Height:6-8
+Weight:200
+Birth:1940-02-06
+Age:75
+Exp:0
+School:Belmont Abbey
+OwingTeam:DET

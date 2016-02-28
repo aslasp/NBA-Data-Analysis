@@ -1,0 +1,10 @@
+Name:Bob Donham
+Number:12
+Position:G
+Height:6-2
+Weight:190
+Birth:1926-10-11
+Age:88
+Exp:3
+School:Ohio State
+OwingTeam:BOS

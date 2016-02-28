@@ -1,0 +1,10 @@
+Name:Joe Ruklick
+Number:17
+Position:F
+Height:6-9
+Weight:220
+Birth:1938-08-03
+Age:76
+Exp:2
+School:Northwestern
+OwingTeam:PHW

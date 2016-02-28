@@ -1,0 +1,10 @@
+Name:Ken Johnson
+Number:54
+Position:C-F
+Height:6-10
+Weight:240
+Birth:1978-02-01
+Age:37
+Exp:0
+School:Ohio State
+OwingTeam:POR

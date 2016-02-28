@@ -1,0 +1,10 @@
+Name:Herschel Baltimore
+Number:
+Position:F
+Height:6-4
+Weight:195
+Birth:1921-06-21
+Age:93
+Exp:0
+School:Penn State
+OwingTeam:BOM

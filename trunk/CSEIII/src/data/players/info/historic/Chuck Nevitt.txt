@@ -1,0 +1,10 @@
+Name:Chuck Nevitt
+Number:52
+Position:C
+Height:7-5
+Weight:217
+Birth:1959-06-13
+Age:55
+Exp:8
+School:North Carolina State
+OwingTeam:SAN

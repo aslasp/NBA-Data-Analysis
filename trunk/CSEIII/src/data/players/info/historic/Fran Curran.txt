@@ -1,0 +1,10 @@
+Name:Fran Curran
+Number:15
+Position:G
+Height:6-0
+Weight:175
+Birth:1925-09-19
+Age:89
+Exp:1
+School:Notre Dame
+OwingTeam:ROC

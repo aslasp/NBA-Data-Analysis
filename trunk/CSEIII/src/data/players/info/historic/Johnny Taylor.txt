@@ -1,0 +1,10 @@
+Name:Johnny Taylor
+Number:23
+Position:F
+Height:6-9
+Weight:220
+Birth:1974-06-04
+Age:40
+Exp:2
+School:Tennessee-Chattanooga
+OwingTeam:ORL

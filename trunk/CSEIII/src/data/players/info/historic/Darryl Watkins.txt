@@ -1,0 +1,10 @@
+Name:Darryl Watkins
+Number:31
+Position:C
+Height:6-11
+Weight:258
+Birth:1984-11-08
+Age:30
+Exp:1
+School:Syracuse
+OwingTeam:NOH

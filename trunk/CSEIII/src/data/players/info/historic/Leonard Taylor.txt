@@ -1,0 +1,10 @@
+Name:Leonard Taylor
+Number:44
+Position:F
+Height:6-8
+Weight:220
+Birth:1966-05-02
+Age:49
+Exp:0
+School:California
+OwingTeam:GOS

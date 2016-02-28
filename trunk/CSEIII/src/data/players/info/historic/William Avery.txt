@@ -1,0 +1,10 @@
+Name:William Avery
+Number:30
+Position:G
+Height:6-2
+Weight:180
+Birth:1979-08-08
+Age:35
+Exp:3
+School:Duke
+OwingTeam:PHI

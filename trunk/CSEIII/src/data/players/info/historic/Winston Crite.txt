@@ -1,0 +1,10 @@
+Name:Winston Crite
+Number:12
+Position:F
+Height:6-7
+Weight:233
+Birth:1965-06-20
+Age:49
+Exp:1
+School:Texas A
+OwingTeam:PHX

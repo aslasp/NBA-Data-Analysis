@@ -1,0 +1,10 @@
+Name:Chet Walker
+Number:25
+Position:F
+Height:6-7
+Weight:212
+Birth:1940-02-22
+Age:75
+Exp:12
+School:Bradley
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:David Vaughn
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-03-23
+Age:42
+Exp:0
+School:Memphis
+OwingTeam:

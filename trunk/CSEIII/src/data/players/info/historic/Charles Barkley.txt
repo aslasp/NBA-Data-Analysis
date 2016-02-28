@@ -1,0 +1,10 @@
+Name:Charles Barkley
+Number:4
+Position:F
+Height:6-6
+Weight:252
+Birth:1963-02-20
+Age:52
+Exp:15
+School:Auburn
+OwingTeam:HOU

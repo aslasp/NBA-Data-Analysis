@@ -1,0 +1,10 @@
+Name:Antawn Jamison
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-06-12
+Age:38
+Exp:0
+School:North Carolina
+OwingTeam:

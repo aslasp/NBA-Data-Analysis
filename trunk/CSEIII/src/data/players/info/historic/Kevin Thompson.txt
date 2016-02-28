@@ -1,0 +1,10 @@
+Name:Kevin Thompson
+Number:35
+Position:C
+Height:6-11
+Weight:260
+Birth:1971-02-07
+Age:44
+Exp:0
+School:North Carolina State
+OwingTeam:POR

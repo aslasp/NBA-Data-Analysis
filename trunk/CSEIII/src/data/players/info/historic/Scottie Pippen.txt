@@ -1,0 +1,10 @@
+Name:Scottie Pippen
+Number:33
+Position:F-G
+Height:6-8
+Weight:228
+Birth:1965-09-25
+Age:49
+Exp:16
+School:Central Arkansas
+OwingTeam:CHI

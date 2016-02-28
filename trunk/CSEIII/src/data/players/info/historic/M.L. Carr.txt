@@ -1,0 +1,10 @@
+Name:M.L. Carr
+Number:30
+Position:F
+Height:6-6
+Weight:205
+Birth:1951-01-09
+Age:64
+Exp:8
+School:Guilford
+OwingTeam:BOS

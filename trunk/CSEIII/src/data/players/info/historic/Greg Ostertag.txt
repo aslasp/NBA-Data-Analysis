@@ -1,0 +1,10 @@
+Name:Greg Ostertag
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-03-06
+Age:42
+Exp:0
+School:Kansas
+OwingTeam:

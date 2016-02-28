@@ -1,0 +1,10 @@
+Name:Jose Ortiz
+Number:44
+Position:F
+Height:6-10
+Weight:225
+Birth:1963-10-25
+Age:51
+Exp:1
+School:Oregon State
+OwingTeam:UTH

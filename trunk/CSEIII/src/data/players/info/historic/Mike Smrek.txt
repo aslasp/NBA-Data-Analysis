@@ -1,0 +1,10 @@
+Name:Mike Smrek
+Number:55
+Position:C
+Height:7-0
+Weight:250
+Birth:1962-08-31
+Age:52
+Exp:6
+School:Canisius
+OwingTeam:GOS

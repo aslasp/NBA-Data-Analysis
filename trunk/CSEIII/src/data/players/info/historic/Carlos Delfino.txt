@@ -1,0 +1,10 @@
+Name:Carlos Delfino
+Number:10
+Position:G-F
+Height:6-6
+Weight:230
+Birth:1982-08-29
+Age:32
+Exp:8
+School:Santa Fe
+OwingTeam:MIL

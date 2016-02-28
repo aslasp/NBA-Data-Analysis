@@ -1,0 +1,10 @@
+Name:Dick Schulz
+Number:
+Position:F
+Height:6-2
+Weight:192
+Birth:1917-01-03
+Age:98
+Exp:3
+School:Wisconsin
+OwingTeam:SHE

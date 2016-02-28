@@ -1,0 +1,10 @@
+Name:Sam Vincent
+Number:11
+Position:G
+Height:6-2
+Weight:185
+Birth:1963-05-18
+Age:52
+Exp:6
+School:Michigan State
+OwingTeam:ORL

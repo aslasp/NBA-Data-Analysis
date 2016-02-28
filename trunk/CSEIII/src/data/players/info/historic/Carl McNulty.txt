@@ -1,0 +1,10 @@
+Name:Carl McNulty
+Number:6
+Position:G
+Height:6-3
+Weight:185
+Birth:1930-02-14
+Age:85
+Exp:0
+School:Purdue
+OwingTeam:MIH

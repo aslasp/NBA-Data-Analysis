@@ -1,0 +1,10 @@
+Name:Johnny McCarthy
+Number:21
+Position:G
+Height:6-1
+Weight:185
+Birth:1934-04-25
+Age:81
+Exp:5
+School:Canisius
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Willie Burton
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-05-26
+Age:47
+Exp:0
+School:Minnesota
+OwingTeam:

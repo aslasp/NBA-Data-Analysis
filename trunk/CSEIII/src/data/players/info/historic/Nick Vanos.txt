@@ -1,0 +1,10 @@
+Name:Nick Vanos
+Number:30
+Position:C
+Height:7-1
+Weight:255
+Birth:1963-04-13
+Age:52
+Exp:1
+School:Santa Clara
+OwingTeam:PHX

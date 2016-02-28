@@ -1,0 +1,10 @@
+Name:Bob Rule
+Number:21
+Position:C
+Height:6-9
+Weight:220
+Birth:1944-06-29
+Age:70
+Exp:7
+School:Colorado State
+OwingTeam:MIL

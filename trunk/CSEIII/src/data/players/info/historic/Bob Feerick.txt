@@ -1,0 +1,10 @@
+Name:Bob Feerick
+Number:
+Position:G
+Height:6-3
+Weight:190
+Birth:1920-01-02
+Age:95
+Exp:3
+School:Santa Clara
+OwingTeam:WAS

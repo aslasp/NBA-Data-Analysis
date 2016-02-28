@@ -1,0 +1,10 @@
+Name:Jack Parkinson
+Number:
+Position:G
+Height:6-0
+Weight:174
+Birth:1924-03-04
+Age:91
+Exp:0
+School:Kentucky
+OwingTeam:INO

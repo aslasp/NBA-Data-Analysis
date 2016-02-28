@@ -1,0 +1,10 @@
+Name:George McCloud
+Number:21
+Position:F
+Height:6-8
+Weight:230
+Birth:1967-05-27
+Age:48
+Exp:12
+School:Florida State
+OwingTeam:DEN

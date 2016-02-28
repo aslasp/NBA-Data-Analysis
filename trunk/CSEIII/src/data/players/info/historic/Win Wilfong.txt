@@ -1,0 +1,10 @@
+Name:Win Wilfong
+Number:41
+Position:G
+Height:6-2
+Weight:185
+Birth:1932-03-18
+Age:83
+Exp:3
+School:Memphis
+OwingTeam:CIN

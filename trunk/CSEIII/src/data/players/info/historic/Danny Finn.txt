@@ -1,0 +1,10 @@
+Name:Danny Finn
+Number:7
+Position:G
+Height:6-1
+Weight:185
+Birth:1928-05-27
+Age:87
+Exp:2
+School:St. John
+OwingTeam:PHW

@@ -1,0 +1,10 @@
+Name:David Johnson
+Number:5
+Position:G
+Height:5-11
+Weight:170
+Birth:1921-12-06
+Age:93
+Exp:3
+School:Huntington
+OwingTeam:FTW

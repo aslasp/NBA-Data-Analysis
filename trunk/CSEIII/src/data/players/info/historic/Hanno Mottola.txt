@@ -1,0 +1,10 @@
+Name:Hanno Mottola
+Number:13
+Position:C-F
+Height:6-11
+Weight:247
+Birth:1976-09-09
+Age:38
+Exp:1
+School:Utah
+OwingTeam:ATL

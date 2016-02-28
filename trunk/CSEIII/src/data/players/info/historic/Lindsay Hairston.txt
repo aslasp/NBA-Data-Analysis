@@ -1,0 +1,10 @@
+Name:Lindsay Hairston
+Number:45
+Position:F
+Height:6-7
+Weight:180
+Birth:1951-12-08
+Age:63
+Exp:0
+School:Michigan State
+OwingTeam:DET

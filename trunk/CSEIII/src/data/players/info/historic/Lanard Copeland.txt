@@ -1,0 +1,10 @@
+Name:Lanard Copeland
+Number:21
+Position:F
+Height:6-6
+Weight:190
+Birth:1965-07-16
+Age:49
+Exp:1
+School:Georgia State
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Gary Gregor
+Number:9
+Position:F
+Height:6-7
+Weight:225
+Birth:1945-08-13
+Age:69
+Exp:4
+School:South Carolina
+OwingTeam:MIL

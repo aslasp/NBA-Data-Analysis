@@ -1,0 +1,10 @@
+Name:Semih Erden
+Number:9
+Position:C
+Height:7-0
+Weight:240
+Birth:1986-07-28
+Age:28
+Exp:1
+School:Turkey
+OwingTeam:CLE

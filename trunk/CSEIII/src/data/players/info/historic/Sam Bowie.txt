@@ -1,0 +1,10 @@
+Name:Sam Bowie
+Number:31
+Position:C
+Height:7-1
+Weight:235
+Birth:1961-03-17
+Age:54
+Exp:9
+School:Kentucky
+OwingTeam:LAL

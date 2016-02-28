@@ -1,0 +1,10 @@
+Name:Mike Riordan
+Number:6
+Position:F
+Height:6-4
+Weight:200
+Birth:1945-07-09
+Age:69
+Exp:8
+School:Providence
+OwingTeam:WAS

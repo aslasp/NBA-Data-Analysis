@@ -1,0 +1,10 @@
+Name:DeShawn Stevenson
+Number:92
+Position:F-G
+Height:6-5
+Weight:218
+Birth:1981-04-03
+Age:34
+Exp:12
+School:Washington Union HS 
+OwingTeam:ATL

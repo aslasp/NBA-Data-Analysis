@@ -1,0 +1,10 @@
+Name:Mark Crow
+Number:31
+Position:F
+Height:6-7
+Weight:210
+Birth:1954-10-22
+Age:60
+Exp:0
+School:Duke
+OwingTeam:NJN

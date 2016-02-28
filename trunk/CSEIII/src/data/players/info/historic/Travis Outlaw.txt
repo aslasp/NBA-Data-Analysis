@@ -1,0 +1,10 @@
+Name:Travis Outlaw
+Number:25
+Position:F
+Height:6-9
+Weight:207
+Birth:1984-09-18
+Age:30
+Exp:10
+School:Starkville HS 
+OwingTeam:SAC

@@ -1,0 +1,10 @@
+Name:Donnie Butcher
+Number:24
+Position:G
+Height:6-2
+Weight:200
+Birth:1936-02-08
+Age:79
+Exp:4
+School:Pikeville
+OwingTeam:DET

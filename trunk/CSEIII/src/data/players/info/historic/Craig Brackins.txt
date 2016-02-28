@@ -1,0 +1,10 @@
+Name:Craig Brackins
+Number:33
+Position:F
+Height:6-10
+Weight:230
+Birth:1987-10-09
+Age:27
+Exp:1
+School:Iowa State
+OwingTeam:PHI

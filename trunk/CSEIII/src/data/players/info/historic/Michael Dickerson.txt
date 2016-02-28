@@ -1,0 +1,10 @@
+Name:Michael Dickerson
+Number:8
+Position:G
+Height:6-5
+Weight:190
+Birth:1975-06-25
+Age:39
+Exp:4
+School:Arizona
+OwingTeam:MEM

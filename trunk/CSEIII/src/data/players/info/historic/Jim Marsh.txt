@@ -1,0 +1,10 @@
+Name:Jim Marsh
+Number:41
+Position:F
+Height:6-7
+Weight:215
+Birth:1946-04-26
+Age:69
+Exp:0
+School:Southern California
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Nat Clifton
+Number:24
+Position:C
+Height:6-6
+Weight:220
+Birth:1922-10-13
+Age:92
+Exp:7
+School:Xavier 
+OwingTeam:DET

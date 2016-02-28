@@ -1,0 +1,10 @@
+Name:Forest Weber
+Number:
+Position:C
+Height:6-6
+Weight:225
+Birth:1918-03-18
+Age:97
+Exp:0
+School:Purdue
+OwingTeam:PRO

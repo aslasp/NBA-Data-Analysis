@@ -1,0 +1,10 @@
+Name:Frankie King
+Number:20
+Position:G
+Height:6-1
+Weight:185
+Birth:1972-06-06
+Age:42
+Exp:1
+School:Western Carolina
+OwingTeam:PHI

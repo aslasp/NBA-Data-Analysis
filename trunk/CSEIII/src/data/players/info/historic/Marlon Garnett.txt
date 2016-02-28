@@ -1,0 +1,10 @@
+Name:Marlon Garnett
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-07-03
+Age:39
+Exp:0
+School:Santa Clara
+OwingTeam:

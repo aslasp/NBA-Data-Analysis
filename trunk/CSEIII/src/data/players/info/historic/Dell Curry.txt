@@ -1,0 +1,10 @@
+Name:Dell Curry
+Number:30
+Position:G-F
+Height:6-5
+Weight:205
+Birth:1964-06-25
+Age:50
+Exp:15
+School:Virginia Tech
+OwingTeam:TOR

@@ -1,0 +1,10 @@
+Name:John Hummer
+Number:42
+Position:F
+Height:6-9
+Weight:230
+Birth:1948-05-04
+Age:67
+Exp:5
+School:Princeton
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Anthony Parker
+Number:18
+Position:G
+Height:6-6
+Weight:210
+Birth:1975-06-19
+Age:39
+Exp:8
+School:Bradley
+OwingTeam:CLE

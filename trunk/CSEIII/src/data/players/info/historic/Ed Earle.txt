@@ -1,0 +1,10 @@
+Name:Ed Earle
+Number:6
+Position:F
+Height:6-3
+Weight:190
+Birth:1927-04-28
+Age:88
+Exp:0
+School:Loyola-Chicago
+OwingTeam:SYR

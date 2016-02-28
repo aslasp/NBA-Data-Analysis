@@ -1,0 +1,10 @@
+Name:Garry Witts
+Number:20
+Position:G
+Height:6-7
+Weight:190
+Birth:1959-07-03
+Age:55
+Exp:0
+School:Holy Cross
+OwingTeam:WAS

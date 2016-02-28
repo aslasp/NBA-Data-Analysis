@@ -1,0 +1,10 @@
+Name:Jerry Rullo
+Number:7
+Position:G
+Height:5-10
+Weight:165
+Birth:1923-06-23
+Age:91
+Exp:3
+School:Temple
+OwingTeam:PHW

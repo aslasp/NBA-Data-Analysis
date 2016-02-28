@@ -1,0 +1,10 @@
+Name:Frank Russell
+Number:34
+Position:G
+Height:6-3
+Weight:180
+Birth:1949-04-17
+Age:66
+Exp:0
+School:Detroit Mercy
+OwingTeam:CHI

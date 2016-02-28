@@ -1,0 +1,10 @@
+Name:Roylee Hamilton
+Number:23
+Position:G
+Height:6-2
+Weight:180
+Birth:1957-07-20
+Age:57
+Exp:1
+School:California-Los Angeles
+OwingTeam:POR

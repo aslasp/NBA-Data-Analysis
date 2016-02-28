@@ -1,0 +1,10 @@
+Name:Derek Hood
+Number:55
+Position:F
+Height:6-8
+Weight:222
+Birth:1976-12-22
+Age:38
+Exp:1
+School:Arkansas
+OwingTeam:DAL

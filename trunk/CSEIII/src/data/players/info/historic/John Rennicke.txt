@@ -1,0 +1,10 @@
+Name:John Rennicke
+Number: 
+Position:G
+Height:6-2
+Weight:185
+Birth:1929-08-11
+Age:85
+Exp:0
+School:Drake
+OwingTeam:MIH

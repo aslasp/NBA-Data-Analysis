@@ -1,0 +1,10 @@
+Name:Howie McCarty
+Number:
+Position:
+Height:
+Weight:
+Birth:1905-04-02
+Age:110
+Exp:0
+School:Wayne State 
+OwingTeam:DEF

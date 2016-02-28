@@ -1,0 +1,10 @@
+Name:Jalen Rose
+Number:8
+Position:G-F
+Height:6-8
+Weight:215
+Birth:1973-01-30
+Age:42
+Exp:12
+School:Michigan
+OwingTeam:PHX

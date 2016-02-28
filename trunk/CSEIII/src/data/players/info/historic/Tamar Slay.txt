@@ -1,0 +1,10 @@
+Name:Tamar Slay
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-04-02
+Age:35
+Exp:0
+School:Marshall
+OwingTeam:

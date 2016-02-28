@@ -1,0 +1,10 @@
+Name:Darren Daye
+Number:20
+Position:F
+Height:6-8
+Weight:220
+Birth:1960-11-30
+Age:54
+Exp:4
+School:California-Los Angeles
+OwingTeam:BOS

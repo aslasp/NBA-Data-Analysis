@@ -1,0 +1,10 @@
+Name:Marcus Williams
+Number:2
+Position:G
+Height:6-7
+Weight:207
+Birth:1986-11-18
+Age:28
+Exp:1
+School:Arizona
+OwingTeam:SAS

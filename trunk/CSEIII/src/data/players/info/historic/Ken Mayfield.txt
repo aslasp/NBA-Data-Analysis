@@ -1,0 +1,10 @@
+Name:Ken Mayfield
+Number:16
+Position:G
+Height:6-2
+Weight:185
+Birth:1948-05-11
+Age:67
+Exp:0
+School:Tuskegee
+OwingTeam:NYK

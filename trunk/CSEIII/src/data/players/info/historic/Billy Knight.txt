@@ -1,0 +1,10 @@
+Name:Billy Knight
+Number:25
+Position:F
+Height:6-6
+Weight:195
+Birth:1952-06-09
+Age:62
+Exp:8
+School:Pittsburgh
+OwingTeam:KCK

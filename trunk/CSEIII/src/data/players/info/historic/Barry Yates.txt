@@ -1,0 +1,10 @@
+Name:Barry Yates
+Number:35
+Position:F
+Height:6-7
+Weight:215
+Birth:1946-01-30
+Age:69
+Exp:0
+School:Maryland
+OwingTeam:PHL

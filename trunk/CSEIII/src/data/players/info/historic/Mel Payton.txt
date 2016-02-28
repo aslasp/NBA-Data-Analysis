@@ -1,0 +1,10 @@
+Name:Mel Payton
+Number:
+Position:G
+Height:6-4
+Weight:185
+Birth:1926-07-16
+Age:88
+Exp:1
+School:Tulane
+OwingTeam:INO

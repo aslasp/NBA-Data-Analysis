@@ -1,0 +1,10 @@
+Name:Howard Nathan
+Number:14
+Position:G
+Height:5-11
+Weight:175
+Birth:1972-01-21
+Age:43
+Exp:0
+School:Louisiana-Monroe
+OwingTeam:ATL

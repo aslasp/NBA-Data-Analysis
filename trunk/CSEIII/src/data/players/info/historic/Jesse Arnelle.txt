@@ -1,0 +1,10 @@
+Name:Jesse Arnelle
+Number:15-18
+Position:F
+Height:6-5
+Weight:220
+Birth:1933-12-30
+Age:81
+Exp:0
+School:Penn State
+OwingTeam:FTW

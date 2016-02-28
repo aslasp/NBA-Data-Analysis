@@ -1,0 +1,10 @@
+Name:Johnny Jorgensen
+Number:16
+Position:G
+Height:6-2
+Weight:185
+Birth:1921-12-28
+Age:93
+Exp:1
+School:DePaul
+OwingTeam:MNL

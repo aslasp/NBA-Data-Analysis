@@ -1,0 +1,10 @@
+Name:Rex Walters
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-03-12
+Age:45
+Exp:0
+School:Kansas
+OwingTeam:

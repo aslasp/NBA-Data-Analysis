@@ -1,0 +1,10 @@
+Name:Fred Foster
+Number:5
+Position:F
+Height:6-5
+Weight:210
+Birth:1946-03-18
+Age:69
+Exp:7
+School:Miami 
+OwingTeam:BUF

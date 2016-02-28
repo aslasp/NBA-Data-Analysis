@@ -1,0 +1,10 @@
+Name:Marcus Brown
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-04-03
+Age:41
+Exp:0
+School:Murray State
+OwingTeam:

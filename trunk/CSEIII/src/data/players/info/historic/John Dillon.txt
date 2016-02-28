@@ -1,0 +1,10 @@
+Name:John Dillon
+Number:
+Position:F
+Height:6-3
+Weight:180
+Birth:1924-01-08
+Age:91
+Exp:0
+School:North Carolina
+OwingTeam:WAS

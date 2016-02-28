@@ -1,0 +1,10 @@
+Name:Ronnie MacGilvray
+Number:8
+Position:G
+Height:6-2
+Weight:185
+Birth:1930-07-20
+Age:84
+Exp:0
+School:St. John
+OwingTeam:MIH

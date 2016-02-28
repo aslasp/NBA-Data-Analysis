@@ -1,0 +1,10 @@
+Name:Ruben Boumtje-Boumtje
+Number:44
+Position:C
+Height:7-0
+Weight:257
+Birth:1978-05-20
+Age:37
+Exp:2
+School:Georgetown
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Chuck Williams
+Number:11
+Position:G
+Height:6-2
+Weight:175
+Birth:1946-06-06
+Age:68
+Exp:1
+School:Colorado
+OwingTeam:BUF

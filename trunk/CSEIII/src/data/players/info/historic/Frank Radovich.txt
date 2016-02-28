@@ -1,0 +1,10 @@
+Name:Frank Radovich
+Number:9
+Position:F
+Height:6-8
+Weight:235
+Birth:1938-03-03
+Age:77
+Exp:0
+School:Indiana
+OwingTeam:PHW

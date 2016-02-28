@@ -1,0 +1,10 @@
+Name:Paul Westphal
+Number:44
+Position:G
+Height:6-4
+Weight:195
+Birth:1950-11-30
+Age:64
+Exp:11
+School:Southern California
+OwingTeam:PHX

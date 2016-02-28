@@ -1,0 +1,10 @@
+Name:Dwayne Jones
+Number:27
+Position:F-C
+Height:6-11
+Weight:248
+Birth:1983-06-09
+Age:31
+Exp:5
+School:Saint Joseph
+OwingTeam:GSW

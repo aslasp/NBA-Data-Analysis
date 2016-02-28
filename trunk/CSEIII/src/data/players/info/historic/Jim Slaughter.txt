@@ -1,0 +1,10 @@
+Name:Jim Slaughter
+Number:
+Position:C
+Height:6-11
+Weight:210
+Birth:1928-05-13
+Age:87
+Exp:0
+School:South Carolina
+OwingTeam:BAL

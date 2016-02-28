@@ -1,0 +1,10 @@
+Name:Herm Schaefer
+Number:10
+Position:G
+Height:6-0
+Weight:175
+Birth:1919-12-20
+Age:95
+Exp:1
+School:Indiana
+OwingTeam:MNL

@@ -1,0 +1,10 @@
+Name:Chris Herren
+Number:12
+Position:G
+Height:6-2
+Weight:190
+Birth:1975-09-27
+Age:39
+Exp:1
+School:Fresno State
+OwingTeam:BOS

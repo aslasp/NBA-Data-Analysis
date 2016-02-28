@@ -1,0 +1,10 @@
+Name:Don Otten
+Number:14
+Position:C
+Height:6-10
+Weight:240
+Birth:1921-04-18
+Age:94
+Exp:3
+School:Bowling Green
+OwingTeam:MIH

@@ -1,0 +1,10 @@
+Name:Bill Henry
+Number:16
+Position:C
+Height:6-9
+Weight:215
+Birth:1924-12-27
+Age:90
+Exp:1
+School:Rice
+OwingTeam:FTW

@@ -1,0 +1,10 @@
+Name:Chuck Halbert
+Number:
+Position:C
+Height:6-9
+Weight:225
+Birth:1919-02-27
+Age:96
+Exp:4
+School:West Texas A
+OwingTeam:BAL

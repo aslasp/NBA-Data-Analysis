@@ -1,0 +1,10 @@
+Name:Dan Tieman
+Number:41
+Position:G
+Height:6-0
+Weight:185
+Birth:1940-11-30
+Age:74
+Exp:0
+School:Thomas More
+OwingTeam:CIN

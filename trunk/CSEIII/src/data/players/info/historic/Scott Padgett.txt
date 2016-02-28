@@ -1,0 +1,10 @@
+Name:Scott Padgett
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-04-19
+Age:39
+Exp:0
+School:Kentucky
+OwingTeam:

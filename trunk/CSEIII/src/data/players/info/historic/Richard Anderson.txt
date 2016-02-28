@@ -1,0 +1,10 @@
+Name:Richard Anderson
+Number:35
+Position:F
+Height:6-10
+Weight:240
+Birth:1960-11-19
+Age:54
+Exp:5
+School:California-Santa Barbara
+OwingTeam:CHH

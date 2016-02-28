@@ -1,0 +1,10 @@
+Name:Earl Boykins
+Number:6
+Position:G
+Height:5-5
+Weight:133
+Birth:1976-06-02
+Age:38
+Exp:12
+School:Eastern Michigan
+OwingTeam:HOU

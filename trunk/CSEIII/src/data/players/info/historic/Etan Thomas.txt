@@ -1,0 +1,10 @@
+Name:Etan Thomas
+Number:36
+Position:C
+Height:6-10
+Weight:260
+Birth:1978-04-01
+Age:37
+Exp:8
+School:Syracuse
+OwingTeam:ATL

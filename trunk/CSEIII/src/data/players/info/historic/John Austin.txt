@@ -1,0 +1,10 @@
+Name:John Austin
+Number:34
+Position:G
+Height:6-0
+Weight:170
+Birth:1944-08-31
+Age:70
+Exp:0
+School:Boston College
+OwingTeam:BLT

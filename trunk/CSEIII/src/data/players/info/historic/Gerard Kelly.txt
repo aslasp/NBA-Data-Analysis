@@ -1,0 +1,10 @@
+Name:Gerard Kelly
+Number:
+Position:F
+Height:6-2
+Weight:172
+Birth:1918-06-14
+Age:96
+Exp:1
+School:Marshall
+OwingTeam:PRO

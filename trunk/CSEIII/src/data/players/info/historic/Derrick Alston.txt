@@ -1,0 +1,10 @@
+Name:Derrick Alston
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-08-20
+Age:42
+Exp:0
+School:Duquesne
+OwingTeam:

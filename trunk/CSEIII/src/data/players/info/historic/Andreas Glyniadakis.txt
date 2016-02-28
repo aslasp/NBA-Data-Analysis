@@ -1,0 +1,10 @@
+Name:Andreas Glyniadakis
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-08-26
+Age:33
+Exp:0
+School:Greece
+OwingTeam:

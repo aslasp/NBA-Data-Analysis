@@ -1,0 +1,10 @@
+Name:Carl Shaeffer
+Number:
+Position:G
+Height:6-3
+Weight:185
+Birth:1924-10-25
+Age:90
+Exp:1
+School:Alabama
+OwingTeam:INO

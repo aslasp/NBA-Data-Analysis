@@ -1,0 +1,10 @@
+Name:Dave Wohl
+Number:15
+Position:G
+Height:6-2
+Weight:185
+Birth:1949-11-02
+Age:65
+Exp:6
+School:Pennsylvania
+OwingTeam:NJN

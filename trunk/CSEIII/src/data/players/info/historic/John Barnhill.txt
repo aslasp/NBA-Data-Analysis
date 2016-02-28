@@ -1,0 +1,10 @@
+Name:John Barnhill
+Number:11
+Position:G
+Height:6-1
+Weight:180
+Birth:1938-03-20
+Age:77
+Exp:6
+School:Tennessee State
+OwingTeam:BLT

@@ -1,0 +1,10 @@
+Name:Ricky Berry
+Number:34
+Position:F
+Height:6-8
+Weight:205
+Birth:1964-10-06
+Age:50
+Exp:0
+School:San Jose State
+OwingTeam:SAC

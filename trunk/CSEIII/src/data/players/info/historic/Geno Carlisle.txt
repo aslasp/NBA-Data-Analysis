@@ -1,0 +1,10 @@
+Name:Geno Carlisle
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-08-13
+Age:38
+Exp:0
+School:California
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Hakeem Olajuwon
+Number:34
+Position:C
+Height:7-0
+Weight:255
+Birth:1963-01-21
+Age:52
+Exp:18
+School:Houston
+OwingTeam:TOR

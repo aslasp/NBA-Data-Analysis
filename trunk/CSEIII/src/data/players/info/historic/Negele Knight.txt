@@ -1,0 +1,10 @@
+Name:Negele Knight
+Number:11
+Position:G
+Height:6-1
+Weight:182
+Birth:1967-03-06
+Age:48
+Exp:5
+School:Dayton
+OwingTeam:TOR

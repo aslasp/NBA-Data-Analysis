@@ -1,0 +1,10 @@
+Name:Tariq Abdul-Wahad
+Number:9
+Position:F-G
+Height:6-6
+Weight:235
+Birth:1974-11-03
+Age:40
+Exp:6
+School:San Jose State
+OwingTeam:DAL

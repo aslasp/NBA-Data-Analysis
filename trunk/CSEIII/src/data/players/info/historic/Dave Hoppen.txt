@@ -1,0 +1,10 @@
+Name:Dave Hoppen
+Number:42
+Position:C
+Height:6-11
+Weight:235
+Birth:1964-03-13
+Age:51
+Exp:5
+School:Nebraska
+OwingTeam:NJN

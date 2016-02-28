@@ -1,0 +1,10 @@
+Name:Damon Jones
+Number:19
+Position:G
+Height:6-3
+Weight:195
+Birth:1976-08-25
+Age:38
+Exp:10
+School:Houston
+OwingTeam:MIL

@@ -1,0 +1,10 @@
+Name:Danny Vranes
+Number:20
+Position:F
+Height:6-7
+Weight:210
+Birth:1958-10-29
+Age:56
+Exp:6
+School:Utah
+OwingTeam:PHL

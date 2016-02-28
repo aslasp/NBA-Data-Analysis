@@ -1,0 +1,10 @@
+Name:Steve Courtin
+Number:5
+Position:G
+Height:6-1
+Weight:188
+Birth:1942-09-21
+Age:72
+Exp:0
+School:Saint Joseph
+OwingTeam:PHL

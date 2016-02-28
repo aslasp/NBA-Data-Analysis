@@ -1,0 +1,10 @@
+Name:Rickey Williams
+Number:25
+Position:G
+Height:6-1
+Weight:175
+Birth:1957-03-12
+Age:58
+Exp:0
+School:Long Beach State
+OwingTeam:UTH

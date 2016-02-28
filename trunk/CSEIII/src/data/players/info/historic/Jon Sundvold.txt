@@ -1,0 +1,10 @@
+Name:Jon Sundvold
+Number:20
+Position:G
+Height:6-2
+Weight:170
+Birth:1961-07-02
+Age:53
+Exp:8
+School:Missouri
+OwingTeam:MIA

@@ -1,0 +1,10 @@
+Name:Medford Park
+Number:14
+Position:G
+Height:6-2
+Weight:205
+Birth:1933-04-11
+Age:82
+Exp:4
+School:Missouri
+OwingTeam:CIN

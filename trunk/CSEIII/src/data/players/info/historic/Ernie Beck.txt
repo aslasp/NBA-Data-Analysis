@@ -1,0 +1,10 @@
+Name:Ernie Beck
+Number:12
+Position:G
+Height:6-4
+Weight:190
+Birth:1931-12-11
+Age:83
+Exp:6
+School:Pennsylvania
+OwingTeam:STL

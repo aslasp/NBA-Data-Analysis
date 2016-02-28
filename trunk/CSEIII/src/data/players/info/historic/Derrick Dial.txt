@@ -1,0 +1,10 @@
+Name:Derrick Dial
+Number:13
+Position:G
+Height:6-4
+Weight:184
+Birth:1975-12-20
+Age:39
+Exp:3
+School:Eastern Michigan
+OwingTeam:ORL

@@ -1,0 +1,10 @@
+Name:Nikoloz Tskitishvili
+Number:15
+Position:F
+Height:7-0
+Weight:225
+Birth:1983-04-14
+Age:32
+Exp:3
+School:
+OwingTeam:PHX

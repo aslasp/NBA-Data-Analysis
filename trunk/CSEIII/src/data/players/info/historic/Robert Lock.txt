@@ -1,0 +1,10 @@
+Name:Robert Lock
+Number:44
+Position:F
+Height:6-9
+Weight:225
+Birth:1966-05-22
+Age:49
+Exp:0
+School:Kentucky
+OwingTeam:LAC

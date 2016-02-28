@@ -1,0 +1,10 @@
+Name:Mo Howard
+Number:14
+Position:G
+Height:6-2
+Weight:170
+Birth:1954-08-24
+Age:60
+Exp:0
+School:Maryland
+OwingTeam:NOJ

@@ -1,0 +1,10 @@
+Name:Vitaly Potapenko
+Number:20
+Position:C-F
+Height:6-10
+Weight:285
+Birth:1975-03-21
+Age:40
+Exp:10
+School:Wright State
+OwingTeam:SAC

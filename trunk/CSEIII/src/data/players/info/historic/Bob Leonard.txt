@@ -1,0 +1,10 @@
+Name:Bob Leonard
+Number:21
+Position:G
+Height:6-3
+Weight:185
+Birth:1932-07-17
+Age:82
+Exp:6
+School:Indiana
+OwingTeam:CHZ

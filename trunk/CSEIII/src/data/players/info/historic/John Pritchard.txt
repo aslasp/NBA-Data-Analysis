@@ -1,0 +1,10 @@
+Name:John Pritchard
+Number:
+Position:C
+Height:6-9
+Weight:220
+Birth:1927-01-23
+Age:88
+Exp:0
+School:Drake
+OwingTeam:WAT

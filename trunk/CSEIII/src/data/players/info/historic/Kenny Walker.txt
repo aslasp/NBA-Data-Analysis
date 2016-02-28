@@ -1,0 +1,10 @@
+Name:Kenny Walker
+Number:15
+Position:F
+Height:6-8
+Weight:210
+Birth:1964-08-18
+Age:50
+Exp:6
+School:Kentucky
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Reggie Carter
+Number:35
+Position:G
+Height:6-3
+Weight:175
+Birth:1957-10-10
+Age:57
+Exp:1
+School:St. John
+OwingTeam:NYK

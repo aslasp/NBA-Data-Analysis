@@ -1,0 +1,10 @@
+Name:Tom Sewell
+Number:32
+Position:G
+Height:6-5
+Weight:185
+Birth:1962-03-11
+Age:53
+Exp:0
+School:Lamar
+OwingTeam:WAS

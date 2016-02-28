@@ -1,0 +1,10 @@
+Name:Ed Kalafat
+Number:23
+Position:C
+Height:6-6
+Weight:245
+Birth:1932-10-13
+Age:82
+Exp:2
+School:Minnesota
+OwingTeam:MNL

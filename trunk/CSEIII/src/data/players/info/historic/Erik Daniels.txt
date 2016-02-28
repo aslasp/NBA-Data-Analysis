@@ -1,0 +1,10 @@
+Name:Erik Daniels
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-04-01
+Age:33
+Exp:0
+School:Kentucky
+OwingTeam:

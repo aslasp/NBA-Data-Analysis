@@ -1,0 +1,10 @@
+Name:Lloyd Neal
+Number:36
+Position:F
+Height:6-7
+Weight:225
+Birth:1950-12-10
+Age:64
+Exp:6
+School:Tennessee State
+OwingTeam:POR

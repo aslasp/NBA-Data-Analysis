@@ -1,0 +1,10 @@
+Name:Rory White
+Number:22
+Position:F
+Height:6-8
+Weight:210
+Birth:1959-08-16
+Age:55
+Exp:4
+School:South Alabama
+OwingTeam:LAC

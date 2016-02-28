@@ -1,0 +1,10 @@
+Name:Makhtar N'Diaye
+Number:40
+Position:F
+Height:6-8
+Weight:245
+Birth:1973-12-12
+Age:41
+Exp:0
+School:North Carolina
+OwingTeam:VAN

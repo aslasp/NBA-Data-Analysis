@@ -1,0 +1,10 @@
+Name:Paul Long
+Number:5
+Position:G
+Height:6-2
+Weight:180
+Birth:1944-02-08
+Age:71
+Exp:2
+School:Wake Forest
+OwingTeam:BUF

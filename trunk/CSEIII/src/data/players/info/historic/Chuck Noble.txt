@@ -1,0 +1,10 @@
+Name:Chuck Noble
+Number:14
+Position:G
+Height:6-4
+Weight:190
+Birth:1931-07-24
+Age:83
+Exp:6
+School:Louisville
+OwingTeam:DET

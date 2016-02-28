@@ -1,0 +1,10 @@
+Name:Marques Bragg
+Number:33
+Position:F
+Height:6-8
+Weight:230
+Birth:1970-03-24
+Age:45
+Exp:0
+School:Providence
+OwingTeam:MIN

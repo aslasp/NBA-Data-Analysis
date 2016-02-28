@@ -1,0 +1,10 @@
+Name:Desmon Farmer
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-10-07
+Age:33
+Exp:0
+School:Southern California
+OwingTeam:

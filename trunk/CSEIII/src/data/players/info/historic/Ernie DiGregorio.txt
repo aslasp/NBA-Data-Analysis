@@ -1,0 +1,10 @@
+Name:Ernie DiGregorio
+Number:7
+Position:G
+Height:6-0
+Weight:180
+Birth:1951-01-15
+Age:64
+Exp:4
+School:Providence
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Guy Morgan
+Number:35
+Position:G
+Height:6-8
+Weight:205
+Birth:1960-08-23
+Age:54
+Exp:0
+School:Wake Forest
+OwingTeam:IND

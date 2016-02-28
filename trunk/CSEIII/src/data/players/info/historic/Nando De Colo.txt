@@ -1,0 +1,10 @@
+Name:Nando De Colo
+Number:3
+Position:G
+Height:6-5
+Weight:195
+Birth:1987-06-23
+Age:27
+Exp:1
+School:Saint Catherine
+OwingTeam:TOR

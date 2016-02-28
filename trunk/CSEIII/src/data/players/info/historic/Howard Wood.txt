@@ -1,0 +1,10 @@
+Name:Howard Wood
+Number:33
+Position:F
+Height:6-7
+Weight:235
+Birth:1959-05-20
+Age:56
+Exp:0
+School:Tennessee
+OwingTeam:UTH

@@ -1,0 +1,10 @@
+Name:Michael Cooper
+Number:21
+Position:G
+Height:6-7
+Weight:170
+Birth:1956-04-15
+Age:59
+Exp:11
+School:New Mexico
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:James Worthy
+Number:42
+Position:F
+Height:6-9
+Weight:225
+Birth:1961-02-27
+Age:54
+Exp:11
+School:North Carolina
+OwingTeam:LAL

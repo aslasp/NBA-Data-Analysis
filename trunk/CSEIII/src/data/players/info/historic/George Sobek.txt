@@ -1,0 +1,10 @@
+Name:George Sobek
+Number:
+Position:G
+Height:6-0
+Weight:180
+Birth:1920-02-10
+Age:95
+Exp:0
+School:Notre Dame
+OwingTeam:SHE

@@ -1,0 +1,10 @@
+Name:Lamar Green
+Number:16
+Position:F
+Height:6-7
+Weight:210
+Birth:1947-03-22
+Age:68
+Exp:5
+School:Morehead State
+OwingTeam:NOJ

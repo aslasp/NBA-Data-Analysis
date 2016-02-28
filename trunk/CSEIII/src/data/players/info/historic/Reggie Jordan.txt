@@ -1,0 +1,10 @@
+Name:Reggie Jordan
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-01-26
+Age:47
+Exp:0
+School:New Mexico State
+OwingTeam:

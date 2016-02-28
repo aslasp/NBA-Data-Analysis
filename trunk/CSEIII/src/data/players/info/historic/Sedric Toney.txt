@@ -1,0 +1,10 @@
+Name:Sedric Toney
+Number:4
+Position:G
+Height:6-2
+Weight:178
+Birth:1962-04-13
+Age:53
+Exp:4
+School:Dayton
+OwingTeam:CLE

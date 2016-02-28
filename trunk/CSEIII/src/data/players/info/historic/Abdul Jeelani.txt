@@ -1,0 +1,10 @@
+Name:Abdul Jeelani
+Number:11
+Position:F
+Height:6-8
+Weight:210
+Birth:1954-02-10
+Age:61
+Exp:1
+School:Wisconsin-Parkside
+OwingTeam:DAL

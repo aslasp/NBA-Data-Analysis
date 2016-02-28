@@ -1,0 +1,10 @@
+Name:Andre Turner
+Number:1
+Position:G
+Height:5-11
+Weight:160
+Birth:1964-12-13
+Age:50
+Exp:5
+School:Memphis
+OwingTeam:WAS

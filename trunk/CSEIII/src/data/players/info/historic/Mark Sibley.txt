@@ -1,0 +1,10 @@
+Name:Mark Sibley
+Number:11
+Position:G
+Height:6-2
+Weight:175
+Birth:1950-11-13
+Age:64
+Exp:0
+School:Northwestern
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Larry Fogle
+Number:44
+Position:G
+Height:6-5
+Weight:205
+Birth:1953-03-19
+Age:62
+Exp:0
+School:Canisius
+OwingTeam:NYK

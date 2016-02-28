@@ -1,0 +1,10 @@
+Name:Troy Murphy
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-05-02
+Age:35
+Exp:0
+School:Notre Dame
+OwingTeam:

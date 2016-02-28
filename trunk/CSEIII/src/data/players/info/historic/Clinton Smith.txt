@@ -1,0 +1,10 @@
+Name:Clinton Smith
+Number:22
+Position:F
+Height:6-6
+Weight:210
+Birth:1964-01-19
+Age:51
+Exp:1
+School:Cleveland State
+OwingTeam:WAS

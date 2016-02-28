@@ -1,0 +1,10 @@
+Name:Mel McCants
+Number:49
+Position:F
+Height:6-8
+Weight:240
+Birth:1967-08-19
+Age:47
+Exp:0
+School:Purdue
+OwingTeam:LAL

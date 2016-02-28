@@ -1,0 +1,10 @@
+Name:Tyrone Britt
+Number:31
+Position:G
+Height:6-4
+Weight:190
+Birth:1944-04-18
+Age:71
+Exp:0
+School:Johnson C. Smith
+OwingTeam:SDR

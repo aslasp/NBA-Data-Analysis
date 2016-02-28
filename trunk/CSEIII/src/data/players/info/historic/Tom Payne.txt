@@ -1,0 +1,10 @@
+Name:Tom Payne
+Number:54
+Position:C
+Height:7-2
+Weight:240
+Birth:1950-11-19
+Age:64
+Exp:0
+School:Kentucky
+OwingTeam:ATL

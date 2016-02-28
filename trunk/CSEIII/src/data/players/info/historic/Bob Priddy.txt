@@ -1,0 +1,10 @@
+Name:Bob Priddy
+Number:
+Position:F
+Height:6-3
+Weight:190
+Birth:1930-03-24
+Age:85
+Exp:0
+School:New Mexico State
+OwingTeam:BAL

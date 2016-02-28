@@ -1,0 +1,10 @@
+Name:Irv Bemoras
+Number:26
+Position:F
+Height:6-3
+Weight:185
+Birth:1930-11-18
+Age:84
+Exp:1
+School:Illinois
+OwingTeam:STL

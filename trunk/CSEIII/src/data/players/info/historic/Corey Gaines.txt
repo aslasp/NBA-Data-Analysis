@@ -1,0 +1,10 @@
+Name:Corey Gaines
+Number:5
+Position:G
+Height:6-3
+Weight:195
+Birth:1965-06-01
+Age:49
+Exp:4
+School:Loyola-Marymount
+OwingTeam:PHL

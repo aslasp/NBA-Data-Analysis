@@ -1,0 +1,10 @@
+Name:Charlie Paulk
+Number:42
+Position:F
+Height:6-8
+Weight:219
+Birth:1946-06-14
+Age:68
+Exp:2
+School:Northeastern State
+OwingTeam:CHI

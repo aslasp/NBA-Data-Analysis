@@ -1,0 +1,10 @@
+Name:Mike Glenn
+Number:10
+Position:G
+Height:6-2
+Weight:175
+Birth:1955-09-10
+Age:59
+Exp:9
+School:Southern Illinois
+OwingTeam:MIL

@@ -1,0 +1,10 @@
+Name:Chris Engler
+Number:50
+Position:C
+Height:6-11
+Weight:245
+Birth:1959-03-01
+Age:56
+Exp:4
+School:Wyoming
+OwingTeam:NJN

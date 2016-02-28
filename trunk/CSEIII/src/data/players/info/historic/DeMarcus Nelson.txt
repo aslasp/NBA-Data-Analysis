@@ -1,0 +1,10 @@
+Name:DeMarcus Nelson
+Number:21
+Position:G
+Height:6-4
+Weight:200
+Birth:1985-11-02
+Age:29
+Exp:0
+School:Duke
+OwingTeam:CHI

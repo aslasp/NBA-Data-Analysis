@@ -1,0 +1,10 @@
+Name:Vern Hatton
+Number:17
+Position:G
+Height:6-3
+Weight:195
+Birth:1936-01-13
+Age:79
+Exp:3
+School:Kentucky
+OwingTeam:STL

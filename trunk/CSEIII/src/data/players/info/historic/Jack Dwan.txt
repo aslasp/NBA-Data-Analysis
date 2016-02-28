@@ -1,0 +1,10 @@
+Name:Jack Dwan
+Number:19
+Position:F
+Height:6-4
+Weight:200
+Birth:1921-05-03
+Age:94
+Exp:0
+School:Loyola-Chicago
+OwingTeam:MNL

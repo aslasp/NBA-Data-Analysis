@@ -1,0 +1,10 @@
+Name:Marcus Liberty
+Number:30
+Position:F
+Height:6-8
+Weight:205
+Birth:1968-10-27
+Age:46
+Exp:3
+School:Illinois
+OwingTeam:DET

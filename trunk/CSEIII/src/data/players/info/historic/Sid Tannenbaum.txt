@@ -1,0 +1,10 @@
+Name:Sid Tannenbaum
+Number:6
+Position:G
+Height:6-0
+Weight:160
+Birth:1925-10-08
+Age:89
+Exp:1
+School:New York University
+OwingTeam:NYK

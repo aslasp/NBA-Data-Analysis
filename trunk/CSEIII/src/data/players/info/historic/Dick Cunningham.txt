@@ -1,0 +1,10 @@
+Name:Dick Cunningham
+Number:19
+Position:C
+Height:6-10
+Weight:245
+Birth:1946-07-11
+Age:68
+Exp:6
+School:Murray State
+OwingTeam:MIL

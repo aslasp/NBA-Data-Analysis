@@ -1,0 +1,10 @@
+Name:Mike Brittain
+Number:40
+Position:C
+Height:7-0
+Weight:235
+Birth:1963-06-21
+Age:51
+Exp:1
+School:South Carolina
+OwingTeam:SAN

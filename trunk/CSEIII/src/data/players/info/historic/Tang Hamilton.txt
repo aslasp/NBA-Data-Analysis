@@ -1,0 +1,10 @@
+Name:Tang Hamilton
+Number:5
+Position:F
+Height:6-8
+Weight:205
+Birth:1978-05-26
+Age:37
+Exp:1
+School:Mississippi State
+OwingTeam:MEM

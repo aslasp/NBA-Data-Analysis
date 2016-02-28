@@ -1,0 +1,10 @@
+Name:Elmo Morgenthaler
+Number:17
+Position:C
+Height:6-9
+Weight:230
+Birth:1922-08-03
+Age:92
+Exp:1
+School:New Mexico Tech
+OwingTeam:PHW

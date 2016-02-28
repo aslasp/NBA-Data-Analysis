@@ -1,0 +1,10 @@
+Name:Nate Huffman
+Number:7
+Position:C
+Height:7-1
+Weight:245
+Birth:1975-04-02
+Age:40
+Exp:0
+School:Central Michigan
+OwingTeam:TOR

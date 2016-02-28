@@ -1,0 +1,10 @@
+Name:Michael Jordan
+Number:23
+Position:G
+Height:6-6
+Weight:216
+Birth:1963-02-17
+Age:52
+Exp:14
+School:North Carolina
+OwingTeam:WAS

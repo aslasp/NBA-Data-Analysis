@@ -1,0 +1,10 @@
+Name:Andy Toolson
+Number:5
+Position:F
+Height:6-6
+Weight:210
+Birth:1966-01-19
+Age:49
+Exp:1
+School:Brigham Young
+OwingTeam:UTH

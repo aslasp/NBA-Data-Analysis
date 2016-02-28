@@ -1,0 +1,10 @@
+Name:Ron Anderson
+Number:35
+Position:F
+Height:6-7
+Weight:215
+Birth:1958-10-15
+Age:56
+Exp:9
+School:Fresno State
+OwingTeam:WAS

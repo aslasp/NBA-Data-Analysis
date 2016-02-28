@@ -1,0 +1,10 @@
+Name:Fernando Martin
+Number:10
+Position:C
+Height:6-9
+Weight:220
+Birth:1962-03-25
+Age:53
+Exp:0
+School:
+OwingTeam:POR

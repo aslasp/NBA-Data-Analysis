@@ -1,0 +1,10 @@
+Name:Anthony Taylor
+Number:3
+Position:G
+Height:6-4
+Weight:175
+Birth:1965-11-30
+Age:49
+Exp:0
+School:Oregon
+OwingTeam:MIA

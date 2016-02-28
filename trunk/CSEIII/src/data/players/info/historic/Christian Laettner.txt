@@ -1,0 +1,10 @@
+Name:Christian Laettner
+Number:44
+Position:F-C
+Height:6-11
+Weight:245
+Birth:1969-08-17
+Age:45
+Exp:12
+School:Duke
+OwingTeam:MIA

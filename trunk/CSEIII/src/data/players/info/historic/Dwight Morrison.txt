@@ -1,0 +1,10 @@
+Name:Dwight Morrison
+Number:12
+Position:F
+Height:6-8
+Weight:220
+Birth:1932-04-26
+Age:83
+Exp:2
+School:Idaho
+OwingTeam:STL

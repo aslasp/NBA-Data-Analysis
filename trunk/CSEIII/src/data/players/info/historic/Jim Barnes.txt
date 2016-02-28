@@ -1,0 +1,10 @@
+Name:Jim Barnes
+Number:12
+Position:C
+Height:6-8
+Weight:210
+Birth:1941-04-13
+Age:74
+Exp:6
+School:Texas-El Paso
+OwingTeam:BLT

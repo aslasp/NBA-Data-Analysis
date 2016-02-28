@@ -1,0 +1,10 @@
+Name:Pat Frink
+Number:17
+Position:G
+Height:6-4
+Weight:195
+Birth:1945-02-18
+Age:70
+Exp:0
+School:Colorado
+OwingTeam:CIN

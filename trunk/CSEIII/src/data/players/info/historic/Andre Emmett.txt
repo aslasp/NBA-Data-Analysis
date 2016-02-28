@@ -1,0 +1,10 @@
+Name:Andre Emmett
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-08-27
+Age:32
+Exp:0
+School:Texas Tech
+OwingTeam:

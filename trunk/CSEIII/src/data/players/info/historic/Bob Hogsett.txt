@@ -1,0 +1,10 @@
+Name:Bob Hogsett
+Number:20
+Position:F
+Height:6-7
+Weight:230
+Birth:1941-01-29
+Age:74
+Exp:0
+School:Tennessee
+OwingTeam:DET

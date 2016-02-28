@@ -1,0 +1,10 @@
+Name:Dallas Comegys
+Number:22
+Position:C
+Height:6-9
+Weight:205
+Birth:1964-08-17
+Age:50
+Exp:1
+School:DePaul
+OwingTeam:SAN

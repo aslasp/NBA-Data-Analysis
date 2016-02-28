@@ -1,0 +1,10 @@
+Name:Dion Glover
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-10-22
+Age:36
+Exp:0
+School:Georgia Tech
+OwingTeam:

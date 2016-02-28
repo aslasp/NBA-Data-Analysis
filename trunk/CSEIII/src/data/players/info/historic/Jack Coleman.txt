@@ -1,0 +1,10 @@
+Name:Jack Coleman
+Number:11
+Position:F
+Height:6-7
+Weight:195
+Birth:1924-05-23
+Age:91
+Exp:8
+School:Louisville
+OwingTeam:STL

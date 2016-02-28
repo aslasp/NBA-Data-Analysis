@@ -1,0 +1,10 @@
+Name:Thomas Hamilton
+Number:55
+Position:C
+Height:7-2
+Weight:330
+Birth:1975-04-03
+Age:40
+Exp:2
+School:Pittsburgh
+OwingTeam:NOH

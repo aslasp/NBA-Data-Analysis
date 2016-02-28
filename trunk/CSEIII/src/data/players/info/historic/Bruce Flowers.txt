@@ -1,0 +1,10 @@
+Name:Bruce Flowers
+Number:23
+Position:F
+Height:6-8
+Weight:225
+Birth:1957-06-13
+Age:57
+Exp:0
+School:Notre Dame
+OwingTeam:CLE

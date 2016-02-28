@@ -1,0 +1,10 @@
+Name:Bob Peterson
+Number:9
+Position:F
+Height:6-5
+Weight:210
+Birth:1932-01-25
+Age:83
+Exp:2
+School:Oregon
+OwingTeam:NYK

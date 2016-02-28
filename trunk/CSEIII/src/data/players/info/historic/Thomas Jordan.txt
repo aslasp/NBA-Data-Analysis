@@ -1,0 +1,10 @@
+Name:Thomas Jordan
+Number:55
+Position:F
+Height:6-10
+Weight:220
+Birth:1968-05-23
+Age:47
+Exp:0
+School:Oklahoma State
+OwingTeam:PHL

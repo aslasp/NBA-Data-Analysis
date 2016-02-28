@@ -1,0 +1,10 @@
+Name:Junior Bridgeman
+Number:2
+Position:F
+Height:6-5
+Weight:210
+Birth:1953-09-17
+Age:61
+Exp:11
+School:Louisville
+OwingTeam:MIL

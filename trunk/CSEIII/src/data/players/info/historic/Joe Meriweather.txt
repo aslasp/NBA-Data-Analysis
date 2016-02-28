@@ -1,0 +1,10 @@
+Name:Joe Meriweather
+Number:50
+Position:C
+Height:6-10
+Weight:215
+Birth:1953-10-26
+Age:61
+Exp:9
+School:Southern Illinois
+OwingTeam:KCK

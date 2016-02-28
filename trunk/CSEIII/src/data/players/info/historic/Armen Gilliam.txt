@@ -1,0 +1,10 @@
+Name:Armen Gilliam
+Number:5
+Position:F
+Height:6-9
+Weight:260
+Birth:1964-05-28
+Age:51
+Exp:11
+School:Nevada-Las Vegas
+OwingTeam:UTA

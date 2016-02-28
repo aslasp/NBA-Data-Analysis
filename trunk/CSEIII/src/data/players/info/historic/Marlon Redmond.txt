@@ -1,0 +1,10 @@
+Name:Marlon Redmond
+Number:4
+Position:G
+Height:6-6
+Weight:188
+Birth:1955-04-15
+Age:60
+Exp:1
+School:San Francisco
+OwingTeam:KCK

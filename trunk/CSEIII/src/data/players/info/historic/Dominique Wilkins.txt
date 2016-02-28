@@ -1,0 +1,10 @@
+Name:Dominique Wilkins
+Number:21
+Position:F
+Height:6-8
+Weight:230
+Birth:1960-01-12
+Age:55
+Exp:14
+School:Georgia
+OwingTeam:ORL

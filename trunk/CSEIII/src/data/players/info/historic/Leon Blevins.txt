@@ -1,0 +1,10 @@
+Name:Leon Blevins
+Number:
+Position:G
+Height:6-2
+Weight:160
+Birth:1926-06-25
+Age:88
+Exp:0
+School:Arizona
+OwingTeam:INO

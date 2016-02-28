@@ -1,0 +1,10 @@
+Name:Norman Glick
+Number:20
+Position:F
+Height:6-6
+Weight:190
+Birth:1927-11-10
+Age:87
+Exp:0
+School:Loyola-Marymount
+OwingTeam:MNL

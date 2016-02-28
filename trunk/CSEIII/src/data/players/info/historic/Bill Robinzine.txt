@@ -1,0 +1,10 @@
+Name:Bill Robinzine
+Number:52
+Position:F
+Height:6-7
+Weight:230
+Birth:1953-01-20
+Age:62
+Exp:6
+School:DePaul
+OwingTeam:UTH

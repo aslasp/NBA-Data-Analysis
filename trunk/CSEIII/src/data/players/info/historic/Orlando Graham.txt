@@ -1,0 +1,10 @@
+Name:Orlando Graham
+Number:44
+Position:F
+Height:6-8
+Weight:220
+Birth:1965-05-05
+Age:50
+Exp:0
+School:Auburn-Montgomery
+OwingTeam:GOS

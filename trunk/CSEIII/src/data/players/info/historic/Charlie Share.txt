@@ -1,0 +1,10 @@
+Name:Charlie Share
+Number:13
+Position:C
+Height:6-11
+Weight:235
+Birth:1927-03-14
+Age:88
+Exp:8
+School:Bowling Green
+OwingTeam:STL

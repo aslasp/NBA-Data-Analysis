@@ -1,0 +1,10 @@
+Name:Antoine Wright
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-02-06
+Age:31
+Exp:0
+School:Texas A
+OwingTeam:

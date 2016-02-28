@@ -1,0 +1,10 @@
+Name:Bob McAdoo
+Number:11
+Position:C
+Height:6-9
+Weight:210
+Birth:1951-09-15
+Age:63
+Exp:13
+School:North Carolina
+OwingTeam:PHL

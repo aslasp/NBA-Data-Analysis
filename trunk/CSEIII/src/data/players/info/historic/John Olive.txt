@@ -1,0 +1,10 @@
+Name:John Olive
+Number:40
+Position:F
+Height:6-7
+Weight:210
+Birth:1955-03-01
+Age:60
+Exp:1
+School:Villanova
+OwingTeam:SDC

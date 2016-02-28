@@ -1,0 +1,10 @@
+Name:Jamie Waller
+Number:15
+Position:F
+Height:6-4
+Weight:215
+Birth:1964-11-20
+Age:50
+Exp:0
+School:Virginia Union
+OwingTeam:NJN

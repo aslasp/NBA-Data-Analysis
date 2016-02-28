@@ -1,0 +1,10 @@
+Name:Dave DeBusschere
+Number:22
+Position:F
+Height:6-6
+Weight:220
+Birth:1940-10-16
+Age:74
+Exp:11
+School:Detroit Mercy
+OwingTeam:NYK

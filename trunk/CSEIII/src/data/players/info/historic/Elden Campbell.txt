@@ -1,0 +1,10 @@
+Name:Elden Campbell
+Number:41
+Position:C-F
+Height:7-0
+Weight:279
+Birth:1968-07-23
+Age:46
+Exp:14
+School:Clemson
+OwingTeam:DET

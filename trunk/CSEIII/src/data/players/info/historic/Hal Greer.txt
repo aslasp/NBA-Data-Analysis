@@ -1,0 +1,10 @@
+Name:Hal Greer
+Number:15
+Position:G
+Height:6-2
+Weight:175
+Birth:1936-06-26
+Age:78
+Exp:14
+School:Marshall
+OwingTeam:PHL

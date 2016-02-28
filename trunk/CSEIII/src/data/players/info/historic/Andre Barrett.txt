@@ -1,0 +1,10 @@
+Name:Andre Barrett
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-02-21
+Age:33
+Exp:0
+School:Seton Hall
+OwingTeam:

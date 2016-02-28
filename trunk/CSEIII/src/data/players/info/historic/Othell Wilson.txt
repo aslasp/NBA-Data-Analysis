@@ -1,0 +1,10 @@
+Name:Othell Wilson
+Number:2
+Position:G
+Height:6-0
+Weight:190
+Birth:1961-10-26
+Age:53
+Exp:1
+School:Virginia
+OwingTeam:SAC

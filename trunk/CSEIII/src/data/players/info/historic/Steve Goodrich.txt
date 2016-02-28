@@ -1,0 +1,10 @@
+Name:Steve Goodrich
+Number:30
+Position:C
+Height:6-10
+Weight:220
+Birth:1976-03-18
+Age:39
+Exp:2
+School:Princeton
+OwingTeam:HOU

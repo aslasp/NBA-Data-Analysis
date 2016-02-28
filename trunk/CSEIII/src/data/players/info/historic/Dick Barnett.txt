@@ -1,0 +1,10 @@
+Name:Dick Barnett
+Number:12
+Position:G
+Height:6-4
+Weight:190
+Birth:1936-10-02
+Age:78
+Exp:13
+School:Tennessee State
+OwingTeam:NYK

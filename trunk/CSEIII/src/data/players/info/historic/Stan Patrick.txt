@@ -1,0 +1,10 @@
+Name:Stan Patrick
+Number:
+Position:F
+Height:6-2
+Weight:185
+Birth:1922-05-05
+Age:93
+Exp:0
+School:Illinois
+OwingTeam:WAT

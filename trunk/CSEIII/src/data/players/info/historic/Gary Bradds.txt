@@ -1,0 +1,10 @@
+Name:Gary Bradds
+Number:33
+Position:F
+Height:6-8
+Weight:210
+Birth:1942-07-26
+Age:72
+Exp:1
+School:Ohio State
+OwingTeam:BLT

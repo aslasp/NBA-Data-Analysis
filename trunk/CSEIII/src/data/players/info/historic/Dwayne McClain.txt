@@ -1,0 +1,10 @@
+Name:Dwayne McClain
+Number:44
+Position:G
+Height:6-6
+Weight:185
+Birth:1963-02-07
+Age:52
+Exp:0
+School:Villanova
+OwingTeam:IND

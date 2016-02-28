@@ -1,0 +1,10 @@
+Name:Ray Kuka
+Number:12
+Position:F
+Height:6-3
+Weight:200
+Birth:1922-02-17
+Age:93
+Exp:1
+School:Notre Dame
+OwingTeam:NYK

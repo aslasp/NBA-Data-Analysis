@@ -1,0 +1,10 @@
+Name:Gordan Giricek
+Number:2
+Position:G
+Height:6-6
+Weight:220
+Birth:1977-06-20
+Age:37
+Exp:5
+School:Croatia
+OwingTeam:PHX

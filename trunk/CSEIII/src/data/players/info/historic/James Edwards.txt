@@ -1,0 +1,10 @@
+Name:James Edwards
+Number:53
+Position:C
+Height:7-1
+Weight:252
+Birth:1955-11-22
+Age:59
+Exp:18
+School:Washington
+OwingTeam:CHI

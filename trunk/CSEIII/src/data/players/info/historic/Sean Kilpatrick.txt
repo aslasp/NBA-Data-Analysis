@@ -1,0 +1,10 @@
+Name:Sean Kilpatrick
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-01-06
+Age:25
+Exp:0
+School:Cincinnati
+OwingTeam:

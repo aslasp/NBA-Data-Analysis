@@ -1,0 +1,10 @@
+Name:Bruce Douglas
+Number:42
+Position:G
+Height:6-3
+Weight:195
+Birth:1964-04-09
+Age:51
+Exp:0
+School:Illinois
+OwingTeam:SAC

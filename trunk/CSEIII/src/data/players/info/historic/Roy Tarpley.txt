@@ -1,0 +1,10 @@
+Name:Roy Tarpley
+Number:42
+Position:F
+Height:7-0
+Weight:230
+Birth:1964-11-28
+Age:50
+Exp:5
+School:Michigan
+OwingTeam:DAL

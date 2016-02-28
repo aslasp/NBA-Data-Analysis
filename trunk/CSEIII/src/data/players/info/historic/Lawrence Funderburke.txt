@@ -1,0 +1,10 @@
+Name:Lawrence Funderburke
+Number:51
+Position:F
+Height:6-9
+Weight:230
+Birth:1970-12-15
+Age:44
+Exp:6
+School:Ohio State
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Dorie Murrey
+Number:40
+Position:F
+Height:6-8
+Weight:215
+Birth:1943-09-07
+Age:71
+Exp:5
+School:Detroit Mercy
+OwingTeam:BLT

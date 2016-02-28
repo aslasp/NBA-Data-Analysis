@@ -1,0 +1,10 @@
+Name:Jerome Kersey
+Number:
+Position:
+Height:
+Weight:
+Birth:1962-06-26
+Age:52
+Exp:0
+School:Longwood
+OwingTeam:

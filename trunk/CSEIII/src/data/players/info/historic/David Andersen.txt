@@ -1,0 +1,10 @@
+Name:David Andersen
+Number:11
+Position:C
+Height:6-11
+Weight:247
+Birth:1980-06-23
+Age:34
+Exp:1
+School:Frankston
+OwingTeam:NOH

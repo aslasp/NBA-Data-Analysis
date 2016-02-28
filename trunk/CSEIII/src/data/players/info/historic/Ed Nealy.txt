@@ -1,0 +1,10 @@
+Name:Ed Nealy
+Number:45
+Position:F
+Height:6-7
+Weight:238
+Birth:1960-02-19
+Age:55
+Exp:9
+School:Kansas State
+OwingTeam:CHI

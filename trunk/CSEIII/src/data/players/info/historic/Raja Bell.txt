@@ -1,0 +1,10 @@
+Name:Raja Bell
+Number:19
+Position:G
+Height:6-5
+Weight:210
+Birth:1976-09-19
+Age:38
+Exp:11
+School:Florida International
+OwingTeam:UTA

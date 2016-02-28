@@ -1,0 +1,10 @@
+Name:Richard Manning
+Number:50
+Position:C
+Height:6-11
+Weight:245
+Birth:1970-06-23
+Age:44
+Exp:1
+School:Washington
+OwingTeam:LAC

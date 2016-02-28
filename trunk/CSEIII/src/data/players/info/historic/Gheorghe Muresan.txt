@@ -1,0 +1,10 @@
+Name:Gheorghe Muresan
+Number:77
+Position:C
+Height:7-7
+Weight:303
+Birth:1971-02-14
+Age:44
+Exp:6
+School:Romania
+OwingTeam:NJN

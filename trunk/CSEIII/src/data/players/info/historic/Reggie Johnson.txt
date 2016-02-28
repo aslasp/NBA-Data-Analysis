@@ -1,0 +1,10 @@
+Name:Reggie Johnson
+Number:33
+Position:F
+Height:6-9
+Weight:205
+Birth:1957-06-25
+Age:57
+Exp:3
+School:Tennessee
+OwingTeam:NJN

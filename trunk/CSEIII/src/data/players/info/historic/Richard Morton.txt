@@ -1,0 +1,10 @@
+Name:Richard Morton
+Number:4
+Position:F
+Height:6-3
+Weight:190
+Birth:1966-02-02
+Age:49
+Exp:0
+School:Cal State-Fullerton
+OwingTeam:IND

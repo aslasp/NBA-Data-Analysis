@@ -1,0 +1,10 @@
+Name:Claude Overton
+Number:14
+Position:G
+Height:6-2
+Weight:195
+Birth:1927-12-16
+Age:87
+Exp:0
+School:East Central
+OwingTeam:PHW

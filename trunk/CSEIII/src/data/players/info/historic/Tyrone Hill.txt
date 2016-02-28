@@ -1,0 +1,10 @@
+Name:Tyrone Hill
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-03-19
+Age:47
+Exp:0
+School:Xavier
+OwingTeam:

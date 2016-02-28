@@ -1,0 +1,10 @@
+Name:John Thompson
+Number:5
+Position:F
+Height:6-10
+Weight:225
+Birth:1941-09-02
+Age:73
+Exp:1
+School:Providence
+OwingTeam:BOS

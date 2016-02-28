@@ -1,0 +1,10 @@
+Name:Carl Henry
+Number:11
+Position:G
+Height:6-6
+Weight:205
+Birth:1960-08-16
+Age:54
+Exp:0
+School:Kansas
+OwingTeam:SAC

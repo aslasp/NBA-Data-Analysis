@@ -1,0 +1,10 @@
+Name:Vernon Macklin
+Number:20
+Position:F
+Height:6-10
+Weight:227
+Birth:1986-09-25
+Age:28
+Exp:0
+School:Florida
+OwingTeam:DET

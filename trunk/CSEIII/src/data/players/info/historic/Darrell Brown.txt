@@ -1,0 +1,10 @@
+Name:Darrell Brown
+Number:
+Position:F
+Height:6-2
+Weight:175
+Birth:1923-03-14
+Age:92
+Exp:0
+School:Humboldt State
+OwingTeam:BAL

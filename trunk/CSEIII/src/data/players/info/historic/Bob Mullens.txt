@@ -1,0 +1,10 @@
+Name:Bob Mullens
+Number:
+Position:G
+Height:6-1
+Weight:175
+Birth:1922-11-01
+Age:92
+Exp:0
+School:Fordham
+OwingTeam:HUS

@@ -1,0 +1,10 @@
+Name:Peter Maravich
+Number:
+Position:G
+Height:6-0
+Weight:185
+Birth:1920-08-20
+Age:94
+Exp:0
+School:Davis 
+OwingTeam:PIT

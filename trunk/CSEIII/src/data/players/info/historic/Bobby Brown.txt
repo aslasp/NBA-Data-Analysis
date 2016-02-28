@@ -1,0 +1,10 @@
+Name:Bobby Brown
+Number:6
+Position:G
+Height:6-2
+Weight:175
+Birth:1984-09-24
+Age:30
+Exp:1
+School:Cal State-Fullerton
+OwingTeam:LAC

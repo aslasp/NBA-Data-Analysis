@@ -1,0 +1,10 @@
+Name:Anthony Mason
+Number:17
+Position:F
+Height:6-8
+Weight:255
+Birth:1966-12-14
+Age:48
+Exp:12
+School:Tennessee State
+OwingTeam:MIL

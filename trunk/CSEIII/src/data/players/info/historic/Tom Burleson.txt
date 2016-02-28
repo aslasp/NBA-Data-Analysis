@@ -1,0 +1,10 @@
+Name:Tom Burleson
+Number:16
+Position:C
+Height:7-2
+Weight:225
+Birth:1952-02-24
+Age:63
+Exp:6
+School:North Carolina State
+OwingTeam:ATL

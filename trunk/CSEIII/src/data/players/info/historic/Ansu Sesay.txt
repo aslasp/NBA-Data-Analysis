@@ -1,0 +1,10 @@
+Name:Ansu Sesay
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-07-29
+Age:38
+Exp:0
+School:Mississippi
+OwingTeam:

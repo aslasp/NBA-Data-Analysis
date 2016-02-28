@@ -1,0 +1,10 @@
+Name:Jerome Whitehead
+Number:6
+Position:C
+Height:6-10
+Weight:220
+Birth:1956-09-30
+Age:58
+Exp:10
+School:Marquette
+OwingTeam:SAN

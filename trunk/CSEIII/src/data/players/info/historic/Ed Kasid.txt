@@ -1,0 +1,10 @@
+Name:Ed Kasid
+Number:
+Position:G
+Height:5-11
+Weight:185
+Birth:1923-08-13
+Age:91
+Exp:0
+School:
+OwingTeam:HUS

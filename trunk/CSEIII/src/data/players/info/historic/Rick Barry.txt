@@ -1,0 +1,10 @@
+Name:Rick Barry
+Number:2-4
+Position:F
+Height:6-7
+Weight:205
+Birth:1944-03-28
+Age:71
+Exp:9
+School:Miami 
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Rafer Alston
+Number:11
+Position:G
+Height:6-2
+Weight:175
+Birth:1976-07-24
+Age:38
+Exp:10
+School:Fresno State
+OwingTeam:MIA

@@ -1,0 +1,10 @@
+Name:Will Perdue
+Number:55
+Position:C
+Height:7-0
+Weight:240
+Birth:1965-08-29
+Age:49
+Exp:12
+School:Vanderbilt
+OwingTeam:POR

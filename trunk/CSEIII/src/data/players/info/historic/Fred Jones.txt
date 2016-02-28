@@ -1,0 +1,10 @@
+Name:Fred Jones
+Number:2
+Position:G
+Height:6-2
+Weight:225
+Birth:1979-03-11
+Age:36
+Exp:6
+School:Oregon
+OwingTeam:LAC

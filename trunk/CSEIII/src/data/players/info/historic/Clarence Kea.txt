@@ -1,0 +1,10 @@
+Name:Clarence Kea
+Number:53
+Position:F
+Height:6-6
+Weight:218
+Birth:1959-02-02
+Age:56
+Exp:1
+School:Lamar
+OwingTeam:DAL

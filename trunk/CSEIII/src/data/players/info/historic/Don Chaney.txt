@@ -1,0 +1,10 @@
+Name:Don Chaney
+Number:12
+Position:G
+Height:6-5
+Weight:210
+Birth:1946-03-22
+Age:69
+Exp:10
+School:Houston
+OwingTeam:BOS

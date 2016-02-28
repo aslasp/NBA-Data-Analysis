@@ -1,0 +1,10 @@
+Name:Jack Rocker
+Number:19
+Position:C
+Height:6-5
+Weight:185
+Birth:1922-08-12
+Age:92
+Exp:0
+School:California
+OwingTeam:PHW

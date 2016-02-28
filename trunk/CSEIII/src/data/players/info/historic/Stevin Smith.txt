@@ -1,0 +1,10 @@
+Name:Stevin Smith
+Number:1
+Position:G
+Height:6-2
+Weight:208
+Birth:1972-01-24
+Age:43
+Exp:0
+School:Arizona State
+OwingTeam:DAL

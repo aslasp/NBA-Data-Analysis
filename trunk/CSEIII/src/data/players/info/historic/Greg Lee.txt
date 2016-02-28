@@ -1,0 +1,10 @@
+Name:Greg Lee
+Number:42
+Position:G
+Height:6-3
+Weight:190
+Birth:1951-12-12
+Age:63
+Exp:0
+School:California-Los Angeles
+OwingTeam:POR

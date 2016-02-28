@@ -1,0 +1,10 @@
+Name:Freddie Lewis
+Number:1
+Position:G
+Height:6-0
+Weight:175
+Birth:1943-07-01
+Age:71
+Exp:1
+School:Arizona State
+OwingTeam:IND

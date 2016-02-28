@@ -1,0 +1,10 @@
+Name:Vonteego Cummings
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-02-29
+Age:39
+Exp:0
+School:Pittsburgh
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Allen Iverson
+Number:3
+Position:G
+Height:6-0
+Weight:165
+Birth:1975-06-07
+Age:39
+Exp:13
+School:Georgetown
+OwingTeam:PHI

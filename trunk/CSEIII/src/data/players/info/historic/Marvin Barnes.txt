@@ -1,0 +1,10 @@
+Name:Marvin Barnes
+Number:27
+Position:F
+Height:6-9
+Weight:210
+Birth:1952-07-27
+Age:62
+Exp:3
+School:Providence
+OwingTeam:SDC

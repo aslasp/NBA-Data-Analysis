@@ -1,0 +1,10 @@
+Name:Kenny Fields
+Number:54
+Position:F
+Height:6-5
+Weight:220
+Birth:1962-02-09
+Age:53
+Exp:3
+School:California-Los Angeles
+OwingTeam:LAC

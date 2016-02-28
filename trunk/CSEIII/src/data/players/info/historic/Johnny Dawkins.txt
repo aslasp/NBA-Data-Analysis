@@ -1,0 +1,10 @@
+Name:Johnny Dawkins
+Number:12
+Position:G
+Height:6-2
+Weight:165
+Birth:1963-09-28
+Age:51
+Exp:8
+School:Duke
+OwingTeam:DET

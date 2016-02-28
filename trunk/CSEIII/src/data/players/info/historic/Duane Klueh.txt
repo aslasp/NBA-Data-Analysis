@@ -1,0 +1,10 @@
+Name:Duane Klueh
+Number:6
+Position:G
+Height:6-3
+Weight:175
+Birth:1926-01-06
+Age:89
+Exp:1
+School:Indiana State
+OwingTeam:FTW

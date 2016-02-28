@@ -1,0 +1,10 @@
+Name:Chuck Person
+Number:45
+Position:F
+Height:6-8
+Weight:241
+Birth:1964-06-27
+Age:50
+Exp:12
+School:Auburn
+OwingTeam:SEA

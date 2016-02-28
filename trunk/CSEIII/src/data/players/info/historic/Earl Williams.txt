@@ -1,0 +1,10 @@
+Name:Earl Williams
+Number:52
+Position:C
+Height:6-7
+Weight:230
+Birth:1951-03-24
+Age:64
+Exp:3
+School:Winston-Salem State
+OwingTeam:BOS

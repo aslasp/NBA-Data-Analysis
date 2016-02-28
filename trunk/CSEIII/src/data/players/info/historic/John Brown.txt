@@ -1,0 +1,10 @@
+Name:John Brown
+Number:32-52
+Position:F
+Height:6-7
+Weight:220
+Birth:1951-12-14
+Age:63
+Exp:6
+School:Missouri
+OwingTeam:UTH

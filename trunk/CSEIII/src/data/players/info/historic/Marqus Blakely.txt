@@ -1,0 +1,10 @@
+Name:Marqus Blakely
+Number:15
+Position:F
+Height:6-5
+Weight:225
+Birth:1988-10-22
+Age:26
+Exp:0
+School:Vermont
+OwingTeam:HOU

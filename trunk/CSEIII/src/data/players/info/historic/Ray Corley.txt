@@ -1,0 +1,10 @@
+Name:Ray Corley
+Number:4
+Position:G
+Height:6-0
+Weight:180
+Birth:1928-01-01
+Age:87
+Exp:2
+School:Georgetown
+OwingTeam:FTW

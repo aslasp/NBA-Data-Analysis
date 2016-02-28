@@ -1,0 +1,10 @@
+Name:Bo Outlaw
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-04-13
+Age:44
+Exp:0
+School:Houston
+OwingTeam:

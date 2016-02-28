@@ -1,0 +1,10 @@
+Name:Allie McGuire
+Number:16
+Position:G
+Height:6-3
+Weight:175
+Birth:1951-07-10
+Age:63
+Exp:0
+School:Marquette
+OwingTeam:NYK

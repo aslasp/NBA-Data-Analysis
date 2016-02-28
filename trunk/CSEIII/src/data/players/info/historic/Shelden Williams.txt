@@ -1,0 +1,10 @@
+Name:Shelden Williams
+Number:33
+Position:C-F
+Height:6-9
+Weight:250
+Birth:1983-10-21
+Age:31
+Exp:5
+School:Duke
+OwingTeam:NJN

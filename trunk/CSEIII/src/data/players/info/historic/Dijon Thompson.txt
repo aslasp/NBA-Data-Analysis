@@ -1,0 +1,10 @@
+Name:Dijon Thompson
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-02-23
+Age:32
+Exp:0
+School:California-Los Angeles
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Jack Burmaster
+Number:
+Position:G
+Height:6-3
+Weight:190
+Birth:1926-12-23
+Age:88
+Exp:0
+School:Illinois
+OwingTeam:SHE

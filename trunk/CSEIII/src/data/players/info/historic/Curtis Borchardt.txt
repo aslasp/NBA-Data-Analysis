@@ -1,0 +1,10 @@
+Name:Curtis Borchardt
+Number:22
+Position:C
+Height:7-0
+Weight:242
+Birth:1980-09-13
+Age:34
+Exp:1
+School:Stanford
+OwingTeam:UTA

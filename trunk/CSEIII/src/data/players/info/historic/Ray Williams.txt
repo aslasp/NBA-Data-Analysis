@@ -1,0 +1,10 @@
+Name:Ray Williams
+Number:13
+Position:G
+Height:6-3
+Weight:188
+Birth:1954-10-14
+Age:60
+Exp:9
+School:Minnesota
+OwingTeam:NJN

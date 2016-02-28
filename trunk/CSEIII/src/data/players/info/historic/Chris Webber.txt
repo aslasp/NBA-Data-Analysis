@@ -1,0 +1,10 @@
+Name:Chris Webber
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-03-01
+Age:42
+Exp:0
+School:Michigan
+OwingTeam:

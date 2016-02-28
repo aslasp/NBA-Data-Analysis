@@ -1,0 +1,10 @@
+Name:Noble Jorgensen
+Number:6
+Position:C
+Height:6-9
+Weight:228
+Birth:1925-05-18
+Age:90
+Exp:4
+School:Iowa
+OwingTeam:SYR

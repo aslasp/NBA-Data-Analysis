@@ -1,0 +1,10 @@
+Name:Jack Kerris
+Number:
+Position:F
+Height:6-6
+Weight:215
+Birth:1925-01-30
+Age:90
+Exp:3
+School:Loyola-Chicago
+OwingTeam:BAL

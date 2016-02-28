@@ -1,0 +1,10 @@
+Name:John Garris
+Number:55
+Position:F
+Height:6-8
+Weight:205
+Birth:1959-06-06
+Age:55
+Exp:0
+School:Boston College
+OwingTeam:CLE

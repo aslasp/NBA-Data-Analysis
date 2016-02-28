@@ -1,0 +1,10 @@
+Name:Tommy Byrnes
+Number:12
+Position:G
+Height:6-3
+Weight:175
+Birth:1923-02-19
+Age:92
+Exp:4
+School:Seton Hall
+OwingTeam:TCB

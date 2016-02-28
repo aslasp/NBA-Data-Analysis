@@ -1,0 +1,10 @@
+Name:Rick Hughes
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-08-22
+Age:41
+Exp:0
+School:Thomas More
+OwingTeam:

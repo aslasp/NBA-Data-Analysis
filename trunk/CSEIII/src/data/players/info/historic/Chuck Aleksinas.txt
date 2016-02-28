@@ -1,0 +1,10 @@
+Name:Chuck Aleksinas
+Number:50
+Position:C
+Height:6-11
+Weight:260
+Birth:1959-02-26
+Age:56
+Exp:0
+School:Connecticut
+OwingTeam:GOS

@@ -1,0 +1,10 @@
+Name:George Karl
+Number:22
+Position:G
+Height:6-2
+Weight:185
+Birth:1951-05-12
+Age:64
+Exp:1
+School:North Carolina
+OwingTeam:SAN

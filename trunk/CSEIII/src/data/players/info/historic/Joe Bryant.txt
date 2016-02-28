@@ -1,0 +1,10 @@
+Name:Joe Bryant
+Number:22
+Position:F
+Height:6-10
+Weight:185
+Birth:1954-10-19
+Age:60
+Exp:7
+School:La Salle
+OwingTeam:HOU

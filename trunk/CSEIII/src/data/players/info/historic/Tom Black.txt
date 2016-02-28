@@ -1,0 +1,10 @@
+Name:Tom Black
+Number:24
+Position:C
+Height:6-10
+Weight:220
+Birth:1941-07-09
+Age:73
+Exp:0
+School:South Dakota State
+OwingTeam:CIN

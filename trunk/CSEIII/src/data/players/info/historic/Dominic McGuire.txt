@@ -1,0 +1,10 @@
+Name:Dominic McGuire
+Number:
+Position:
+Height:
+Weight:
+Birth:1985-10-20
+Age:29
+Exp:0
+School:Fresno State
+OwingTeam:

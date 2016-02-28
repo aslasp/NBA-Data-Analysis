@@ -1,0 +1,10 @@
+Name:William Averitt
+Number:15
+Position:G
+Height:6-2
+Weight:170
+Birth:1952-07-22
+Age:62
+Exp:1
+School:Pepperdine
+OwingTeam:BUF

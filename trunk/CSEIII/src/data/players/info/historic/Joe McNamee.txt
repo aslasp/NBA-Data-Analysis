@@ -1,0 +1,10 @@
+Name:Joe McNamee
+Number:
+Position:C
+Height:6-6
+Weight:210
+Birth:1926-09-24
+Age:88
+Exp:1
+School:San Francisco
+OwingTeam:BAL

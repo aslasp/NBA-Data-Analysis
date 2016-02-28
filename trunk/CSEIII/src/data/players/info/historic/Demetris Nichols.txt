@@ -1,0 +1,10 @@
+Name:Demetris Nichols
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-09-04
+Age:30
+Exp:0
+School:Syracuse
+OwingTeam:

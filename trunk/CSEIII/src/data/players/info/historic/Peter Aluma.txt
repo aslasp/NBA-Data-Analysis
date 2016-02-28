@@ -1,0 +1,10 @@
+Name:Peter Aluma
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-04-26
+Age:42
+Exp:0
+School:Liberty
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Radisav Curcic
+Number:44
+Position:C
+Height:6-10
+Weight:275
+Birth:1965-09-26
+Age:49
+Exp:0
+School:
+OwingTeam:DAL

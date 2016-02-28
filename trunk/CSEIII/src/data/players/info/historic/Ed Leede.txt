@@ -1,0 +1,10 @@
+Name:Ed Leede
+Number:5
+Position:G
+Height:6-3
+Weight:185
+Birth:1927-07-17
+Age:87
+Exp:1
+School:Dartmouth
+OwingTeam:BOS

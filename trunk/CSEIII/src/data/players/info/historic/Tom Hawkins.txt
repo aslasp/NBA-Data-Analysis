@@ -1,0 +1,10 @@
+Name:Tom Hawkins
+Number:33
+Position:F
+Height:6-5
+Weight:210
+Birth:1936-12-22
+Age:78
+Exp:9
+School:Notre Dame
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Terry Mills
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-12-21
+Age:47
+Exp:0
+School:Michigan
+OwingTeam:

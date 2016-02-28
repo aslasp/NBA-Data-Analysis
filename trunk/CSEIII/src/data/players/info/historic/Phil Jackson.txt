@@ -1,0 +1,10 @@
+Name:Phil Jackson
+Number:17
+Position:F
+Height:6-8
+Weight:220
+Birth:1945-09-17
+Age:69
+Exp:11
+School:North Dakota
+OwingTeam:NJN

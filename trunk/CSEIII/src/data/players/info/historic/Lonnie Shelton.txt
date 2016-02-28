@@ -1,0 +1,10 @@
+Name:Lonnie Shelton
+Number:8
+Position:F
+Height:6-8
+Weight:240
+Birth:1955-10-19
+Age:59
+Exp:9
+School:Oregon State
+OwingTeam:CLE

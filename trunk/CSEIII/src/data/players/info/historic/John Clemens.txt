@@ -1,0 +1,10 @@
+Name:John Clemens
+Number:40
+Position:F
+Height:6-6
+Weight:210
+Birth:1943-05-01
+Age:72
+Exp:10
+School:Ohio Wesleyan
+OwingTeam:POR

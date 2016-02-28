@@ -1,0 +1,10 @@
+Name:Pooh Richardson
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-05-14
+Age:49
+Exp:0
+School:California-Los Angeles
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Armon Johnson
+Number:7
+Position:G
+Height:6-3
+Weight:195
+Birth:1989-02-23
+Age:26
+Exp:1
+School:Nevada
+OwingTeam:NJN

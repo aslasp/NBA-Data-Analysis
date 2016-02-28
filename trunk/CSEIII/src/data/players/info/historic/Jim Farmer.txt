@@ -1,0 +1,10 @@
+Name:Jim Farmer
+Number:22
+Position:F
+Height:6-4
+Weight:190
+Birth:1964-09-23
+Age:50
+Exp:4
+School:Alabama
+OwingTeam:DEN

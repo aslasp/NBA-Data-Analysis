@@ -1,0 +1,10 @@
+Name:Otis Birdsong
+Number:12
+Position:G
+Height:6-3
+Weight:190
+Birth:1955-12-09
+Age:59
+Exp:11
+School:Houston
+OwingTeam:BOS

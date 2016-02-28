@@ -1,0 +1,10 @@
+Name:Rasho Nesterovic
+Number:12
+Position:C
+Height:7-0
+Weight:255
+Birth:1976-05-30
+Age:39
+Exp:11
+School:Ljubljana
+OwingTeam:TOR

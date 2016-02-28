@@ -1,0 +1,10 @@
+Name:Adonis Jordan
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-08-21
+Age:44
+Exp:0
+School:Kansas
+OwingTeam:

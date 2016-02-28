@@ -1,0 +1,10 @@
+Name:Jorge Garbajosa
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-12-19
+Age:37
+Exp:0
+School:Spain
+OwingTeam:

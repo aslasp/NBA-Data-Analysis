@@ -1,0 +1,10 @@
+Name:Al Cervi
+Number:15
+Position:G
+Height:5-11
+Weight:170
+Birth:1917-02-12
+Age:98
+Exp:3
+School:
+OwingTeam:SYR

@@ -1,0 +1,10 @@
+Name:Sam Perkins
+Number:14
+Position:C-F
+Height:6-9
+Weight:260
+Birth:1961-06-14
+Age:53
+Exp:16
+School:North Carolina
+OwingTeam:IND

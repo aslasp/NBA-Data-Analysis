@@ -1,0 +1,10 @@
+Name:Fred Vinson
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-01-28
+Age:44
+Exp:0
+School:Georgia Tech
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Anthony Carter
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-06-16
+Age:39
+Exp:0
+School:Hawaii
+OwingTeam:

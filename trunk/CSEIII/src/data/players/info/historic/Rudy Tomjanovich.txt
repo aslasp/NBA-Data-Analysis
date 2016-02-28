@@ -1,0 +1,10 @@
+Name:Rudy Tomjanovich
+Number:45
+Position:F
+Height:6-8
+Weight:218
+Birth:1948-11-24
+Age:66
+Exp:10
+School:Michigan
+OwingTeam:HOU

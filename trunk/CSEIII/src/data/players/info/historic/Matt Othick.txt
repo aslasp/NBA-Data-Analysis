@@ -1,0 +1,10 @@
+Name:Matt Othick
+Number:12
+Position:G
+Height:6-2
+Weight:165
+Birth:1969-03-16
+Age:46
+Exp:0
+School:Arizona
+OwingTeam:SAN

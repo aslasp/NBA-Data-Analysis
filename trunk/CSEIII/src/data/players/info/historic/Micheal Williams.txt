@@ -1,0 +1,10 @@
+Name:Micheal Williams
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-07-23
+Age:48
+Exp:0
+School:Baylor
+OwingTeam:

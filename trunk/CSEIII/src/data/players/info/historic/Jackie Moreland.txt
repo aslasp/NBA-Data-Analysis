@@ -1,0 +1,10 @@
+Name:Jackie Moreland
+Number:15
+Position:F
+Height:6-7
+Weight:215
+Birth:1938-03-11
+Age:77
+Exp:4
+School:Louisiana Tech
+OwingTeam:DET

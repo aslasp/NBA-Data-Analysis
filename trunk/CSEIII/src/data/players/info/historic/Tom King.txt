@@ -1,0 +1,10 @@
+Name:Tom King
+Number:
+Position:G
+Height:6-0
+Weight:165
+Birth:1924-03-09
+Age:91
+Exp:0
+School:Michigan
+OwingTeam:DEF

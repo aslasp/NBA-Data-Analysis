@@ -1,0 +1,10 @@
+Name:Zoran Planinic
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-09-12
+Age:32
+Exp:0
+School:Croatia
+OwingTeam:

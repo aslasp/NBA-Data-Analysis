@@ -1,0 +1,10 @@
+Name:Sidney Hertzberg
+Number:4
+Position:G
+Height:5-10
+Weight:175
+Birth:1922-07-29
+Age:92
+Exp:4
+School:City College of New York
+OwingTeam:BOS

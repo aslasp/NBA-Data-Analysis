@@ -1,0 +1,10 @@
+Name:Vincent Yarbrough
+Number:3
+Position:F
+Height:6-7
+Weight:210
+Birth:1981-03-21
+Age:34
+Exp:0
+School:Tennessee
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Rod Thorn
+Number:44
+Position:G
+Height:6-4
+Weight:195
+Birth:1941-05-23
+Age:74
+Exp:7
+School:West Virginia
+OwingTeam:SEA

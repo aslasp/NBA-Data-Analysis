@@ -1,0 +1,10 @@
+Name:John Lucas
+Number:10
+Position:G
+Height:6-3
+Weight:175
+Birth:1953-10-31
+Age:61
+Exp:13
+School:Maryland
+OwingTeam:HOU

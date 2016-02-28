@@ -1,0 +1,10 @@
+Name:Robin Jones
+Number:34
+Position:C
+Height:6-9
+Weight:225
+Birth:1954-02-02
+Age:61
+Exp:1
+School:Saint Louis
+OwingTeam:HOU

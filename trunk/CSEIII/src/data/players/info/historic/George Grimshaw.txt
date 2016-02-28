@@ -1,0 +1,10 @@
+Name:George Grimshaw
+Number:
+Position:G
+Height:6-1
+Weight:185
+Birth:1919-09-24
+Age:95
+Exp:0
+School:Brown
+OwingTeam:PRO

@@ -1,0 +1,10 @@
+Name:Dexter Pittman
+Number:
+Position:
+Height:
+Weight:
+Birth:1988-03-02
+Age:27
+Exp:0
+School:Texas
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Jim Luisi
+Number:
+Position:G
+Height:6-2
+Weight:180
+Birth:1928-11-02
+Age:86
+Exp:0
+School:St. Francis Brooklyn
+OwingTeam:BAL

@@ -1,0 +1,10 @@
+Name:Steffond Johnson
+Number:31
+Position:F
+Height:6-8
+Weight:240
+Birth:1962-11-04
+Age:52
+Exp:0
+School:San Diego State
+OwingTeam:LAC

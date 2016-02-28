@@ -1,0 +1,10 @@
+Name:Steve Hamer
+Number:42
+Position:C
+Height:7-0
+Weight:245
+Birth:1973-11-13
+Age:41
+Exp:0
+School:Tennessee
+OwingTeam:BOS

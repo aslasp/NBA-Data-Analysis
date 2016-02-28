@@ -1,0 +1,10 @@
+Name:Harold Brown
+Number:
+Position:G
+Height:6-0
+Weight:155
+Birth:1923-10-02
+Age:91
+Exp:0
+School:Evansville
+OwingTeam:DEF

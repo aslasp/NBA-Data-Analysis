@@ -1,0 +1,10 @@
+Name:Carrick Felix
+Number:30
+Position:G-F
+Height:6-6
+Weight:201
+Birth:1990-08-17
+Age:24
+Exp:0
+School:Arizona State
+OwingTeam:CLE

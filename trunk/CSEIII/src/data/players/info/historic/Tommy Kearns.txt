@@ -1,0 +1,10 @@
+Name:Tommy Kearns
+Number:3
+Position:G
+Height:5-11
+Weight:185
+Birth:1936-10-06
+Age:78
+Exp:0
+School:North Carolina
+OwingTeam:SYR

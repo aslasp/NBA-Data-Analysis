@@ -1,0 +1,10 @@
+Name:Sharrod Ford
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-01-09
+Age:33
+Exp:0
+School:Clemson
+OwingTeam:

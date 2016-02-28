@@ -1,0 +1,10 @@
+Name:Stephen Howard
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-07-15
+Age:44
+Exp:0
+School:DePaul
+OwingTeam:

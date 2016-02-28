@@ -1,0 +1,10 @@
+Name:James Southerland
+Number:31
+Position:F
+Height:6-8
+Weight:215
+Birth:1990-04-28
+Age:25
+Exp:0
+School:Syracuse
+OwingTeam:NOP

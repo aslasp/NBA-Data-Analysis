@@ -1,0 +1,10 @@
+Name:Arvid Kramer
+Number:41
+Position:C
+Height:6-9
+Weight:220
+Birth:1956-10-02
+Age:58
+Exp:0
+School:Augustana 
+OwingTeam:DEN

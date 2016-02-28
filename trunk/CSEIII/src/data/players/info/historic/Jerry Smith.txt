@@ -1,0 +1,10 @@
+Name:Jerry Smith
+Number:
+Position:
+Height:
+Weight:
+Birth:1987-09-26
+Age:27
+Exp:0
+School:Louisville
+OwingTeam:

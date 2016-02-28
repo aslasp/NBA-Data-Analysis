@@ -1,0 +1,10 @@
+Name:Luke Harangody
+Number:44
+Position:F
+Height:6-7
+Weight:245
+Birth:1988-01-02
+Age:27
+Exp:1
+School:Notre Dame
+OwingTeam:CLE

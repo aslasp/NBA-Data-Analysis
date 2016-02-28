@@ -1,0 +1,10 @@
+Name:Luther Head
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-11-26
+Age:32
+Exp:0
+School:Illinois
+OwingTeam:

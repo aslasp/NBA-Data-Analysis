@@ -1,0 +1,10 @@
+Name:Cozell McQueen
+Number:40
+Position:F
+Height:6-11
+Weight:235
+Birth:1962-01-18
+Age:53
+Exp:0
+School:North Carolina State
+OwingTeam:DET

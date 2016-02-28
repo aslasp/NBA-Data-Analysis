@@ -1,0 +1,10 @@
+Name:Mark Bryant
+Number:9
+Position:F
+Height:6-9
+Weight:250
+Birth:1965-04-25
+Age:50
+Exp:14
+School:Seton Hall
+OwingTeam:PHI

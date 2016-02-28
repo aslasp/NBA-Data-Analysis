@@ -1,0 +1,10 @@
+Name:Sam Jones
+Number:24
+Position:G
+Height:6-4
+Weight:198
+Birth:1933-06-24
+Age:81
+Exp:11
+School:North Carolina Central
+OwingTeam:BOS

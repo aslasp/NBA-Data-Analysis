@@ -1,0 +1,10 @@
+Name:Brian Shaw
+Number:20
+Position:G
+Height:6-6
+Weight:200
+Birth:1966-03-22
+Age:49
+Exp:13
+School:California-Santa Barbara
+OwingTeam:LAL

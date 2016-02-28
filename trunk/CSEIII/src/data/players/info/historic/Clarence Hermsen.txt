@@ -1,0 +1,10 @@
+Name:Clarence Hermsen
+Number:
+Position:C
+Height:6-9
+Weight:225
+Birth:1923-03-12
+Age:92
+Exp:5
+School:Minnesota
+OwingTeam:INO

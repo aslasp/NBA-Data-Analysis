@@ -1,0 +1,10 @@
+Name:Jim Krebs
+Number:32
+Position:C
+Height:6-8
+Weight:230
+Birth:1935-09-08
+Age:79
+Exp:6
+School:Southern Methodist
+OwingTeam:LAL

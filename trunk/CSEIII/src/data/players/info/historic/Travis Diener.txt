@@ -1,0 +1,10 @@
+Name:Travis Diener
+Number:27
+Position:G
+Height:6-1
+Weight:175
+Birth:1982-03-01
+Age:33
+Exp:4
+School:Marquette
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Kevin Kunnert
+Number:44
+Position:C
+Height:7-0
+Weight:230
+Birth:1951-11-11
+Age:63
+Exp:8
+School:Iowa
+OwingTeam:POR

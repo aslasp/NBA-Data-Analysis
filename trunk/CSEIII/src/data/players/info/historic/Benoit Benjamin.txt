@@ -1,0 +1,10 @@
+Name:Benoit Benjamin
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-11-22
+Age:50
+Exp:0
+School:Creighton
+OwingTeam:

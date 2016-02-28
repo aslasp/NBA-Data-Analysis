@@ -1,0 +1,10 @@
+Name:Ron Crevier
+Number:42
+Position:C
+Height:7-0
+Weight:235
+Birth:1958-08-14
+Age:56
+Exp:0
+School:Boston College
+OwingTeam:DET

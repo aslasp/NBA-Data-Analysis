@@ -1,0 +1,10 @@
+Name:Lamont Strothers
+Number:10
+Position:G
+Height:6-4
+Weight:190
+Birth:1968-05-10
+Age:47
+Exp:1
+School:Christopher Newport
+OwingTeam:DAL

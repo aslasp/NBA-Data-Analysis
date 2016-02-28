@@ -1,0 +1,10 @@
+Name:Lewis Brown
+Number:4
+Position:C
+Height:6-11
+Weight:225
+Birth:1955-02-19
+Age:60
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:WAS

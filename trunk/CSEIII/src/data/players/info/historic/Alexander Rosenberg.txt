@@ -1,0 +1,10 @@
+Name:Alexander Rosenberg
+Number:15
+Position:G
+Height:5-10
+Weight:165
+Birth:1918-04-07
+Age:97
+Exp:0
+School:Saint Joseph
+OwingTeam:PHW

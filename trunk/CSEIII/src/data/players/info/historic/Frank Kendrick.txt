@@ -1,0 +1,10 @@
+Name:Frank Kendrick
+Number:34
+Position:F
+Height:6-6
+Weight:198
+Birth:1950-09-11
+Age:64
+Exp:0
+School:Purdue
+OwingTeam:GOS

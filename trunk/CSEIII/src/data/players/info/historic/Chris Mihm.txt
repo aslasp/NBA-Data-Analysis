@@ -1,0 +1,10 @@
+Name:Chris Mihm
+Number:4
+Position:C
+Height:7-0
+Weight:265
+Birth:1979-07-16
+Age:35
+Exp:8
+School:Texas
+OwingTeam:MEM

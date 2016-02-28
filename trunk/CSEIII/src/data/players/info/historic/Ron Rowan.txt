@@ -1,0 +1,10 @@
+Name:Ron Rowan
+Number:11
+Position:F
+Height:6-5
+Weight:200
+Birth:1962-04-23
+Age:53
+Exp:0
+School:St. John
+OwingTeam:POR

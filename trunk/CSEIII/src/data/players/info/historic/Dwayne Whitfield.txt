@@ -1,0 +1,10 @@
+Name:Dwayne Whitfield
+Number:23
+Position:F
+Height:6-7
+Weight:240
+Birth:1972-08-21
+Age:42
+Exp:0
+School:Jackson State
+OwingTeam:TOR

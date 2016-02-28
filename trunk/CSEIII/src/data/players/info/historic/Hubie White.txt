@@ -1,0 +1,10 @@
+Name:Hubie White
+Number:23
+Position:G
+Height:6-4
+Weight:205
+Birth:1940-01-26
+Age:75
+Exp:1
+School:Villanova
+OwingTeam:PHL

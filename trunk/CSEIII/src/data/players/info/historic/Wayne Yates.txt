@@ -1,0 +1,10 @@
+Name:Wayne Yates
+Number:55
+Position:C
+Height:6-8
+Weight:235
+Birth:1937-11-07
+Age:77
+Exp:0
+School:Memphis
+OwingTeam:LAL

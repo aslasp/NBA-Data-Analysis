@@ -1,0 +1,10 @@
+Name:Doug Roth
+Number:13
+Position:F
+Height:6-11
+Weight:255
+Birth:1967-08-24
+Age:47
+Exp:0
+School:Tennessee
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Todd Mitchell
+Number:32
+Position:F
+Height:6-7
+Weight:205
+Birth:1966-07-26
+Age:48
+Exp:0
+School:Purdue
+OwingTeam:SAN

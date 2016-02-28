@@ -1,0 +1,10 @@
+Name:Bob Wilson
+Number:12
+Position:G
+Height:6-4
+Weight:185
+Birth:1926-03-08
+Age:89
+Exp:0
+School:West Virginia State
+OwingTeam:MIH

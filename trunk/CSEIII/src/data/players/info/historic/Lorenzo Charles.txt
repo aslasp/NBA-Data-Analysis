@@ -1,0 +1,10 @@
+Name:Lorenzo Charles
+Number:43
+Position:F
+Height:6-7
+Weight:225
+Birth:1963-11-25
+Age:51
+Exp:0
+School:North Carolina State
+OwingTeam:ATL

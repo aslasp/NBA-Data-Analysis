@@ -1,0 +1,10 @@
+Name:Neal Walk
+Number:41
+Position:C
+Height:6-10
+Weight:220
+Birth:1948-07-29
+Age:66
+Exp:7
+School:Florida
+OwingTeam:NYK

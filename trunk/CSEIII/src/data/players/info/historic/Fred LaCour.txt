@@ -1,0 +1,10 @@
+Name:Fred LaCour
+Number:12
+Position:G
+Height:6-5
+Weight:210
+Birth:1938-02-07
+Age:77
+Exp:2
+School:San Francisco
+OwingTeam:SFW

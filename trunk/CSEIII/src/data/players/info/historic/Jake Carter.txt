@@ -1,0 +1,10 @@
+Name:Jake Carter
+Number:
+Position:F
+Height:6-4
+Weight:195
+Birth:1924-07-25
+Age:90
+Exp:0
+School:Texas A
+OwingTeam:AND

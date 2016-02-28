@@ -1,0 +1,10 @@
+Name:Clifford Robinson
+Number:30
+Position:F-C
+Height:6-10
+Weight:245
+Birth:1966-12-16
+Age:48
+Exp:17
+School:Connecticut
+OwingTeam:NJN

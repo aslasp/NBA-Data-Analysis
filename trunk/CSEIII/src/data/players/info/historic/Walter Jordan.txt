@@ -1,0 +1,10 @@
+Name:Walter Jordan
+Number:40
+Position:F
+Height:6-7
+Weight:198
+Birth:1956-02-19
+Age:59
+Exp:0
+School:Purdue
+OwingTeam:CLE

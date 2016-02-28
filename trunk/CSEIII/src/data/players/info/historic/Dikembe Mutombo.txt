@@ -1,0 +1,10 @@
+Name:Dikembe Mutombo
+Number:55
+Position:C
+Height:7-2
+Weight:260
+Birth:1966-06-25
+Age:48
+Exp:17
+School:Georgetown
+OwingTeam:HOU

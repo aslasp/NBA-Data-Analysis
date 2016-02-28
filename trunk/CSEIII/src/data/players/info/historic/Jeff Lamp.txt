@@ -1,0 +1,10 @@
+Name:Jeff Lamp
+Number:3
+Position:G
+Height:6-6
+Weight:195
+Birth:1959-03-09
+Age:56
+Exp:5
+School:Virginia
+OwingTeam:LAL

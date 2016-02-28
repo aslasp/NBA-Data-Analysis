@@ -1,0 +1,10 @@
+Name:Jay Vincent
+Number:3
+Position:F
+Height:6-7
+Weight:220
+Birth:1959-06-10
+Age:55
+Exp:8
+School:Michigan State
+OwingTeam:LAL

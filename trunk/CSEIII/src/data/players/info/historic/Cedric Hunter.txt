@@ -1,0 +1,10 @@
+Name:Cedric Hunter
+Number:15
+Position:F
+Height:6-0
+Weight:180
+Birth:1965-01-16
+Age:50
+Exp:0
+School:Kansas
+OwingTeam:CHH

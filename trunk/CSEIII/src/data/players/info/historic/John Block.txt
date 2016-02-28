@@ -1,0 +1,10 @@
+Name:John Block
+Number:35
+Position:F
+Height:6-10
+Weight:207
+Birth:1944-04-16
+Age:71
+Exp:9
+School:Southern California
+OwingTeam:CHI

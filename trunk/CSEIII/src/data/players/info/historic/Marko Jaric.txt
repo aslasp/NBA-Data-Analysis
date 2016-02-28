@@ -1,0 +1,10 @@
+Name:Marko Jaric
+Number:55
+Position:G
+Height:6-7
+Weight:224
+Birth:1978-12-10
+Age:36
+Exp:6
+School:Belgrade
+OwingTeam:MEM

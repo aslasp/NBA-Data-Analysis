@@ -1,0 +1,10 @@
+Name:Henry Pearcy
+Number:
+Position:G
+Height:6-1
+Weight:170
+Birth:1922-07-21
+Age:92
+Exp:0
+School:Indiana State
+OwingTeam:DEF

@@ -1,0 +1,10 @@
+Name:Murray Wier
+Number:17
+Position:G
+Height:5-9
+Weight:155
+Birth:1926-12-12
+Age:88
+Exp:0
+School:Iowa
+OwingTeam:TCB

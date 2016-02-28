@@ -1,0 +1,10 @@
+Name:Ed Manning
+Number:35
+Position:F
+Height:6-7
+Weight:210
+Birth:1944-01-02
+Age:71
+Exp:3
+School:Jackson State
+OwingTeam:POR

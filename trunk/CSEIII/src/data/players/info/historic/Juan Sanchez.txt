@@ -1,0 +1,10 @@
+Name:Juan Sanchez
+Number:6
+Position:G
+Height:6-4
+Weight:195
+Birth:1977-05-08
+Age:38
+Exp:1
+School:Temple
+OwingTeam:DET

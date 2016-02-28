@@ -1,0 +1,10 @@
+Name:Stuart Gray
+Number:40
+Position:C
+Height:7-0
+Weight:235
+Birth:1963-05-27
+Age:52
+Exp:6
+School:California-Los Angeles
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Dick Hemric
+Number:20
+Position:F
+Height:6-6
+Weight:220
+Birth:1933-08-29
+Age:81
+Exp:1
+School:Wake Forest
+OwingTeam:BOS

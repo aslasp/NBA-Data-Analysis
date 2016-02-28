@@ -1,0 +1,10 @@
+Name:Gary Gray
+Number:15
+Position:G
+Height:6-1
+Weight:185
+Birth:1945-02-23
+Age:70
+Exp:0
+School:Oklahoma City
+OwingTeam:CIN

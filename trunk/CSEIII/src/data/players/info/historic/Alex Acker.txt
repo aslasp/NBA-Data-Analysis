@@ -1,0 +1,10 @@
+Name:Alex Acker
+Number:3
+Position:G
+Height:6-5
+Weight:185
+Birth:1983-01-21
+Age:32
+Exp:1
+School:Pepperdine
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Greg Deane
+Number:33
+Position:G
+Height:6-4
+Weight:190
+Birth:1957-12-06
+Age:57
+Exp:0
+School:Utah
+OwingTeam:UTH

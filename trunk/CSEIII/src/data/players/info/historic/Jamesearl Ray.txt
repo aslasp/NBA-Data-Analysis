@@ -1,0 +1,10 @@
+Name:Jamesearl Ray
+Number:43
+Position:F
+Height:6-8
+Weight:215
+Birth:1957-07-27
+Age:57
+Exp:2
+School:Jacksonville
+OwingTeam:DEN

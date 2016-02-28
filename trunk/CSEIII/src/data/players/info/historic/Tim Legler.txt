@@ -1,0 +1,10 @@
+Name:Tim Legler
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-12-26
+Age:48
+Exp:0
+School:La Salle
+OwingTeam:

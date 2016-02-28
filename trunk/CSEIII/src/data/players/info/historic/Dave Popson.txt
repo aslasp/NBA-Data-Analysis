@@ -1,0 +1,10 @@
+Name:Dave Popson
+Number:50
+Position:C
+Height:6-10
+Weight:220
+Birth:1964-05-17
+Age:51
+Exp:2
+School:North Carolina
+OwingTeam:MIL

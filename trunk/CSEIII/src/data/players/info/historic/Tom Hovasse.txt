@@ -1,0 +1,10 @@
+Name:Tom Hovasse
+Number:17
+Position:F
+Height:6-8
+Weight:205
+Birth:1967-01-31
+Age:48
+Exp:0
+School:Penn State
+OwingTeam:ATL

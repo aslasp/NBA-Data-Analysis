@@ -1,0 +1,10 @@
+Name:Rick Adelman
+Number:5
+Position:G
+Height:6-2
+Weight:175
+Birth:1946-06-16
+Age:68
+Exp:6
+School:Loyola-Marymount
+OwingTeam:KCK

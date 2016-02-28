@@ -1,0 +1,10 @@
+Name:Bostjan Nachbar
+Number:7
+Position:F
+Height:6-9
+Weight:221
+Birth:1980-07-03
+Age:34
+Exp:5
+School:Italy
+OwingTeam:NJN

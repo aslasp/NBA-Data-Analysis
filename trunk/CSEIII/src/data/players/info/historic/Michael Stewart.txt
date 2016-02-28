@@ -1,0 +1,10 @@
+Name:Michael Stewart
+Number:44
+Position:C
+Height:6-10
+Weight:230
+Birth:1975-04-25
+Age:40
+Exp:7
+School:California
+OwingTeam:ATL

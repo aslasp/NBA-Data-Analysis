@@ -1,0 +1,10 @@
+Name:Paul Huston
+Number:
+Position:F
+Height:6-3
+Weight:175
+Birth:1925-06-02
+Age:89
+Exp:0
+School:Ohio State
+OwingTeam:CHS

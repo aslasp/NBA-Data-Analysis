@@ -1,0 +1,10 @@
+Name:John Fairchild
+Number:33
+Position:F
+Height:6-7
+Weight:205
+Birth:1943-04-28
+Age:72
+Exp:0
+School:Brigham Young
+OwingTeam:LAL

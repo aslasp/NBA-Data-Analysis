@@ -1,0 +1,10 @@
+Name:Tate Armstrong
+Number:14
+Position:G
+Height:6-3
+Weight:175
+Birth:1955-10-05
+Age:59
+Exp:1
+School:Duke
+OwingTeam:CHI

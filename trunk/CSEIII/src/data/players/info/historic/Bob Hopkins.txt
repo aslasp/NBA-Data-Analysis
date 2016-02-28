@@ -1,0 +1,10 @@
+Name:Bob Hopkins
+Number:9
+Position:C
+Height:6-8
+Weight:205
+Birth:1934-11-03
+Age:80
+Exp:3
+School:Grambling
+OwingTeam:SYR

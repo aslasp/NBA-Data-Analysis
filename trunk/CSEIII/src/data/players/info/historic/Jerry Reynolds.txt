@@ -1,0 +1,10 @@
+Name:Jerry Reynolds
+Number:44
+Position:G
+Height:6-8
+Weight:200
+Birth:1962-12-23
+Age:52
+Exp:7
+School:Louisiana State
+OwingTeam:MIL

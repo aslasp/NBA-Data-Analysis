@@ -1,0 +1,10 @@
+Name:LaPhonso Ellis
+Number:3
+Position:F
+Height:6-8
+Weight:240
+Birth:1970-05-05
+Age:45
+Exp:10
+School:Notre Dame
+OwingTeam:MIA

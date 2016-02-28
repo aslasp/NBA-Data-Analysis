@@ -1,0 +1,10 @@
+Name:Joe Holland
+Number:
+Position:F
+Height:6-4
+Weight:185
+Birth:1925-09-26
+Age:89
+Exp:2
+School:Kentucky
+OwingTeam:INO

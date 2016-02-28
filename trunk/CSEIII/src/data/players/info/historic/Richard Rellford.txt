@@ -1,0 +1,10 @@
+Name:Richard Rellford
+Number:42
+Position:F
+Height:6-6
+Weight:230
+Birth:1964-02-16
+Age:51
+Exp:0
+School:Michigan
+OwingTeam:SAN

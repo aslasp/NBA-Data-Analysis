@@ -1,0 +1,10 @@
+Name:Barry Kramer
+Number:21
+Position:F
+Height:6-4
+Weight:200
+Birth:1942-11-10
+Age:72
+Exp:0
+School:New York University
+OwingTeam:NYK

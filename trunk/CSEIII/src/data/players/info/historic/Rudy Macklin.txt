@@ -1,0 +1,10 @@
+Name:Rudy Macklin
+Number:41
+Position:F
+Height:6-7
+Weight:205
+Birth:1958-02-19
+Age:57
+Exp:2
+School:Louisiana State
+OwingTeam:NYK

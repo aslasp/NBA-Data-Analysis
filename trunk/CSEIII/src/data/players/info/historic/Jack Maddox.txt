@@ -1,0 +1,10 @@
+Name:Jack Maddox
+Number:
+Position:F
+Height:6-2
+Weight:185
+Birth:1921-12-10
+Age:93
+Exp:0
+School:West Texas A
+OwingTeam:JET

@@ -1,0 +1,10 @@
+Name:John Coker
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-10-28
+Age:43
+Exp:0
+School:Boise State
+OwingTeam:

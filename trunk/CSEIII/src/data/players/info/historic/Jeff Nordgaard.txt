@@ -1,0 +1,10 @@
+Name:Jeff Nordgaard
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-02-23
+Age:42
+Exp:0
+School:Wisconsin-Green Bay
+OwingTeam:

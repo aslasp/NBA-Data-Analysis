@@ -1,0 +1,10 @@
+Name:Allan Ray
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-06-17
+Age:30
+Exp:0
+School:Villanova
+OwingTeam:

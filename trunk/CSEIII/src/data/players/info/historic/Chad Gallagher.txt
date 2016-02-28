@@ -1,0 +1,10 @@
+Name:Chad Gallagher
+Number:55
+Position:C
+Height:6-10
+Weight:255
+Birth:1969-05-30
+Age:46
+Exp:0
+School:Creighton
+OwingTeam:UTH

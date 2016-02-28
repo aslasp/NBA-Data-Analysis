@@ -1,0 +1,10 @@
+Name:Tracy Murray
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-07-25
+Age:43
+Exp:0
+School:California-Los Angeles
+OwingTeam:

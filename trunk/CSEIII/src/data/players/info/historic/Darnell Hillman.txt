@@ -1,0 +1,10 @@
+Name:Darnell Hillman
+Number:30
+Position:F
+Height:6-9
+Weight:215
+Birth:1949-08-29
+Age:65
+Exp:3
+School:San Jose State
+OwingTeam:GOS

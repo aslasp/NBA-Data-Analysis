@@ -1,0 +1,10 @@
+Name:Sam Worthen
+Number:31
+Position:G
+Height:6-5
+Weight:195
+Birth:1958-01-17
+Age:57
+Exp:1
+School:Marquette
+OwingTeam:UTH

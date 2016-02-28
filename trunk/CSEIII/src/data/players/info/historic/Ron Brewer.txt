@@ -1,0 +1,10 @@
+Name:Ron Brewer
+Number:10
+Position:G
+Height:6-4
+Weight:180
+Birth:1955-09-16
+Age:59
+Exp:7
+School:Arkansas
+OwingTeam:CLE

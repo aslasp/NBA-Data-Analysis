@@ -1,0 +1,10 @@
+Name:Acie Earl
+Number:55
+Position:F-C
+Height:6-11
+Weight:240
+Birth:1970-06-23
+Age:44
+Exp:3
+School:Iowa
+OwingTeam:MIL

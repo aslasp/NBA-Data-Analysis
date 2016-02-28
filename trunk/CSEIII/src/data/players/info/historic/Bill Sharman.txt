@@ -1,0 +1,10 @@
+Name:Bill Sharman
+Number:21
+Position:G
+Height:6-1
+Weight:175
+Birth:1926-05-25
+Age:89
+Exp:10
+School:Southern California
+OwingTeam:BOS

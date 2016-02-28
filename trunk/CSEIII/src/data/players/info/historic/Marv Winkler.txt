@@ -1,0 +1,10 @@
+Name:Marv Winkler
+Number:5
+Position:G
+Height:6-1
+Weight:164
+Birth:1948-02-18
+Age:67
+Exp:0
+School:Louisiana-Lafayette
+OwingTeam:MIL

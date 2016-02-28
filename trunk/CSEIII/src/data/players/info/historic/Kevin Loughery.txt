@@ -1,0 +1,10 @@
+Name:Kevin Loughery
+Number:22
+Position:G
+Height:6-3
+Weight:190
+Birth:1940-03-28
+Age:75
+Exp:10
+School:St. John
+OwingTeam:PHL

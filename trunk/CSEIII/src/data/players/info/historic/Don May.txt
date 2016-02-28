@@ -1,0 +1,10 @@
+Name:Don May
+Number:23
+Position:F
+Height:6-4
+Weight:200
+Birth:1946-01-03
+Age:69
+Exp:6
+School:Dayton
+OwingTeam:KCK

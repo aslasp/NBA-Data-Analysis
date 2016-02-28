@@ -1,0 +1,10 @@
+Name:Larry Cannon
+Number:14
+Position:G
+Height:6-4
+Weight:195
+Birth:1947-04-12
+Age:68
+Exp:0
+School:La Salle
+OwingTeam:PHL

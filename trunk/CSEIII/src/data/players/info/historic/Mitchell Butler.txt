@@ -1,0 +1,10 @@
+Name:Mitchell Butler
+Number:32
+Position:G
+Height:6-5
+Weight:210
+Birth:1970-12-15
+Age:44
+Exp:7
+School:California-Los Angeles
+OwingTeam:WAS

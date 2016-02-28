@@ -1,0 +1,10 @@
+Name:Neil Johnson
+Number:11
+Position:F
+Height:6-7
+Weight:220
+Birth:1943-04-17
+Age:72
+Exp:3
+School:Creighton
+OwingTeam:PHX

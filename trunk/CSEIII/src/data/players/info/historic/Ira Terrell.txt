@@ -1,0 +1,10 @@
+Name:Ira Terrell
+Number:34
+Position:F
+Height:6-8
+Weight:200
+Birth:1954-06-19
+Age:60
+Exp:1
+School:Southern Methodist
+OwingTeam:NOJ

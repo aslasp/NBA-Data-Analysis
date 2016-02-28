@@ -1,0 +1,10 @@
+Name:Jack Stephens
+Number:15
+Position:G
+Height:6-3
+Weight:185
+Birth:1933-05-18
+Age:82
+Exp:0
+School:Notre Dame
+OwingTeam:STL

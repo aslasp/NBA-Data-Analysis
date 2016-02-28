@@ -1,0 +1,10 @@
+Name:Clifford Lett
+Number:11
+Position:G
+Height:6-3
+Weight:170
+Birth:1965-12-23
+Age:49
+Exp:1
+School:Florida
+OwingTeam:SAN

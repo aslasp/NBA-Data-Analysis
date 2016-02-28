@@ -1,0 +1,10 @@
+Name:Antonio Davis
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-10-31
+Age:46
+Exp:0
+School:Texas-El Paso
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Eddie Griffin
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-05-30
+Age:33
+Exp:0
+School:Seton Hall
+OwingTeam:

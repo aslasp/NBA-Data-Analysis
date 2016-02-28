@@ -1,0 +1,10 @@
+Name:Al Tucker
+Number:35
+Position:F
+Height:6-8
+Weight:190
+Birth:1943-02-24
+Age:72
+Exp:3
+School:Oklahoma Baptist
+OwingTeam:BLT

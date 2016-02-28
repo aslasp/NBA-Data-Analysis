@@ -1,0 +1,10 @@
+Name:Roland West
+Number:15
+Position:G
+Height:6-4
+Weight:178
+Birth:1944-06-06
+Age:70
+Exp:0
+School:Cincinnati
+OwingTeam:BLT

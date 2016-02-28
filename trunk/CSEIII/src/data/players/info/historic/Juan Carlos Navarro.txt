@@ -1,0 +1,10 @@
+Name:Juan Carlos Navarro
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-06-13
+Age:34
+Exp:0
+School:Spain
+OwingTeam:

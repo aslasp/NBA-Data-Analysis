@@ -1,0 +1,10 @@
+Name:Rudy White
+Number:10
+Position:G
+Height:6-2
+Weight:195
+Birth:1953-06-23
+Age:61
+Exp:4
+School:Arizona State
+OwingTeam:SEA

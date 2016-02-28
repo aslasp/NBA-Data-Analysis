@@ -1,0 +1,10 @@
+Name:Mike O'Neill
+Number: 
+Position:F
+Height:6-3
+Weight:210
+Birth:1905-04-10
+Age:110
+Exp:0
+School:California
+OwingTeam:MIH

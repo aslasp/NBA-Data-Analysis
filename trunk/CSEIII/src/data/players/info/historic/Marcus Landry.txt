@@ -1,0 +1,10 @@
+Name:Marcus Landry
+Number:
+Position:
+Height:
+Weight:
+Birth:1985-11-01
+Age:29
+Exp:0
+School:Wisconsin
+OwingTeam:

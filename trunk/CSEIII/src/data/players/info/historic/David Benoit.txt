@@ -1,0 +1,10 @@
+Name:David Benoit
+Number:21
+Position:F
+Height:6-8
+Weight:220
+Birth:1968-05-09
+Age:47
+Exp:6
+School:Alabama
+OwingTeam:UTA

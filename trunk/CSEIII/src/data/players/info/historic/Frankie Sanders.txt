@@ -1,0 +1,10 @@
+Name:Frankie Sanders
+Number:4
+Position:F
+Height:6-6
+Weight:200
+Birth:1957-01-23
+Age:58
+Exp:1
+School:Southern
+OwingTeam:KCK

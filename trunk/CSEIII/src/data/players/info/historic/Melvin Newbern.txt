@@ -1,0 +1,10 @@
+Name:Melvin Newbern
+Number:23
+Position:G
+Height:6-4
+Weight:200
+Birth:1967-06-11
+Age:47
+Exp:0
+School:Minnesota
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:John Richter
+Number:16
+Position:F
+Height:6-9
+Weight:225
+Birth:1937-03-12
+Age:78
+Exp:0
+School:North Carolina State
+OwingTeam:BOS

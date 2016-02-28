@@ -1,0 +1,10 @@
+Name:Marlon Maxey
+Number:25
+Position:F
+Height:6-8
+Weight:250
+Birth:1969-02-19
+Age:46
+Exp:1
+School:Texas-El Paso
+OwingTeam:MIN

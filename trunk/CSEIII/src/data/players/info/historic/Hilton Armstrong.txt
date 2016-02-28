@@ -1,0 +1,10 @@
+Name:Hilton Armstrong
+Number:57
+Position:F-C
+Height:6-11
+Weight:235
+Birth:1984-11-23
+Age:30
+Exp:5
+School:Connecticut
+OwingTeam:GSW

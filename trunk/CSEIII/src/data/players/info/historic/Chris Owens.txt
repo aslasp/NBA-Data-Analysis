@@ -1,0 +1,10 @@
+Name:Chris Owens
+Number:20
+Position:F
+Height:6-7
+Weight:245
+Birth:1979-03-01
+Age:36
+Exp:0
+School:Texas
+OwingTeam:MEM

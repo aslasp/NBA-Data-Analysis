@@ -1,0 +1,10 @@
+Name:Scott Sims
+Number:20
+Position:G
+Height:6-1
+Weight:170
+Birth:1955-04-18
+Age:60
+Exp:0
+School:Missouri
+OwingTeam:SAN

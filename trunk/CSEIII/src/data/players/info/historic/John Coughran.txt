@@ -1,0 +1,10 @@
+Name:John Coughran
+Number:41
+Position:F
+Height:6-7
+Weight:225
+Birth:1951-09-12
+Age:63
+Exp:0
+School:California
+OwingTeam:GOS

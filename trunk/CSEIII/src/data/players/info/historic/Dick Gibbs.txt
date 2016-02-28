@@ -1,0 +1,10 @@
+Name:Dick Gibbs
+Number:21
+Position:F
+Height:6-5
+Weight:210
+Birth:1948-12-20
+Age:66
+Exp:4
+School:Texas-El Paso
+OwingTeam:BUF

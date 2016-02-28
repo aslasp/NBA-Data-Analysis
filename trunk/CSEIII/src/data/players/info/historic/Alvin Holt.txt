@@ -1,0 +1,10 @@
+Name:Alvin Holt
+Number:6
+Position:F
+Height:6-7
+Weight:210
+Birth:1946-08-26
+Age:68
+Exp:0
+School:Jackson State
+OwingTeam:CHI

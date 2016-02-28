@@ -1,0 +1,10 @@
+Name:Aaron McKie
+Number:2
+Position:G
+Height:6-5
+Weight:209
+Birth:1972-10-02
+Age:42
+Exp:12
+School:Temple
+OwingTeam:LAL

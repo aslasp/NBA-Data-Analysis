@@ -1,0 +1,10 @@
+Name:Don Reid
+Number:52
+Position:F
+Height:6-8
+Weight:250
+Birth:1973-12-30
+Age:41
+Exp:7
+School:Georgetown
+OwingTeam:DET

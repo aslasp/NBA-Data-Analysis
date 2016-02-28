@@ -1,0 +1,10 @@
+Name:Kirk Snyder
+Number:30
+Position:F-G
+Height:6-6
+Weight:225
+Birth:1983-06-05
+Age:31
+Exp:3
+School:Nevada
+OwingTeam:MIN

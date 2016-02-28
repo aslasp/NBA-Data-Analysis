@@ -1,0 +1,10 @@
+Name:Nenad Krstic
+Number:4
+Position:C
+Height:7-0
+Weight:240
+Birth:1983-07-25
+Age:31
+Exp:6
+School:Kraljevo
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Quincy Lewis
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-06-26
+Age:37
+Exp:0
+School:Minnesota
+OwingTeam:

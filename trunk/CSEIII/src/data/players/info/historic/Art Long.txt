@@ -1,0 +1,10 @@
+Name:Art Long
+Number:35
+Position:F
+Height:6-9
+Weight:250
+Birth:1972-10-01
+Age:42
+Exp:2
+School:Cincinnati
+OwingTeam:PHI

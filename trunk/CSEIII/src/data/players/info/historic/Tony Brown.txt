@@ -1,0 +1,10 @@
+Name:Tony Brown
+Number:21
+Position:F
+Height:6-6
+Weight:185
+Birth:1960-07-29
+Age:54
+Exp:6
+School:Arkansas
+OwingTeam:SEA

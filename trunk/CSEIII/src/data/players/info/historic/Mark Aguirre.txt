@@ -1,0 +1,10 @@
+Name:Mark Aguirre
+Number:7
+Position:F
+Height:6-6
+Weight:232
+Birth:1959-12-10
+Age:55
+Exp:12
+School:DePaul
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Stan McKenzie
+Number:40
+Position:F
+Height:6-5
+Weight:195
+Birth:1944-10-06
+Age:70
+Exp:6
+School:New York University
+OwingTeam:HOU

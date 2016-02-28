@@ -1,0 +1,10 @@
+Name:Zan Tabak
+Number:55
+Position:C
+Height:7-0
+Weight:257
+Birth:1970-06-15
+Age:44
+Exp:5
+School:Croatia
+OwingTeam:IND

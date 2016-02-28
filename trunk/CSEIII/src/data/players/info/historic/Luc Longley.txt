@@ -1,0 +1,10 @@
+Name:Luc Longley
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-01-19
+Age:46
+Exp:0
+School:New Mexico
+OwingTeam:

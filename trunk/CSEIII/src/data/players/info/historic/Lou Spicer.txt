@@ -1,0 +1,10 @@
+Name:Lou Spicer
+Number:
+Position:F
+Height:6-2
+Weight:195
+Birth:1922-11-12
+Age:92
+Exp:0
+School:Syracuse
+OwingTeam:PRO

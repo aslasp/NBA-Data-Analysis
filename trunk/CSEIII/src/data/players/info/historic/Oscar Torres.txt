@@ -1,0 +1,10 @@
+Name:Oscar Torres
+Number:18
+Position:G-F
+Height:6-6
+Weight:210
+Birth:1976-12-18
+Age:38
+Exp:1
+School:Venezuela
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Maceo Baston
+Number:9
+Position:F
+Height:6-10
+Weight:230
+Birth:1975-05-29
+Age:40
+Exp:3
+School:Michigan
+OwingTeam:IND

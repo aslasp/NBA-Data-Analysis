@@ -1,0 +1,10 @@
+Name:Grant Long
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-03-12
+Age:49
+Exp:0
+School:Eastern Michigan
+OwingTeam:

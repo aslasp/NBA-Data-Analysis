@@ -1,0 +1,10 @@
+Name:Lionel Malamed
+Number:
+Position:G
+Height:5-9
+Weight:150
+Birth:1924-11-15
+Age:90
+Exp:0
+School:City College of New York
+OwingTeam:JET

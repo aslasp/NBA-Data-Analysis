@@ -1,0 +1,10 @@
+Name:Geoff Huston
+Number:15
+Position:G
+Height:6-2
+Weight:175
+Birth:1957-11-08
+Age:57
+Exp:7
+School:Texas Tech
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Cliff Hagan
+Number:16
+Position:F
+Height:6-4
+Weight:210
+Birth:1931-12-09
+Age:83
+Exp:9
+School:Kentucky
+OwingTeam:STL

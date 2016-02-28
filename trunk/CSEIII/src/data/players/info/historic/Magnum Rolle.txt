@@ -1,0 +1,10 @@
+Name:Magnum Rolle
+Number:25
+Position:F
+Height:6-11
+Weight:235
+Birth:1986-02-23
+Age:29
+Exp:0
+School:Louisiana Tech
+OwingTeam:ATL

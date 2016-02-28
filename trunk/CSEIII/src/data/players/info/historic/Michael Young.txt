@@ -1,0 +1,10 @@
+Name:Michael Young
+Number:42
+Position:G
+Height:6-7
+Weight:220
+Birth:1961-01-02
+Age:54
+Exp:2
+School:Houston
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Terry Furlow
+Number:25
+Position:G
+Height:6-5
+Weight:190
+Birth:1954-10-18
+Age:60
+Exp:3
+School:Michigan State
+OwingTeam:UTH

@@ -1,0 +1,10 @@
+Name:Joe Smyth
+Number:
+Position:F
+Height:6-3
+Weight:215
+Birth:1929-05-22
+Age:86
+Exp:0
+School:Niagara
+OwingTeam:BAL

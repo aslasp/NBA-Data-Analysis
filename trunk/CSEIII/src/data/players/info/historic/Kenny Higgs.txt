@@ -1,0 +1,10 @@
+Name:Kenny Higgs
+Number:1
+Position:G
+Height:6-0
+Weight:180
+Birth:1955-01-31
+Age:60
+Exp:2
+School:Louisiana State
+OwingTeam:DEN

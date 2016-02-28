@@ -1,0 +1,10 @@
+Name:Bo Ellis
+Number:31
+Position:F
+Height:6-9
+Weight:197
+Birth:1954-08-08
+Age:60
+Exp:2
+School:Marquette
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Herb Krautblatt
+Number:
+Position:G
+Height:6-1
+Weight:190
+Birth:1926-11-19
+Age:88
+Exp:0
+School:Rider
+OwingTeam:BAL

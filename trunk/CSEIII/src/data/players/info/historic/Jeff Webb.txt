@@ -1,0 +1,10 @@
+Name:Jeff Webb
+Number:10
+Position:G
+Height:6-4
+Weight:170
+Birth:1948-07-06
+Age:66
+Exp:1
+School:Kansas State
+OwingTeam:PHX

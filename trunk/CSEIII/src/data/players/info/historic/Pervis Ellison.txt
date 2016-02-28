@@ -1,0 +1,10 @@
+Name:Pervis Ellison
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-04-03
+Age:48
+Exp:0
+School:Louisville
+OwingTeam:

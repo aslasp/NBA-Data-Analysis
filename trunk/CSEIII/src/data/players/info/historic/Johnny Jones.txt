@@ -1,0 +1,10 @@
+Name:Johnny Jones
+Number:27
+Position:F
+Height:6-7
+Weight:205
+Birth:1943-03-12
+Age:72
+Exp:0
+School:Cal State-Los Angeles
+OwingTeam:BOS

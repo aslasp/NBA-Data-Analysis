@@ -1,0 +1,10 @@
+Name:Michael Wiley
+Number:21
+Position:F
+Height:6-9
+Weight:200
+Birth:1957-10-16
+Age:57
+Exp:1
+School:Long Beach State
+OwingTeam:SDC

@@ -1,0 +1,10 @@
+Name:Hank McDowell
+Number:41
+Position:F
+Height:6-9
+Weight:215
+Birth:1959-11-13
+Age:55
+Exp:5
+School:Memphis
+OwingTeam:MIL

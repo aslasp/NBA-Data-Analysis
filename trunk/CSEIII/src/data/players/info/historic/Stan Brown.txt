@@ -1,0 +1,10 @@
+Name:Stan Brown
+Number:14
+Position:F
+Height:6-3
+Weight:200
+Birth:1929-06-27
+Age:85
+Exp:1
+School:
+OwingTeam:PHW

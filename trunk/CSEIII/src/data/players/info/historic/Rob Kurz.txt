@@ -1,0 +1,10 @@
+Name:Rob Kurz
+Number:31
+Position:F
+Height:6-9
+Weight:232
+Birth:1985-03-05
+Age:30
+Exp:1
+School:Notre Dame
+OwingTeam:CHI

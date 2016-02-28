@@ -1,0 +1,10 @@
+Name:Dudley Bradley
+Number:22
+Position:G
+Height:6-6
+Weight:195
+Birth:1957-03-19
+Age:58
+Exp:8
+School:North Carolina
+OwingTeam:ATL

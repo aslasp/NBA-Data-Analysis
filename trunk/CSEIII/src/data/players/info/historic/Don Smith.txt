@@ -1,0 +1,10 @@
+Name:Don Smith
+Number:10
+Position:G
+Height:6-0
+Weight:160
+Birth:1951-10-10
+Age:63
+Exp:0
+School:Dayton
+OwingTeam:PHL

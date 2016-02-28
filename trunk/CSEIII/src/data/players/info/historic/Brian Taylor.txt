@@ -1,0 +1,10 @@
+Name:Brian Taylor
+Number:14
+Position:G
+Height:6-2
+Weight:185
+Birth:1951-06-09
+Age:63
+Exp:5
+School:Princeton
+OwingTeam:SDC

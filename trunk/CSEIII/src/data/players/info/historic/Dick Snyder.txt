@@ -1,0 +1,10 @@
+Name:Dick Snyder
+Number:11
+Position:G
+Height:6-5
+Weight:207
+Birth:1944-02-01
+Age:71
+Exp:12
+School:Davidson
+OwingTeam:SEA

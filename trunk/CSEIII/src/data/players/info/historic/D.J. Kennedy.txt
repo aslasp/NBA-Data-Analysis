@@ -1,0 +1,10 @@
+Name:D.J. Kennedy
+Number:12
+Position:G-F
+Height:6-5
+Weight:214
+Birth:1989-11-05
+Age:25
+Exp:0
+School:St. John
+OwingTeam:CLE

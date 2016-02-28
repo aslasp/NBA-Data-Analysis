@@ -1,0 +1,10 @@
+Name:Ben Wallace
+Number:6
+Position:F-C
+Height:6-9
+Weight:240
+Birth:1974-09-10
+Age:40
+Exp:15
+School:Virginia Union
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Greg Foster
+Number:43
+Position:C
+Height:6-11
+Weight:250
+Birth:1968-10-03
+Age:46
+Exp:12
+School:Texas-El Paso
+OwingTeam:IND

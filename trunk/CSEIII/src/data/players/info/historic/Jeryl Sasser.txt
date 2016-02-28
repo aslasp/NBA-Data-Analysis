@@ -1,0 +1,10 @@
+Name:Jeryl Sasser
+Number:5
+Position:G
+Height:6-6
+Weight:200
+Birth:1979-02-13
+Age:36
+Exp:1
+School:Southern Methodist
+OwingTeam:ORL

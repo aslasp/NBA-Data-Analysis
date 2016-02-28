@@ -1,0 +1,10 @@
+Name:Dane Suttle
+Number:2
+Position:G
+Height:6-3
+Weight:190
+Birth:1961-08-09
+Age:53
+Exp:1
+School:Pepperdine
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Bayard Forrest
+Number:35
+Position:C
+Height:6-10
+Weight:235
+Birth:1954-07-08
+Age:60
+Exp:1
+School:Grand Canyon
+OwingTeam:PHX

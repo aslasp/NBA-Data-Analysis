@@ -1,0 +1,10 @@
+Name:Hasheem Thabeet
+Number:34
+Position:C
+Height:7-3
+Weight:263
+Birth:1987-02-16
+Age:28
+Exp:4
+School:Connecticut
+OwingTeam:OKC

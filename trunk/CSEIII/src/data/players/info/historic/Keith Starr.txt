@@ -1,0 +1,10 @@
+Name:Keith Starr
+Number:30
+Position:G
+Height:6-6
+Weight:190
+Birth:1954-03-14
+Age:61
+Exp:0
+School:Pittsburgh
+OwingTeam:CHI

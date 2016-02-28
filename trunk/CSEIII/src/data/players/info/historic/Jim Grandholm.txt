@@ -1,0 +1,10 @@
+Name:Jim Grandholm
+Number:50
+Position:C
+Height:7-0
+Weight:235
+Birth:1960-10-04
+Age:54
+Exp:0
+School:South Florida
+OwingTeam:DAL

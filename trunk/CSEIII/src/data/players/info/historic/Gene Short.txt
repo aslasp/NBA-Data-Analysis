@@ -1,0 +1,10 @@
+Name:Gene Short
+Number:20
+Position:F
+Height:6-6
+Weight:200
+Birth:1953-08-07
+Age:61
+Exp:0
+School:Jackson State
+OwingTeam:NYK

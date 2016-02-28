@@ -1,0 +1,10 @@
+Name:Rodney Monroe
+Number:12
+Position:G
+Height:6-3
+Weight:185
+Birth:1968-04-16
+Age:47
+Exp:0
+School:North Carolina State
+OwingTeam:ATL

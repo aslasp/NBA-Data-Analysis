@@ -1,0 +1,10 @@
+Name:Bob Martin
+Number:42
+Position:C
+Height:7-0
+Weight:250
+Birth:1969-10-07
+Age:45
+Exp:1
+School:Minnesota
+OwingTeam:LAC

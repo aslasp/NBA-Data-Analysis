@@ -1,0 +1,10 @@
+Name:Irv Torgoff
+Number:
+Position:F
+Height:6-1
+Weight:192
+Birth:1917-03-06
+Age:98
+Exp:2
+School:Long Island-Brooklyn
+OwingTeam:BAL

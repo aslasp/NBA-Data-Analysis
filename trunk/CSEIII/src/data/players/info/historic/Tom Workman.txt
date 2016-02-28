@@ -1,0 +1,10 @@
+Name:Tom Workman
+Number:23
+Position:F
+Height:6-7
+Weight:218
+Birth:1944-11-14
+Age:70
+Exp:2
+School:Seattle
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Jay Carty
+Number:52
+Position:F
+Height:6-7
+Weight:220
+Birth:1941-07-04
+Age:73
+Exp:0
+School:Oregon State
+OwingTeam:LAL

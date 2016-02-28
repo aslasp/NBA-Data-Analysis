@@ -1,0 +1,10 @@
+Name:Steve Kerr
+Number:25
+Position:G
+Height:6-1
+Weight:180
+Birth:1965-09-27
+Age:49
+Exp:14
+School:Arizona
+OwingTeam:SAS

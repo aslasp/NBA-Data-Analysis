@@ -1,0 +1,10 @@
+Name:Marty Conlon
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-01-19
+Age:47
+Exp:0
+School:Providence
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Clifford Ray
+Number:44
+Position:C
+Height:6-9
+Weight:230
+Birth:1949-01-21
+Age:66
+Exp:9
+School:Oklahoma
+OwingTeam:GOS

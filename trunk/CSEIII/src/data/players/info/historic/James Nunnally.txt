@@ -1,0 +1,10 @@
+Name:James Nunnally
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-07-14
+Age:24
+Exp:0
+School:California-Santa Barbara
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:JaJuan Johnson
+Number:12
+Position:F
+Height:6-10
+Weight:221
+Birth:1989-02-08
+Age:26
+Exp:0
+School:Purdue
+OwingTeam:BOS

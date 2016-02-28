@@ -1,0 +1,10 @@
+Name:Chris Richard
+Number:35
+Position:F
+Height:6-9
+Weight:256
+Birth:1984-12-25
+Age:30
+Exp:1
+School:Florida
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Charlie Shipp
+Number:
+Position:G
+Height:6-1
+Weight:200
+Birth:1913-12-03
+Age:101
+Exp:0
+School:Catholic
+OwingTeam:WAT

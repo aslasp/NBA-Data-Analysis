@@ -1,0 +1,10 @@
+Name:Rich Niemann
+Number:27
+Position:C
+Height:7-0
+Weight:245
+Birth:1946-07-02
+Age:68
+Exp:1
+School:Saint Louis
+OwingTeam:BOS

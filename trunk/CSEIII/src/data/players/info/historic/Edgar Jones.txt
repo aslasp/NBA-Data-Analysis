@@ -1,0 +1,10 @@
+Name:Edgar Jones
+Number:44
+Position:F
+Height:6-10
+Weight:225
+Birth:1956-06-17
+Age:58
+Exp:5
+School:Nevada
+OwingTeam:CLE

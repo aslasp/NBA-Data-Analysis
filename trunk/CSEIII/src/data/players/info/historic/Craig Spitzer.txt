@@ -1,0 +1,10 @@
+Name:Craig Spitzer
+Number:17
+Position:C
+Height:7-0
+Weight:225
+Birth:1945-12-18
+Age:69
+Exp:0
+School:Tulane
+OwingTeam:CHI

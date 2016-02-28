@@ -1,0 +1,10 @@
+Name:Ben Hansbrough
+Number:23
+Position:G
+Height:6-3
+Weight:203
+Birth:1987-12-23
+Age:27
+Exp:0
+School:Notre Dame
+OwingTeam:IND

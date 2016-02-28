@@ -1,0 +1,10 @@
+Name:Robert Pack
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-02-03
+Age:46
+Exp:0
+School:Southern California
+OwingTeam:

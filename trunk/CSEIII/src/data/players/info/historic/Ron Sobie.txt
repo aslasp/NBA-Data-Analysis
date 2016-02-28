@@ -1,0 +1,10 @@
+Name:Ron Sobie
+Number:17
+Position:G
+Height:6-3
+Weight:185
+Birth:1934-09-21
+Age:80
+Exp:3
+School:DePaul
+OwingTeam:NYK

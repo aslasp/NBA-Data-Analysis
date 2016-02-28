@@ -1,0 +1,10 @@
+Name:Charles Thomas
+Number:14
+Position:G
+Height:6-3
+Weight:175
+Birth:1969-10-03
+Age:45
+Exp:0
+School:Eastern Michigan
+OwingTeam:DET

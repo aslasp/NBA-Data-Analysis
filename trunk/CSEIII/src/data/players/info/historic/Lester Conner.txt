@@ -1,0 +1,10 @@
+Name:Lester Conner
+Number:7
+Position:G
+Height:6-4
+Weight:180
+Birth:1959-09-17
+Age:55
+Exp:11
+School:Oregon State
+OwingTeam:LAL

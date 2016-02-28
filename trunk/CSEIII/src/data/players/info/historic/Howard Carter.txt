@@ -1,0 +1,10 @@
+Name:Howard Carter
+Number:32
+Position:G
+Height:6-5
+Weight:215
+Birth:1961-10-26
+Age:53
+Exp:1
+School:Louisiana State
+OwingTeam:DAL

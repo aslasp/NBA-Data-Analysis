@@ -1,0 +1,10 @@
+Name:Henry Bibby
+Number:10-15
+Position:G
+Height:6-1
+Weight:185
+Birth:1949-11-24
+Age:65
+Exp:8
+School:California-Los Angeles
+OwingTeam:SDC

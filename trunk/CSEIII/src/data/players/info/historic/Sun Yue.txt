@@ -1,0 +1,10 @@
+Name:Sun Yue
+Number:9
+Position:G
+Height:6-9
+Weight:205
+Birth:1985-11-06
+Age:29
+Exp:0
+School:Cangzhou
+OwingTeam:LAL

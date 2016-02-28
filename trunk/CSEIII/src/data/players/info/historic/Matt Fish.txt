@@ -1,0 +1,10 @@
+Name:Matt Fish
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-11-18
+Age:45
+Exp:0
+School:North Carolina-Wilmington
+OwingTeam:

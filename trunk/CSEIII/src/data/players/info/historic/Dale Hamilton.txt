@@ -1,0 +1,10 @@
+Name:Dale Hamilton
+Number:
+Position:G
+Height:6-0
+Weight:180
+Birth:1919-08-16
+Age:95
+Exp:0
+School:Franklin
+OwingTeam:WAT

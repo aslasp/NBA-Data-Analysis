@@ -1,0 +1,10 @@
+Name:Ken Sears
+Number:17
+Position:F
+Height:6-9
+Weight:198
+Birth:1933-08-17
+Age:81
+Exp:7
+School:Santa Clara
+OwingTeam:SFW

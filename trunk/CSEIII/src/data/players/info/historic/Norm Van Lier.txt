@@ -1,0 +1,10 @@
+Name:Norm Van Lier
+Number:4
+Position:G
+Height:6-1
+Weight:173
+Birth:1947-04-01
+Age:68
+Exp:9
+School:Saint Francis 
+OwingTeam:MIL

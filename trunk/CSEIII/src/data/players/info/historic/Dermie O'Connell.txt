@@ -1,0 +1,10 @@
+Name:Dermie O'Connell
+Number:
+Position:G
+Height:6-0
+Weight:174
+Birth:1928-04-13
+Age:87
+Exp:1
+School:Holy Cross
+OwingTeam:BOM

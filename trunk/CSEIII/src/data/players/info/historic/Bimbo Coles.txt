@@ -1,0 +1,10 @@
+Name:Bimbo Coles
+Number:12
+Position:G
+Height:6-2
+Weight:182
+Birth:1968-04-22
+Age:47
+Exp:13
+School:Virginia Tech
+OwingTeam:MIA

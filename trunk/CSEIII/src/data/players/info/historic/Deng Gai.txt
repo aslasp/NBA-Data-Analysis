@@ -1,0 +1,10 @@
+Name:Deng Gai
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-03-22
+Age:33
+Exp:0
+School:Fairfield
+OwingTeam:

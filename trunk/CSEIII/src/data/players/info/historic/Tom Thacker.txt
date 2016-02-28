@@ -1,0 +1,10 @@
+Name:Tom Thacker
+Number:12
+Position:G
+Height:6-2
+Weight:170
+Birth:1939-11-02
+Age:75
+Exp:3
+School:Cincinnati
+OwingTeam:BOS

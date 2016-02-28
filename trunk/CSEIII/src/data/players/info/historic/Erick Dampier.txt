@@ -1,0 +1,10 @@
+Name:Erick Dampier
+Number:25
+Position:C
+Height:6-11
+Weight:265
+Birth:1975-07-14
+Age:39
+Exp:15
+School:Mississippi State
+OwingTeam:ATL

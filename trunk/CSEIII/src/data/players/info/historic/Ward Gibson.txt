@@ -1,0 +1,10 @@
+Name:Ward Gibson
+Number:
+Position:C
+Height:6-5
+Weight:198
+Birth:1921-12-05
+Age:93
+Exp:0
+School:Creighton
+OwingTeam:WAT

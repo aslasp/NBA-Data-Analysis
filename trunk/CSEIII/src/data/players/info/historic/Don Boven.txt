@@ -1,0 +1,10 @@
+Name:Don Boven
+Number:13
+Position:F
+Height:6-4
+Weight:210
+Birth:1925-03-06
+Age:90
+Exp:2
+School:Western Michigan
+OwingTeam:FTW

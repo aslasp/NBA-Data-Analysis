@@ -1,0 +1,10 @@
+Name:Allen Murphy
+Number:20
+Position:G
+Height:6-4
+Weight:190
+Birth:1952-07-15
+Age:62
+Exp:0
+School:Louisville
+OwingTeam:LAL

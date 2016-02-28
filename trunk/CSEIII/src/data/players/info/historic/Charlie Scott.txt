@@ -1,0 +1,10 @@
+Name:Charlie Scott
+Number:11
+Position:G
+Height:6-5
+Weight:175
+Birth:1946-12-15
+Age:68
+Exp:8
+School:North Carolina
+OwingTeam:DEN

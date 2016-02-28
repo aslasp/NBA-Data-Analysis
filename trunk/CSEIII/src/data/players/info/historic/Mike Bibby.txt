@@ -1,0 +1,10 @@
+Name:Mike Bibby
+Number:20
+Position:G
+Height:6-2
+Weight:195
+Birth:1978-05-13
+Age:37
+Exp:13
+School:Arizona
+OwingTeam:NYK

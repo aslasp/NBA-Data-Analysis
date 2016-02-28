@@ -1,0 +1,10 @@
+Name:Al Brightman
+Number:8-16
+Position:F
+Height:6-2
+Weight:195
+Birth:1923-09-22
+Age:91
+Exp:0
+School:Charleston 
+OwingTeam:BOS

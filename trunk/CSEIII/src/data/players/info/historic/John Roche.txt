@@ -1,0 +1,10 @@
+Name:John Roche
+Number:10
+Position:G
+Height:6-3
+Weight:170
+Birth:1949-09-26
+Age:65
+Exp:3
+School:South Carolina
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Chris Hunter
+Number:31
+Position:C-F
+Height:6-11
+Weight:240
+Birth:1984-07-09
+Age:30
+Exp:0
+School:Michigan
+OwingTeam:GSW

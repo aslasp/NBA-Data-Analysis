@@ -1,0 +1,10 @@
+Name:Brendan McCann
+Number:3
+Position:G
+Height:6-2
+Weight:178
+Birth:1935-07-05
+Age:79
+Exp:2
+School:St. Bonaventure
+OwingTeam:NYK

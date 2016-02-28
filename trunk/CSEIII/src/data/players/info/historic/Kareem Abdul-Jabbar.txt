@@ -1,0 +1,10 @@
+Name:Kareem Abdul-Jabbar
+Number:33
+Position:C
+Height:7-2
+Weight:225
+Birth:1947-04-16
+Age:68
+Exp:19
+School:California-Los Angeles
+OwingTeam:LAL

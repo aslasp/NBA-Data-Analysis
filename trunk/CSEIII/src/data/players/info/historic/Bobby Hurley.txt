@@ -1,0 +1,10 @@
+Name:Bobby Hurley
+Number:12
+Position:G
+Height:6-0
+Weight:165
+Birth:1971-06-28
+Age:43
+Exp:4
+School:Duke
+OwingTeam:VAN

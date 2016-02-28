@@ -1,0 +1,10 @@
+Name:Bo Erias
+Number: 
+Position:F
+Height:6-3
+Weight:220
+Birth:1932-07-30
+Age:82
+Exp:0
+School:Niagara
+OwingTeam:MNL

@@ -1,0 +1,10 @@
+Name:Kenny Dennard
+Number:33
+Position:F
+Height:6-8
+Weight:220
+Birth:1958-10-18
+Age:56
+Exp:2
+School:Duke
+OwingTeam:DEN

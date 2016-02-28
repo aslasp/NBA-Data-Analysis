@@ -1,0 +1,10 @@
+Name:Arnie Johnson
+Number:12
+Position:F
+Height:6-5
+Weight:236
+Birth:1920-05-17
+Age:95
+Exp:4
+School:Bemidji State
+OwingTeam:ROC

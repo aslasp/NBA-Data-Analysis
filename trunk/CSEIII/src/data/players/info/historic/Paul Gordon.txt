@@ -1,0 +1,10 @@
+Name:Paul Gordon
+Number:
+Position:F
+Height:6-3
+Weight:185
+Birth:1927-04-08
+Age:88
+Exp:0
+School:Notre Dame
+OwingTeam:BAL

@@ -1,0 +1,10 @@
+Name:Brad Branson
+Number:52
+Position:F
+Height:6-10
+Weight:220
+Birth:1958-09-24
+Age:56
+Exp:1
+School:Southern Methodist
+OwingTeam:IND

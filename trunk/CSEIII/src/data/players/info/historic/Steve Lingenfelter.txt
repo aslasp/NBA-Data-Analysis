@@ -1,0 +1,10 @@
+Name:Steve Lingenfelter
+Number:25
+Position:F
+Height:6-9
+Weight:225
+Birth:1958-06-10
+Age:56
+Exp:1
+School:South Dakota State
+OwingTeam:SAN

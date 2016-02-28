@@ -1,0 +1,10 @@
+Name:Jim Lampley
+Number:11
+Position:F
+Height:6-10
+Weight:230
+Birth:1960-07-02
+Age:54
+Exp:0
+School:Arkansas-Little Rock
+OwingTeam:PHL

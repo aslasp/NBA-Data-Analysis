@@ -1,0 +1,10 @@
+Name:Donald Ackerman
+Number: 
+Position:G
+Height:6-0
+Weight:183
+Birth:1930-09-04
+Age:84
+Exp:0
+School:Long Island-Brooklyn
+OwingTeam:NYK

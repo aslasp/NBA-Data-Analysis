@@ -1,0 +1,10 @@
+Name:Lloyd Walton
+Number:11  12
+Position:G
+Height:6-0
+Weight:160
+Birth:1953-11-23
+Age:61
+Exp:4
+School:Marquette
+OwingTeam:KCK

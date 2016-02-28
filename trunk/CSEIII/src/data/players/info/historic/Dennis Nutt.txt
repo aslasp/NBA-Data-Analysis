@@ -1,0 +1,10 @@
+Name:Dennis Nutt
+Number:21
+Position:G
+Height:6-2
+Weight:170
+Birth:1963-03-25
+Age:52
+Exp:0
+School:Texas Christian
+OwingTeam:DAL

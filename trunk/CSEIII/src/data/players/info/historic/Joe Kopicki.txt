@@ -1,0 +1,10 @@
+Name:Joe Kopicki
+Number:50
+Position:F
+Height:6-9
+Weight:240
+Birth:1960-06-12
+Age:54
+Exp:2
+School:Detroit Mercy
+OwingTeam:DEN

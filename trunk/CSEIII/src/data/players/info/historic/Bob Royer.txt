@@ -1,0 +1,10 @@
+Name:Bob Royer
+Number:
+Position:G
+Height:5-10
+Weight:155
+Birth:1927-10-15
+Age:87
+Exp:0
+School:Indiana State
+OwingTeam:

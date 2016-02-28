@@ -1,0 +1,10 @@
+Name:Bernie Harris
+Number:34
+Position:F
+Height:6-10
+Weight:200
+Birth:1950-11-26
+Age:64
+Exp:0
+School:Virginia Commonwealth
+OwingTeam:BUF

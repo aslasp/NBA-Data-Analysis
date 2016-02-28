@@ -1,0 +1,10 @@
+Name:Steve Downing
+Number:32
+Position:C
+Height:6-8
+Weight:225
+Birth:1950-09-09
+Age:64
+Exp:1
+School:Indiana
+OwingTeam:BOS

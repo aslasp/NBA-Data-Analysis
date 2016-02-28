@@ -1,0 +1,10 @@
+Name:Harold Johnson
+Number:
+Position:C
+Height:6-6
+Weight:240
+Birth:1920-01-20
+Age:95
+Exp:0
+School:Indiana State
+OwingTeam:DEF

@@ -1,0 +1,10 @@
+Name:Kevin Loder
+Number:9
+Position:F
+Height:6-6
+Weight:205
+Birth:1959-03-15
+Age:56
+Exp:2
+School:Alabama State
+OwingTeam:SDC

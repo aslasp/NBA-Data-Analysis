@@ -1,0 +1,10 @@
+Name:Rastko Cvetkovic
+Number:8
+Position:C
+Height:7-1
+Weight:260
+Birth:1970-06-22
+Age:44
+Exp:0
+School:
+OwingTeam:DEN

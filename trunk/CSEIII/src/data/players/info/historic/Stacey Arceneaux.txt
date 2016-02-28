@@ -1,0 +1,10 @@
+Name:Stacey Arceneaux
+Number: 
+Position:F
+Height:6-4
+Weight:210
+Birth:1936-02-17
+Age:79
+Exp:0
+School:Iowa State
+OwingTeam:STL

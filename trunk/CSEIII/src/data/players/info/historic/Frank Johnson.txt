@@ -1,0 +1,10 @@
+Name:Frank Johnson
+Number:3
+Position:G
+Height:6-3
+Weight:185
+Birth:1958-11-23
+Age:56
+Exp:9
+School:Wake Forest
+OwingTeam:PHX

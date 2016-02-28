@@ -1,0 +1,10 @@
+Name:Alonzo Mourning
+Number:33
+Position:C
+Height:6-10
+Weight:261
+Birth:1970-02-08
+Age:45
+Exp:14
+School:Georgetown
+OwingTeam:MIA

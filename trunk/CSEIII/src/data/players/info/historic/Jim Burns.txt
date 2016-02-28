@@ -1,0 +1,10 @@
+Name:Jim Burns
+Number:6
+Position:G
+Height:6-3
+Weight:195
+Birth:1945-09-21
+Age:69
+Exp:0
+School:Northwestern
+OwingTeam:CHI

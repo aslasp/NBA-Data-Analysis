@@ -1,0 +1,10 @@
+Name:Predrag Drobnjak
+Number:14
+Position:C
+Height:6-11
+Weight:270
+Birth:1975-10-27
+Age:39
+Exp:3
+School:Yugoslavia
+OwingTeam:ATL

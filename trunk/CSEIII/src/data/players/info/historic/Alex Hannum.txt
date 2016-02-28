@@ -1,0 +1,10 @@
+Name:Alex Hannum
+Number:33
+Position:F
+Height:6-7
+Weight:210
+Birth:1923-07-19
+Age:91
+Exp:7
+School:Southern California
+OwingTeam:STL

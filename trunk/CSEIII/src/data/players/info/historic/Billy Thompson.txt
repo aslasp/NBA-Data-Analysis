@@ -1,0 +1,10 @@
+Name:Billy Thompson
+Number:55
+Position:F
+Height:6-7
+Weight:195
+Birth:1963-12-01
+Age:51
+Exp:5
+School:Louisville
+OwingTeam:GOS

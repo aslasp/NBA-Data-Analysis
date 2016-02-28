@@ -1,0 +1,10 @@
+Name:Billy Gabor
+Number:7
+Position:G
+Height:5-11
+Weight:170
+Birth:1922-05-13
+Age:93
+Exp:5
+School:Syracuse
+OwingTeam:SYR

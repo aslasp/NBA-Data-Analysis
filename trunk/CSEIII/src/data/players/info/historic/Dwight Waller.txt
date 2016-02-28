@@ -1,0 +1,10 @@
+Name:Dwight Waller
+Number:16-34
+Position:F
+Height:6-6
+Weight:220
+Birth:1945-10-05
+Age:69
+Exp:0
+School:Tennessee State
+OwingTeam:ATL

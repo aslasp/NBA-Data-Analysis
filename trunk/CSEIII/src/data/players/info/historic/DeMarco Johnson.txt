@@ -1,0 +1,10 @@
+Name:DeMarco Johnson
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-10-06
+Age:39
+Exp:0
+School:North Carolina-Charlotte
+OwingTeam:

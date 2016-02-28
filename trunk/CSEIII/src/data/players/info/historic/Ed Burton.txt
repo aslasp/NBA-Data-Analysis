@@ -1,0 +1,10 @@
+Name:Ed Burton
+Number:34
+Position:F
+Height:6-6
+Weight:225
+Birth:1939-08-13
+Age:75
+Exp:1
+School:Michigan State
+OwingTeam:STL

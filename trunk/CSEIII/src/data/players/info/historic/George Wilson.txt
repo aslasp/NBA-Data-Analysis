@@ -1,0 +1,10 @@
+Name:George Wilson
+Number:33
+Position:C
+Height:6-8
+Weight:225
+Birth:1942-05-09
+Age:73
+Exp:6
+School:Cincinnati
+OwingTeam:BUF

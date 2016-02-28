@@ -1,0 +1,10 @@
+Name:Dwight Anderson
+Number:20
+Position:G
+Height:6-3
+Weight:185
+Birth:1960-12-28
+Age:54
+Exp:0
+School:Southern California
+OwingTeam:DEN

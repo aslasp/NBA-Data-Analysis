@@ -1,0 +1,10 @@
+Name:Tom Riker
+Number:6
+Position:F
+Height:6-10
+Weight:225
+Birth:1950-02-28
+Age:65
+Exp:2
+School:South Carolina
+OwingTeam:NYK

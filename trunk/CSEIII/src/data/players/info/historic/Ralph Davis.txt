@@ -1,0 +1,10 @@
+Name:Ralph Davis
+Number:25
+Position:G
+Height:6-4
+Weight:180
+Birth:1938-09-07
+Age:76
+Exp:1
+School:Cincinnati
+OwingTeam:CHP

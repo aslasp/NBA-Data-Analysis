@@ -1,0 +1,10 @@
+Name:Rod Foster
+Number:10
+Position:G
+Height:6-1
+Weight:160
+Birth:1960-10-10
+Age:54
+Exp:2
+School:California-Los Angeles
+OwingTeam:PHX

@@ -1,0 +1,10 @@
+Name:Primoz Brezec
+Number:9
+Position:C
+Height:7-1
+Weight:255
+Birth:1979-10-02
+Age:35
+Exp:7
+School:Postojna
+OwingTeam:MIL

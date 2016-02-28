@@ -1,0 +1,10 @@
+Name:Phil Rollins
+Number:3
+Position:G
+Height:6-2
+Weight:185
+Birth:1934-01-19
+Age:81
+Exp:2
+School:Louisville
+OwingTeam:NYK

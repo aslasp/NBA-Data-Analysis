@@ -1,0 +1,10 @@
+Name:Tim James
+Number:25
+Position:F
+Height:6-7
+Weight:214
+Birth:1976-12-25
+Age:38
+Exp:3
+School:Miami 
+OwingTeam:NYK

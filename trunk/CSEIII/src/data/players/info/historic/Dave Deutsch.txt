@@ -1,0 +1,10 @@
+Name:Dave Deutsch
+Number:3
+Position:G
+Height:6-1
+Weight:170
+Birth:1945-05-13
+Age:70
+Exp:0
+School:Rochester 
+OwingTeam:NYK

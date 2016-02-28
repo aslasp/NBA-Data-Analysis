@@ -1,0 +1,10 @@
+Name:Reggie Harding
+Number:17
+Position:C
+Height:7-0
+Weight:249
+Birth:1942-05-04
+Age:73
+Exp:3
+School:
+OwingTeam:CHI

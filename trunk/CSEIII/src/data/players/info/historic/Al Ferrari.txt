@@ -1,0 +1,10 @@
+Name:Al Ferrari
+Number:22
+Position:G
+Height:6-4
+Weight:190
+Birth:1933-07-06
+Age:81
+Exp:5
+School:Michigan State
+OwingTeam:CHZ

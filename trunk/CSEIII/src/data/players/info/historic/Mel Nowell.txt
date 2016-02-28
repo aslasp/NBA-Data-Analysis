@@ -1,0 +1,10 @@
+Name:Mel Nowell
+Number:20
+Position:G
+Height:6-2
+Weight:170
+Birth:1939-12-27
+Age:75
+Exp:0
+School:Ohio State
+OwingTeam:CHZ

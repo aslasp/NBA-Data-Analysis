@@ -1,0 +1,10 @@
+Name:DeAndre Liggins
+Number:
+Position:
+Height:
+Weight:
+Birth:1988-03-31
+Age:27
+Exp:0
+School:Kentucky
+OwingTeam:

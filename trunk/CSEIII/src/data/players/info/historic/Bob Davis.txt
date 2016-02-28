@@ -1,0 +1,10 @@
+Name:Bob Davis
+Number:25
+Position:F
+Height:6-7
+Weight:215
+Birth:1950-04-02
+Age:65
+Exp:0
+School:Weber State
+OwingTeam:POR

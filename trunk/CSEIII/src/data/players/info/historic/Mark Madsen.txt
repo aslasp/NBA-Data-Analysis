@@ -1,0 +1,10 @@
+Name:Mark Madsen
+Number:35
+Position:F
+Height:6-9
+Weight:255
+Birth:1976-01-28
+Age:39
+Exp:8
+School:Stanford
+OwingTeam:MIN

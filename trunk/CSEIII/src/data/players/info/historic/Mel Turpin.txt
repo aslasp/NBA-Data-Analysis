@@ -1,0 +1,10 @@
+Name:Mel Turpin
+Number:50
+Position:C
+Height:6-11
+Weight:240
+Birth:1960-12-28
+Age:54
+Exp:4
+School:Kentucky
+OwingTeam:WAS

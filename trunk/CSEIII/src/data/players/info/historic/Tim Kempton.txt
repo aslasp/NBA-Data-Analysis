@@ -1,0 +1,10 @@
+Name:Tim Kempton
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-01-25
+Age:51
+Exp:0
+School:Notre Dame
+OwingTeam:

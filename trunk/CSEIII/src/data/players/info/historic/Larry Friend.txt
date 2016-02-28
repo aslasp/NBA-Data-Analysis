@@ -1,0 +1,10 @@
+Name:Larry Friend
+Number:7
+Position:G
+Height:6-4
+Weight:185
+Birth:1935-04-14
+Age:80
+Exp:0
+School:California
+OwingTeam:NYK

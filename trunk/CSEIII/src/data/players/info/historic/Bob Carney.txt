@@ -1,0 +1,10 @@
+Name:Bob Carney
+Number:18
+Position:C
+Height:6-3
+Weight:170
+Birth:1932-08-03
+Age:82
+Exp:0
+School:Bradley
+OwingTeam:MNL

@@ -1,0 +1,10 @@
+Name:Derrick Brown
+Number:4
+Position:F
+Height:6-8
+Weight:233
+Birth:1987-09-08
+Age:27
+Exp:2
+School:Xavier
+OwingTeam:CHA

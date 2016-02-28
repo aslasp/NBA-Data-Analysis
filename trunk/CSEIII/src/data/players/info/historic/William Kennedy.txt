@@ -1,0 +1,10 @@
+Name:William Kennedy
+Number:34
+Position:G
+Height:5-11
+Weight:180
+Birth:1938-05-17
+Age:77
+Exp:0
+School:Temple
+OwingTeam:PHW

@@ -1,0 +1,10 @@
+Name:Blair Rasmussen
+Number:41
+Position:F
+Height:6-4
+Weight:172
+Birth:1962-11-13
+Age:52
+Exp:7
+School:Oregon
+OwingTeam:ATL

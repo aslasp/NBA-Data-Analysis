@@ -1,0 +1,10 @@
+Name:Bob Carpenter
+Number:10-15
+Position:F
+Height:6-5
+Weight:200
+Birth:1917-11-06
+Age:97
+Exp:1
+School:Texas A
+OwingTeam:TCB

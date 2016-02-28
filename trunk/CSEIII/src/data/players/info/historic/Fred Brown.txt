@@ -1,0 +1,10 @@
+Name:Fred Brown
+Number:32
+Position:G
+Height:6-3
+Weight:182
+Birth:1948-08-07
+Age:66
+Exp:12
+School:Iowa
+OwingTeam:SEA

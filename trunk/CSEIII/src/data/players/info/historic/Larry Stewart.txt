@@ -1,0 +1,10 @@
+Name:Larry Stewart
+Number:23
+Position:F
+Height:6-8
+Weight:230
+Birth:1968-09-21
+Age:46
+Exp:4
+School:Coppin State
+OwingTeam:SEA

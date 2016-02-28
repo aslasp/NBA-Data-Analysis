@@ -1,0 +1,10 @@
+Name:Lorenzo Romar
+Number:14
+Position:G
+Height:6-1
+Weight:175
+Birth:1958-11-13
+Age:56
+Exp:4
+School:Washington
+OwingTeam:DET

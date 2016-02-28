@@ -1,0 +1,10 @@
+Name:Mike Ratliff
+Number:43
+Position:C
+Height:6-10
+Weight:230
+Birth:1951-06-07
+Age:63
+Exp:1
+School:Wisconsin-Eau Claire
+OwingTeam:KCK

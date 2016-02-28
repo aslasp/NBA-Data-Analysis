@@ -1,0 +1,10 @@
+Name:Quinn Buckner
+Number:25
+Position:G
+Height:6-3
+Weight:190
+Birth:1954-08-20
+Age:60
+Exp:9
+School:Indiana
+OwingTeam:IND

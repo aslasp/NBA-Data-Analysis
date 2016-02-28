@@ -1,0 +1,10 @@
+Name:Diante Garrett
+Number:8
+Position:G
+Height:6-4
+Weight:190
+Birth:1988-11-03
+Age:26
+Exp:1
+School:Iowa State
+OwingTeam:UTA

@@ -1,0 +1,10 @@
+Name:George Trapp
+Number:31
+Position:F
+Height:6-8
+Weight:205
+Birth:1948-07-11
+Age:66
+Exp:5
+School:Long Beach State
+OwingTeam:DET

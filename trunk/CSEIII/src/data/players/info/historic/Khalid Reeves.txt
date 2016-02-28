@@ -1,0 +1,10 @@
+Name:Khalid Reeves
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-07-15
+Age:42
+Exp:0
+School:Arizona
+OwingTeam:

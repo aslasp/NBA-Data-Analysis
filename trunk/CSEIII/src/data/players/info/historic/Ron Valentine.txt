@@ -1,0 +1,10 @@
+Name:Ron Valentine
+Number:42
+Position:F
+Height:6-7
+Weight:210
+Birth:1957-11-27
+Age:57
+Exp:0
+School:Old Dominion
+OwingTeam:DEN

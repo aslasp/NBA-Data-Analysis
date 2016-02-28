@@ -1,0 +1,10 @@
+Name:Edmund Sherod
+Number:13
+Position:G
+Height:6-2
+Weight:170
+Birth:1959-09-13
+Age:55
+Exp:0
+School:Virginia Commonwealth
+OwingTeam:NYK

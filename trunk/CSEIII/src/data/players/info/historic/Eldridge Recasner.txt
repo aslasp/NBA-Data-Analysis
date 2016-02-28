@@ -1,0 +1,10 @@
+Name:Eldridge Recasner
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-12-14
+Age:47
+Exp:0
+School:Washington
+OwingTeam:

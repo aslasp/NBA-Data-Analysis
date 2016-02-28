@@ -1,0 +1,10 @@
+Name:Edwin Ubiles
+Number:
+Position:
+Height:
+Weight:
+Birth:1986-11-26
+Age:28
+Exp:0
+School:Siena
+OwingTeam:

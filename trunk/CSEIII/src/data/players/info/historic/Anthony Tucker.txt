@@ -1,0 +1,10 @@
+Name:Anthony Tucker
+Number:21
+Position:F
+Height:6-8
+Weight:220
+Birth:1969-04-04
+Age:46
+Exp:0
+School:Wake Forest
+OwingTeam:WAS

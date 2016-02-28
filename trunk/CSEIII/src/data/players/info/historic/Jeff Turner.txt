@@ -1,0 +1,10 @@
+Name:Jeff Turner
+Number:31
+Position:F
+Height:6-9
+Weight:230
+Birth:1962-04-09
+Age:53
+Exp:9
+School:Vanderbilt
+OwingTeam:ORL

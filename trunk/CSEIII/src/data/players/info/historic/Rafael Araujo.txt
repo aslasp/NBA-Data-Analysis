@@ -1,0 +1,10 @@
+Name:Rafael Araujo
+Number:55
+Position:C
+Height:6-11
+Weight:270
+Birth:1980-08-12
+Age:34
+Exp:2
+School:Brigham Young
+OwingTeam:UTA

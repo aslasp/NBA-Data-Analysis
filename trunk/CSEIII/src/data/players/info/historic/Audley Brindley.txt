@@ -1,0 +1,10 @@
+Name:Audley Brindley
+Number:12-15
+Position:F
+Height:6-4
+Weight:175
+Birth:1923-12-31
+Age:91
+Exp:0
+School:Dartmouth
+OwingTeam:NYK

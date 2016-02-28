@@ -1,0 +1,10 @@
+Name:Horacio Llamas
+Number:54
+Position:C
+Height:6-11
+Weight:285
+Birth:1973-07-17
+Age:41
+Exp:2
+School:Grand Canyon
+OwingTeam:WAS

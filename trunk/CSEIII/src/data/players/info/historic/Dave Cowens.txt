@@ -1,0 +1,10 @@
+Name:Dave Cowens
+Number:36
+Position:C
+Height:6-9
+Weight:230
+Birth:1948-10-25
+Age:66
+Exp:10
+School:Florida State
+OwingTeam:MIL

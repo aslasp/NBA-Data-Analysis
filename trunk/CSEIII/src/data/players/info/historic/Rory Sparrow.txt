@@ -1,0 +1,10 @@
+Name:Rory Sparrow
+Number:2
+Position:G
+Height:6-2
+Weight:175
+Birth:1958-06-12
+Age:56
+Exp:11
+School:Villanova
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Paul Noel
+Number:15
+Position:F
+Height:6-4
+Weight:185
+Birth:1924-08-04
+Age:90
+Exp:4
+School:Kentucky
+OwingTeam:ROC

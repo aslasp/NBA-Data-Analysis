@@ -1,0 +1,10 @@
+Name:Mike Higgins
+Number:32
+Position:F
+Height:6-9
+Weight:220
+Birth:1967-02-17
+Age:48
+Exp:1
+School:Northern Colorado
+OwingTeam:SAC

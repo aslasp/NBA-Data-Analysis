@@ -1,0 +1,10 @@
+Name:Anthony Goldwire
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-09-06
+Age:43
+Exp:0
+School:Houston
+OwingTeam:

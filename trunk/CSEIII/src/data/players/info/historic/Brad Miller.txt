@@ -1,0 +1,10 @@
+Name:Brad Miller
+Number:52
+Position:C-F
+Height:7-0
+Weight:261
+Birth:1976-04-12
+Age:39
+Exp:13
+School:Purdue
+OwingTeam:MIN

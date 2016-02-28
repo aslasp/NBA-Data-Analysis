@@ -1,0 +1,10 @@
+Name:Dillard Crocker
+Number:7
+Position:F
+Height:6-4
+Weight:205
+Birth:1925-01-19
+Age:90
+Exp:3
+School:Western Michigan
+OwingTeam:MIH

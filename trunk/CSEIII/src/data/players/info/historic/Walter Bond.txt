@@ -1,0 +1,10 @@
+Name:Walter Bond
+Number:20
+Position:G
+Height:6-5
+Weight:200
+Birth:1969-02-01
+Age:46
+Exp:2
+School:Minnesota
+OwingTeam:UTH

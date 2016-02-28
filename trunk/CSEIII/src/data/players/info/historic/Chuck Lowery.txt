@@ -1,0 +1,10 @@
+Name:Chuck Lowery
+Number:6
+Position:G
+Height:6-3
+Weight:185
+Birth:1949-11-12
+Age:65
+Exp:0
+School:Puget Sound
+OwingTeam:MIL

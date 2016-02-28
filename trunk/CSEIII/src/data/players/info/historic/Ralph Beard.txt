@@ -1,0 +1,10 @@
+Name:Ralph Beard
+Number:
+Position:G
+Height:5-10
+Weight:175
+Birth:1927-12-02
+Age:87
+Exp:1
+School:Kentucky
+OwingTeam:INO

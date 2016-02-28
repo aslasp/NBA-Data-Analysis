@@ -1,0 +1,10 @@
+Name:Fred Taylor
+Number:23
+Position:G
+Height:6-5
+Weight:180
+Birth:1948-02-05
+Age:67
+Exp:1
+School:Texas-Pan American
+OwingTeam:CIN

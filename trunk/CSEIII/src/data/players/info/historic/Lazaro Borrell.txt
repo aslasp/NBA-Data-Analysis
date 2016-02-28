@@ -1,0 +1,10 @@
+Name:Lazaro Borrell
+Number:11
+Position:F
+Height:6-8
+Weight:220
+Birth:1972-09-20
+Age:42
+Exp:0
+School:Cuba
+OwingTeam:SEA

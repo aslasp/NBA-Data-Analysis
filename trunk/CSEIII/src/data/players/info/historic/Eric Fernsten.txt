@@ -1,0 +1,10 @@
+Name:Eric Fernsten
+Number:45
+Position:C
+Height:6-10
+Weight:205
+Birth:1953-11-01
+Age:61
+Exp:5
+School:San Francisco
+OwingTeam:NYK

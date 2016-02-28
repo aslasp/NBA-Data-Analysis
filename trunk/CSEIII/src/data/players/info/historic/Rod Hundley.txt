@@ -1,0 +1,10 @@
+Name:Rod Hundley
+Number:33
+Position:G
+Height:6-4
+Weight:185
+Birth:1934-10-26
+Age:80
+Exp:5
+School:West Virginia
+OwingTeam:LAL

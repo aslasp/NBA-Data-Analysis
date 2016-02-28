@@ -1,0 +1,10 @@
+Name:George Zidek
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-08-02
+Age:41
+Exp:0
+School:California-Los Angeles
+OwingTeam:

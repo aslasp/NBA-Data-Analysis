@@ -1,0 +1,10 @@
+Name:Herm Gilliam
+Number:3
+Position:G
+Height:6-3
+Weight:190
+Birth:1946-05-05
+Age:69
+Exp:7
+School:Purdue
+OwingTeam:POR

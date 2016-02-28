@@ -1,0 +1,10 @@
+Name:Rod Derline
+Number:25
+Position:G
+Height:6-0
+Weight:175
+Birth:1952-03-11
+Age:63
+Exp:1
+School:Seattle
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Jim Chones
+Number:9
+Position:C
+Height:6-11
+Weight:220
+Birth:1949-11-30
+Age:65
+Exp:7
+School:Marquette
+OwingTeam:WAS

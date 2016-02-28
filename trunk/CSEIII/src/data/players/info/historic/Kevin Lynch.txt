@@ -1,0 +1,10 @@
+Name:Kevin Lynch
+Number:9
+Position:F
+Height:6-5
+Weight:195
+Birth:1968-12-24
+Age:46
+Exp:1
+School:Minnesota
+OwingTeam:CHH

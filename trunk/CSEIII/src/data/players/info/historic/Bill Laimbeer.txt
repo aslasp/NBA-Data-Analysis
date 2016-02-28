@@ -1,0 +1,10 @@
+Name:Bill Laimbeer
+Number:40
+Position:C
+Height:6-11
+Weight:245
+Birth:1957-05-19
+Age:58
+Exp:13
+School:Notre Dame
+OwingTeam:DET

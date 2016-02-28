@@ -1,0 +1,10 @@
+Name:Jim Johnstone
+Number:34
+Position:C
+Height:6-11
+Weight:245
+Birth:1960-09-20
+Age:54
+Exp:0
+School:Wake Forest
+OwingTeam:DET

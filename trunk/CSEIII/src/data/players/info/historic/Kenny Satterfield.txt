@@ -1,0 +1,10 @@
+Name:Kenny Satterfield
+Number:11
+Position:G
+Height:6-2
+Weight:170
+Birth:1981-04-10
+Age:34
+Exp:1
+School:Cincinnati
+OwingTeam:DEN

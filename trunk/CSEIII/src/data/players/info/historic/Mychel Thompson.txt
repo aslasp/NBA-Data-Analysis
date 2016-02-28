@@ -1,0 +1,10 @@
+Name:Mychel Thompson
+Number:
+Position:
+Height:
+Weight:
+Birth:1988-06-01
+Age:26
+Exp:0
+School:Pepperdine
+OwingTeam:

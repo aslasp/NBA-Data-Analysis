@@ -1,0 +1,10 @@
+Name:Butch Beard
+Number:9
+Position:G
+Height:6-3
+Weight:185
+Birth:1947-05-04
+Age:68
+Exp:8
+School:Louisville
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Myron Brown
+Number:34
+Position:F
+Height:6-3
+Weight:180
+Birth:1969-11-03
+Age:45
+Exp:0
+School:Slippery Rock
+OwingTeam:MIN

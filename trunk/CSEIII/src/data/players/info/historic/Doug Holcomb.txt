@@ -1,0 +1,10 @@
+Name:Doug Holcomb
+Number:
+Position:F
+Height:6-4
+Weight:200
+Birth:1925-02-09
+Age:90
+Exp:0
+School:Wisconsin
+OwingTeam:BAL

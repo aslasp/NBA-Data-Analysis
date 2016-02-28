@@ -1,0 +1,10 @@
+Name:Joseph Reiser
+Number:
+Position:G
+Height:5-11
+Weight:165
+Birth:1914-12-17
+Age:100
+Exp:2
+School:New York University
+OwingTeam:WAS

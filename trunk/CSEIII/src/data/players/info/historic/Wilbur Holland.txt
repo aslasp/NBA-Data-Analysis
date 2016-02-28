@@ -1,0 +1,10 @@
+Name:Wilbur Holland
+Number:12
+Position:G
+Height:6-0
+Weight:175
+Birth:1951-11-08
+Age:63
+Exp:3
+School:New Orleans
+OwingTeam:CHI

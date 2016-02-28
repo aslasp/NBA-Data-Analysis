@@ -1,0 +1,10 @@
+Name:Dave Johnson
+Number:8
+Position:G
+Height:6-7
+Weight:210
+Birth:1970-11-16
+Age:44
+Exp:1
+School:Syracuse
+OwingTeam:CHI

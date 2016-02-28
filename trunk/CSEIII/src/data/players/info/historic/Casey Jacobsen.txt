@@ -1,0 +1,10 @@
+Name:Casey Jacobsen
+Number:23
+Position:G
+Height:6-6
+Weight:215
+Birth:1981-03-19
+Age:34
+Exp:3
+School:Stanford
+OwingTeam:MEM

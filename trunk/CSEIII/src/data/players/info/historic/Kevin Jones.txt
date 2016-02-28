@@ -1,0 +1,10 @@
+Name:Kevin Jones
+Number:5
+Position:F
+Height:6-8
+Weight:260
+Birth:1989-08-25
+Age:25
+Exp:0
+School:West Virginia
+OwingTeam:CLE

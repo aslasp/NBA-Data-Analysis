@@ -1,0 +1,10 @@
+Name:Clyde Mayes
+Number:22
+Position:F
+Height:6-8
+Weight:225
+Birth:1953-03-17
+Age:62
+Exp:1
+School:Furman
+OwingTeam:POR

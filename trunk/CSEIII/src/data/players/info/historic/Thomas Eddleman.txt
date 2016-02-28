@@ -1,0 +1,10 @@
+Name:Thomas Eddleman
+Number:12
+Position:F
+Height:6-2
+Weight:189
+Birth:1922-12-27
+Age:92
+Exp:3
+School:Illinois
+OwingTeam:FTW

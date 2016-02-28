@@ -1,0 +1,10 @@
+Name:John Turner
+Number:40
+Position:F
+Height:6-8
+Weight:245
+Birth:1967-11-30
+Age:47
+Exp:0
+School:Phillips
+OwingTeam:HOU

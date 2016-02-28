@@ -1,0 +1,10 @@
+Name:Red Dehnert
+Number:
+Position:
+Height:
+Weight:
+Birth:1905-04-07
+Age:110
+Exp:0
+School:Columbia
+OwingTeam:PRO

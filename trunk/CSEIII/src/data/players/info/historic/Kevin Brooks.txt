@@ -1,0 +1,10 @@
+Name:Kevin Brooks
+Number:43
+Position:F
+Height:6-6
+Weight:200
+Birth:1969-10-12
+Age:45
+Exp:2
+School:Louisiana-Lafayette
+OwingTeam:DEN

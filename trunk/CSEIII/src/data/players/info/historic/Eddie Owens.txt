@@ -1,0 +1,10 @@
+Name:Eddie Owens
+Number:40
+Position:F
+Height:6-7
+Weight:210
+Birth:1953-12-26
+Age:61
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:BUF

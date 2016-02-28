@@ -1,0 +1,10 @@
+Name:Leo Klier
+Number:7
+Position:G
+Height:6-2
+Weight:170
+Birth:1923-05-21
+Age:92
+Exp:1
+School:Notre Dame
+OwingTeam:FTW

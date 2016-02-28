@@ -1,0 +1,10 @@
+Name:Ike Diogu
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-09-11
+Age:31
+Exp:0
+School:Arizona State
+OwingTeam:

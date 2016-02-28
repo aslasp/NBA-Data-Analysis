@@ -1,0 +1,10 @@
+Name:Slater Martin
+Number:22
+Position:G
+Height:5-10
+Weight:170
+Birth:1925-10-22
+Age:89
+Exp:10
+School:Texas
+OwingTeam:STL

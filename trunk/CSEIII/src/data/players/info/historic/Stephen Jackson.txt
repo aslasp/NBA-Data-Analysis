@@ -1,0 +1,10 @@
+Name:Stephen Jackson
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-04-05
+Age:37
+Exp:0
+School:Butler Community College
+OwingTeam:

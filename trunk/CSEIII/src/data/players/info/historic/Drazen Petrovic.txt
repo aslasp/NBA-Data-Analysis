@@ -1,0 +1,10 @@
+Name:Drazen Petrovic
+Number:3
+Position:G
+Height:6-5
+Weight:195
+Birth:1964-10-22
+Age:50
+Exp:3
+School:
+OwingTeam:NJN

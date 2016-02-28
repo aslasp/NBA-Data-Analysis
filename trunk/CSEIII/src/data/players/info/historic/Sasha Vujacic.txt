@@ -1,0 +1,10 @@
+Name:Sasha Vujacic
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-03-08
+Age:31
+Exp:0
+School:Maribor
+OwingTeam:

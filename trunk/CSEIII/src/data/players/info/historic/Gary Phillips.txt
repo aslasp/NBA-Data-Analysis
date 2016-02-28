@@ -1,0 +1,10 @@
+Name:Gary Phillips
+Number:7
+Position:G
+Height:6-3
+Weight:189
+Birth:1939-12-07
+Age:75
+Exp:4
+School:Houston
+OwingTeam:SFW

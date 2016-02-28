@@ -1,0 +1,10 @@
+Name:Travis Best
+Number:6
+Position:G
+Height:5-11
+Weight:182
+Birth:1972-07-12
+Age:42
+Exp:9
+School:Georgia Tech
+OwingTeam:NJN

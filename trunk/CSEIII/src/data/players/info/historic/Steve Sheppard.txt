@@ -1,0 +1,10 @@
+Name:Steve Sheppard
+Number:27
+Position:F
+Height:6-6
+Weight:215
+Birth:1954-03-21
+Age:61
+Exp:1
+School:Maryland
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Ray Lumpp
+Number:
+Position:G
+Height:6-1
+Weight:178
+Birth:1923-07-11
+Age:91
+Exp:4
+School:New York University
+OwingTeam:BAL

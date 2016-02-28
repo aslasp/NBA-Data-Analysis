@@ -1,0 +1,10 @@
+Name:Les Pugh
+Number:
+Position:C
+Height:6-7
+Weight:190
+Birth:1923-09-18
+Age:91
+Exp:1
+School:Ohio State
+OwingTeam:BAL

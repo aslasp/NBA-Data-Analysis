@@ -1,0 +1,10 @@
+Name:Bob McNeill
+Number:52
+Position:G
+Height:6-1
+Weight:170
+Birth:1938-10-22
+Age:76
+Exp:1
+School:Saint Joseph
+OwingTeam:LAL

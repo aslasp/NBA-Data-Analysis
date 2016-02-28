@@ -1,0 +1,10 @@
+Name:Leroy Chollet
+Number:11
+Position:F
+Height:6-2
+Weight:190
+Birth:1925-03-05
+Age:90
+Exp:1
+School:Canisius
+OwingTeam:SYR

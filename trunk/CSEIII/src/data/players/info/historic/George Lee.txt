@@ -1,0 +1,10 @@
+Name:George Lee
+Number:9
+Position:F
+Height:6-4
+Weight:200
+Birth:1936-11-23
+Age:78
+Exp:6
+School:Michigan
+OwingTeam:SFW

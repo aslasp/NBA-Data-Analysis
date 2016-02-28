@@ -1,0 +1,10 @@
+Name:Charlie Parsley
+Number:7
+Position:G
+Height:6-2
+Weight:175
+Birth:1925-10-13
+Age:89
+Exp:0
+School:Western Kentucky
+OwingTeam:PHW

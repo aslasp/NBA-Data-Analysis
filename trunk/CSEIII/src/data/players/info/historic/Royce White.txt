@@ -1,0 +1,10 @@
+Name:Royce White
+Number:
+Position:
+Height:
+Weight:
+Birth:1991-04-10
+Age:24
+Exp:0
+School:Iowa State
+OwingTeam:

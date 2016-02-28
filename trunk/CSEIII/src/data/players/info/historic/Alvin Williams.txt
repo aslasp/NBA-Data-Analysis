@@ -1,0 +1,10 @@
+Name:Alvin Williams
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-08-06
+Age:40
+Exp:0
+School:Villanova
+OwingTeam:

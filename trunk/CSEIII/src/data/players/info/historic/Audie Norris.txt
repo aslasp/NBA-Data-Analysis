@@ -1,0 +1,10 @@
+Name:Audie Norris
+Number:24
+Position:C
+Height:6-9
+Weight:230
+Birth:1960-12-18
+Age:54
+Exp:2
+School:Jackson State
+OwingTeam:POR

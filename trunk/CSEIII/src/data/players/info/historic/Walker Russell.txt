@@ -1,0 +1,10 @@
+Name:Walker Russell
+Number:23
+Position:G
+Height:6-0
+Weight:170
+Birth:1982-10-06
+Age:32
+Exp:0
+School:Jacksonville State
+OwingTeam:DET

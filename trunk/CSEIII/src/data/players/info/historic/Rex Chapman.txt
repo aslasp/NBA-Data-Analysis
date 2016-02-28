@@ -1,0 +1,10 @@
+Name:Rex Chapman
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-10-05
+Age:47
+Exp:0
+School:Kentucky
+OwingTeam:

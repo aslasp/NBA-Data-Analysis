@@ -1,0 +1,10 @@
+Name:Alfredrick Hughes
+Number:6
+Position:F
+Height:6-5
+Weight:215
+Birth:1962-07-19
+Age:52
+Exp:0
+School:Loyola-Chicago
+OwingTeam:SAN

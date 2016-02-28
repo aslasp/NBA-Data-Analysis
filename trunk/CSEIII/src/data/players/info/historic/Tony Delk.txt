@@ -1,0 +1,10 @@
+Name:Tony Delk
+Number:00
+Position:G
+Height:6-2
+Weight:189
+Birth:1974-01-28
+Age:41
+Exp:9
+School:Kentucky
+OwingTeam:DET

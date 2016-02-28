@@ -1,0 +1,10 @@
+Name:Kirk Penney
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-11-23
+Age:34
+Exp:0
+School:Wisconsin
+OwingTeam:

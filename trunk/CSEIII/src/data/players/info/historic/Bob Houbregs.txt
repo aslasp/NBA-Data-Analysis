@@ -1,0 +1,10 @@
+Name:Bob Houbregs
+Number:17
+Position:C
+Height:6-8
+Weight:210
+Birth:1932-03-12
+Age:83
+Exp:4
+School:Washington
+OwingTeam:DET

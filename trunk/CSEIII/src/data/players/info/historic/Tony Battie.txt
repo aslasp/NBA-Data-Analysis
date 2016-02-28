@@ -1,0 +1,10 @@
+Name:Tony Battie
+Number:4
+Position:C
+Height:6-11
+Weight:240
+Birth:1976-02-11
+Age:39
+Exp:13
+School:Texas Tech
+OwingTeam:PHI

@@ -1,0 +1,10 @@
+Name:Dell Demps
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-02-12
+Age:45
+Exp:0
+School:Pacific
+OwingTeam:

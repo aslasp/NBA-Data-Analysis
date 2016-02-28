@@ -1,0 +1,10 @@
+Name:Chuckie Williams
+Number:15
+Position:G
+Height:6-3
+Weight:180
+Birth:1953-12-31
+Age:61
+Exp:0
+School:Kansas State
+OwingTeam:CLE

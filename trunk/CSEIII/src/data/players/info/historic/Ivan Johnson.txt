@@ -1,0 +1,10 @@
+Name:Ivan Johnson
+Number:44
+Position:F
+Height:6-8
+Weight:255
+Birth:1984-04-10
+Age:31
+Exp:1
+School:Cal State-San Bernardino
+OwingTeam:ATL

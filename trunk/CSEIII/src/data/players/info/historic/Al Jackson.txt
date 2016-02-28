@@ -1,0 +1,10 @@
+Name:Al Jackson
+Number:11
+Position:G
+Height:6-1
+Weight:185
+Birth:1943-07-29
+Age:71
+Exp:0
+School:Wilberforce
+OwingTeam:CIN

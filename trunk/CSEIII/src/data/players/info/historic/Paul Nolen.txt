@@ -1,0 +1,10 @@
+Name:Paul Nolen
+Number:
+Position:C
+Height:6-10
+Weight:
+Birth:1929-09-03
+Age:85
+Exp:0
+School:Texas Tech
+OwingTeam:BAL

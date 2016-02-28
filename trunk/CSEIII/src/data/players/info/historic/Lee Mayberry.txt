@@ -1,0 +1,10 @@
+Name:Lee Mayberry
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-06-12
+Age:44
+Exp:0
+School:Arkansas
+OwingTeam:

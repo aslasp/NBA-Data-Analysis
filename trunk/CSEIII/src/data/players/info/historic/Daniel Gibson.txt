@@ -1,0 +1,10 @@
+Name:Daniel Gibson
+Number:1
+Position:G
+Height:6-2
+Weight:200
+Birth:1986-02-27
+Age:29
+Exp:6
+School:Texas
+OwingTeam:CLE

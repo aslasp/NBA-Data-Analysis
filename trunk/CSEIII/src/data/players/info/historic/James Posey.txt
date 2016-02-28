@@ -1,0 +1,10 @@
+Name:James Posey
+Number:41
+Position:F
+Height:6-8
+Weight:217
+Birth:1977-01-13
+Age:38
+Exp:11
+School:Xavier
+OwingTeam:IND

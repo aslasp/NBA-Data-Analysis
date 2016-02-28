@@ -1,0 +1,10 @@
+Name:Glenn Hansen
+Number:20
+Position:G
+Height:6-4
+Weight:205
+Birth:1952-04-21
+Age:63
+Exp:2
+School:Louisiana State
+OwingTeam:KCK

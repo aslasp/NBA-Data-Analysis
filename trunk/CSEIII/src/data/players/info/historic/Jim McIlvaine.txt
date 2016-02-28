@@ -1,0 +1,10 @@
+Name:Jim McIlvaine
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-07-30
+Age:42
+Exp:0
+School:Marquette
+OwingTeam:

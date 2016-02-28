@@ -1,0 +1,10 @@
+Name:Glen Selbo
+Number:
+Position:F
+Height:6-3
+Weight:196
+Birth:1926-03-29
+Age:89
+Exp:0
+School:Wisconsin
+OwingTeam:SHE

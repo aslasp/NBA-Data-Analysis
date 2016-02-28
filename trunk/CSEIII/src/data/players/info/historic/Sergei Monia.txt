@@ -1,0 +1,10 @@
+Name:Sergei Monia
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-04-15
+Age:32
+Exp:0
+School:Russia
+OwingTeam:

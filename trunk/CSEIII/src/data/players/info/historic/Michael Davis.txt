@@ -1,0 +1,10 @@
+Name:Michael Davis
+Number:
+Position:F
+Height:6-10
+Weight:230
+Birth:1956-08-02
+Age:58
+Exp:0
+School:Maryland
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:David Wood
+Number:7
+Position:F
+Height:6-9
+Weight:230
+Birth:1964-11-30
+Age:50
+Exp:6
+School:Nevada-Reno
+OwingTeam:MIL

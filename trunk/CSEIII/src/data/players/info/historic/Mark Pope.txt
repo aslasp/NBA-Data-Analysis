@@ -1,0 +1,10 @@
+Name:Mark Pope
+Number:41
+Position:C-F
+Height:6-10
+Weight:235
+Birth:1972-09-11
+Age:42
+Exp:5
+School:Kentucky
+OwingTeam:DEN

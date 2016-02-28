@@ -1,0 +1,10 @@
+Name:JamesOn Curry
+Number:
+Position:
+Height:
+Weight:
+Birth:1986-01-07
+Age:29
+Exp:0
+School:Oklahoma State
+OwingTeam:

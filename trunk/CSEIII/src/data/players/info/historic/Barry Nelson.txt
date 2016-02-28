@@ -1,0 +1,10 @@
+Name:Barry Nelson
+Number:50
+Position:C
+Height:6-10
+Weight:230
+Birth:1949-09-19
+Age:65
+Exp:0
+School:Duquesne
+OwingTeam:MIL

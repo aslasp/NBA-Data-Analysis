@@ -1,0 +1,10 @@
+Name:John Pinone
+Number:33
+Position:F
+Height:6-8
+Weight:230
+Birth:1961-02-19
+Age:54
+Exp:0
+School:Villanova
+OwingTeam:ATL

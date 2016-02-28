@@ -1,0 +1,10 @@
+Name:Al Wood
+Number:4
+Position:G
+Height:6-6
+Weight:193
+Birth:1958-06-02
+Age:56
+Exp:5
+School:North Carolina
+OwingTeam:DAL

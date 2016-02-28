@@ -1,0 +1,10 @@
+Name:Sleepy Floyd
+Number:12
+Position:G
+Height:6-3
+Weight:170
+Birth:1960-03-06
+Age:55
+Exp:12
+School:Georgetown
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Mike Smith
+Number:40
+Position:F
+Height:6-8
+Weight:195
+Birth:1976-04-15
+Age:39
+Exp:0
+School:Louisiana-Monroe
+OwingTeam:WAS

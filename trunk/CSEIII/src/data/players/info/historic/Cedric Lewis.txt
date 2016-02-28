@@ -1,0 +1,10 @@
+Name:Cedric Lewis
+Number:42
+Position:F
+Height:6-10
+Weight:235
+Birth:1969-09-24
+Age:45
+Exp:0
+School:Maryland
+OwingTeam:WAS

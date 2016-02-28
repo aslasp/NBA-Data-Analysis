@@ -1,0 +1,10 @@
+Name:Bill Buntin
+Number:17
+Position:C
+Height:6-7
+Weight:250
+Birth:1942-05-05
+Age:73
+Exp:0
+School:Michigan
+OwingTeam:DET

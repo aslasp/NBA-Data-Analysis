@@ -1,0 +1,10 @@
+Name:Daniel Anderson
+Number:33
+Position:G
+Height:6-2
+Weight:185
+Birth:1951-01-01
+Age:64
+Exp:1
+School:Southern California
+OwingTeam:POR

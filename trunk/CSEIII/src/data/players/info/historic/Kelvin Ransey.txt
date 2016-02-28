@@ -1,0 +1,10 @@
+Name:Kelvin Ransey
+Number:14
+Position:G
+Height:6-2
+Weight:170
+Birth:1958-05-03
+Age:57
+Exp:5
+School:Ohio State
+OwingTeam:NJN

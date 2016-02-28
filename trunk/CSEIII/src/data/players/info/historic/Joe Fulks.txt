@@ -1,0 +1,10 @@
+Name:Joe Fulks
+Number:10
+Position:F
+Height:6-5
+Weight:190
+Birth:1921-10-26
+Age:93
+Exp:7
+School:Murray State
+OwingTeam:PHW

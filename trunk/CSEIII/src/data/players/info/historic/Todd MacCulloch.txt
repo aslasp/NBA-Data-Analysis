@@ -1,0 +1,10 @@
+Name:Todd MacCulloch
+Number:11
+Position:C
+Height:7-0
+Weight:280
+Birth:1976-01-27
+Age:39
+Exp:4
+School:Washington
+OwingTeam:PHI

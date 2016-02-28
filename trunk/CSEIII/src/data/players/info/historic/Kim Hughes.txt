@@ -1,0 +1,10 @@
+Name:Kim Hughes
+Number:3-12-44
+Position:C
+Height:6-11
+Weight:220
+Birth:1952-06-04
+Age:62
+Exp:4
+School:Wisconsin
+OwingTeam:CLE

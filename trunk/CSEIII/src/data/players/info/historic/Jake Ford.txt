@@ -1,0 +1,10 @@
+Name:Jake Ford
+Number:33
+Position:G
+Height:6-3
+Weight:180
+Birth:1946-04-29
+Age:69
+Exp:1
+School:Maryland-Eastern Shore
+OwingTeam:SEA

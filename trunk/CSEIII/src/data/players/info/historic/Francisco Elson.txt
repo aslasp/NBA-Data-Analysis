@@ -1,0 +1,10 @@
+Name:Francisco Elson
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-02-28
+Age:39
+Exp:0
+School:California
+OwingTeam:

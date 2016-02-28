@@ -1,0 +1,10 @@
+Name:Scott Wedman
+Number:8
+Position:F
+Height:6-7
+Weight:215
+Birth:1952-07-29
+Age:62
+Exp:12
+School:Colorado
+OwingTeam:BOS

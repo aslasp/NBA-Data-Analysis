@@ -1,0 +1,10 @@
+Name:Ned Endress
+Number:
+Position:F
+Height:6-2
+Weight:200
+Birth:1918-03-02
+Age:97
+Exp:0
+School:Akron
+OwingTeam:CLR

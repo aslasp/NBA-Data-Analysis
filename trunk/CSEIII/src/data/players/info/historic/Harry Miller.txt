@@ -1,0 +1,10 @@
+Name:Harry Miller
+Number:
+Position:C
+Height:6-4
+Weight:230
+Birth:1923-07-28
+Age:91
+Exp:0
+School:North Carolina
+OwingTeam:HUS

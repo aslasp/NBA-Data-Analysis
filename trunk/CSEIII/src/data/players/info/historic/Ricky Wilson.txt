@@ -1,0 +1,10 @@
+Name:Ricky Wilson
+Number:15
+Position:G
+Height:6-3
+Weight:195
+Birth:1964-07-16
+Age:50
+Exp:0
+School:George Mason
+OwingTeam:SAN

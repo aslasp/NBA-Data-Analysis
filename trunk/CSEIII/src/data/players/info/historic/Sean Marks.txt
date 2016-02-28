@@ -1,0 +1,10 @@
+Name:Sean Marks
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-08-23
+Age:39
+Exp:0
+School:California
+OwingTeam:

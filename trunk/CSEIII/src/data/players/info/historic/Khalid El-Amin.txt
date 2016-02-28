@@ -1,0 +1,10 @@
+Name:Khalid El-Amin
+Number:11
+Position:G
+Height:5-10
+Weight:200
+Birth:1979-04-25
+Age:36
+Exp:1
+School:Connecticut
+OwingTeam:MIA

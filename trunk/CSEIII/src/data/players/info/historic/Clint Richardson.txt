@@ -1,0 +1,10 @@
+Name:Clint Richardson
+Number:4
+Position:G
+Height:6-3
+Weight:195
+Birth:1956-08-07
+Age:58
+Exp:7
+School:Seattle
+OwingTeam:IND

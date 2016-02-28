@@ -1,0 +1,10 @@
+Name:Antonio Lang
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-05-15
+Age:43
+Exp:0
+School:Duke
+OwingTeam:

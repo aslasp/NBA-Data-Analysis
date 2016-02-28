@@ -1,0 +1,10 @@
+Name:Taurean Green
+Number:0
+Position:G
+Height:6-0
+Weight:177
+Birth:1986-11-28
+Age:28
+Exp:0
+School:Florida
+OwingTeam:DEN

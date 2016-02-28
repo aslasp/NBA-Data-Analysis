@@ -1,0 +1,10 @@
+Name:Phil Smith
+Number:20
+Position:G
+Height:6-4
+Weight:185
+Birth:1952-04-22
+Age:63
+Exp:8
+School:San Francisco
+OwingTeam:SEA

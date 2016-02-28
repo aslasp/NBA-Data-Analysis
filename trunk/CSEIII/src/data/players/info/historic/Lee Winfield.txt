@@ -1,0 +1,10 @@
+Name:Lee Winfield
+Number:3
+Position:G
+Height:6-2
+Weight:174
+Birth:1947-02-04
+Age:68
+Exp:6
+School:North Texas
+OwingTeam:KCK

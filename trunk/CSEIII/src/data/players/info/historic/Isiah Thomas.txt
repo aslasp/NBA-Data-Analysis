@@ -1,0 +1,10 @@
+Name:Isiah Thomas
+Number:11
+Position:G
+Height:6-1
+Weight:180
+Birth:1961-04-30
+Age:54
+Exp:12
+School:Indiana
+OwingTeam:DET

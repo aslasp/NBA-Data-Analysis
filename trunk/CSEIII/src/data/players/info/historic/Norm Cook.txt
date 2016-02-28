@@ -1,0 +1,10 @@
+Name:Norm Cook
+Number:30-52
+Position:F
+Height:6-8
+Weight:210
+Birth:1955-03-21
+Age:60
+Exp:1
+School:Kansas
+OwingTeam:DEN

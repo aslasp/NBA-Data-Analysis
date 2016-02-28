@@ -1,0 +1,10 @@
+Name:Dean Garrett
+Number:22
+Position:C
+Height:6-11
+Weight:250
+Birth:1966-11-27
+Age:48
+Exp:5
+School:Indiana
+OwingTeam:GSW

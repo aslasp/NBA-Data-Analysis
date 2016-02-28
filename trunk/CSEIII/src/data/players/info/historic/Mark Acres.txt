@@ -1,0 +1,10 @@
+Name:Mark Acres
+Number:42
+Position:C
+Height:6-11
+Weight:220
+Birth:1962-11-15
+Age:52
+Exp:5
+School:Oral Roberts
+OwingTeam:WAS

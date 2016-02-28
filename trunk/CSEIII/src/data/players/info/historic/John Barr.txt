@@ -1,0 +1,10 @@
+Name:John Barr
+Number:
+Position:F
+Height:6-3
+Weight:205
+Birth:1918-08-18
+Age:96
+Exp:0
+School:Penn State
+OwingTeam:BOM

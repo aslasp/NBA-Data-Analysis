@@ -1,0 +1,10 @@
+Name:Matt Maloney
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-12-06
+Age:43
+Exp:0
+School:Pennsylvania
+OwingTeam:

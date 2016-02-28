@@ -1,0 +1,10 @@
+Name:Will Frazier
+Number: 
+Position:F
+Height:6-7
+Weight:210
+Birth:1942-08-24
+Age:72
+Exp:0
+School:Grambling
+OwingTeam:SFW

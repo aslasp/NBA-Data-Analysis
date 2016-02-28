@@ -1,0 +1,10 @@
+Name:Al Bianchi
+Number:24
+Position:G
+Height:6-3
+Weight:185
+Birth:1932-03-26
+Age:83
+Exp:9
+School:Bowling Green
+OwingTeam:PHL

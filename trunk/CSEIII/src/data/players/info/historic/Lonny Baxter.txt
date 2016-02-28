@@ -1,0 +1,10 @@
+Name:Lonny Baxter
+Number:35
+Position:F
+Height:6-8
+Weight:260
+Birth:1979-01-27
+Age:36
+Exp:3
+School:Maryland
+OwingTeam:CHA

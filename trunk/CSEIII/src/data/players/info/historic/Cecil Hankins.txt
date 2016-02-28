@@ -1,0 +1,10 @@
+Name:Cecil Hankins
+Number:5
+Position:G
+Height:6-1
+Weight:175
+Birth:1922-01-06
+Age:93
+Exp:1
+School:Oklahoma State
+OwingTeam:BOS

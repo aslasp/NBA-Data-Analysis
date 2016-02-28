@@ -1,0 +1,10 @@
+Name:Jon McGlocklin
+Number:14
+Position:G
+Height:6-5
+Weight:205
+Birth:1943-06-10
+Age:71
+Exp:10
+School:Indiana
+OwingTeam:MIL

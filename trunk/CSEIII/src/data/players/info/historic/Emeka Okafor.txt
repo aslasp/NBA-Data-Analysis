@@ -1,0 +1,10 @@
+Name:Emeka Okafor
+Number:50
+Position:C
+Height:6-10
+Weight:255
+Birth:1982-09-28
+Age:32
+Exp:9
+School:Connecticut
+OwingTeam:PHX

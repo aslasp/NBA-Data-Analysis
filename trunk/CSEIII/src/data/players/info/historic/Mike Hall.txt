@@ -1,0 +1,10 @@
+Name:Mike Hall
+Number:42
+Position:F
+Height:6-8
+Weight:230
+Birth:1984-06-05
+Age:30
+Exp:0
+School:George Washington
+OwingTeam:WAS

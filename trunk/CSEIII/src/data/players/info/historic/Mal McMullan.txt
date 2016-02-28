@@ -1,0 +1,10 @@
+Name:Mal McMullan
+Number:
+Position:
+Height:
+Weight:
+Birth:1927-08-23
+Age:87
+Exp:1
+School:Xavier
+OwingTeam:INO

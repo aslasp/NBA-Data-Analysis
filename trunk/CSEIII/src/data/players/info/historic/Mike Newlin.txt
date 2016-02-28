@@ -1,0 +1,10 @@
+Name:Mike Newlin
+Number:14
+Position:G
+Height:6-4
+Weight:200
+Birth:1949-01-02
+Age:66
+Exp:10
+School:Utah
+OwingTeam:NYK

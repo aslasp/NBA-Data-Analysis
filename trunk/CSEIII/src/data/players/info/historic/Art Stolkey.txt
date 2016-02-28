@@ -1,0 +1,10 @@
+Name:Art Stolkey
+Number:
+Position:G
+Height:6-1
+Weight:180
+Birth:1920-10-23
+Age:94
+Exp:0
+School:Detroit Mercy
+OwingTeam:DEF

@@ -1,0 +1,10 @@
+Name:Jim Bostic
+Number:32
+Position:F
+Height:6-7
+Weight:225
+Birth:1953-01-28
+Age:62
+Exp:0
+School:New Mexico State
+OwingTeam:DET

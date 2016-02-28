@@ -1,0 +1,10 @@
+Name:Lloyd Dove
+Number:44
+Position:F
+Height:6-8
+Weight:198
+Birth:1945-08-16
+Age:69
+Exp:1
+School:St. John
+OwingTeam:DET

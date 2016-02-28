@@ -1,0 +1,10 @@
+Name:Bob Lavoy
+Number:16
+Position:F
+Height:6-7
+Weight:185
+Birth:1926-06-29
+Age:88
+Exp:3
+School:Western Kentucky
+OwingTeam:SYR

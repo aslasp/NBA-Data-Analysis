@@ -1,0 +1,10 @@
+Name:Maalik Wayns
+Number:
+Position:
+Height:
+Weight:
+Birth:1991-05-02
+Age:24
+Exp:0
+School:Villanova
+OwingTeam:

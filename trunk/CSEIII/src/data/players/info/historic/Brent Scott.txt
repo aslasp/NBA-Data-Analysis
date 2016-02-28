@@ -1,0 +1,10 @@
+Name:Brent Scott
+Number:55
+Position:F-C
+Height:6-10
+Weight:250
+Birth:1971-06-15
+Age:43
+Exp:0
+School:Rice
+OwingTeam:IND

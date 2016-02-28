@@ -1,0 +1,10 @@
+Name:Billyray Bates
+Number:35
+Position:G
+Height:6-4
+Weight:210
+Birth:1956-05-31
+Age:59
+Exp:3
+School:Kentucky State
+OwingTeam:LAL

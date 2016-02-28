@@ -1,0 +1,10 @@
+Name:Cleo Hill
+Number:24
+Position:G
+Height:6-1
+Weight:185
+Birth:1938-05-24
+Age:77
+Exp:0
+School:Winston-Salem State
+OwingTeam:STL

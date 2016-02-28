@@ -1,0 +1,10 @@
+Name:Bruce Hale
+Number:
+Position:G
+Height:6-1
+Weight:170
+Birth:1918-08-30
+Age:96
+Exp:2
+School:Santa Clara
+OwingTeam:INO

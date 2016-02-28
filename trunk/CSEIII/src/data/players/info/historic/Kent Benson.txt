@@ -1,0 +1,10 @@
+Name:Kent Benson
+Number:54
+Position:C
+Height:6-11
+Weight:235
+Birth:1954-12-27
+Age:60
+Exp:10
+School:Indiana
+OwingTeam:CLE

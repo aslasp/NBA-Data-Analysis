@@ -1,0 +1,10 @@
+Name:Dave Schellhase
+Number:8
+Position:G
+Height:6-3
+Weight:205
+Birth:1944-10-14
+Age:70
+Exp:1
+School:Purdue
+OwingTeam:CHI

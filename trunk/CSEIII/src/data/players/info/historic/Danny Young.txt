@@ -1,0 +1,10 @@
+Name:Danny Young
+Number:20
+Position:G
+Height:6-4
+Weight:175
+Birth:1962-07-26
+Age:52
+Exp:9
+School:Wake Forest
+OwingTeam:MIL

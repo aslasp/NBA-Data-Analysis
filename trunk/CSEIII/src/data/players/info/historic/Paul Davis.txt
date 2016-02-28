@@ -1,0 +1,10 @@
+Name:Paul Davis
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-07-21
+Age:30
+Exp:0
+School:Michigan State
+OwingTeam:

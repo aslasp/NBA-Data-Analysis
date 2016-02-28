@@ -1,0 +1,10 @@
+Name:Craig Shelton
+Number:11
+Position:F
+Height:6-7
+Weight:210
+Birth:1957-05-01
+Age:58
+Exp:1
+School:Georgetown
+OwingTeam:ATL

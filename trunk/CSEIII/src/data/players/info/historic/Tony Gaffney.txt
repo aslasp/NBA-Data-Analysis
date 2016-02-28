@@ -1,0 +1,10 @@
+Name:Tony Gaffney
+Number:
+Position:F
+Height:6-8
+Weight:205
+Birth:1984-11-14
+Age:30
+Exp:0
+School:Massachusetts
+OwingTeam:BOS

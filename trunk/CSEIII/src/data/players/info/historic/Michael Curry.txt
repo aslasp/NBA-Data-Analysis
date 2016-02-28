@@ -1,0 +1,10 @@
+Name:Michael Curry
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-08-22
+Age:46
+Exp:0
+School:Georgia Southern
+OwingTeam:

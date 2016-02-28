@@ -1,0 +1,10 @@
+Name:Hot Rod Williams
+Number:18
+Position:C
+Height:6-11
+Weight:245
+Birth:1962-08-09
+Age:52
+Exp:12
+School:Tulane
+OwingTeam:DAL

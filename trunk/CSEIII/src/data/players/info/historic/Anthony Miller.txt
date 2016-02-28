@@ -1,0 +1,10 @@
+Name:Anthony Miller
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-10-22
+Age:43
+Exp:0
+School:Michigan State
+OwingTeam:

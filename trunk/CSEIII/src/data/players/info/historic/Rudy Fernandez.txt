@@ -1,0 +1,10 @@
+Name:Rudy Fernandez
+Number:5
+Position:G
+Height:6-6
+Weight:185
+Birth:1985-04-04
+Age:30
+Exp:3
+School:Palma de Mallorca
+OwingTeam:DEN

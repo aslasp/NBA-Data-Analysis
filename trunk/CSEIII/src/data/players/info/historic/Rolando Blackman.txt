@@ -1,0 +1,10 @@
+Name:Rolando Blackman
+Number:20
+Position:G
+Height:6-6
+Weight:190
+Birth:1959-02-26
+Age:56
+Exp:12
+School:Kansas State
+OwingTeam:NYK

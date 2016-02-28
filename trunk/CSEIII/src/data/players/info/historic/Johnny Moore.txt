@@ -1,0 +1,10 @@
+Name:Johnny Moore
+Number:0
+Position:G
+Height:6-1
+Weight:175
+Birth:1958-03-03
+Age:57
+Exp:8
+School:Texas
+OwingTeam:SAN

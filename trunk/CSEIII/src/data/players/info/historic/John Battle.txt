@@ -1,0 +1,10 @@
+Name:John Battle
+Number:10
+Position:G
+Height:6-2
+Weight:175
+Birth:1962-11-09
+Age:52
+Exp:9
+School:Rutgers
+OwingTeam:CLE

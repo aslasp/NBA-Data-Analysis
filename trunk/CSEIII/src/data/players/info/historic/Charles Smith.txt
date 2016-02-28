@@ -1,0 +1,10 @@
+Name:Charles Smith
+Number:
+Position:F
+Height:6-1
+Weight:160
+Birth:1967-11-29
+Age:47
+Exp:2
+School:Georgetown
+OwingTeam:MIN

@@ -1,0 +1,10 @@
+Name:Al Roges
+Number:18
+Position:F
+Height:6-4
+Weight:195
+Birth:1930-10-25
+Age:84
+Exp:1
+School:Long Island-Brooklyn
+OwingTeam:FTW

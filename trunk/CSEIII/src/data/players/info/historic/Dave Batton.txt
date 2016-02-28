@@ -1,0 +1,10 @@
+Name:Dave Batton
+Number:45
+Position:C
+Height:6-10
+Weight:240
+Birth:1956-03-26
+Age:59
+Exp:1
+School:Notre Dame
+OwingTeam:SAN

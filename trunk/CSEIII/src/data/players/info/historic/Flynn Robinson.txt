@@ -1,0 +1,10 @@
+Name:Flynn Robinson
+Number:21
+Position:G
+Height:6-1
+Weight:185
+Birth:1941-04-28
+Age:74
+Exp:6
+School:Wyoming
+OwingTeam:LAL

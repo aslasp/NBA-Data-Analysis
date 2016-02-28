@@ -1,0 +1,10 @@
+Name:Jim Holstein
+Number:10
+Position:F
+Height:6-3
+Weight:180
+Birth:1930-09-24
+Age:84
+Exp:3
+School:Cincinnati
+OwingTeam:FTW

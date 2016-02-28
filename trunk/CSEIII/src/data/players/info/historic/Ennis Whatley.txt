@@ -1,0 +1,10 @@
+Name:Ennis Whatley
+Number:
+Position:
+Height:
+Weight:
+Birth:1962-08-11
+Age:52
+Exp:0
+School:Alabama
+OwingTeam:

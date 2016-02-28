@@ -1,0 +1,10 @@
+Name:Ray Ragelis
+Number:18
+Position:F
+Height:6-4
+Weight:205
+Birth:1928-12-10
+Age:86
+Exp:0
+School:Northwestern
+OwingTeam:ROC

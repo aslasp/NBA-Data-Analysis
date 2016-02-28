@@ -1,0 +1,10 @@
+Name:Cedric Jackson
+Number:9
+Position:G
+Height:6-3
+Weight:190
+Birth:1986-03-05
+Age:29
+Exp:0
+School:Cleveland State
+OwingTeam:WAS

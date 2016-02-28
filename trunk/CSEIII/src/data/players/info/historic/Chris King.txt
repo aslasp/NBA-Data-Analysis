@@ -1,0 +1,10 @@
+Name:Chris King
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-07-24
+Age:45
+Exp:0
+School:Wake Forest
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Paul Graham
+Number:25
+Position:G
+Height:6-6
+Weight:200
+Birth:1967-11-28
+Age:47
+Exp:2
+School:Ohio
+OwingTeam:ATL

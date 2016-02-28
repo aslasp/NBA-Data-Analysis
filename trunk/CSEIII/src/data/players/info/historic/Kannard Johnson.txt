@@ -1,0 +1,10 @@
+Name:Kannard Johnson
+Number:33
+Position:F
+Height:6-9
+Weight:220
+Birth:1965-06-24
+Age:49
+Exp:0
+School:Western Kentucky
+OwingTeam:CLE

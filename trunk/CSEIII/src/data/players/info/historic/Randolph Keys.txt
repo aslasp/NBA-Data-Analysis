@@ -1,0 +1,10 @@
+Name:Randolph Keys
+Number:31
+Position:F
+Height:6-7
+Weight:210
+Birth:1966-04-19
+Age:49
+Exp:4
+School:Southern Mississippi
+OwingTeam:MIL

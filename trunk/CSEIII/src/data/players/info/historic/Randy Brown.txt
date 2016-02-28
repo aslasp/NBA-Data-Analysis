@@ -1,0 +1,10 @@
+Name:Randy Brown
+Number:0
+Position:G
+Height:6-2
+Weight:190
+Birth:1968-05-22
+Age:47
+Exp:11
+School:New Mexico State
+OwingTeam:PHX

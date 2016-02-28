@@ -1,0 +1,10 @@
+Name:Maurice Cheeks
+Number:10
+Position:G
+Height:6-1
+Weight:180
+Birth:1956-09-08
+Age:58
+Exp:14
+School:West Texas A
+OwingTeam:NJN

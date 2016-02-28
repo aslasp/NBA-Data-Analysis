@@ -1,0 +1,10 @@
+Name:Rod Freeman
+Number:26
+Position:F
+Height:6-7
+Weight:225
+Birth:1950-11-05
+Age:64
+Exp:0
+School:Vanderbilt
+OwingTeam:PHL

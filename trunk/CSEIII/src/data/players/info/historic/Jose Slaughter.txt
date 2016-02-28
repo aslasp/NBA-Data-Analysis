@@ -1,0 +1,10 @@
+Name:Jose Slaughter
+Number:21
+Position:G
+Height:6-5
+Weight:205
+Birth:1960-09-09
+Age:54
+Exp:0
+School:Portland
+OwingTeam:IND

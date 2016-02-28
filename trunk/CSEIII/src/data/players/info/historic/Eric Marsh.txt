@@ -1,0 +1,10 @@
+Name:Eric Marsh
+Number:21
+Position:G
+Height:6-3
+Weight:200
+Birth:1954-03-10
+Age:61
+Exp:0
+School:Manhattan
+OwingTeam:GOS

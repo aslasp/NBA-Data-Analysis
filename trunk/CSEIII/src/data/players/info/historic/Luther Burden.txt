@@ -1,0 +1,10 @@
+Name:Luther Burden
+Number:14
+Position:G
+Height:6-2
+Weight:185
+Birth:1953-02-28
+Age:62
+Exp:1
+School:Utah
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Cliff Meely
+Number:21
+Position:F
+Height:6-8
+Weight:215
+Birth:1947-07-10
+Age:67
+Exp:4
+School:Colorado
+OwingTeam:LAL

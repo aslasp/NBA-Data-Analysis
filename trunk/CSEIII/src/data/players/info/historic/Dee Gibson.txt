@@ -1,0 +1,10 @@
+Name:Dee Gibson
+Number:18
+Position:G
+Height:5-11
+Weight:175
+Birth:1923-08-25
+Age:91
+Exp:0
+School:Western Kentucky
+OwingTeam:TCB

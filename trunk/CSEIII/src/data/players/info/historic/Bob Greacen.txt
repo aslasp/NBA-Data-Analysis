@@ -1,0 +1,10 @@
+Name:Bob Greacen
+Number:18
+Position:F
+Height:6-7
+Weight:206
+Birth:1947-09-15
+Age:67
+Exp:1
+School:Rutgers
+OwingTeam:MIL

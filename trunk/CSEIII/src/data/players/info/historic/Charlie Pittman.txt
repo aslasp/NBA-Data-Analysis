@@ -1,0 +1,10 @@
+Name:Charlie Pittman
+Number:32
+Position:F
+Height:6-8
+Weight:220
+Birth:1958-03-23
+Age:57
+Exp:3
+School:Maryland
+OwingTeam:PHX

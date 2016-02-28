@@ -1,0 +1,10 @@
+Name:Jim Brewer
+Number:8
+Position:F
+Height:6-9
+Weight:210
+Birth:1951-12-03
+Age:63
+Exp:8
+School:Minnesota
+OwingTeam:LAL

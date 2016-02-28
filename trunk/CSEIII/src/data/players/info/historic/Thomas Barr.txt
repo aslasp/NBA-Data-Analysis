@@ -1,0 +1,10 @@
+Name:Thomas Barr
+Number:19
+Position:G
+Height:6-4
+Weight:195
+Birth:1944-06-19
+Age:70
+Exp:0
+School:Duquesne
+OwingTeam:CIN

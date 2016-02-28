@@ -1,0 +1,10 @@
+Name:Ed Dahler
+Number:16
+Position:F
+Height:6-5
+Weight:190
+Birth:1926-01-31
+Age:89
+Exp:0
+School:Duquesne
+OwingTeam:PHW

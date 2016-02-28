@@ -1,0 +1,10 @@
+Name:Leo Barnhorst
+Number:8-15
+Position:F
+Height:6-4
+Weight:190
+Birth:1924-05-11
+Age:91
+Exp:4
+School:Notre Dame
+OwingTeam:FTW

@@ -1,0 +1,10 @@
+Name:Scott Burrell
+Number:2
+Position:G
+Height:6-7
+Weight:218
+Birth:1971-01-12
+Age:44
+Exp:7
+School:Connecticut
+OwingTeam:CHH

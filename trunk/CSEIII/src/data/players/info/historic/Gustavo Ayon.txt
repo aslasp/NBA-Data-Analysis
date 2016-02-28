@@ -1,0 +1,10 @@
+Name:Gustavo Ayon
+Number:14
+Position:F-C
+Height:6-10
+Weight:250
+Birth:1985-04-01
+Age:30
+Exp:2
+School:Tepic
+OwingTeam:ATL

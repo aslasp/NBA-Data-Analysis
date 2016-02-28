@@ -1,0 +1,10 @@
+Name:Jerry Nagel
+Number:9
+Position:G
+Height:6-0
+Weight:190
+Birth:1928-05-18
+Age:87
+Exp:0
+School:Loyola-Chicago
+OwingTeam:FTW

@@ -1,0 +1,10 @@
+Name:Chris Carr
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-03-12
+Age:41
+Exp:0
+School:Southern Illinois
+OwingTeam:

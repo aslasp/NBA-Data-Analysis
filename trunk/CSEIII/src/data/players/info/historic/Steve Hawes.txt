@@ -1,0 +1,10 @@
+Name:Steve Hawes
+Number:10
+Position:C
+Height:6-9
+Weight:220
+Birth:1950-05-26
+Age:65
+Exp:9
+School:Washington
+OwingTeam:SEA

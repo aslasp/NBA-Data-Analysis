@@ -1,0 +1,10 @@
+Name:Danny Fortson
+Number:21
+Position:C-F
+Height:6-8
+Weight:260
+Birth:1976-03-27
+Age:39
+Exp:9
+School:Cincinnati
+OwingTeam:SEA

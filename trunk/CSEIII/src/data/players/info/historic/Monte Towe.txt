@@ -1,0 +1,10 @@
+Name:Monte Towe
+Number:13
+Position:G
+Height:5-7
+Weight:150
+Birth:1953-09-27
+Age:61
+Exp:0
+School:North Carolina State
+OwingTeam:DEN

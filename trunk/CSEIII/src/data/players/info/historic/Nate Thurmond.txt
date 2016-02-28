@@ -1,0 +1,10 @@
+Name:Nate Thurmond
+Number:42
+Position:C
+Height:6-11
+Weight:225
+Birth:1941-07-25
+Age:73
+Exp:13
+School:Bowling Green
+OwingTeam:CLE

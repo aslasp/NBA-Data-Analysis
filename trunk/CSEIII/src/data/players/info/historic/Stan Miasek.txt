@@ -1,0 +1,10 @@
+Name:Stan Miasek
+Number:3
+Position:F
+Height:6-5
+Weight:210
+Birth:1924-08-08
+Age:90
+Exp:5
+School:
+OwingTeam:MIH

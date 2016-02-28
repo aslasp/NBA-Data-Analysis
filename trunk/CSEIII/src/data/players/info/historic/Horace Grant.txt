@@ -1,0 +1,10 @@
+Name:Horace Grant
+Number:54
+Position:C
+Height:6-10
+Weight:245
+Birth:1965-07-04
+Age:49
+Exp:16
+School:Clemson
+OwingTeam:LAL

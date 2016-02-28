@@ -1,0 +1,10 @@
+Name:Robert Churchwell
+Number:21
+Position:F
+Height:6-6
+Weight:195
+Birth:1972-02-20
+Age:43
+Exp:0
+School:Georgetown
+OwingTeam:GOS

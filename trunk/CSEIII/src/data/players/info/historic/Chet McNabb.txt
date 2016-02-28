@@ -1,0 +1,10 @@
+Name:Chet McNabb
+Number:
+Position:
+Height:
+Weight:
+Birth:1905-04-04
+Age:110
+Exp:0
+School:Arizona State
+OwingTeam:BAL

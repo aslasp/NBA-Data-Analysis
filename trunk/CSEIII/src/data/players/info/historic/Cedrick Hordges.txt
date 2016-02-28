@@ -1,0 +1,10 @@
+Name:Cedrick Hordges
+Number:34
+Position:C
+Height:6-8
+Weight:220
+Birth:1957-01-08
+Age:58
+Exp:1
+School:South Carolina
+OwingTeam:DEN

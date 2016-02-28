@@ -1,0 +1,10 @@
+Name:Charles Vaughn
+Number:10
+Position:G
+Height:6-3
+Weight:190
+Birth:1940-02-19
+Age:75
+Exp:4
+School:Southern Illinois
+OwingTeam:DET

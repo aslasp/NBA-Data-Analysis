@@ -1,0 +1,10 @@
+Name:Paul Mokeski
+Number:44
+Position:C
+Height:7-0
+Weight:250
+Birth:1957-01-03
+Age:58
+Exp:11
+School:Kansas
+OwingTeam:GOS

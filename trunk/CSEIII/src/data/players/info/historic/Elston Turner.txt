@@ -1,0 +1,10 @@
+Name:Elston Turner
+Number:21
+Position:G
+Height:6-5
+Weight:190
+Birth:1959-06-10
+Age:55
+Exp:7
+School:Mississippi
+OwingTeam:DEN

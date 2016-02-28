@@ -1,0 +1,10 @@
+Name:Whitey Skoog
+Number:20
+Position:G
+Height:5-11
+Weight:180
+Birth:1926-11-02
+Age:88
+Exp:5
+School:Minnesota
+OwingTeam:MNL

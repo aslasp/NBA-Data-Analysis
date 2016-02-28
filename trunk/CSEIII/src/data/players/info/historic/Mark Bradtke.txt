@@ -1,0 +1,10 @@
+Name:Mark Bradtke
+Number:50
+Position:C
+Height:6-10
+Weight:265
+Birth:1968-09-27
+Age:46
+Exp:0
+School:Australia
+OwingTeam:PHI

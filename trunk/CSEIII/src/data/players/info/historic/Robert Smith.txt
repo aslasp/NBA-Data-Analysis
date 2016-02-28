@@ -1,0 +1,10 @@
+Name:Robert Smith
+Number:10
+Position:G
+Height:5-11
+Weight:165
+Birth:1955-03-10
+Age:60
+Exp:6
+School:Nevada-Las Vegas
+OwingTeam:CLE

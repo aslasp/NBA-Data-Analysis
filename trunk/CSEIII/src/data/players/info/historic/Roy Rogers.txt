@@ -1,0 +1,10 @@
+Name:Roy Rogers
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-08-19
+Age:41
+Exp:0
+School:Alabama
+OwingTeam:

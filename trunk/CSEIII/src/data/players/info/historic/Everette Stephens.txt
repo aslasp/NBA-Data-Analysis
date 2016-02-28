@@ -1,0 +1,10 @@
+Name:Everette Stephens
+Number:7-11
+Position:G
+Height:6-2
+Weight:175
+Birth:1966-10-21
+Age:48
+Exp:1
+School:Purdue
+OwingTeam:MIL

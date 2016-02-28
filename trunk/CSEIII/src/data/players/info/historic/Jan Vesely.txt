@@ -1,0 +1,10 @@
+Name:Jan Vesely
+Number:24
+Position:F
+Height:7-0
+Weight:242
+Birth:1990-04-24
+Age:25
+Exp:2
+School:Ostrava
+OwingTeam:DEN

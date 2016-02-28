@@ -1,0 +1,10 @@
+Name:Ken Menke
+Number:
+Position:G
+Height:6-0
+Weight:168
+Birth:1922-10-02
+Age:92
+Exp:0
+School:Illinois
+OwingTeam:WAT

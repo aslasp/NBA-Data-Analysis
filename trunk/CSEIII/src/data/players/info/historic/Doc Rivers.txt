@@ -1,0 +1,10 @@
+Name:Doc Rivers
+Number:25
+Position:G
+Height:6-4
+Weight:210
+Birth:1961-10-13
+Age:53
+Exp:12
+School:Marquette
+OwingTeam:SAN

@@ -1,0 +1,10 @@
+Name:Dennis Scott
+Number:9
+Position:F
+Height:6-8
+Weight:229
+Birth:1968-09-05
+Age:46
+Exp:9
+School:Georgia Tech
+OwingTeam:VAN

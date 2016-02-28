@@ -1,0 +1,10 @@
+Name:Richard Coffey
+Number:33
+Position:G
+Height:6-6
+Weight:212
+Birth:1965-09-02
+Age:49
+Exp:0
+School:Minnesota
+OwingTeam:MIN

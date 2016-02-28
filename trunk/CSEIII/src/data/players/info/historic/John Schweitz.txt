@@ -1,0 +1,10 @@
+Name:John Schweitz
+Number:35
+Position:G
+Height:6-6
+Weight:210
+Birth:1960-04-19
+Age:55
+Exp:1
+School:Richmond
+OwingTeam:DET

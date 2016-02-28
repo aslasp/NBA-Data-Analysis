@@ -1,0 +1,10 @@
+Name:Curtis Kitchen
+Number:42
+Position:F
+Height:6-9
+Weight:235
+Birth:1964-01-30
+Age:51
+Exp:0
+School:South Florida
+OwingTeam:SEA

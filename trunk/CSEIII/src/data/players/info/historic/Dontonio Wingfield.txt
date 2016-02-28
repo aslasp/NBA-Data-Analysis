@@ -1,0 +1,10 @@
+Name:Dontonio Wingfield
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-06-23
+Age:40
+Exp:0
+School:Cincinnati
+OwingTeam:

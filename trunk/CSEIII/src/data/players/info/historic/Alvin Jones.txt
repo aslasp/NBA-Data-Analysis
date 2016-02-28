@@ -1,0 +1,10 @@
+Name:Alvin Jones
+Number:42
+Position:C
+Height:6-11
+Weight:265
+Birth:1978-09-09
+Age:36
+Exp:1
+School:Georgia Tech
+OwingTeam:PHI

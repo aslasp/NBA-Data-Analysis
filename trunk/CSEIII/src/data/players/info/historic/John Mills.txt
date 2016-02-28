@@ -1,0 +1,10 @@
+Name:John Mills
+Number:
+Position:C
+Height:6-8
+Weight:203
+Birth:1919-09-07
+Age:95
+Exp:0
+School:Western Kentucky
+OwingTeam:PIT

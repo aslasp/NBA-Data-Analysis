@@ -1,0 +1,10 @@
+Name:Richard Washington
+Number:31
+Position:F
+Height:6-10
+Weight:220
+Birth:1955-07-15
+Age:59
+Exp:5
+School:California-Los Angeles
+OwingTeam:CLE

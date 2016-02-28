@@ -1,0 +1,10 @@
+Name:Al Masino
+Number:12
+Position:G
+Height:5-10
+Weight:174
+Birth:1928-02-05
+Age:87
+Exp:1
+School:Canisius
+OwingTeam:SYR

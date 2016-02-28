@@ -1,0 +1,10 @@
+Name:Reggie Geary
+Number:4
+Position:G
+Height:6-2
+Weight:187
+Birth:1973-08-31
+Age:41
+Exp:0
+School:Arizona
+OwingTeam:SAS

@@ -1,0 +1,10 @@
+Name:Dick Fitzgerald
+Number:
+Position:F
+Height:6-2
+Weight:175
+Birth:1920-11-18
+Age:94
+Exp:1
+School:Seton Hall
+OwingTeam:PRO

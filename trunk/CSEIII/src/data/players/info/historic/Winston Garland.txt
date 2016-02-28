@@ -1,0 +1,10 @@
+Name:Winston Garland
+Number:22
+Position:G
+Height:6-2
+Weight:170
+Birth:1964-12-19
+Age:50
+Exp:6
+School:Missouri State
+OwingTeam:MIN

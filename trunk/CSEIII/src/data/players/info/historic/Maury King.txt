@@ -1,0 +1,10 @@
+Name:Maury King
+Number:22
+Position:G
+Height:6-2
+Weight:195
+Birth:1935-03-12
+Age:80
+Exp:1
+School:Kansas
+OwingTeam:CHZ

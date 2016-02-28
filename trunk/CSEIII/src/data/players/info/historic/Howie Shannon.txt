@@ -1,0 +1,10 @@
+Name:Howie Shannon
+Number:8
+Position:G
+Height:6-2
+Weight:175
+Birth:1923-06-10
+Age:91
+Exp:1
+School:Kansas State
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Pat Burke
+Number:11
+Position:C-F
+Height:6-11
+Weight:250
+Birth:1973-12-14
+Age:41
+Exp:2
+School:Auburn
+OwingTeam:PHX

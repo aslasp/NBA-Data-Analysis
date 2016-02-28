@@ -1,0 +1,10 @@
+Name:Erwin Mueller
+Number:51
+Position:F
+Height:6-8
+Weight:230
+Birth:1944-03-12
+Age:71
+Exp:6
+School:San Francisco
+OwingTeam:DET

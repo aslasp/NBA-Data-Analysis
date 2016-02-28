@@ -1,0 +1,10 @@
+Name:David Harrison
+Number:13
+Position:C
+Height:7-0
+Weight:280
+Birth:1982-08-15
+Age:32
+Exp:3
+School:Colorado
+OwingTeam:IND

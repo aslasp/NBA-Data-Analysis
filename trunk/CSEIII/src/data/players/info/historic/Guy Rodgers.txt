@@ -1,0 +1,10 @@
+Name:Guy Rodgers
+Number:5
+Position:G
+Height:6-0
+Weight:185
+Birth:1935-09-01
+Age:79
+Exp:11
+School:Temple
+OwingTeam:MIL

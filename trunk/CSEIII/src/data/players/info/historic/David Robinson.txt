@@ -1,0 +1,10 @@
+Name:David Robinson
+Number:50
+Position:C
+Height:7-1
+Weight:250
+Birth:1965-08-06
+Age:49
+Exp:13
+School:Navy
+OwingTeam:SAS

@@ -1,0 +1,10 @@
+Name:Gerald Glass
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-11-12
+Age:47
+Exp:0
+School:Mississippi
+OwingTeam:

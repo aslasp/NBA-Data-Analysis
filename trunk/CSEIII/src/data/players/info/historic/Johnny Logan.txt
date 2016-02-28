@@ -1,0 +1,10 @@
+Name:Johnny Logan
+Number:17
+Position:G
+Height:6-2
+Weight:175
+Birth:1921-01-01
+Age:94
+Exp:4
+School:Indiana
+OwingTeam:TCB

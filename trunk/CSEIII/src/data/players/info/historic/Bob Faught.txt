@@ -1,0 +1,10 @@
+Name:Bob Faught
+Number:
+Position:F
+Height:6-5
+Weight:185
+Birth:1921-09-02
+Age:93
+Exp:0
+School:Notre Dame
+OwingTeam:CLR

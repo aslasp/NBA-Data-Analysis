@@ -1,0 +1,10 @@
+Name:Walter Herrmann
+Number:5
+Position:F
+Height:6-9
+Weight:225
+Birth:1979-06-26
+Age:35
+Exp:2
+School:Argentina
+OwingTeam:DET

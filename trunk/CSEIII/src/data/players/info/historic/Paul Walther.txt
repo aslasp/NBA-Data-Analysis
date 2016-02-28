@@ -1,0 +1,10 @@
+Name:Paul Walther
+Number:5
+Position:G
+Height:6-2
+Weight:160
+Birth:1927-03-23
+Age:88
+Exp:5
+School:Tennessee
+OwingTeam:FTW

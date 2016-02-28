@@ -1,0 +1,10 @@
+Name:Sidney Wicks
+Number:21
+Position:F
+Height:6-9
+Weight:225
+Birth:1949-09-19
+Age:65
+Exp:9
+School:California-Los Angeles
+OwingTeam:SDC

@@ -1,0 +1,10 @@
+Name:Ernie Vandeweghe
+Number:18
+Position:F
+Height:6-3
+Weight:195
+Birth:1928-09-12
+Age:86
+Exp:5
+School:Colgate
+OwingTeam:NYK

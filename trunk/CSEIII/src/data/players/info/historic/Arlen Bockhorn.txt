@@ -1,0 +1,10 @@
+Name:Arlen Bockhorn
+Number:11
+Position:G
+Height:6-4
+Weight:200
+Birth:1933-07-08
+Age:81
+Exp:6
+School:Dayton
+OwingTeam:CIN

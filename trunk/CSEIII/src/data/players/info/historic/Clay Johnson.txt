@@ -1,0 +1,10 @@
+Name:Clay Johnson
+Number:34
+Position:G
+Height:6-4
+Weight:175
+Birth:1956-07-18
+Age:58
+Exp:2
+School:Missouri
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Ed Lawrence
+Number:
+Position:C
+Height:6-11
+Weight:228
+Birth:1952-12-08
+Age:62
+Exp:0
+School:McNeese State
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Jeff McInnis
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-10-22
+Age:40
+Exp:0
+School:North Carolina
+OwingTeam:

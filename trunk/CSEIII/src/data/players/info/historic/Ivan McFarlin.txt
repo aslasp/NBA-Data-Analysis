@@ -1,0 +1,10 @@
+Name:Ivan McFarlin
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-04-26
+Age:33
+Exp:0
+School:Oklahoma State
+OwingTeam:

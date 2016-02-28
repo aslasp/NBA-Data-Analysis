@@ -1,0 +1,10 @@
+Name:Billy McKinney
+Number: 
+Position:G
+Height:6-0
+Weight:160
+Birth:1955-06-05
+Age:59
+Exp:6
+School:Northwestern
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Mike Gminski
+Number:43
+Position:C
+Height:6-11
+Weight:250
+Birth:1959-08-03
+Age:55
+Exp:13
+School:Duke
+OwingTeam:MIL

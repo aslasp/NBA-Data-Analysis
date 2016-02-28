@@ -1,0 +1,10 @@
+Name:James Singleton
+Number:3
+Position:F
+Height:6-8
+Weight:230
+Birth:1981-07-20
+Age:33
+Exp:4
+School:Murray State
+OwingTeam:WAS

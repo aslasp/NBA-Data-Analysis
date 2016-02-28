@@ -1,0 +1,10 @@
+Name:Kevin Edwards
+Number:21
+Position:G
+Height:6-3
+Weight:210
+Birth:1965-10-30
+Age:49
+Exp:10
+School:DePaul
+OwingTeam:VAN

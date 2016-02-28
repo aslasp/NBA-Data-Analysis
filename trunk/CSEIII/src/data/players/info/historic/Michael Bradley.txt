@@ -1,0 +1,10 @@
+Name:Michael Bradley
+Number:5
+Position:F
+Height:6-10
+Weight:245
+Birth:1979-04-18
+Age:36
+Exp:4
+School:Villanova
+OwingTeam:PHI

@@ -1,0 +1,10 @@
+Name:Jim Eakins
+Number:24
+Position:C
+Height:6-11
+Weight:215
+Birth:1946-05-24
+Age:69
+Exp:1
+School:Brigham Young
+OwingTeam:SAN

@@ -1,0 +1,10 @@
+Name:Stan Love
+Number:34
+Position:F
+Height:6-9
+Weight:215
+Birth:1949-04-09
+Age:66
+Exp:3
+School:Oregon
+OwingTeam:LAL

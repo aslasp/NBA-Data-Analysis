@@ -1,0 +1,10 @@
+Name:Alexander Ellis
+Number:30
+Position:F
+Height:6-5
+Weight:185
+Birth:1936-02-11
+Age:79
+Exp:1
+School:Niagara
+OwingTeam:MNL

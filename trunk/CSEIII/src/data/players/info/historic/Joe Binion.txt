@@ -1,0 +1,10 @@
+Name:Joe Binion
+Number:50
+Position:F
+Height:6-8
+Weight:235
+Birth:1961-03-26
+Age:54
+Exp:0
+School:North Carolina A
+OwingTeam:POR

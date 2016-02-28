@@ -1,0 +1,10 @@
+Name:Tommy Green
+Number:14
+Position:G
+Height:6-2
+Weight:185
+Birth:1956-04-08
+Age:59
+Exp:0
+School:Southern
+OwingTeam:NOJ

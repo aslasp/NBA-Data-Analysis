@@ -1,0 +1,10 @@
+Name:Brandon Davies
+Number:
+Position:
+Height:
+Weight:
+Birth:1991-07-25
+Age:23
+Exp:0
+School:Brigham Young
+OwingTeam:

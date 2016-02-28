@@ -1,0 +1,10 @@
+Name:Henry Dickerson
+Number:13
+Position:G
+Height:6-4
+Weight:190
+Birth:1951-11-27
+Age:63
+Exp:1
+School:Charleston 
+OwingTeam:ATL

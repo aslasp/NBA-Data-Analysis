@@ -1,0 +1,10 @@
+Name:Wes Matthews
+Number:1
+Position:G
+Height:6-1
+Weight:170
+Birth:1959-08-24
+Age:55
+Exp:8
+School:Wisconsin
+OwingTeam:ATL

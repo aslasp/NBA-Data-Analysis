@@ -1,0 +1,10 @@
+Name:Robert Werdann
+Number:41
+Position:C
+Height:6-11
+Weight:250
+Birth:1970-09-12
+Age:44
+Exp:0
+School:St. John
+OwingTeam:NJN

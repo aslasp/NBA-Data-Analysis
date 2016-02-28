@@ -1,0 +1,10 @@
+Name:Terence Stansbury
+Number:44
+Position:G
+Height:6-5
+Weight:170
+Birth:1961-02-27
+Age:54
+Exp:2
+School:Temple
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Danny Manning
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-05-17
+Age:49
+Exp:0
+School:Kansas
+OwingTeam:

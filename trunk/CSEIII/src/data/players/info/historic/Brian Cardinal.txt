@@ -1,0 +1,10 @@
+Name:Brian Cardinal
+Number:35
+Position:F
+Height:6-8
+Weight:240
+Birth:1977-05-02
+Age:38
+Exp:11
+School:Purdue
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Jerry Fowler
+Number: 
+Position:C
+Height:6-7
+Weight:230
+Birth:1927-06-20
+Age:87
+Exp:0
+School:Missouri
+OwingTeam:MIH

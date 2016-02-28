@@ -1,0 +1,10 @@
+Name:Lou Hudson
+Number:23
+Position:F
+Height:6-5
+Weight:210
+Birth:1944-07-11
+Age:70
+Exp:12
+School:Minnesota
+OwingTeam:LAL

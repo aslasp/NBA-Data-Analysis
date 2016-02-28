@@ -1,0 +1,10 @@
+Name:Wayne Embry
+Number:15
+Position:C
+Height:6-8
+Weight:240
+Birth:1937-03-26
+Age:78
+Exp:10
+School:Miami 
+OwingTeam:MIL

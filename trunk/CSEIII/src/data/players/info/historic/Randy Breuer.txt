@@ -1,0 +1,10 @@
+Name:Randy Breuer
+Number:45
+Position:C
+Height:7-3
+Weight:230
+Birth:1960-10-11
+Age:54
+Exp:10
+School:Minnesota
+OwingTeam:SAC

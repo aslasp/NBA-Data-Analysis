@@ -1,0 +1,10 @@
+Name:Jack Cotton
+Number:
+Position:F
+Height:6-7
+Weight:200
+Birth:1924-10-15
+Age:90
+Exp:0
+School:Wyoming
+OwingTeam:

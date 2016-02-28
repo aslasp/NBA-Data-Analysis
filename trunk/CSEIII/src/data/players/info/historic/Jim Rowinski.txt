@@ -1,0 +1,10 @@
+Name:Jim Rowinski
+Number:50
+Position:C
+Height:6-8
+Weight:250
+Birth:1961-01-04
+Age:54
+Exp:1
+School:Purdue
+OwingTeam:MIA

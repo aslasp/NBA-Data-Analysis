@@ -1,0 +1,10 @@
+Name:Tony Farmer
+Number:8
+Position:F
+Height:6-9
+Weight:244
+Birth:1970-01-03
+Age:45
+Exp:1
+School:Nebraska
+OwingTeam:GSW

@@ -1,0 +1,10 @@
+Name:Dexter Shouse
+Number:14
+Position:F
+Height:6-2
+Weight:200
+Birth:1963-03-24
+Age:52
+Exp:0
+School:South Alabama
+OwingTeam:PHL

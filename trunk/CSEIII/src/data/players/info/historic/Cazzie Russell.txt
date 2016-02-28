@@ -1,0 +1,10 @@
+Name:Cazzie Russell
+Number:32
+Position:F
+Height:6-5
+Weight:218
+Birth:1944-06-07
+Age:70
+Exp:11
+School:Michigan
+OwingTeam:CHI

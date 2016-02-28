@@ -1,0 +1,10 @@
+Name:Al Carlson
+Number:35
+Position:C
+Height:6-11
+Weight:235
+Birth:1951-09-17
+Age:63
+Exp:0
+School:Oregon
+OwingTeam:SEA

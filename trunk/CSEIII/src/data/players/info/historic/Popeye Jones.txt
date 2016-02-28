@@ -1,0 +1,10 @@
+Name:Popeye Jones
+Number:54
+Position:F
+Height:6-8
+Weight:265
+Birth:1970-06-17
+Age:44
+Exp:10
+School:Murray State
+OwingTeam:GSW

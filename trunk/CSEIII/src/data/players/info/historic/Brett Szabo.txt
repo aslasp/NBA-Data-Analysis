@@ -1,0 +1,10 @@
+Name:Brett Szabo
+Number:43
+Position:C
+Height:6-11
+Weight:230
+Birth:1968-02-01
+Age:47
+Exp:0
+School:Augustana 
+OwingTeam:BOS

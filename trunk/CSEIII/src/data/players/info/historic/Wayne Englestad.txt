@@ -1,0 +1,10 @@
+Name:Wayne Englestad
+Number:43
+Position:F
+Height:6-8
+Weight:245
+Birth:1963-12-06
+Age:51
+Exp:0
+School:California-Irvine
+OwingTeam:DEN

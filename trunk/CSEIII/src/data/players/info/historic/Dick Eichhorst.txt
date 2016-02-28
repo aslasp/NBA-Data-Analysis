@@ -1,0 +1,10 @@
+Name:Dick Eichhorst
+Number: 
+Position:G
+Height:6-3
+Weight:200
+Birth:1933-10-21
+Age:81
+Exp:0
+School:Southeast Missouri State
+OwingTeam:STL

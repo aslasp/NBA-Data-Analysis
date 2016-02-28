@@ -1,0 +1,10 @@
+Name:Greg Ballard
+Number:42
+Position:F
+Height:6-7
+Weight:215
+Birth:1955-01-29
+Age:60
+Exp:10
+School:Oregon
+OwingTeam:SEA

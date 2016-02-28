@@ -1,0 +1,10 @@
+Name:Mike Flynn
+Number:44
+Position:G
+Height:6-2
+Weight:180
+Birth:1953-07-31
+Age:61
+Exp:1
+School:Kentucky
+OwingTeam:IND

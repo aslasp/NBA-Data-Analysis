@@ -1,0 +1,10 @@
+Name:Henry Turner
+Number:9
+Position:G
+Height:6-7
+Weight:200
+Birth:1966-08-18
+Age:48
+Exp:1
+School:Cal State-Fullerton
+OwingTeam:SAC

@@ -1,0 +1,10 @@
+Name:Howard Tidrick
+Number:
+Position:G
+Height:6-1
+Weight:190
+Birth:1915-06-14
+Age:99
+Exp:0
+School:Washington 
+OwingTeam:JET

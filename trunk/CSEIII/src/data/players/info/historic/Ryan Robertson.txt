@@ -1,0 +1,10 @@
+Name:Ryan Robertson
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-10-02
+Age:38
+Exp:0
+School:Kansas
+OwingTeam:

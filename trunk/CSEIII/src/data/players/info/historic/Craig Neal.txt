@@ -1,0 +1,10 @@
+Name:Craig Neal
+Number:22
+Position:G
+Height:6-5
+Weight:165
+Birth:1964-02-16
+Age:51
+Exp:1
+School:Georgia Tech
+OwingTeam:DEN

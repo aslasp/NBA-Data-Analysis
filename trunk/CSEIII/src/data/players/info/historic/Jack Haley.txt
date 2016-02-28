@@ -1,0 +1,10 @@
+Name:Jack Haley
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-01-27
+Age:51
+Exp:0
+School:California-Los Angeles
+OwingTeam:

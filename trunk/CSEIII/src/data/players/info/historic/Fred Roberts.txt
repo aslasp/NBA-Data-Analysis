@@ -1,0 +1,10 @@
+Name:Fred Roberts
+Number:
+Position:
+Height:
+Weight:
+Birth:1960-08-14
+Age:54
+Exp:0
+School:Brigham Young
+OwingTeam:

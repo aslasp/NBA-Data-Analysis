@@ -1,0 +1,10 @@
+Name:Bill Russell
+Number:6
+Position:C
+Height:6-10
+Weight:215
+Birth:1934-02-12
+Age:81
+Exp:12
+School:San Francisco
+OwingTeam:BOS

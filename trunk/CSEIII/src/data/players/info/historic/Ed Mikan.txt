@@ -1,0 +1,10 @@
+Name:Ed Mikan
+Number:15
+Position:C
+Height:6-8
+Weight:230
+Birth:1925-10-20
+Age:89
+Exp:5
+School:DePaul
+OwingTeam:BOS

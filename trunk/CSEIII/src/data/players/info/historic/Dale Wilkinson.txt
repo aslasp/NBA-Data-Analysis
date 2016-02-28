@@ -1,0 +1,10 @@
+Name:Dale Wilkinson
+Number:38
+Position:F
+Height:6-10
+Weight:220
+Birth:1960-03-18
+Age:55
+Exp:0
+School:Idaho State
+OwingTeam:LAC

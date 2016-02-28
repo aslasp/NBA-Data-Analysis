@@ -1,0 +1,10 @@
+Name:Mike Green
+Number:23
+Position:C
+Height:6-10
+Weight:200
+Birth:1951-08-06
+Age:63
+Exp:3
+School:Louisiana Tech
+OwingTeam:KCK

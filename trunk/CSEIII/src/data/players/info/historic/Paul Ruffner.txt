@@ -1,0 +1,10 @@
+Name:Paul Ruffner
+Number:22
+Position:C
+Height:6-10
+Weight:225
+Birth:1948-10-15
+Age:66
+Exp:2
+School:Brigham Young
+OwingTeam:BUF

@@ -1,0 +1,10 @@
+Name:James Cotton
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-12-14
+Age:39
+Exp:0
+School:Long Beach State
+OwingTeam:

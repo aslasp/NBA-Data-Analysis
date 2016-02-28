@@ -1,0 +1,10 @@
+Name:Larry Mikan
+Number:30
+Position:F
+Height:6-7
+Weight:210
+Birth:1948-04-08
+Age:67
+Exp:0
+School:Minnesota
+OwingTeam:CLE

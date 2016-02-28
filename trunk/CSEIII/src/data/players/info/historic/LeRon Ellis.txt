@@ -1,0 +1,10 @@
+Name:LeRon Ellis
+Number:28
+Position:C
+Height:6-9
+Weight:225
+Birth:1969-04-28
+Age:46
+Exp:2
+School:Syracuse
+OwingTeam:MIA

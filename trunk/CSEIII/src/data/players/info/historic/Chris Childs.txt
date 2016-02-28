@@ -1,0 +1,10 @@
+Name:Chris Childs
+Number:
+Position:G
+Height:6-3
+Weight:195
+Birth:1967-11-20
+Age:47
+Exp:8
+School:Boise State
+OwingTeam:NJN

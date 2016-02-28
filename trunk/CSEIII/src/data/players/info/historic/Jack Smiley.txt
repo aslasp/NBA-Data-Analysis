@@ -1,0 +1,10 @@
+Name:Jack Smiley
+Number:
+Position:G
+Height:6-3
+Weight:190
+Birth:1922-12-22
+Age:92
+Exp:1
+School:Illinois
+OwingTeam:WAT

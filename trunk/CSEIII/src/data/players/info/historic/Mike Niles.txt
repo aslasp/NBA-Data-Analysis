@@ -1,0 +1,10 @@
+Name:Mike Niles
+Number:40
+Position:F
+Height:6-6
+Weight:225
+Birth:1955-03-31
+Age:60
+Exp:0
+School:Cal State-Fullerton
+OwingTeam:PHX

@@ -1,0 +1,10 @@
+Name:Derek Harper
+Number:12
+Position:G
+Height:6-4
+Weight:206
+Birth:1961-10-13
+Age:53
+Exp:15
+School:Illinois
+OwingTeam:LAL

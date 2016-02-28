@@ -1,0 +1,10 @@
+Name:Antoine Rigaudeau
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-12-17
+Age:43
+Exp:0
+School:France
+OwingTeam:

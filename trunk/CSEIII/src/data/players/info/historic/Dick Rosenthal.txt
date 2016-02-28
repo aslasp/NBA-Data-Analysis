@@ -1,0 +1,10 @@
+Name:Dick Rosenthal
+Number:15
+Position:F
+Height:6-5
+Weight:205
+Birth:1933-01-20
+Age:82
+Exp:1
+School:Notre Dame
+OwingTeam:FTW

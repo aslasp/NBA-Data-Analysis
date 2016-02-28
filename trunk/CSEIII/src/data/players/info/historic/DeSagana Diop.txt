@@ -1,0 +1,10 @@
+Name:DeSagana Diop
+Number:2
+Position:C
+Height:7-0
+Weight:280
+Birth:1982-01-30
+Age:33
+Exp:11
+School:Oak Hill Academy 
+OwingTeam:CHA

@@ -1,0 +1,10 @@
+Name:Malik Sealy
+Number:2
+Position:G-F
+Height:6-8
+Weight:200
+Birth:1970-02-01
+Age:45
+Exp:7
+School:St. John
+OwingTeam:MIN

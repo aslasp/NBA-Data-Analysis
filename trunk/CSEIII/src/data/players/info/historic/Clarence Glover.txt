@@ -1,0 +1,10 @@
+Name:Clarence Glover
+Number:28
+Position:F
+Height:6-8
+Weight:210
+Birth:1947-11-01
+Age:67
+Exp:0
+School:Western Kentucky
+OwingTeam:BOS

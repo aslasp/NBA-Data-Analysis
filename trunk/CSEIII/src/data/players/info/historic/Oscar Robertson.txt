@@ -1,0 +1,10 @@
+Name:Oscar Robertson
+Number:1
+Position:G
+Height:6-5
+Weight:205
+Birth:1938-11-24
+Age:76
+Exp:13
+School:Cincinnati
+OwingTeam:MIL

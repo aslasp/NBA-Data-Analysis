@@ -1,0 +1,10 @@
+Name:Josh Boone
+Number:2
+Position:F-C
+Height:6-10
+Weight:240
+Birth:1984-11-21
+Age:30
+Exp:3
+School:Connecticut
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Jawann Oldham
+Number:22
+Position:C
+Height:7-0
+Weight:215
+Birth:1957-07-04
+Age:57
+Exp:9
+School:Seattle
+OwingTeam:IND

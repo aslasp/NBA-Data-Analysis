@@ -1,0 +1,10 @@
+Name:Henry Ward
+Number:15
+Position:G
+Height:6-4
+Weight:195
+Birth:1952-01-30
+Age:63
+Exp:0
+School:Jackson State
+OwingTeam:SAN

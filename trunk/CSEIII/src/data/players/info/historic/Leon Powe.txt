@@ -1,0 +1,10 @@
+Name:Leon Powe
+Number:7
+Position:F
+Height:6-8
+Weight:240
+Birth:1984-01-22
+Age:31
+Exp:4
+School:California
+OwingTeam:MEM

@@ -1,0 +1,10 @@
+Name:George McGinnis
+Number:30
+Position:F
+Height:6-8
+Weight:235
+Birth:1950-08-12
+Age:64
+Exp:6
+School:Indiana
+OwingTeam:IND

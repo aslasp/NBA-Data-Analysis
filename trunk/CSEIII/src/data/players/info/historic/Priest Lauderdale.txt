@@ -1,0 +1,10 @@
+Name:Priest Lauderdale
+Number:30
+Position:C
+Height:7-4
+Weight:325
+Birth:1973-08-31
+Age:41
+Exp:1
+School:Central State 
+OwingTeam:DEN

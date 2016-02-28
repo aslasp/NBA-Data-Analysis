@@ -1,0 +1,10 @@
+Name:Jon Koncak
+Number:45
+Position:C
+Height:7-0
+Weight:250
+Birth:1963-05-17
+Age:52
+Exp:10
+School:Southern Methodist
+OwingTeam:ORL

@@ -1,0 +1,10 @@
+Name:Bill Smith
+Number:
+Position:F
+Height:6-5
+Weight:190
+Birth:1939-04-26
+Age:76
+Exp:0
+School:Saint Peter
+OwingTeam:NYK

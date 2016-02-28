@@ -1,0 +1,10 @@
+Name:Alonzo Bradley
+Number:22
+Position:F
+Height:6-6
+Weight:190
+Birth:1953-10-16
+Age:61
+Exp:2
+School:Texas Southern
+OwingTeam:HOU

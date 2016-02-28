@@ -1,0 +1,10 @@
+Name:Jack Turner
+Number:
+Position:G
+Height:6-5
+Weight:200
+Birth:1939-06-05
+Age:75
+Exp:0
+School:Louisville
+OwingTeam:CHP

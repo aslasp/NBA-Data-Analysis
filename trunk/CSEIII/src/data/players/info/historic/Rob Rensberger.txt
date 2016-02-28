@@ -1,0 +1,10 @@
+Name:Rob Rensberger
+Number:
+Position:F
+Height:6-2
+Weight:170
+Birth:1921-03-07
+Age:94
+Exp:0
+School:Notre Dame
+OwingTeam:CHS

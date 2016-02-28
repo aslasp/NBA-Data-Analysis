@@ -1,0 +1,10 @@
+Name:Dick Miller
+Number:30
+Position:F
+Height:6-6
+Weight:215
+Birth:1958-04-26
+Age:57
+Exp:0
+School:Toledo
+OwingTeam:UTH

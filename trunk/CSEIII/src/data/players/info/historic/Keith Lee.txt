@@ -1,0 +1,10 @@
+Name:Keith Lee
+Number:24
+Position:F
+Height:6-10
+Weight:215
+Birth:1962-12-28
+Age:52
+Exp:2
+School:Memphis
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Rashad McCants
+Number:7
+Position:G
+Height:6-4
+Weight:215
+Birth:1984-09-25
+Age:30
+Exp:3
+School:North Carolina
+OwingTeam:SAC

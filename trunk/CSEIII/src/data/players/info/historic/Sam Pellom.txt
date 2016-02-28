@@ -1,0 +1,10 @@
+Name:Sam Pellom
+Number:41
+Position:F
+Height:6-9
+Weight:225
+Birth:1951-10-02
+Age:63
+Exp:3
+School:Buffalo State
+OwingTeam:MIL

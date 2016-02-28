@@ -1,0 +1,10 @@
+Name:Dick Van Arsdale
+Number:5
+Position:G
+Height:6-5
+Weight:210
+Birth:1943-02-22
+Age:72
+Exp:11
+School:Indiana
+OwingTeam:PHX

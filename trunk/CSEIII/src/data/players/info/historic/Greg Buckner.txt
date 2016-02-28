@@ -1,0 +1,10 @@
+Name:Greg Buckner
+Number:7
+Position:G
+Height:6-4
+Weight:210
+Birth:1976-09-16
+Age:38
+Exp:9
+School:Clemson
+OwingTeam:MEM

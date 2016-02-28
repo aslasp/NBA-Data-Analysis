@@ -1,0 +1,10 @@
+Name:Brian Quinnett
+Number:23
+Position:G
+Height:6-8
+Weight:235
+Birth:1966-05-30
+Age:49
+Exp:2
+School:Washington State
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Renaldo Major
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-05-07
+Age:33
+Exp:0
+School:Fresno State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Marion Cluggish
+Number:3
+Position:C
+Height:6-10
+Weight:235
+Birth:1917-09-18
+Age:97
+Exp:0
+School:Kentucky
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Hamed Haddadi
+Number:98
+Position:C
+Height:7-2
+Weight:265
+Birth:1985-05-19
+Age:30
+Exp:4
+School:Ahvaz
+OwingTeam:PHX

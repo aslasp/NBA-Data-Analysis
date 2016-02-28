@@ -1,0 +1,10 @@
+Name:Rodney White
+Number:3
+Position:F
+Height:6-9
+Weight:230
+Birth:1980-06-28
+Age:34
+Exp:3
+School:North Carolina-Charlotte
+OwingTeam:GSW

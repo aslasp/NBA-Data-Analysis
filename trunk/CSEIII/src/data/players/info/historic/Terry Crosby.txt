@@ -1,0 +1,10 @@
+Name:Terry Crosby
+Number:12
+Position:G
+Height:6-4
+Weight:195
+Birth:1957-01-04
+Age:58
+Exp:0
+School:Tennessee
+OwingTeam:KCK

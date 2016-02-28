@@ -1,0 +1,10 @@
+Name:Milo Komenich
+Number:
+Position:C
+Height:6-7
+Weight:212
+Birth:1920-06-22
+Age:94
+Exp:0
+School:Wyoming
+OwingTeam:AND

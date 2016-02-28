@@ -1,0 +1,10 @@
+Name:Milt Schoon
+Number:
+Position:C
+Height:6-7
+Weight:230
+Birth:1922-02-25
+Age:93
+Exp:1
+School:Valparaiso
+OwingTeam:SHE

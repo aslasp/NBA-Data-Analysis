@@ -1,0 +1,10 @@
+Name:Arnie Risen
+Number:19
+Position:C
+Height:6-9
+Weight:200
+Birth:1924-10-09
+Age:90
+Exp:9
+School:Ohio State
+OwingTeam:BOS

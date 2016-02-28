@@ -1,0 +1,10 @@
+Name:Mike Morrison
+Number:32
+Position:G
+Height:6-4
+Weight:195
+Birth:1967-08-16
+Age:47
+Exp:0
+School:Loyola-Maryland
+OwingTeam:PHX

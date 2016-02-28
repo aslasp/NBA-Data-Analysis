@@ -1,0 +1,10 @@
+Name:Dickey Simpkins
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-04-06
+Age:43
+Exp:0
+School:Providence
+OwingTeam:

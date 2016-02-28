@@ -1,0 +1,10 @@
+Name:Walt Bellamy
+Number:8
+Position:C
+Height:6-10
+Weight:225
+Birth:1939-07-24
+Age:75
+Exp:13
+School:Indiana
+OwingTeam:NOJ

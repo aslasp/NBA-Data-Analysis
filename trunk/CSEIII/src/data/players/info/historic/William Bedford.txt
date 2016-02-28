@@ -1,0 +1,10 @@
+Name:William Bedford
+Number:0
+Position:C
+Height:7-0
+Weight:225
+Birth:1963-12-14
+Age:51
+Exp:5
+School:Memphis
+OwingTeam:SAN

@@ -1,0 +1,10 @@
+Name:Robert Horry
+Number:25
+Position:F-C
+Height:6-10
+Weight:240
+Birth:1970-08-25
+Age:44
+Exp:15
+School:Alabama
+OwingTeam:SAS

@@ -1,0 +1,10 @@
+Name:Rudy Hackett
+Number:45
+Position:F
+Height:6-9
+Weight:210
+Birth:1953-05-10
+Age:62
+Exp:0
+School:Syracuse
+OwingTeam:IND

@@ -1,0 +1,10 @@
+Name:Paul Griffin
+Number:30
+Position:F
+Height:6-9
+Weight:205
+Birth:1954-01-20
+Age:61
+Exp:6
+School:Western Michigan
+OwingTeam:SAN

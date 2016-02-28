@@ -1,0 +1,10 @@
+Name:Wil Jones
+Number:24
+Position:F
+Height:6-8
+Weight:205
+Birth:1947-02-27
+Age:68
+Exp:1
+School:Albany State 
+OwingTeam:BUF

@@ -1,0 +1,10 @@
+Name:Jason Caffey
+Number:35
+Position:F
+Height:6-8
+Weight:256
+Birth:1973-06-12
+Age:41
+Exp:7
+School:Alabama
+OwingTeam:MIL

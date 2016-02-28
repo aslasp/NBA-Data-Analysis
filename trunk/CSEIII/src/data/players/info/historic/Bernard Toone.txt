@@ -1,0 +1,10 @@
+Name:Bernard Toone
+Number:3
+Position:F
+Height:6-9
+Weight:210
+Birth:1956-07-14
+Age:58
+Exp:0
+School:Marquette
+OwingTeam:PHL

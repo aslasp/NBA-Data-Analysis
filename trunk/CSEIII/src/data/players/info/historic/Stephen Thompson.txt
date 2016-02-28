@@ -1,0 +1,10 @@
+Name:Stephen Thompson
+Number:5
+Position:F
+Height:6-4
+Weight:185
+Birth:1968-12-02
+Age:46
+Exp:0
+School:Syracuse
+OwingTeam:SAC

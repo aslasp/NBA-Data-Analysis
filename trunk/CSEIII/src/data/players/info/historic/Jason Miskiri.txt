@@ -1,0 +1,10 @@
+Name:Jason Miskiri
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-08-19
+Age:39
+Exp:0
+School:George Mason
+OwingTeam:

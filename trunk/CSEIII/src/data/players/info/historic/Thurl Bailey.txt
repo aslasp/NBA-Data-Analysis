@@ -1,0 +1,10 @@
+Name:Thurl Bailey
+Number:41
+Position:F
+Height:6-11
+Weight:247
+Birth:1961-04-07
+Age:54
+Exp:11
+School:North Carolina State
+OwingTeam:UTA

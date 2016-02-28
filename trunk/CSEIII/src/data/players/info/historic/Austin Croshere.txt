@@ -1,0 +1,10 @@
+Name:Austin Croshere
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-05-01
+Age:40
+Exp:0
+School:Providence
+OwingTeam:

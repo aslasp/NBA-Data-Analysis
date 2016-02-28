@@ -1,0 +1,10 @@
+Name:Ralph Jackson
+Number:2
+Position:G
+Height:6-2
+Weight:190
+Birth:1962-10-26
+Age:52
+Exp:0
+School:California-Los Angeles
+OwingTeam:IND

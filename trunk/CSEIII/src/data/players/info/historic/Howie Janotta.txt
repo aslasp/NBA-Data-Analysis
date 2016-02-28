@@ -1,0 +1,10 @@
+Name:Howie Janotta
+Number:
+Position:F
+Height:6-3
+Weight:185
+Birth:1924-10-19
+Age:90
+Exp:0
+School:Seton Hall
+OwingTeam:BAL

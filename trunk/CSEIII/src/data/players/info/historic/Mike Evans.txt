@@ -1,0 +1,10 @@
+Name:Mike Evans
+Number:5
+Position:G
+Height:6-1
+Weight:170
+Birth:1955-04-19
+Age:60
+Exp:8
+School:Kansas State
+OwingTeam:DEN

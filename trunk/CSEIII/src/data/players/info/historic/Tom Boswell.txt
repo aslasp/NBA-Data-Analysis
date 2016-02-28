@@ -1,0 +1,10 @@
+Name:Tom Boswell
+Number:33
+Position:F
+Height:6-8
+Weight:220
+Birth:1953-10-02
+Age:61
+Exp:5
+School:South Carolina
+OwingTeam:UTH

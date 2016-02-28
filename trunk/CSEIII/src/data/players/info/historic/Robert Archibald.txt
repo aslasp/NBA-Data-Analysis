@@ -1,0 +1,10 @@
+Name:Robert Archibald
+Number:34
+Position:F
+Height:6-11
+Weight:250
+Birth:1980-03-29
+Age:35
+Exp:1
+School:Illinois
+OwingTeam:TOR

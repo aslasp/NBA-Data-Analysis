@@ -1,0 +1,10 @@
+Name:Kerry Kittles
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-06-12
+Age:40
+Exp:0
+School:Villanova
+OwingTeam:

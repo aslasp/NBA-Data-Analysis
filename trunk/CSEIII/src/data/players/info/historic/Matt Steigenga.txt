@@ -1,0 +1,10 @@
+Name:Matt Steigenga
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-03-27
+Age:45
+Exp:0
+School:Michigan State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Sidney Green
+Number:21
+Position:F
+Height:6-9
+Weight:220
+Birth:1961-01-04
+Age:54
+Exp:9
+School:Nevada-Las Vegas
+OwingTeam:CHH

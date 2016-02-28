@@ -1,0 +1,10 @@
+Name:Perry Warbington
+Number:22
+Position:G
+Height:6-2
+Weight:165
+Birth:1952-09-07
+Age:62
+Exp:0
+School:Georgia Southern
+OwingTeam:PHL

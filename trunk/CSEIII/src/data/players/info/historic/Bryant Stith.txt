@@ -1,0 +1,10 @@
+Name:Bryant Stith
+Number:23
+Position:G
+Height:6-5
+Weight:210
+Birth:1970-12-10
+Age:44
+Exp:10
+School:Virginia
+OwingTeam:LAC

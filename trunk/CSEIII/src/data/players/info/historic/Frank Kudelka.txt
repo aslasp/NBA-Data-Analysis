@@ -1,0 +1,10 @@
+Name:Frank Kudelka
+Number:14
+Position:G
+Height:6-2
+Weight:193
+Birth:1925-06-25
+Age:89
+Exp:3
+School:Saint Mary
+OwingTeam:PHW

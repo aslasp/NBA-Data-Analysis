@@ -1,0 +1,10 @@
+Name:Antoine Walker
+Number:24
+Position:F
+Height:6-9
+Weight:245
+Birth:1976-08-12
+Age:38
+Exp:11
+School:Kentucky
+OwingTeam:MIN

@@ -1,0 +1,10 @@
+Name:Al Lucas
+Number:20
+Position:F
+Height:6-3
+Weight:195
+Birth:1922-07-04
+Age:92
+Exp:0
+School:Fordham
+OwingTeam:BOS

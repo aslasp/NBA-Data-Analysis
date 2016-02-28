@@ -1,0 +1,10 @@
+Name:Eldo Garrett
+Number:14
+Position:G
+Height:6-3
+Weight:185
+Birth:1947-01-31
+Age:68
+Exp:4
+School:Southern Illinois
+OwingTeam:NYK

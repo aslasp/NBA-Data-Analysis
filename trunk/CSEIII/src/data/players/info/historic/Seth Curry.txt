@@ -1,0 +1,10 @@
+Name:Seth Curry
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-08-23
+Age:24
+Exp:0
+School:Duke
+OwingTeam:

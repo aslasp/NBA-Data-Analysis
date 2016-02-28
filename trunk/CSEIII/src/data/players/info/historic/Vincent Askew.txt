@@ -1,0 +1,10 @@
+Name:Vincent Askew
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-02-28
+Age:49
+Exp:0
+School:Memphis
+OwingTeam:

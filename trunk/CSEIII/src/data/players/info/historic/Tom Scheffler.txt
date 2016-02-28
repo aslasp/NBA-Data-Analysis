@@ -1,0 +1,10 @@
+Name:Tom Scheffler
+Number:50
+Position:C
+Height:6-11
+Weight:240
+Birth:1954-10-27
+Age:60
+Exp:0
+School:Purdue
+OwingTeam:POR

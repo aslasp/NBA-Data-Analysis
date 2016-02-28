@@ -1,0 +1,10 @@
+Name:George McLeod
+Number:
+Position:F
+Height:6-5
+Weight:200
+Birth:1931-01-03
+Age:84
+Exp:0
+School:Texas Christian
+OwingTeam:BAL

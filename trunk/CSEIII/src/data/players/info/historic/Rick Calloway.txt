@@ -1,0 +1,10 @@
+Name:Rick Calloway
+Number:4
+Position:G
+Height:6-6
+Weight:180
+Birth:1966-10-12
+Age:48
+Exp:0
+School:Kansas
+OwingTeam:SAC

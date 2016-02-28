@@ -1,0 +1,10 @@
+Name:Kennard Winchester
+Number:20
+Position:F
+Height:6-5
+Weight:210
+Birth:1966-09-03
+Age:48
+Exp:2
+School:Averett
+OwingTeam:HOU

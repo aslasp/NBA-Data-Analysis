@@ -1,0 +1,10 @@
+Name:Shawn Kemp
+Number:40
+Position:F
+Height:6-10
+Weight:280
+Birth:1969-11-26
+Age:45
+Exp:13
+School:Trinity Valley Community College
+OwingTeam:ORL

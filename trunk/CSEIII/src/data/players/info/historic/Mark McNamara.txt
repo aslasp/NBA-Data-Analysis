@@ -1,0 +1,10 @@
+Name:Mark McNamara
+Number:31
+Position:C
+Height:6-11
+Weight:235
+Birth:1959-06-08
+Age:55
+Exp:7
+School:California
+OwingTeam:ORL

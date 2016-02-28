@@ -1,0 +1,10 @@
+Name:Eddie Miles
+Number:42
+Position:G
+Height:6-4
+Weight:195
+Birth:1940-07-05
+Age:74
+Exp:8
+School:Seattle
+OwingTeam:NYK

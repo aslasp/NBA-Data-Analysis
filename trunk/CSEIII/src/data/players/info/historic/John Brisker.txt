@@ -1,0 +1,10 @@
+Name:John Brisker
+Number:40
+Position:F
+Height:6-5
+Weight:210
+Birth:1947-06-15
+Age:67
+Exp:2
+School:Toledo
+OwingTeam:SEA

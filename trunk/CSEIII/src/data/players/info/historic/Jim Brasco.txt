@@ -1,0 +1,10 @@
+Name:Jim Brasco
+Number:15
+Position:G
+Height:6-1
+Weight:170
+Birth:1931-02-03
+Age:84
+Exp:0
+School:New York University
+OwingTeam:SYR

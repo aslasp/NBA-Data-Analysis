@@ -1,0 +1,10 @@
+Name:Mark Randall
+Number:42
+Position:F
+Height:6-8
+Weight:235
+Birth:1967-09-30
+Age:47
+Exp:3
+School:Kansas
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Jiri Welsch
+Number:44
+Position:F
+Height:6-7
+Weight:208
+Birth:1980-01-27
+Age:35
+Exp:3
+School:Slovenia
+OwingTeam:MIL

@@ -1,0 +1,10 @@
+Name:Ralph Simpson
+Number:44
+Position:G
+Height:6-5
+Weight:200
+Birth:1949-08-10
+Age:65
+Exp:3
+School:Michigan State
+OwingTeam:NJN

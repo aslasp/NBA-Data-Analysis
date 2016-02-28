@@ -1,0 +1,10 @@
+Name:Price Brookfield
+Number:17
+Position:F
+Height:6-4
+Weight:185
+Birth:1920-05-11
+Age:95
+Exp:1
+School:West Texas A
+OwingTeam:ROC

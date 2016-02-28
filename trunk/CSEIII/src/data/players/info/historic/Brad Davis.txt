@@ -1,0 +1,10 @@
+Name:Brad Davis
+Number:15
+Position:G
+Height:6-3
+Weight:180
+Birth:1955-12-17
+Age:59
+Exp:14
+School:Maryland
+OwingTeam:DAL

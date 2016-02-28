@@ -1,0 +1,10 @@
+Name:Walter McCarty
+Number:0
+Position:F
+Height:6-10
+Weight:245
+Birth:1974-02-01
+Age:41
+Exp:9
+School:Kentucky
+OwingTeam:LAC

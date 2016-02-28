@@ -1,0 +1,10 @@
+Name:Duane Causwell
+Number:
+Position:C
+Height:7-0
+Weight:255
+Birth:1968-05-31
+Age:47
+Exp:11
+School:Temple
+OwingTeam:SAS

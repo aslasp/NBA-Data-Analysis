@@ -1,0 +1,10 @@
+Name:Wally Rank
+Number:30
+Position:F
+Height:6-6
+Weight:220
+Birth:1958-03-01
+Age:57
+Exp:0
+School:San Jose State
+OwingTeam:SDC

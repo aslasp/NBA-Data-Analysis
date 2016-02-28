@@ -1,0 +1,10 @@
+Name:Roy Pugh
+Number:
+Position:
+Height:
+Weight:
+Birth:1923-03-21
+Age:92
+Exp:0
+School:Southern Methodist
+OwingTeam:JET

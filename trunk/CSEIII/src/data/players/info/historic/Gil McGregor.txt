@@ -1,0 +1,10 @@
+Name:Gil McGregor
+Number:25
+Position:F
+Height:6-8
+Weight:240
+Birth:1949-06-14
+Age:65
+Exp:0
+School:Wake Forest
+OwingTeam:CIN

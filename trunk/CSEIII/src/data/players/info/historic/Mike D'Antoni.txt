@@ -1,0 +1,10 @@
+Name:Mike D'Antoni
+Number:14
+Position:G
+Height:6-3
+Weight:185
+Birth:1951-05-08
+Age:64
+Exp:3
+School:Marshall
+OwingTeam:SAN

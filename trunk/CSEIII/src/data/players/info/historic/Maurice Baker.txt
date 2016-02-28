@@ -1,0 +1,10 @@
+Name:Maurice Baker
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-07-28
+Age:35
+Exp:0
+School:Oklahoma State
+OwingTeam:

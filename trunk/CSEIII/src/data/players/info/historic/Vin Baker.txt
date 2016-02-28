@@ -1,0 +1,10 @@
+Name:Vin Baker
+Number:34
+Position:F
+Height:6-11
+Weight:240
+Birth:1971-11-23
+Age:43
+Exp:12
+School:Hartford
+OwingTeam:LAC

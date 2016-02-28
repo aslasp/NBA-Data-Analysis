@@ -1,0 +1,10 @@
+Name:Milt Palacio
+Number:3
+Position:G
+Height:6-4
+Weight:210
+Birth:1978-02-07
+Age:37
+Exp:6
+School:Colorado State
+OwingTeam:UTA

@@ -1,0 +1,10 @@
+Name:Dave Piontek
+Number:61
+Position:F
+Height:6-6
+Weight:230
+Birth:1934-08-27
+Age:80
+Exp:6
+School:Xavier
+OwingTeam:CIN

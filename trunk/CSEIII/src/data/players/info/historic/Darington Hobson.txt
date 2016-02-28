@@ -1,0 +1,10 @@
+Name:Darington Hobson
+Number:
+Position:
+Height:
+Weight:
+Birth:1987-09-29
+Age:27
+Exp:0
+School:New Mexico
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:A.J. Bramlett
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-01-10
+Age:38
+Exp:0
+School:Arizona
+OwingTeam:

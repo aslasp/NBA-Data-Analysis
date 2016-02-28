@@ -1,0 +1,10 @@
+Name:Ozell Jones
+Number:20
+Position:C
+Height:6-11
+Weight:235
+Birth:1960-11-20
+Age:54
+Exp:1
+School:Cal State-Fullerton
+OwingTeam:LAC

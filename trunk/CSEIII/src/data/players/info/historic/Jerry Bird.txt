@@ -1,0 +1,10 @@
+Name:Jerry Bird
+Number:7
+Position:F
+Height:6-6
+Weight:210
+Birth:1935-02-02
+Age:80
+Exp:0
+School:Kentucky
+OwingTeam:NYK

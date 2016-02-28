@@ -1,0 +1,10 @@
+Name:Ed Beach
+Number: 
+Position:F
+Height:6-3
+Weight:200
+Birth:1929-01-25
+Age:86
+Exp:0
+School:West Virginia
+OwingTeam:TCB

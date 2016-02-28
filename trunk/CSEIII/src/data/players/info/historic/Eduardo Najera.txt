@@ -1,0 +1,10 @@
+Name:Eduardo Najera
+Number:21
+Position:F
+Height:6-8
+Weight:235
+Birth:1976-07-11
+Age:38
+Exp:11
+School:Oklahoma
+OwingTeam:CHA

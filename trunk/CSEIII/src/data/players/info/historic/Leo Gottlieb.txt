@@ -1,0 +1,10 @@
+Name:Leo Gottlieb
+Number:9
+Position:G
+Height:5-11
+Weight:180
+Birth:1920-11-28
+Age:94
+Exp:1
+School:
+OwingTeam:NYK

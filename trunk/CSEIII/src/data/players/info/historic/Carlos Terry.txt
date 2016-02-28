@@ -1,0 +1,10 @@
+Name:Carlos Terry
+Number:12
+Position:G
+Height:6-4
+Weight:210
+Birth:1956-06-22
+Age:58
+Exp:2
+School:Winston-Salem State
+OwingTeam:WAS

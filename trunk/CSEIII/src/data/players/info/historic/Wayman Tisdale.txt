@@ -1,0 +1,10 @@
+Name:Wayman Tisdale
+Number:23
+Position:F
+Height:6-9
+Weight:260
+Birth:1964-06-09
+Age:50
+Exp:11
+School:Oklahoma
+OwingTeam:PHX

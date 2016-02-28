@@ -1,0 +1,10 @@
+Name:Tyus Edney
+Number:2
+Position:G
+Height:5-10
+Weight:166
+Birth:1973-02-14
+Age:42
+Exp:3
+School:California-Los Angeles
+OwingTeam:IND

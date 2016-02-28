@@ -1,0 +1,10 @@
+Name:Britton Johnsen
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-07-08
+Age:35
+Exp:0
+School:Utah
+OwingTeam:

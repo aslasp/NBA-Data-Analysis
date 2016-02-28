@@ -1,0 +1,10 @@
+Name:Jim Neal
+Number:
+Position:C
+Height:6-11
+Weight:235
+Birth:1930-05-21
+Age:85
+Exp:1
+School:Wofford
+OwingTeam:BAL

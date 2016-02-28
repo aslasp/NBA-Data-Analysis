@@ -1,0 +1,10 @@
+Name:Johnny Green
+Number:20
+Position:F
+Height:6-5
+Weight:200
+Birth:1933-12-08
+Age:81
+Exp:13
+School:Michigan State
+OwingTeam:KCK

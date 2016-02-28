@@ -1,0 +1,10 @@
+Name:Rich Rinaldi
+Number:33
+Position:G
+Height:6-3
+Weight:195
+Birth:1949-08-03
+Age:65
+Exp:2
+School:Saint Peter
+OwingTeam:CAP

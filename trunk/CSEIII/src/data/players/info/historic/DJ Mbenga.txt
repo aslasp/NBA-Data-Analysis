@@ -1,0 +1,10 @@
+Name:DJ Mbenga
+Number:28
+Position:C
+Height:7-0
+Weight:255
+Birth:1980-12-30
+Age:34
+Exp:6
+School:Kinshasa
+OwingTeam:NOH

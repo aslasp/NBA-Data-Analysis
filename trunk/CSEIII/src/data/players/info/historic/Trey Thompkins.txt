@@ -1,0 +1,10 @@
+Name:Trey Thompkins
+Number:33
+Position:F
+Height:6-10
+Weight:245
+Birth:1990-05-29
+Age:25
+Exp:0
+School:Georgia
+OwingTeam:LAC

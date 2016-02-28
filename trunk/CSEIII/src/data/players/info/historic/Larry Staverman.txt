@@ -1,0 +1,10 @@
+Name:Larry Staverman
+Number:13
+Position:F
+Height:6-7
+Weight:205
+Birth:1936-10-11
+Age:78
+Exp:4
+School:Thomas More
+OwingTeam:CIN

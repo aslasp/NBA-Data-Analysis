@@ -1,0 +1,10 @@
+Name:Vic Bartolome
+Number:20
+Position:C
+Height:7-0
+Weight:230
+Birth:1948-09-29
+Age:66
+Exp:0
+School:Oregon State
+OwingTeam:GOS

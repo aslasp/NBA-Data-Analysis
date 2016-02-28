@@ -1,0 +1,10 @@
+Name:Brian Scalabrine
+Number:24
+Position:F
+Height:6-9
+Weight:235
+Birth:1978-03-18
+Age:37
+Exp:10
+School:Southern California
+OwingTeam:CHI

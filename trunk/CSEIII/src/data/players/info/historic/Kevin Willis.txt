@@ -1,0 +1,10 @@
+Name:Kevin Willis
+Number:45
+Position:C-F
+Height:7-0
+Weight:245
+Birth:1962-09-06
+Age:52
+Exp:20
+School:Michigan State
+OwingTeam:DAL

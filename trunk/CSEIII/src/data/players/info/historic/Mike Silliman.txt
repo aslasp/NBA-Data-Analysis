@@ -1,0 +1,10 @@
+Name:Mike Silliman
+Number:4-27
+Position:F
+Height:6-6
+Weight:225
+Birth:1944-05-04
+Age:71
+Exp:0
+School:Army
+OwingTeam:BUF

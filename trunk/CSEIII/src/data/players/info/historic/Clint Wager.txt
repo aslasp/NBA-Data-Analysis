@@ -1,0 +1,10 @@
+Name:Clint Wager
+Number:17
+Position:C
+Height:6-5
+Weight:210
+Birth:1920-01-20
+Age:95
+Exp:0
+School:Saint Mary
+OwingTeam:FTW

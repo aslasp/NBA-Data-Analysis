@@ -1,0 +1,10 @@
+Name:John Salley
+Number:16
+Position:C-F
+Height:6-11
+Weight:255
+Birth:1964-05-16
+Age:51
+Exp:9
+School:Georgia Tech
+OwingTeam:LAL

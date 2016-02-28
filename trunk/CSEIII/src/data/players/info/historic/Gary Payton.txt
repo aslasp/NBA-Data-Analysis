@@ -1,0 +1,10 @@
+Name:Gary Payton
+Number:20
+Position:G
+Height:6-4
+Weight:190
+Birth:1968-07-23
+Age:46
+Exp:16
+School:Oregon State
+OwingTeam:MIA

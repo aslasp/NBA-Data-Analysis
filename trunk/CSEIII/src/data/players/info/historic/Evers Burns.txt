@@ -1,0 +1,10 @@
+Name:Evers Burns
+Number:53
+Position:F
+Height:6-8
+Weight:260
+Birth:1971-08-24
+Age:43
+Exp:0
+School:Maryland
+OwingTeam:SAC

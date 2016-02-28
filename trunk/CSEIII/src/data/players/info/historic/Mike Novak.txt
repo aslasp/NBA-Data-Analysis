@@ -1,0 +1,10 @@
+Name:Mike Novak
+Number:6
+Position:C
+Height:6-9
+Weight:219
+Birth:1915-04-23
+Age:100
+Exp:2
+School:Loyola-Chicago
+OwingTeam:SYR

@@ -1,0 +1,10 @@
+Name:Kevin Stacom
+Number:20
+Position:G
+Height:6-3
+Weight:185
+Birth:1951-09-04
+Age:63
+Exp:5
+School:Providence
+OwingTeam:MIL

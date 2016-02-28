@@ -1,0 +1,10 @@
+Name:Al Lujack
+Number:
+Position:F
+Height:6-3
+Weight:220
+Birth:1921-10-05
+Age:93
+Exp:0
+School:Georgetown
+OwingTeam:WAS

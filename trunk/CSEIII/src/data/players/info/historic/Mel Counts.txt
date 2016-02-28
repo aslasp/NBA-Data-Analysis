@@ -1,0 +1,10 @@
+Name:Mel Counts
+Number:31
+Position:C
+Height:7-0
+Weight:230
+Birth:1941-10-16
+Age:73
+Exp:11
+School:Oregon State
+OwingTeam:NOJ

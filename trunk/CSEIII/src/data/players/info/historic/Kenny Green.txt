@@ -1,0 +1,10 @@
+Name:Kenny Green
+Number:21
+Position:G
+Height:6-6
+Weight:210
+Birth:1964-10-11
+Age:50
+Exp:1
+School:Wake Forest
+OwingTeam:PHL

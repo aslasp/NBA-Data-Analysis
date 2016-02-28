@@ -1,0 +1,10 @@
+Name:Donyell Marshall
+Number:8
+Position:F
+Height:6-9
+Weight:245
+Birth:1973-05-18
+Age:42
+Exp:14
+School:Connecticut
+OwingTeam:PHI

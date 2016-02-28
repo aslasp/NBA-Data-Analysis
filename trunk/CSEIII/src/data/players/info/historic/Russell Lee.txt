@@ -1,0 +1,10 @@
+Name:Russell Lee
+Number:11
+Position:F
+Height:6-5
+Weight:185
+Birth:1950-01-27
+Age:65
+Exp:2
+School:Marshall
+OwingTeam:NOJ

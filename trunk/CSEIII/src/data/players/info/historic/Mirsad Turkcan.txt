@@ -1,0 +1,10 @@
+Name:Mirsad Turkcan
+Number:6
+Position:F
+Height:6-9
+Weight:216
+Birth:1976-06-07
+Age:38
+Exp:0
+School:Turkey
+OwingTeam:MIL

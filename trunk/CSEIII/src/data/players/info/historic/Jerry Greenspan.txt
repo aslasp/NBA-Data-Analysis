@@ -1,0 +1,10 @@
+Name:Jerry Greenspan
+Number:22
+Position:F
+Height:6-5
+Weight:195
+Birth:1941-11-22
+Age:73
+Exp:1
+School:Maryland
+OwingTeam:PHL

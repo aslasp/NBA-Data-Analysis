@@ -1,0 +1,10 @@
+Name:Bob Brannum
+Number:18
+Position:F
+Height:6-6
+Weight:215
+Birth:1925-05-28
+Age:90
+Exp:4
+School:Michigan State
+OwingTeam:BOS

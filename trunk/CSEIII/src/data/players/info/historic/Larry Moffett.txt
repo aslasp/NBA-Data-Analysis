@@ -1,0 +1,10 @@
+Name:Larry Moffett
+Number:41
+Position:F
+Height:6-8
+Weight:210
+Birth:1954-11-05
+Age:60
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:HOU

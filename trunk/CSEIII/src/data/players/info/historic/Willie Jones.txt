@@ -1,0 +1,10 @@
+Name:Willie Jones
+Number:22
+Position:F
+Height:6-8
+Weight:190
+Birth:1959-09-01
+Age:55
+Exp:1
+School:Vanderbilt
+OwingTeam:SDC

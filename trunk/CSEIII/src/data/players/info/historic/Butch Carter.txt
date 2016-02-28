@@ -1,0 +1,10 @@
+Name:Butch Carter
+Number:12
+Position:G
+Height:6-5
+Weight:180
+Birth:1958-06-11
+Age:56
+Exp:5
+School:Indiana
+OwingTeam:PHL

@@ -1,0 +1,10 @@
+Name:Dennis Awtrey
+Number:20
+Position:C
+Height:6-10
+Weight:235
+Birth:1948-02-22
+Age:67
+Exp:11
+School:Santa Clara
+OwingTeam:POR

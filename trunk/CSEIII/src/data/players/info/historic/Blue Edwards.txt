@@ -1,0 +1,10 @@
+Name:Blue Edwards
+Number:
+Position:
+Height:
+Weight:
+Birth:1965-10-31
+Age:49
+Exp:0
+School:East Carolina
+OwingTeam:

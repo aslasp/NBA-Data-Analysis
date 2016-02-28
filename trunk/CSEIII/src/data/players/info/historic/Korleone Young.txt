@@ -1,0 +1,10 @@
+Name:Korleone Young
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-12-31
+Age:36
+Exp:0
+School:
+OwingTeam:

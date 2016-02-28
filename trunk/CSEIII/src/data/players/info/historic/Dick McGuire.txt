@@ -1,0 +1,10 @@
+Name:Dick McGuire
+Number:15
+Position:G
+Height:6-0
+Weight:180
+Birth:1926-01-25
+Age:89
+Exp:10
+School:St. John
+OwingTeam:DET

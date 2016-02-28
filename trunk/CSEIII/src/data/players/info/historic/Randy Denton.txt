@@ -1,0 +1,10 @@
+Name:Randy Denton
+Number:34
+Position:C
+Height:6-10
+Weight:240
+Birth:1949-02-18
+Age:66
+Exp:0
+School:Duke
+OwingTeam:ATL

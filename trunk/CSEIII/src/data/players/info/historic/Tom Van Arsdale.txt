@@ -1,0 +1,10 @@
+Name:Tom Van Arsdale
+Number:4
+Position:F
+Height:6-5
+Weight:202
+Birth:1943-02-22
+Age:72
+Exp:11
+School:Indiana
+OwingTeam:PHX

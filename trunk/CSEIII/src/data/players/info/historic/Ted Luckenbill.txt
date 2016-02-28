@@ -1,0 +1,10 @@
+Name:Ted Luckenbill
+Number:12
+Position:F
+Height:6-6
+Weight:205
+Birth:1939-07-27
+Age:75
+Exp:1
+School:Houston
+OwingTeam:SFW

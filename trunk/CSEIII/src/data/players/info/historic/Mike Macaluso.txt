@@ -1,0 +1,10 @@
+Name:Mike Macaluso
+Number:21
+Position:F
+Height:6-5
+Weight:210
+Birth:1951-07-20
+Age:63
+Exp:0
+School:Canisius
+OwingTeam:BUF

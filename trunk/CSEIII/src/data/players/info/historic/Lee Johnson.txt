@@ -1,0 +1,10 @@
+Name:Lee Johnson
+Number:
+Position:F
+Height:6-11
+Weight:205
+Birth:1957-06-16
+Age:57
+Exp:0
+School:Texas A
+OwingTeam:DET

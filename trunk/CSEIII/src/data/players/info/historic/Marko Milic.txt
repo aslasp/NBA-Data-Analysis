@@ -1,0 +1,10 @@
+Name:Marko Milic
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-05-05
+Age:38
+Exp:0
+School:Slovenia
+OwingTeam:

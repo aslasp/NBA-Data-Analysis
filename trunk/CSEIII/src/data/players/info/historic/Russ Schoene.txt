@@ -1,0 +1,10 @@
+Name:Russ Schoene
+Number:40
+Position:F
+Height:6-10
+Weight:210
+Birth:1960-04-16
+Age:55
+Exp:3
+School:Tennessee-Chattanooga
+OwingTeam:SEA

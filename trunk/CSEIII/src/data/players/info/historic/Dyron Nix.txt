@@ -1,0 +1,10 @@
+Name:Dyron Nix
+Number:23
+Position:G
+Height:6-7
+Weight:210
+Birth:1967-02-11
+Age:48
+Exp:0
+School:Tennessee
+OwingTeam:IND

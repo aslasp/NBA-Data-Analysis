@@ -1,0 +1,10 @@
+Name:Stewart Granger
+Number:11
+Position:G
+Height:6-3
+Weight:190
+Birth:1961-10-27
+Age:53
+Exp:2
+School:Villanova
+OwingTeam:NYK

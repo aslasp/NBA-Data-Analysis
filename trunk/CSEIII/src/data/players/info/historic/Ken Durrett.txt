@@ -1,0 +1,10 @@
+Name:Ken Durrett
+Number:33
+Position:F
+Height:6-7
+Weight:190
+Birth:1948-12-08
+Age:66
+Exp:3
+School:La Salle
+OwingTeam:PHL

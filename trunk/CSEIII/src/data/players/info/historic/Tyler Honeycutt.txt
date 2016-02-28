@@ -1,0 +1,10 @@
+Name:Tyler Honeycutt
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-07-15
+Age:24
+Exp:0
+School:California-Los Angeles
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Gene Rhodes
+Number:
+Position:G
+Height:6-1
+Weight:170
+Birth:1927-09-02
+Age:87
+Exp:0
+School:Western Kentucky
+OwingTeam:INO

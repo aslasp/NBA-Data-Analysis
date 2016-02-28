@@ -1,0 +1,10 @@
+Name:Ime Udoka
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-08-09
+Age:37
+Exp:0
+School:Portland State
+OwingTeam:

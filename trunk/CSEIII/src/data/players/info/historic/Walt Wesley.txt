@@ -1,0 +1,10 @@
+Name:Walt Wesley
+Number:21
+Position:C
+Height:6-11
+Weight:220
+Birth:1945-01-25
+Age:70
+Exp:9
+School:Kansas
+OwingTeam:LAL

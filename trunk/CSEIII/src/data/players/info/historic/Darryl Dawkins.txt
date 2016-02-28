@@ -1,0 +1,10 @@
+Name:Darryl Dawkins
+Number:50
+Position:C
+Height:6-11
+Weight:251
+Birth:1957-01-11
+Age:58
+Exp:13
+School:
+OwingTeam:DET

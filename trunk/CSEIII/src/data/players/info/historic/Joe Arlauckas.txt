@@ -1,0 +1,10 @@
+Name:Joe Arlauckas
+Number:53
+Position:F
+Height:6-9
+Weight:230
+Birth:1965-07-20
+Age:49
+Exp:0
+School:Niagara
+OwingTeam:SAC

@@ -1,0 +1,10 @@
+Name:Allan Houston
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-04-20
+Age:44
+Exp:0
+School:Tennessee
+OwingTeam:

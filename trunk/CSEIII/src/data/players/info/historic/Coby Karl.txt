@@ -1,0 +1,10 @@
+Name:Coby Karl
+Number:22
+Position:G
+Height:6-5
+Weight:215
+Birth:1983-03-06
+Age:32
+Exp:1
+School:Boise State
+OwingTeam:DEN

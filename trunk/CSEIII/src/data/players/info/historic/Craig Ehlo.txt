@@ -1,0 +1,10 @@
+Name:Craig Ehlo
+Number:
+Position:
+Height:
+Weight:
+Birth:1961-08-11
+Age:53
+Exp:0
+School:Washington State
+OwingTeam:

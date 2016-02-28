@@ -1,0 +1,10 @@
+Name:Mike Batiste
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-11-21
+Age:37
+Exp:0
+School:Arizona State
+OwingTeam:

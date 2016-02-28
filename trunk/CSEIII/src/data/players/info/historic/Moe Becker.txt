@@ -1,0 +1,10 @@
+Name:Moe Becker
+Number:
+Position:G
+Height:6-1
+Weight:185
+Birth:1917-02-24
+Age:98
+Exp:0
+School:Duquesne
+OwingTeam:DEF

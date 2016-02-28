@@ -1,0 +1,10 @@
+Name:Rick Wilson
+Number:42
+Position:G
+Height:6-4
+Weight:200
+Birth:1956-02-07
+Age:59
+Exp:1
+School:Louisville
+OwingTeam:ATL

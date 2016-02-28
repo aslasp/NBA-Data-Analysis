@@ -1,0 +1,10 @@
+Name:George Pearcy
+Number:
+Position:G
+Height:6-1
+Weight:165
+Birth:1919-07-02
+Age:95
+Exp:0
+School:Indiana State
+OwingTeam:DEF

@@ -1,0 +1,10 @@
+Name:Robert Hawkins
+Number:11
+Position:G
+Height:6-4
+Weight:190
+Birth:1954-06-30
+Age:60
+Exp:3
+School:Illinois State
+OwingTeam:DET

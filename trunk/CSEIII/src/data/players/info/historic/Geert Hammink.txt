@@ -1,0 +1,10 @@
+Name:Geert Hammink
+Number:43
+Position:F-C
+Height:7-0
+Weight:262
+Birth:1969-04-12
+Age:46
+Exp:2
+School:Louisiana State
+OwingTeam:GOS

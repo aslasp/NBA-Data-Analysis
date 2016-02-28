@@ -1,0 +1,10 @@
+Name:Skeeter Henry
+Number:4
+Position:G
+Height:6-7
+Weight:190
+Birth:1967-12-08
+Age:47
+Exp:0
+School:Oklahoma
+OwingTeam:PHX

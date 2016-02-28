@@ -1,0 +1,10 @@
+Name:Brady Walker
+Number:
+Position:F
+Height:6-6
+Weight:205
+Birth:1921-03-15
+Age:94
+Exp:3
+School:Brigham Young
+OwingTeam:BAL

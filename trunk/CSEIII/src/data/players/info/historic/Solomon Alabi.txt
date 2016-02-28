@@ -1,0 +1,10 @@
+Name:Solomon Alabi
+Number:50
+Position:C
+Height:7-1
+Weight:252
+Birth:1988-03-21
+Age:27
+Exp:1
+School:Florida State
+OwingTeam:TOR

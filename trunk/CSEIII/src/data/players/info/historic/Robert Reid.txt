@@ -1,0 +1,10 @@
+Name:Robert Reid
+Number:50
+Position:F
+Height:6-8
+Weight:205
+Birth:1955-08-30
+Age:59
+Exp:12
+School:St. Mary
+OwingTeam:PHL

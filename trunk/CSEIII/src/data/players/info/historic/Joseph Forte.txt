@@ -1,0 +1,10 @@
+Name:Joseph Forte
+Number:40
+Position:G
+Height:6-4
+Weight:194
+Birth:1981-03-23
+Age:34
+Exp:1
+School:North Carolina
+OwingTeam:SEA

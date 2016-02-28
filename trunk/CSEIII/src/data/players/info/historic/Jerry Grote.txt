@@ -1,0 +1,10 @@
+Name:Jerry Grote
+Number:32
+Position:G
+Height:6-4
+Weight:215
+Birth:1940-12-28
+Age:74
+Exp:0
+School:Loyola-Marymount
+OwingTeam:LAL

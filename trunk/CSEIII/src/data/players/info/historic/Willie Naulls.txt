@@ -1,0 +1,10 @@
+Name:Willie Naulls
+Number:12
+Position:F
+Height:6-6
+Weight:225
+Birth:1934-10-07
+Age:80
+Exp:9
+School:California-Los Angeles
+OwingTeam:BOS

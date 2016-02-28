@@ -1,0 +1,10 @@
+Name:Brad Daugherty
+Number:43
+Position:C
+Height:7-0
+Weight:245
+Birth:1965-10-19
+Age:49
+Exp:7
+School:North Carolina
+OwingTeam:CLE

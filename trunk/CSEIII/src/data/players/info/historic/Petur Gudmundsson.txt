@@ -1,0 +1,10 @@
+Name:Petur Gudmundsson
+Number:35
+Position:C
+Height:7-2
+Weight:260
+Birth:1958-10-30
+Age:56
+Exp:3
+School:Washington
+OwingTeam:SAN

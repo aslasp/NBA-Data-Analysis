@@ -1,0 +1,10 @@
+Name:Ervin Johnson
+Number:40
+Position:C
+Height:6-11
+Weight:245
+Birth:1967-12-21
+Age:47
+Exp:12
+School:New Orleans
+OwingTeam:MIL

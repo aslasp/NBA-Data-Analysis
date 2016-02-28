@@ -1,0 +1,10 @@
+Name:Darrick Martin
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-03-06
+Age:44
+Exp:0
+School:California-Los Angeles
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Tony Harris
+Number:43
+Position:G
+Height:6-3
+Weight:190
+Birth:1967-05-13
+Age:48
+Exp:2
+School:New Orleans
+OwingTeam:BOS

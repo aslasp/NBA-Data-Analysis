@@ -1,0 +1,10 @@
+Name:Emmette Bryant
+Number:7
+Position:G
+Height:6-1
+Weight:175
+Birth:1938-11-04
+Age:76
+Exp:7
+School:DePaul
+OwingTeam:BUF

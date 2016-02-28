@@ -1,0 +1,10 @@
+Name:Dan Schayes
+Number:24
+Position:C
+Height:6-11
+Weight:260
+Birth:1959-05-10
+Age:56
+Exp:17
+School:Syracuse
+OwingTeam:ORL

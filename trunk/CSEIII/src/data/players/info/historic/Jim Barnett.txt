@@ -1,0 +1,10 @@
+Name:Jim Barnett
+Number:33
+Position:G
+Height:6-4
+Weight:170
+Birth:1944-07-07
+Age:70
+Exp:10
+School:Oregon
+OwingTeam:PHL

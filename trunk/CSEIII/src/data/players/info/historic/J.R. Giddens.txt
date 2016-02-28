@@ -1,0 +1,10 @@
+Name:J.R. Giddens
+Number:4
+Position:G
+Height:6-5
+Weight:215
+Birth:1985-02-13
+Age:30
+Exp:1
+School:New Mexico
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:George Gervin
+Number:8
+Position:G
+Height:6-7
+Weight:180
+Birth:1952-04-27
+Age:63
+Exp:9
+School:Eastern Michigan
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Tierre Brown
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-06-03
+Age:35
+Exp:0
+School:McNeese State
+OwingTeam:

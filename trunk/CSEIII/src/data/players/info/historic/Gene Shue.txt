@@ -1,0 +1,10 @@
+Name:Gene Shue
+Number:12
+Position:G
+Height:6-2
+Weight:170
+Birth:1931-12-18
+Age:83
+Exp:9
+School:Maryland
+OwingTeam:BLT

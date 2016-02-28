@@ -1,0 +1,10 @@
+Name:Damon Stoudamire
+Number:3
+Position:G
+Height:5-10
+Weight:171
+Birth:1973-09-03
+Age:41
+Exp:12
+School:Arizona
+OwingTeam:SAS

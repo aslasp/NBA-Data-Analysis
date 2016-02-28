@@ -1,0 +1,10 @@
+Name:John Vallely
+Number:33
+Position:G
+Height:6-3
+Weight:185
+Birth:1948-10-03
+Age:66
+Exp:1
+School:California-Los Angeles
+OwingTeam:HOU

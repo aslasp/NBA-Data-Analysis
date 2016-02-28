@@ -1,0 +1,10 @@
+Name:Ndudi Ebi
+Number:44
+Position:F
+Height:6-9
+Weight:195
+Birth:1984-06-18
+Age:30
+Exp:1
+School:Westbury Christian HS 
+OwingTeam:MIN

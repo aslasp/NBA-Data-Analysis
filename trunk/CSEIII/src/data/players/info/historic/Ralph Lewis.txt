@@ -1,0 +1,10 @@
+Name:Ralph Lewis
+Number:11
+Position:G
+Height:6-6
+Weight:200
+Birth:1963-03-28
+Age:52
+Exp:2
+School:La Salle
+OwingTeam:CHH

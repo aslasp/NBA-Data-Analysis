@@ -1,0 +1,10 @@
+Name:Bobby Cattage
+Number:45
+Position:F
+Height:6-9
+Weight:250
+Birth:1958-08-17
+Age:56
+Exp:1
+School:Auburn
+OwingTeam:NJN

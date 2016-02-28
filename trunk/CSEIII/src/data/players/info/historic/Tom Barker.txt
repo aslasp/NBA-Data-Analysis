@@ -1,0 +1,10 @@
+Name:Tom Barker
+Number:6
+Position:C
+Height:6-11
+Weight:225
+Birth:1955-03-11
+Age:60
+Exp:1
+School:Hawaii
+OwingTeam:NYK

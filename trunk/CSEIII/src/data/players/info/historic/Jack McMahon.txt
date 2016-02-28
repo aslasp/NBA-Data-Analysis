@@ -1,0 +1,10 @@
+Name:Jack McMahon
+Number:21
+Position:G
+Height:6-1
+Weight:185
+Birth:1928-12-03
+Age:86
+Exp:7
+School:St. John
+OwingTeam:STL

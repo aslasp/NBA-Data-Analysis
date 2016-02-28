@@ -1,0 +1,10 @@
+Name:Mel Peterson
+Number:16
+Position:G
+Height:6-4
+Weight:185
+Birth:1938-03-23
+Age:77
+Exp:0
+School:Wheaton 
+OwingTeam:BLT

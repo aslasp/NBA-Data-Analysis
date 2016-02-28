@@ -1,0 +1,10 @@
+Name:Marcus Banks
+Number:15
+Position:G
+Height:6-2
+Weight:205
+Birth:1981-11-19
+Age:33
+Exp:7
+School:Nevada-Las Vegas
+OwingTeam:NOH

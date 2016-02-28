@@ -1,0 +1,10 @@
+Name:Corny Thompson
+Number:25
+Position:F
+Height:6-8
+Weight:225
+Birth:1960-02-05
+Age:55
+Exp:0
+School:Connecticut
+OwingTeam:DAL

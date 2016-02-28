@@ -1,0 +1,10 @@
+Name:Tim McCormick
+Number:44
+Position:C
+Height:6-11
+Weight:240
+Birth:1962-03-10
+Age:53
+Exp:7
+School:Michigan
+OwingTeam:NYK

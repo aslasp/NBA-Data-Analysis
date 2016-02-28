@@ -1,0 +1,10 @@
+Name:Bryant Reeves
+Number:50
+Position:C
+Height:7-0
+Weight:290
+Birth:1973-06-08
+Age:41
+Exp:5
+School:Oklahoma State
+OwingTeam:VAN

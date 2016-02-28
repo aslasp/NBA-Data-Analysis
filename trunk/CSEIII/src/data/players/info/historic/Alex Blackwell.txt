@@ -1,0 +1,10 @@
+Name:Alex Blackwell
+Number:30
+Position:F
+Height:6-6
+Weight:250
+Birth:1970-06-27
+Age:44
+Exp:0
+School:Monmouth
+OwingTeam:LAL

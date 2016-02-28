@@ -1,0 +1,10 @@
+Name:Rabbit Walthour
+Number: 
+Position:G
+Height:5-11
+Weight:163
+Birth:1905-04-11
+Age:110
+Exp:0
+School:
+OwingTeam:MIH

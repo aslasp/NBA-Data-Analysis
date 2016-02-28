@@ -1,0 +1,10 @@
+Name:Leo Kubiak
+Number:
+Position:G
+Height:5-11
+Weight:160
+Birth:1927-12-25
+Age:87
+Exp:0
+School:Bowling Green
+OwingTeam:WAT

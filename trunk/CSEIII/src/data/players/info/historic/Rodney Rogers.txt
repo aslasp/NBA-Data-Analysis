@@ -1,0 +1,10 @@
+Name:Rodney Rogers
+Number:54
+Position:F
+Height:6-7
+Weight:270
+Birth:1971-06-20
+Age:43
+Exp:11
+School:Wake Forest
+OwingTeam:PHI

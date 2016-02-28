@@ -1,0 +1,10 @@
+Name:Gary Freeman
+Number:23
+Position:F
+Height:6-9
+Weight:210
+Birth:1948-07-25
+Age:66
+Exp:0
+School:Oregon State
+OwingTeam:CLE

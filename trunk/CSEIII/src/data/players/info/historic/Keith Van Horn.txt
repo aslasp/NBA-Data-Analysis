@@ -1,0 +1,10 @@
+Name:Keith Van Horn
+Number:2
+Position:F
+Height:6-10
+Weight:245
+Birth:1975-10-23
+Age:39
+Exp:8
+School:Utah
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Les Hunter
+Number:41
+Position:F
+Height:6-7
+Weight:210
+Birth:1942-08-16
+Age:72
+Exp:0
+School:Loyola-Chicago
+OwingTeam:BLT

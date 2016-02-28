@@ -1,0 +1,10 @@
+Name:Bingo Smith
+Number:7
+Position:F
+Height:6-5
+Weight:195
+Birth:1946-02-26
+Age:69
+Exp:10
+School:Tulsa
+OwingTeam:SDC

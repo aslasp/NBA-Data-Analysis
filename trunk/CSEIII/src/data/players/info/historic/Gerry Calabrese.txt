@@ -1,0 +1,10 @@
+Name:Gerry Calabrese
+Number:13
+Position:G
+Height:6-1
+Weight:175
+Birth:1925-02-04
+Age:90
+Exp:1
+School:St. John
+OwingTeam:SYR

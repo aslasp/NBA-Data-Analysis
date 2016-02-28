@@ -1,0 +1,10 @@
+Name:Marty Passaglia
+Number:
+Position:G
+Height:6-0
+Weight:170
+Birth:1919-04-22
+Age:96
+Exp:1
+School:Santa Clara
+OwingTeam:JET

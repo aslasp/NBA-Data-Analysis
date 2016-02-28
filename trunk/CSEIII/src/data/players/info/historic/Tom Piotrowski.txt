@@ -1,0 +1,10 @@
+Name:Tom Piotrowski
+Number:54
+Position:C
+Height:7-1
+Weight:240
+Birth:1960-10-17
+Age:54
+Exp:0
+School:La Salle
+OwingTeam:POR

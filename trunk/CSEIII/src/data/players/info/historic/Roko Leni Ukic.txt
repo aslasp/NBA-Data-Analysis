@@ -1,0 +1,10 @@
+Name:Roko Leni Ukic
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-12-05
+Age:30
+Exp:0
+School:Split
+OwingTeam:

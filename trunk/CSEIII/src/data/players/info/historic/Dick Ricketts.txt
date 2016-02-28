@@ -1,0 +1,10 @@
+Name:Dick Ricketts
+Number:24
+Position:F
+Height:6-7
+Weight:215
+Birth:1933-12-04
+Age:81
+Exp:2
+School:Duquesne
+OwingTeam:CIN

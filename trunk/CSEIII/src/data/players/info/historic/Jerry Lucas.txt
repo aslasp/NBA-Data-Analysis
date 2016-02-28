@@ -1,0 +1,10 @@
+Name:Jerry Lucas
+Number:32
+Position:F
+Height:6-8
+Weight:230
+Birth:1940-03-30
+Age:75
+Exp:10
+School:Ohio State
+OwingTeam:NYK

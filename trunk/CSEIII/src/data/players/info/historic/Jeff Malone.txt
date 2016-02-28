@@ -1,0 +1,10 @@
+Name:Jeff Malone
+Number:
+Position:
+Height:
+Weight:
+Birth:1961-06-28
+Age:53
+Exp:0
+School:Mississippi State
+OwingTeam:

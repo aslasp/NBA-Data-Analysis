@@ -1,0 +1,10 @@
+Name:Harry Gallatin
+Number:10
+Position:F
+Height:6-6
+Weight:210
+Birth:1927-04-26
+Age:88
+Exp:9
+School:Truman State
+OwingTeam:DET

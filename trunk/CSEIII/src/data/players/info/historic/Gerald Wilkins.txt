@@ -1,0 +1,10 @@
+Name:Gerald Wilkins
+Number:
+Position:
+Height:
+Weight:
+Birth:1963-09-11
+Age:51
+Exp:0
+School:Tennessee-Chattanooga
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Ron Moore
+Number:53
+Position:C
+Height:7-0
+Weight:260
+Birth:1962-01-16
+Age:53
+Exp:0
+School:West Virginia State
+OwingTeam:PHX

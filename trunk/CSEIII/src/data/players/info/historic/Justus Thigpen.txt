@@ -1,0 +1,10 @@
+Name:Justus Thigpen
+Number:23
+Position:G
+Height:6-1
+Weight:160
+Birth:1947-08-13
+Age:67
+Exp:1
+School:Weber State
+OwingTeam:KCK

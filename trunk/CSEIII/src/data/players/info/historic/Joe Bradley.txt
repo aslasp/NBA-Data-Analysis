@@ -1,0 +1,10 @@
+Name:Joe Bradley
+Number:
+Position:G
+Height:6-3
+Weight:175
+Birth:1928-09-24
+Age:86
+Exp:0
+School:Oklahoma State
+OwingTeam:CHS

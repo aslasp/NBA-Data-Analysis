@@ -1,0 +1,10 @@
+Name:Lars Hansen
+Number:22
+Position:C
+Height:6-10
+Weight:225
+Birth:1954-09-14
+Age:60
+Exp:0
+School:Washington
+OwingTeam:SEA

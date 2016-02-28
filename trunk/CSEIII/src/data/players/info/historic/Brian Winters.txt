@@ -1,0 +1,10 @@
+Name:Brian Winters
+Number:32
+Position:G
+Height:6-4
+Weight:185
+Birth:1952-03-01
+Age:63
+Exp:8
+School:South Carolina
+OwingTeam:MIL

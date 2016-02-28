@@ -1,0 +1,10 @@
+Name:Brian Martin
+Number:35
+Position:F
+Height:6-9
+Weight:212
+Birth:1962-08-18
+Age:52
+Exp:0
+School:Kansas
+OwingTeam:SEA

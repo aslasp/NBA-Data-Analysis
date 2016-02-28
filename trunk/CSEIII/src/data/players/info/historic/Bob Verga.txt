@@ -1,0 +1,10 @@
+Name:Bob Verga
+Number:17
+Position:G
+Height:6-1
+Weight:190
+Birth:1945-09-07
+Age:69
+Exp:0
+School:Duke
+OwingTeam:POR

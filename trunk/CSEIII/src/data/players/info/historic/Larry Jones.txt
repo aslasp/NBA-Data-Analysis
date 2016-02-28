@@ -1,0 +1,10 @@
+Name:Larry Jones
+Number:22
+Position:G
+Height:6-2
+Weight:180
+Birth:1942-09-22
+Age:72
+Exp:1
+School:Toledo
+OwingTeam:PHL

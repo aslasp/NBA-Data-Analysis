@@ -1,0 +1,10 @@
+Name:Lamar Odom
+Number:
+Position:F
+Height:6-10
+Weight:230
+Birth:1979-11-06
+Age:35
+Exp:14
+School:Rhode Island
+OwingTeam:NYK

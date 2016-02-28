@@ -1,0 +1,10 @@
+Name:Peter Thibeaux
+Number:7
+Position:F
+Height:6-7
+Weight:210
+Birth:1961-10-03
+Age:53
+Exp:1
+School:Saint Mary
+OwingTeam:GOS

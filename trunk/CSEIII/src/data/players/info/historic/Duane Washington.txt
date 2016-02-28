@@ -1,0 +1,10 @@
+Name:Duane Washington
+Number:10
+Position:G
+Height:6-4
+Weight:195
+Birth:1964-08-31
+Age:50
+Exp:1
+School:Middle Tennessee State
+OwingTeam:LAC

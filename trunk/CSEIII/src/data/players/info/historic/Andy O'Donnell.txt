@@ -1,0 +1,10 @@
+Name:Andy O'Donnell
+Number:
+Position:G
+Height:6-1
+Weight:180
+Birth:1925-03-10
+Age:90
+Exp:0
+School:Loyola-Maryland
+OwingTeam:BAL

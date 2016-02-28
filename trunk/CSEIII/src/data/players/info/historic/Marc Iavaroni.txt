@@ -1,0 +1,10 @@
+Name:Marc Iavaroni
+Number:43
+Position:F
+Height:6-10
+Weight:210
+Birth:1956-09-15
+Age:58
+Exp:6
+School:Virginia
+OwingTeam:UTH

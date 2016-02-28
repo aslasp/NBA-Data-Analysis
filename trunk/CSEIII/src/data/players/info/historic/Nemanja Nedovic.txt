@@ -1,0 +1,10 @@
+Name:Nemanja Nedovic
+Number:8
+Position:G
+Height:6-3
+Weight:192
+Birth:1991-06-16
+Age:23
+Exp:0
+School:Serbia
+OwingTeam:GSW

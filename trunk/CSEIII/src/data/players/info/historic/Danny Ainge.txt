@@ -1,0 +1,10 @@
+Name:Danny Ainge
+Number:22
+Position:G
+Height:6-5
+Weight:175
+Birth:1959-03-17
+Age:56
+Exp:13
+School:Brigham Young
+OwingTeam:PHX

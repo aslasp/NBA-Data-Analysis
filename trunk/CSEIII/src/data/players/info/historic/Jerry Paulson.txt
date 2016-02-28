@@ -1,0 +1,10 @@
+Name:Jerry Paulson
+Number:15
+Position:G
+Height:6-2
+Weight:185
+Birth:1935-07-21
+Age:79
+Exp:0
+School:Manhattan
+OwingTeam:CIN

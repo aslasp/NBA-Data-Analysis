@@ -1,0 +1,10 @@
+Name:A.J. Wynder
+Number:12
+Position:G
+Height:6-2
+Weight:180
+Birth:1964-09-11
+Age:50
+Exp:0
+School:Fairfield
+OwingTeam:BOS

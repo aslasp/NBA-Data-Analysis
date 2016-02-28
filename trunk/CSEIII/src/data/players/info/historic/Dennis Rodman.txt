@@ -1,0 +1,10 @@
+Name:Dennis Rodman
+Number:
+Position:
+Height:
+Weight:
+Birth:1961-05-13
+Age:54
+Exp:0
+School:Southeastern Oklahoma State
+OwingTeam:

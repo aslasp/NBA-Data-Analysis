@@ -1,0 +1,10 @@
+Name:Eric Piatkowski
+Number:52
+Position:G-F
+Height:6-7
+Weight:215
+Birth:1970-09-30
+Age:44
+Exp:13
+School:Nebraska
+OwingTeam:PHX

@@ -1,0 +1,10 @@
+Name:Derrick Phelps
+Number:5
+Position:F
+Height:6-4
+Weight:181
+Birth:1972-07-31
+Age:42
+Exp:0
+School:North Carolina
+OwingTeam:SAC

@@ -1,0 +1,10 @@
+Name:Irv Rothenberg
+Number:3
+Position:C
+Height:6-7
+Weight:215
+Birth:1921-12-31
+Age:93
+Exp:2
+School:Long Island-Brooklyn
+OwingTeam:NYK

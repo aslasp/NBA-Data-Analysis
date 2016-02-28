@@ -1,0 +1,10 @@
+Name:Rod Strickland
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-07-11
+Age:48
+Exp:0
+School:DePaul
+OwingTeam:

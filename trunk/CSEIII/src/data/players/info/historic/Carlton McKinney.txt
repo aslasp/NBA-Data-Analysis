@@ -1,0 +1,10 @@
+Name:Carlton McKinney
+Number:4
+Position:F
+Height:6-4
+Weight:190
+Birth:1964-10-21
+Age:50
+Exp:1
+School:Southern Methodist
+OwingTeam:NYK

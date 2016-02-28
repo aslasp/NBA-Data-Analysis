@@ -1,0 +1,10 @@
+Name:Martin Muursepp
+Number:13
+Position:F
+Height:6-9
+Weight:235
+Birth:1974-09-26
+Age:40
+Exp:1
+School:Kalev Talinn 
+OwingTeam:DAL

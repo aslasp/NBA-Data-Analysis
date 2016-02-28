@@ -1,0 +1,10 @@
+Name:Lew Hitch
+Number:14
+Position:F
+Height:6-8
+Weight:200
+Birth:1929-07-16
+Age:85
+Exp:5
+School:Kansas State
+OwingTeam:PHW

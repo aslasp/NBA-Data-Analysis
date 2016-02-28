@@ -1,0 +1,10 @@
+Name:John Janisch
+Number:
+Position:F
+Height:6-3
+Weight:200
+Birth:1920-03-15
+Age:95
+Exp:1
+School:Valparaiso
+OwingTeam:PRO

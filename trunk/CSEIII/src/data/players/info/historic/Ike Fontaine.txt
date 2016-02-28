@@ -1,0 +1,10 @@
+Name:Ike Fontaine
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-04-16
+Age:40
+Exp:0
+School:Washington State
+OwingTeam:

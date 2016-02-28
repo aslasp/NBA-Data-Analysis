@@ -1,0 +1,10 @@
+Name:Willie White
+Number:10
+Position:G
+Height:6-3
+Weight:195
+Birth:1962-08-20
+Age:52
+Exp:1
+School:Tennessee-Chattanooga
+OwingTeam:DEN

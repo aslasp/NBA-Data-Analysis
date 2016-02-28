@@ -1,0 +1,10 @@
+Name:Patrick Ewing
+Number:6
+Position:C
+Height:7-0
+Weight:255
+Birth:1962-08-05
+Age:52
+Exp:16
+School:Georgetown
+OwingTeam:ORL

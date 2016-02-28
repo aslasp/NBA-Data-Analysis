@@ -1,0 +1,10 @@
+Name:Dwight Jones
+Number:13
+Position:F
+Height:6-10
+Weight:210
+Birth:1952-02-27
+Age:63
+Exp:9
+School:Houston
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Jimmy Oliver
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-07-12
+Age:45
+Exp:0
+School:Purdue
+OwingTeam:

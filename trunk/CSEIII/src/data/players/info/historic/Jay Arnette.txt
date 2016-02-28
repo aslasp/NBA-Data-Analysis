@@ -1,0 +1,10 @@
+Name:Jay Arnette
+Number:21
+Position:G
+Height:6-2
+Weight:175
+Birth:1938-12-19
+Age:76
+Exp:2
+School:Texas
+OwingTeam:CIN

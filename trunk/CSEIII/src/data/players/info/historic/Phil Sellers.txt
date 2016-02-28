@@ -1,0 +1,10 @@
+Name:Phil Sellers
+Number:11
+Position:F
+Height:6-4
+Weight:195
+Birth:1953-11-20
+Age:61
+Exp:0
+School:Rutgers
+OwingTeam:DET

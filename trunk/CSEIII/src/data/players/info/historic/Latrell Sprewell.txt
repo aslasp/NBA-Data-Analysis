@@ -1,0 +1,10 @@
+Name:Latrell Sprewell
+Number:8
+Position:G
+Height:6-5
+Weight:195
+Birth:1970-09-08
+Age:44
+Exp:12
+School:Alabama
+OwingTeam:MIN

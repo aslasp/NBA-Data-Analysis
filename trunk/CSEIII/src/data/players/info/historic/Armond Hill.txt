@@ -1,0 +1,10 @@
+Name:Armond Hill
+Number:24
+Position:G
+Height:6-4
+Weight:190
+Birth:1953-03-31
+Age:62
+Exp:7
+School:Princeton
+OwingTeam:ATL

@@ -1,0 +1,10 @@
+Name:Paul Pressey
+Number:5
+Position:G
+Height:6-5
+Weight:185
+Birth:1958-12-24
+Age:56
+Exp:10
+School:Tulsa
+OwingTeam:GOS

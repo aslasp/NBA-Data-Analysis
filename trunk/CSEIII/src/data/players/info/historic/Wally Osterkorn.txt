@@ -1,0 +1,10 @@
+Name:Wally Osterkorn
+Number:8
+Position:F
+Height:6-5
+Weight:215
+Birth:1928-07-06
+Age:86
+Exp:3
+School:Illinois
+OwingTeam:SYR

@@ -1,0 +1,10 @@
+Name:Jermaine O'Neal
+Number:7
+Position:C-F
+Height:6-11
+Weight:255
+Birth:1978-10-13
+Age:36
+Exp:17
+School:Eau Claire HS 
+OwingTeam:GSW

@@ -1,0 +1,10 @@
+Name:Costic Borsavage
+Number:19
+Position:C
+Height:6-8
+Weight:220
+Birth:1924-07-25
+Age:90
+Exp:0
+School:Temple
+OwingTeam:PHW

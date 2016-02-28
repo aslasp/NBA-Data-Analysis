@@ -1,0 +1,10 @@
+Name:Gene Ollrich
+Number:
+Position:G
+Height:5-11
+Weight:160
+Birth:1922-06-30
+Age:92
+Exp:0
+School:Drake
+OwingTeam:WAT

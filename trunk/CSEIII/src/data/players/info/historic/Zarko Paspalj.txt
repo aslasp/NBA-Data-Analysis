@@ -1,0 +1,10 @@
+Name:Zarko Paspalj
+Number:14
+Position:F
+Height:6-9
+Weight:215
+Birth:1966-03-27
+Age:49
+Exp:0
+School:
+OwingTeam:SAN

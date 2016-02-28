@@ -1,0 +1,10 @@
+Name:Michael Anderson
+Number:10
+Position:G
+Height:5-11
+Weight:184
+Birth:1966-03-23
+Age:49
+Exp:0
+School:Drexel
+OwingTeam:SAN

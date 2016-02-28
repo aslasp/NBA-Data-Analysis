@@ -1,0 +1,10 @@
+Name:Tyronn Lue
+Number:10
+Position:G
+Height:6-0
+Weight:175
+Birth:1977-05-03
+Age:38
+Exp:10
+School:Nebraska
+OwingTeam:ORL

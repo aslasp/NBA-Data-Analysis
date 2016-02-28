@@ -1,0 +1,10 @@
+Name:Bob Christian
+Number:31
+Position:C
+Height:6-10
+Weight:255
+Birth:1944-05-11
+Age:71
+Exp:3
+School:Grambling
+OwingTeam:PHX

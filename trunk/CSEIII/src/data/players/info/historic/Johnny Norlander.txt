@@ -1,0 +1,10 @@
+Name:Johnny Norlander
+Number:
+Position:F
+Height:6-3
+Weight:180
+Birth:1921-03-05
+Age:94
+Exp:4
+School:Hamline
+OwingTeam:WAS

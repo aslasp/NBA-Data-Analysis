@@ -1,0 +1,10 @@
+Name:Cory Alexander
+Number:12
+Position:G
+Height:6-1
+Weight:190
+Birth:1973-06-22
+Age:41
+Exp:6
+School:Virginia
+OwingTeam:CHA

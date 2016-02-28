@@ -1,0 +1,10 @@
+Name:Tim Thomas
+Number:7
+Position:F
+Height:6-10
+Weight:240
+Birth:1977-02-26
+Age:38
+Exp:12
+School:Villanova
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Mel McGaha
+Number:8
+Position:G
+Height:6-1
+Weight:190
+Birth:1926-09-26
+Age:88
+Exp:0
+School:Arkansas
+OwingTeam:NYK

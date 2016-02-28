@@ -1,0 +1,10 @@
+Name:Mickey Dillard
+Number:9
+Position:G
+Height:6-3
+Weight:170
+Birth:1958-10-15
+Age:56
+Exp:0
+School:Florida State
+OwingTeam:CLE

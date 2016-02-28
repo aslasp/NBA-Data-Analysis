@@ -1,0 +1,10 @@
+Name:Terry Dozier
+Number:23
+Position:F
+Height:6-9
+Weight:210
+Birth:1966-06-29
+Age:48
+Exp:0
+School:South Carolina
+OwingTeam:CHH

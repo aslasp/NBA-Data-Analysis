@@ -1,0 +1,10 @@
+Name:Jay Taylor
+Number:24
+Position:F
+Height:6-3
+Weight:190
+Birth:1967-10-03
+Age:47
+Exp:0
+School:Eastern Illinois
+OwingTeam:NJN

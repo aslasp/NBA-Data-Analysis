@@ -1,0 +1,10 @@
+Name:Harry Boykoff
+Number:16
+Position:C
+Height:6-9
+Weight:225
+Birth:1922-07-24
+Age:92
+Exp:1
+School:St. John
+OwingTeam:TCB

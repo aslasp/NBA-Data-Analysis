@@ -1,0 +1,10 @@
+Name:Zelmo Beaty
+Number:31
+Position:C
+Height:6-9
+Weight:225
+Birth:1939-10-25
+Age:75
+Exp:7
+School:Prairie View A
+OwingTeam:LAL

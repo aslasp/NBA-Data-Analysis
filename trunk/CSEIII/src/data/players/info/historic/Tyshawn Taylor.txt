@@ -1,0 +1,10 @@
+Name:Tyshawn Taylor
+Number:
+Position:
+Height:
+Weight:
+Birth:1990-04-12
+Age:25
+Exp:0
+School:Kansas
+OwingTeam:

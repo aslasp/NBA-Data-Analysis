@@ -1,0 +1,10 @@
+Name:Allan Bristow
+Number:23
+Position:F
+Height:6-7
+Weight:210
+Birth:1951-08-23
+Age:63
+Exp:8
+School:Virginia Tech
+OwingTeam:DAL

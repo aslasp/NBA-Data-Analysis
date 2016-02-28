@@ -1,0 +1,10 @@
+Name:Joe Pace
+Number:44
+Position:C
+Height:6-10
+Weight:220
+Birth:1953-12-18
+Age:61
+Exp:1
+School:Coppin State
+OwingTeam:WAS

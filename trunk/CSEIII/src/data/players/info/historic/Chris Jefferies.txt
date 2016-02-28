@@ -1,0 +1,10 @@
+Name:Chris Jefferies
+Number:6
+Position:F
+Height:6-8
+Weight:230
+Birth:1980-02-13
+Age:35
+Exp:1
+School:Fresno State
+OwingTeam:CHI

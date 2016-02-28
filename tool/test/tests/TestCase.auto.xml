@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<autotest>
+    <config>
+        <output>
+            <extension>.out</extension>
+        </output>
+    </config>
+    <tests>
+		<test-case name="ini">
+			<command>--datasource C:/Users/Administrator/Desktop/mytest/batch/data</command>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<!--ZZT球队-->
+         <test-case name="All_Team" weight="3">
+            <command>-team -all -total</command>
+            <description>get all team data order by score desc</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+		<test-case name="test8">
+			<command>-team</command>
+			<description>返回得分前 30 的球队的场均比赛数据</description>
+			<time-limit>1000</time-limit>
+		</test-case>
+
+		<test-case name="test9">
+			<command>-team -all -n 10</command>
+			<description>返回得分前 10 的球队的平均数据</description>
+			<time-limit>1000</time-limit>
+		</test-case>
+
+		<test-case name="test10">
+			<command>-team -hot assist -n 5</command>
+			<description>返回助攻数前 5 的热门球队</description>
+			<time-limit>1000</time-limit>
+		</test-case>
+
+        <test-case name="test hot score">
+            <command>-team -hot score -n 5</command>
+            <description>返回score前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test hot rebound">
+            <command>-team -hot rebound -n 5</command>
+            <description>返回rebound前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test hot block">
+            <command>-team -hot blockShot -n 5</command>
+            <description>返回block 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test hot steal">
+            <command>-team -hot steal -n 5</command>
+            <description>返回steal前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test hot foul">
+            <command>-team -hot foul -n 5</command>
+            <description>返回foul前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test hot fault">
+            <command>-team -hot fault -n 5</command>
+            <description>返回助攻数前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test shot">
+            <command>-team -hot shot -n 5</command>
+            <description>返回shot前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test three">
+            <command>-team -hot three -n 5</command>
+            <description>返回three前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test penalty">
+            <command>-team -hot penalty -n 5</command>
+            <description>返回助攻数前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test offendRebound">
+            <command>-team -hot offendRebound -n 5</command>
+            <description>返回offendRebound前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test defendRebound">
+            <command>-team -hot defendRebound -n 5</command>
+            <description>返回defendRebound前 5 的热门球队</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test sort point">
+            <command>-team -avg -n 5 -sort point.asc</command>
+            <description>返回 point 最差的 5 支球队的场均比赛数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+		<test-case name="test11">
+			<command>-team -avg -n 5 -sort shot.asc</command>
+			<description>返回投篮命中率最差的 5 支球队的场均比赛数据</description>
+			<time-limit>1000</time-limit>
+		</test-case>
+
+        <test-case name="test sort rebound">
+            <command>-team -avg -n 5 -sort rebound.asc</command>
+            <description>返回 rebound 最差的 5 支球队的场均比赛数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test sort assits">
+            <command>-team -avg -n 5 -sort assist.asc</command>
+            <description>返回 assist 最差的 5 支球队的场均比赛数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test sort winRate">
+            <command>-team -avg -n 5 -sort winRate.asc</command>
+            <description>返回 point 最差的 5 支球队的场均比赛数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test sort offendRound">
+            <command>-team -avg -n 5 -sort offendRound.asc</command>
+            <description>返回 offendRound 最差的 5 支球队的场均比赛数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test sort stealEfficient">
+            <command>-team -avg -n 5 -sort stealEfficient.asc</command>
+            <description>返回 stealEfficient 最差的 5 支球队的场均比赛数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+
+
+        <test-case name="test12">
+            <command>-team -total -all -n 10 -sort shot.desc</command>
+            <description>返回命中率前 10 的球队的总和数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test total point">
+            <command>-team -total -all -n 10 -sort point.desc</command>
+            <description>返回 point 前 10 的球队的总和数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test total steal">
+            <command>-team -total -all -n 10 -sort steal.desc</command>
+            <description>返回 steal 前 10 的球队的总和数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test total rebound">
+            <command>-team -total -all -n 10 -sort rebound.desc</command>
+            <description>返回 rebound 前 10 的球队的总和数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+        <test-case name="test total winRate">
+            <command>-team -total -all -n 10 -sort winRate.desc</command>
+            <description>返回 winRate 前 10 的球队的总和数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+		<test-case name="test13">
+			<command>-team -high -n 5 -sort stealEfficient.asc</command>
+			<description>返回抢断效率最差的 5 支球队的高阶数据</description>
+			<time-limit>1000</time-limit>
+		</test-case>
+
+        <test-case name="test high assistEfficient">
+            <command>-team -high -n 5 -sort assistEfficient.asc</command>
+            <description>返回 assistEfficient 最差的 5 支球队的高阶数据</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+		<!--ZZT球队完-->
+		
+		<!--球员-->
+        <test-case name="All_Player_">
+            <command>-player -all -n 50 -total</command>
+            <description>get all player data</description>
+            <time-limit>1000</time-limit>
+        </test-case>
+
+		<test-case name="test1">
+			<command>-player</command>
+			<description>get all player avg 50</description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="test2">
+			<command>-player -all -n 10</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="test3">
+			<command>-player -high -n 10 -sort frequency.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="test4">
+			<command>-player -hot assist -n 5</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="test5">
+			<command>-player -king score -season</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="test6">
+			<command>-player -avg -n 5 -filter position.F</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="test7">
+			<command>-player -total -all -n 10 -filter position.F,league.west -sort shot.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+
+		
+		<test-case name="all-p-avg-score">
+			<command>-player -sort score.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-rebound">
+			<command>-player -sort rebound.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-assist">
+			<command>-player -sort assist.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-blockshot">
+			<command>-player -sort blockShot.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-total-steal">
+			<command>-player -total -sort steal.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-total-foul">
+			<command>-player -total -sort foul.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-total-fault">
+			<command>-player -total -sort fault.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-total-minute">
+			<command>-player -total -sort minute.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-efficient">
+			<command>-player -sort efficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-shot">
+			<command>-player -sort shot.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-three">
+			<command>-player -sort three.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-penalty">
+			<command>-player -sort penalty.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-doubletwo">
+			<command>-player -sort doubleTwo.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-realShot">
+			<command>-player -high -sort realShot.desc </command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-gmsc">
+			<command>-player -high -sort GmSc.desc </command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-shotEfficient">
+			<command>-player -high -sort shotEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-reboundEfficient">
+			<command>-player -high -sort reboundEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-offendReboundEfficient">
+			<command>-player -high -sort offendReboundEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-defendReboundEfficient">
+			<command>-player -high -sort deffendReboundEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-assistEfficient">
+			<command>-player -high -sort assistEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-stealEfficient">
+			<command>-player -high -sort stealEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-blockShotEfficient">
+			<command>-player -high -sort blockShotEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-faultEfficient">
+			<command>-player -high -sort faultEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-p-frequency">
+			<command>-player -high -sort frequency.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-p-score">
+			<command>-player -hot score</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-p-rebound">
+			<command>-player -hot rebound</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-p-assist">
+			<command>-player -hot assist</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-p-score">
+			<command>-player -hot score</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-score-season">
+			<command>-player -king score -season</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-score-daily">
+			<command>-player -king score -daily</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-rebound-daily">
+			<command>-player -king rebound -daily</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-rebound-season">
+			<command>-player -king rebound -season</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-assist-daily">
+			<command>-player -king assist -daily</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-assist-season">
+			<command>-player -king assist -season</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="king-p-assist-season-30">
+			<command>-player -king assist -season -n 30</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-score-F">
+			<command>-player -avg -all -sort score.desc -filter position.F</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-score-F-East">
+			<command>-player -avg -all -sort score.desc -filter position.F,league.East</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-10">
+			<command>-player -avg -all -n 10</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-1">
+			<command>-player -avg -all -n 10</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-p-avg-100">
+			<command>-player -avg -all -n 100</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		
+		<!--以上为球员部分,一下为球队部分-->
+		
+		<test-case name="all-t-avg-score">
+			<command>-team -sort score.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-avg-rebound">
+			<command>-team -avg -all -sort rebound.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-avg-assist">
+			<command>-team -sort assist.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-avg-blockShot">
+			<command>-team -sort blockShot.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-steal">
+			<command>-team -total -sort steal.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-foul">
+			<command>-team -total -all -sort foul.desc </command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		
+		<test-case name="all-t-total-fault">
+			<command>-team -total -sort fault.asc </command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-rebound">
+			<command>-team -total -sort rebound.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-defendRebound">
+			<command>-team -total -sort defendRebound.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-offendRebound">
+			<command>-team -total -sort offendRebound.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-shot">
+			<command>-team -total -sort shot.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-three">
+			<command>-team -total -sort three.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="all-t-total-penalty">
+			<command>-team -total -sort penalty.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-WinRate">
+			<command>-team -high -sort WinRate.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-offendRound">
+			<command>-team -high -sort offendRound.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-offendEfficient">
+			<command>-team -high -sort offendEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-defendEfficient">
+			<command>-team -high -sort defendEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-offendReboundEfficient">
+			<command>-team -high -sort offendReboundEfficient.asc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-deffendReboundEfficient">
+			<command>-team -high -sort deffendReboundEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-stealEfficient">
+			<command>-team -high -sort stealEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-assistEfficient">
+			<command>-team -high -sort assistEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		
+		
+		<test-case name="high-t-1-assistEfficient">
+			<command>-team -high -n 1 -sort assistEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="high-t-10-assistEfficient">
+			<command>-team -high -n 10 -sort assistEfficient.desc</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-score">
+			<command>-team -hot score</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-rebound">
+			<command>-team -hot rebound</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-assist">
+			<command>-team -hot assist</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-blockShot">
+			<command>-team -hot blockShot</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-steal">
+			<command>-team -hot steal</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-foul">
+			<command>-team -hot foul</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-fault">
+			<command>-team -hot fault</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-shot">
+			<command>-team -hot shot</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-three">
+			<command>-team -hot three</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-penalty">
+			<command>-team -hot penalty</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-defendRebound">
+			<command>-team -hot defendRebound</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-offendRebound">
+			<command>-team -hot offendRebound</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		<test-case name="hot-t-rebound">
+			<command>-team -hot rebound</command>
+			<description></description>
+			<time-limit>1000</time-limit>
+		</test-case>
+		
+		
+		
+    </tests>
+</autotest>

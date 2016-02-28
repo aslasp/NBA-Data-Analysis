@@ -1,0 +1,10 @@
+Name:Leroy Ellis
+Number:25
+Position:F
+Height:6-11
+Weight:210
+Birth:1940-03-10
+Age:75
+Exp:13
+School:St. John
+OwingTeam:PHL

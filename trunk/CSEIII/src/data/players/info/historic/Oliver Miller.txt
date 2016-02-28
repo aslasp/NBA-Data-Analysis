@@ -1,0 +1,10 @@
+Name:Oliver Miller
+Number:3
+Position:C
+Height:6-9
+Weight:315
+Birth:1970-04-06
+Age:45
+Exp:8
+School:Arkansas
+OwingTeam:MIN

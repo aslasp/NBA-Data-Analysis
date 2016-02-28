@@ -1,0 +1,10 @@
+Name:Marques Johnson
+Number:8
+Position:F
+Height:6-7
+Weight:218
+Birth:1956-02-08
+Age:59
+Exp:10
+School:California-Los Angeles
+OwingTeam:GOS

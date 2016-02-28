@@ -1,0 +1,10 @@
+Name:Kevin Pritchard
+Number:12
+Position:G
+Height:6-3
+Weight:180
+Birth:1967-07-17
+Age:47
+Exp:3
+School:Kansas
+OwingTeam:WAS

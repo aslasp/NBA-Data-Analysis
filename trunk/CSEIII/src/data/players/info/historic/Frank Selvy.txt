@@ -1,0 +1,10 @@
+Name:Frank Selvy
+Number:11
+Position:G
+Height:6-2
+Weight:180
+Birth:1932-11-09
+Age:82
+Exp:8
+School:Furman
+OwingTeam:LAL

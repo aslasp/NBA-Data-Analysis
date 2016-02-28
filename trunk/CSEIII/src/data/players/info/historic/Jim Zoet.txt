@@ -1,0 +1,10 @@
+Name:Jim Zoet
+Number:34
+Position:C
+Height:7-1
+Weight:240
+Birth:1953-12-30
+Age:61
+Exp:0
+School:Kent State
+OwingTeam:DET

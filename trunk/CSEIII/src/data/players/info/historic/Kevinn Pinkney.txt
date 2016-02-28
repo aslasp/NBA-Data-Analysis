@@ -1,0 +1,10 @@
+Name:Kevinn Pinkney
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-10-20
+Age:31
+Exp:0
+School:Nevada
+OwingTeam:

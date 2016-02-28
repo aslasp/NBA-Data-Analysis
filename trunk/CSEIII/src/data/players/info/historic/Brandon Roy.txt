@@ -1,0 +1,10 @@
+Name:Brandon Roy
+Number:3
+Position:G
+Height:6-6
+Weight:211
+Birth:1984-07-23
+Age:30
+Exp:5
+School:Washington
+OwingTeam:MIN

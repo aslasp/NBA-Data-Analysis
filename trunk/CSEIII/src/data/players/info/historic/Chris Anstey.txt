@@ -1,0 +1,10 @@
+Name:Chris Anstey
+Number:22
+Position:C
+Height:7-0
+Weight:249
+Birth:1975-01-01
+Age:40
+Exp:1
+School:Australia
+OwingTeam:CHI

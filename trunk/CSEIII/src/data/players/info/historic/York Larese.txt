@@ -1,0 +1,10 @@
+Name:York Larese
+Number:34
+Position:G
+Height:6-4
+Weight:183
+Birth:1938-07-18
+Age:76
+Exp:0
+School:North Carolina
+OwingTeam:PHW

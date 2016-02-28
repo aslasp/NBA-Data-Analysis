@@ -1,0 +1,10 @@
+Name:Bob Wiesenhahn
+Number:71
+Position:F
+Height:6-4
+Weight:215
+Birth:1938-12-22
+Age:76
+Exp:0
+School:Cincinnati
+OwingTeam:CIN

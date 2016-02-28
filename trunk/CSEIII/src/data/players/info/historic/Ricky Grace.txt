@@ -1,0 +1,10 @@
+Name:Ricky Grace
+Number:15
+Position:G
+Height:6-1
+Weight:180
+Birth:1967-08-20
+Age:47
+Exp:0
+School:Oklahoma
+OwingTeam:ATL

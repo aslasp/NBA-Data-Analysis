@@ -1,0 +1,10 @@
+Name:Jesse Dark
+Number:11
+Position:G
+Height:6-4
+Weight:210
+Birth:1951-09-02
+Age:63
+Exp:0
+School:Virginia Commonwealth
+OwingTeam:NYK

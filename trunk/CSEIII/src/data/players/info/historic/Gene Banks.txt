@@ -1,0 +1,10 @@
+Name:Gene Banks
+Number:20
+Position:F
+Height:6-7
+Weight:215
+Birth:1959-05-15
+Age:56
+Exp:5
+School:Duke
+OwingTeam:CHI

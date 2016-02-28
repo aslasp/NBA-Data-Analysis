@@ -1,0 +1,10 @@
+Name:Stu Lantz
+Number:23
+Position:G
+Height:6-3
+Weight:175
+Birth:1946-07-13
+Age:68
+Exp:7
+School:Nebraska
+OwingTeam:LAL

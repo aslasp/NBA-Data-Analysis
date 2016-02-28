@@ -1,0 +1,10 @@
+Name:Spencer Haywood
+Number:24
+Position:F
+Height:6-8
+Weight:225
+Birth:1949-04-22
+Age:66
+Exp:11
+School:Detroit Mercy
+OwingTeam:WAS

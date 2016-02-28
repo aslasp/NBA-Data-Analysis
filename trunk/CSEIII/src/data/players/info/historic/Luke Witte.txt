@@ -1,0 +1,10 @@
+Name:Luke Witte
+Number:44
+Position:C
+Height:7-0
+Weight:235
+Birth:1950-10-19
+Age:64
+Exp:2
+School:Ohio State
+OwingTeam:CLE

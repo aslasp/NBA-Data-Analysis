@@ -1,0 +1,10 @@
+Name:Anthony Randolph
+Number:15
+Position:F
+Height:6-11
+Weight:225
+Birth:1989-07-15
+Age:25
+Exp:5
+School:Louisiana State
+OwingTeam:DEN

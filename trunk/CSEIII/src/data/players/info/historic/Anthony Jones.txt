@@ -1,0 +1,10 @@
+Name:Anthony Jones
+Number:21
+Position:G
+Height:6-6
+Weight:195
+Birth:1962-09-13
+Age:52
+Exp:2
+School:Nevada-Las Vegas
+OwingTeam:DAL

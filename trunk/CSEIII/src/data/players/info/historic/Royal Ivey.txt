@@ -1,0 +1,10 @@
+Name:Royal Ivey
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-12-20
+Age:33
+Exp:0
+School:Texas
+OwingTeam:

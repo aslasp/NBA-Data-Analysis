@@ -1,0 +1,10 @@
+Name:Keith Jennings
+Number:2
+Position:G
+Height:5-7
+Weight:160
+Birth:1968-11-02
+Age:46
+Exp:2
+School:East Tennessee State
+OwingTeam:GOS

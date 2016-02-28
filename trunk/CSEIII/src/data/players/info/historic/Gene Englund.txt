@@ -1,0 +1,10 @@
+Name:Gene Englund
+Number:10
+Position:F
+Height:6-4
+Weight:205
+Birth:1917-10-21
+Age:97
+Exp:0
+School:Wisconsin
+OwingTeam:BOS

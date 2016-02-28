@@ -1,0 +1,10 @@
+Name:Lionel Simmons
+Number:22
+Position:F
+Height:6-7
+Weight:210
+Birth:1968-11-14
+Age:46
+Exp:6
+School:La Salle
+OwingTeam:SAC

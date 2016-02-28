@@ -1,0 +1,10 @@
+Name:Don Eliason
+Number:14
+Position:F
+Height:6-2
+Weight:210
+Birth:1918-07-24
+Age:96
+Exp:0
+School:Hamline
+OwingTeam:BOS

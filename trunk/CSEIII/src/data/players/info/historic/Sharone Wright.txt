@@ -1,0 +1,10 @@
+Name:Sharone Wright
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-01-30
+Age:42
+Exp:0
+School:Clemson
+OwingTeam:

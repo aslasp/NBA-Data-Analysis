@@ -1,0 +1,10 @@
+Name:Antonis Fotsis
+Number:6
+Position:F
+Height:6-10
+Weight:219
+Birth:1981-04-01
+Age:34
+Exp:0
+School:Greece
+OwingTeam:MEM

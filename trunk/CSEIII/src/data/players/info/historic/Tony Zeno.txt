@@ -1,0 +1,10 @@
+Name:Tony Zeno
+Number:44
+Position:F
+Height:6-8
+Weight:210
+Birth:1957-10-01
+Age:57
+Exp:0
+School:Arizona State
+OwingTeam:IND

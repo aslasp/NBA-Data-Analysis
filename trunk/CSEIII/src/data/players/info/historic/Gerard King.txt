@@ -1,0 +1,10 @@
+Name:Gerard King
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-11-25
+Age:42
+Exp:0
+School:Nicholls State
+OwingTeam:

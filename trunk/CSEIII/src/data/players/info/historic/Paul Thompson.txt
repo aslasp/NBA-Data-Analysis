@@ -1,0 +1,10 @@
+Name:Paul Thompson
+Number:44
+Position:G
+Height:6-6
+Weight:210
+Birth:1961-05-25
+Age:54
+Exp:2
+School:Tulane
+OwingTeam:PHL

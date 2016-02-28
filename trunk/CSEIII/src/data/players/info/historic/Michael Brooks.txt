@@ -1,0 +1,10 @@
+Name:Michael Brooks
+Number:35
+Position:F
+Height:6-7
+Weight:220
+Birth:1958-08-17
+Age:56
+Exp:5
+School:La Salle
+OwingTeam:DEN

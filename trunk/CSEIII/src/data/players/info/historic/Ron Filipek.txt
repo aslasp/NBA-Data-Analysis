@@ -1,0 +1,10 @@
+Name:Ron Filipek
+Number:20
+Position:F
+Height:6-5
+Weight:205
+Birth:1944-02-05
+Age:71
+Exp:0
+School:Tennessee Tech
+OwingTeam:PHL

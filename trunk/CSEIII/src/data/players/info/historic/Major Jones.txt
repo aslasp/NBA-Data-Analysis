@@ -1,0 +1,10 @@
+Name:Major Jones
+Number:35
+Position:F
+Height:6-9
+Weight:225
+Birth:1953-07-09
+Age:61
+Exp:5
+School:Albany State 
+OwingTeam:DET

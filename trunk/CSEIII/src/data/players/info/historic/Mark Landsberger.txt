@@ -1,0 +1,10 @@
+Name:Mark Landsberger
+Number:54
+Position:F
+Height:6-8
+Weight:215
+Birth:1955-05-21
+Age:60
+Exp:6
+School:Arizona State
+OwingTeam:ATL

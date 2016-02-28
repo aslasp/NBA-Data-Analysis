@@ -1,0 +1,10 @@
+Name:Glenn McDonald
+Number:13
+Position:F
+Height:6-6
+Weight:190
+Birth:1952-03-18
+Age:63
+Exp:2
+School:Long Beach State
+OwingTeam:MIL

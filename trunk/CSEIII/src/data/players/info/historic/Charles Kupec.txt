@@ -1,0 +1,10 @@
+Name:Charles Kupec
+Number:25
+Position:C
+Height:6-6
+Weight:220
+Birth:1953-01-16
+Age:62
+Exp:2
+School:Michigan
+OwingTeam:HOU

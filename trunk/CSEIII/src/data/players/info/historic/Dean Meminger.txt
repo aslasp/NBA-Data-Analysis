@@ -1,0 +1,10 @@
+Name:Dean Meminger
+Number:7
+Position:G
+Height:6-1
+Weight:175
+Birth:1948-05-13
+Age:67
+Exp:5
+School:Marquette
+OwingTeam:NYK

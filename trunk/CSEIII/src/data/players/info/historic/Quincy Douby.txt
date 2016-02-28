@@ -1,0 +1,10 @@
+Name:Quincy Douby
+Number:5
+Position:G
+Height:6-3
+Weight:175
+Birth:1984-05-16
+Age:31
+Exp:2
+School:Rutgers
+OwingTeam:TOR

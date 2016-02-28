@@ -1,0 +1,10 @@
+Name:Jerome James
+Number:31
+Position:C
+Height:7-1
+Weight:285
+Birth:1975-11-17
+Age:39
+Exp:8
+School:Florida A
+OwingTeam:CHI

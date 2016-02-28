@@ -1,0 +1,10 @@
+Name:Paul Neumann
+Number:15
+Position:G
+Height:6-1
+Weight:175
+Birth:1938-01-30
+Age:77
+Exp:5
+School:Stanford
+OwingTeam:SFW

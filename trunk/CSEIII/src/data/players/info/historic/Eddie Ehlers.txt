@@ -1,0 +1,10 @@
+Name:Eddie Ehlers
+Number:14
+Position:G
+Height:6-3
+Weight:198
+Birth:1923-03-10
+Age:92
+Exp:1
+School:Purdue
+OwingTeam:BOS

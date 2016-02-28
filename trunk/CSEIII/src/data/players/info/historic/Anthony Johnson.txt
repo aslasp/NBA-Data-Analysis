@@ -1,0 +1,10 @@
+Name:Anthony Johnson
+Number:8
+Position:G
+Height:6-3
+Weight:195
+Birth:1974-10-02
+Age:40
+Exp:12
+School:College of Charleston
+OwingTeam:ORL

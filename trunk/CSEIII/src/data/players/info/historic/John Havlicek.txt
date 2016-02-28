@@ -1,0 +1,10 @@
+Name:John Havlicek
+Number:17
+Position:F
+Height:6-5
+Weight:203
+Birth:1940-04-08
+Age:75
+Exp:15
+School:Ohio State
+OwingTeam:BOS

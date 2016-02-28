@@ -1,0 +1,10 @@
+Name:Derek Smith
+Number:43
+Position:G
+Height:6-6
+Weight:205
+Birth:1961-11-01
+Age:53
+Exp:8
+School:Louisville
+OwingTeam:BOS

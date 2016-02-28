@@ -1,0 +1,10 @@
+Name:John Duren
+Number:44
+Position:G
+Height:6-3
+Weight:195
+Birth:1958-10-30
+Age:56
+Exp:2
+School:Georgetown
+OwingTeam:IND

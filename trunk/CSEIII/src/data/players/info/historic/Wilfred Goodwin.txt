@@ -1,0 +1,10 @@
+Name:Wilfred Goodwin
+Number:
+Position:F
+Height:6-2
+Weight:203
+Birth:1920-12-22
+Age:94
+Exp:1
+School:
+OwingTeam:PRO

@@ -1,0 +1,10 @@
+Name:Don Anielak
+Number:12
+Position:F
+Height:6-7
+Weight:190
+Birth:1930-11-01
+Age:84
+Exp:0
+School:Missouri State
+OwingTeam:NYK

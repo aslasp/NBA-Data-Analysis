@@ -1,0 +1,10 @@
+Name:Terry Cummings
+Number:
+Position:
+Height:
+Weight:
+Birth:1961-03-15
+Age:54
+Exp:0
+School:DePaul
+OwingTeam:

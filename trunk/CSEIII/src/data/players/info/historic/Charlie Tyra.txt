@@ -1,0 +1,10 @@
+Name:Charlie Tyra
+Number:14
+Position:C
+Height:6-8
+Weight:230
+Birth:1935-08-16
+Age:79
+Exp:4
+School:Louisville
+OwingTeam:CHP

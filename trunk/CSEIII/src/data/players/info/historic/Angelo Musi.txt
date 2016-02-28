@@ -1,0 +1,10 @@
+Name:Angelo Musi
+Number:5
+Position:G
+Height:5-9
+Weight:145
+Birth:1918-07-25
+Age:96
+Exp:2
+School:Temple
+OwingTeam:PHW

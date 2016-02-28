@@ -1,0 +1,10 @@
+Name:Bob Williams
+Number:33
+Position:F
+Height:6-6
+Weight:230
+Birth:1931-05-12
+Age:84
+Exp:1
+School:Florida A
+OwingTeam:MNL

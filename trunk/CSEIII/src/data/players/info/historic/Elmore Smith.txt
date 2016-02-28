@@ -1,0 +1,10 @@
+Name:Elmore Smith
+Number:3
+Position:C
+Height:7-1
+Weight:250
+Birth:1949-05-09
+Age:66
+Exp:7
+School:Kentucky State
+OwingTeam:CLE

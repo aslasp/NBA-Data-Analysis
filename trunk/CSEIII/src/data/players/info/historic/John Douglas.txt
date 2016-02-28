@@ -1,0 +1,10 @@
+Name:John Douglas
+Number:13
+Position:G
+Height:6-2
+Weight:170
+Birth:1956-06-12
+Age:58
+Exp:1
+School:Kansas
+OwingTeam:SDC

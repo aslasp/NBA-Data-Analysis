@@ -1,0 +1,10 @@
+Name:Steve Francis
+Number:3
+Position:G
+Height:6-3
+Weight:210
+Birth:1977-02-21
+Age:38
+Exp:8
+School:Maryland
+OwingTeam:HOU

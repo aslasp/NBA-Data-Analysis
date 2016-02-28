@@ -1,0 +1,10 @@
+Name:Uwe Blab
+Number:33
+Position:C
+Height:7-1
+Weight:252
+Birth:1962-03-26
+Age:53
+Exp:4
+School:Indiana
+OwingTeam:SAN

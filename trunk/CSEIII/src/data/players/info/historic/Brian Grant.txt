@@ -1,0 +1,10 @@
+Name:Brian Grant
+Number:55
+Position:F-C
+Height:6-9
+Weight:254
+Birth:1972-03-05
+Age:43
+Exp:11
+School:Xavier
+OwingTeam:PHX

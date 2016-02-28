@@ -1,0 +1,10 @@
+Name:Al Negratti
+Number:
+Position:F
+Height:6-3
+Weight:200
+Birth:1921-06-12
+Age:93
+Exp:0
+School:Seton Hall
+OwingTeam:WAS

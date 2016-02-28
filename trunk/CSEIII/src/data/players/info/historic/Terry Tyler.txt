@@ -1,0 +1,10 @@
+Name:Terry Tyler
+Number:41
+Position:F
+Height:6-7
+Weight:215
+Birth:1956-10-30
+Age:58
+Exp:10
+School:Detroit Mercy
+OwingTeam:DAL

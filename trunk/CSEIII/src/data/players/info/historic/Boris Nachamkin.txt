@@ -1,0 +1,10 @@
+Name:Boris Nachamkin
+Number:17
+Position:F
+Height:6-6
+Weight:210
+Birth:1933-12-06
+Age:81
+Exp:0
+School:New York University
+OwingTeam:ROC

@@ -1,0 +1,10 @@
+Name:Scott Haffner
+Number:4
+Position:G
+Height:6-3
+Weight:180
+Birth:1966-02-02
+Age:49
+Exp:1
+School:Evansville
+OwingTeam:CHH

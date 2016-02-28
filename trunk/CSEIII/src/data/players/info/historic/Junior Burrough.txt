@@ -1,0 +1,10 @@
+Name:Junior Burrough
+Number:5
+Position:F
+Height:6-8
+Weight:242
+Birth:1973-01-18
+Age:42
+Exp:0
+School:Virginia
+OwingTeam:BOS

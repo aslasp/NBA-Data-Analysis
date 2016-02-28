@@ -1,0 +1,10 @@
+Name:Mickell Gladness
+Number:32
+Position:C
+Height:6-11
+Weight:220
+Birth:1986-07-26
+Age:28
+Exp:0
+School:Alabama A
+OwingTeam:GSW

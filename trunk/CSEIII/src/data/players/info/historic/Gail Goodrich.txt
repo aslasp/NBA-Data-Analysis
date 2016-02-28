@@ -1,0 +1,10 @@
+Name:Gail Goodrich
+Number:25
+Position:G
+Height:6-1
+Weight:170
+Birth:1943-04-23
+Age:72
+Exp:13
+School:California-Los Angeles
+OwingTeam:NOJ

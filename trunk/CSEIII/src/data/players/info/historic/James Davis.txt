@@ -1,0 +1,10 @@
+Name:James Davis
+Number:6
+Position:C
+Height:6-7
+Weight:220
+Birth:1932-04-22
+Age:83
+Exp:0
+School:St. John
+OwingTeam:ROC

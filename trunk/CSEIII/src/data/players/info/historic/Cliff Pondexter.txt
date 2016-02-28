@@ -1,0 +1,10 @@
+Name:Cliff Pondexter
+Number:41
+Position:F
+Height:6-9
+Weight:233
+Birth:1954-09-15
+Age:60
+Exp:2
+School:Long Beach State
+OwingTeam:CHI

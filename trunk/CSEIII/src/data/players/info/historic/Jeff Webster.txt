@@ -1,0 +1,10 @@
+Name:Jeff Webster
+Number:42
+Position:F
+Height:6-8
+Weight:232
+Birth:1971-02-19
+Age:44
+Exp:0
+School:Oklahoma
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Derrick Coleman
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-06-21
+Age:47
+Exp:0
+School:Syracuse
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Eric Maynor
+Number:
+Position:
+Height:
+Weight:
+Birth:1987-06-11
+Age:27
+Exp:0
+School:Virginia Commonwealth
+OwingTeam:

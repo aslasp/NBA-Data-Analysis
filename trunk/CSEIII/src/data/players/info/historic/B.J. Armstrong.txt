@@ -1,0 +1,10 @@
+Name:B.J. Armstrong
+Number:11
+Position:G
+Height:6-2
+Weight:185
+Birth:1967-09-09
+Age:47
+Exp:10
+School:Iowa
+OwingTeam:CHI

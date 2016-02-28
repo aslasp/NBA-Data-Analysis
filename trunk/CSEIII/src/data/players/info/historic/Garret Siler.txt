@@ -1,0 +1,10 @@
+Name:Garret Siler
+Number:20
+Position:C
+Height:6-11
+Weight:305
+Birth:1986-10-25
+Age:28
+Exp:0
+School:Augusta State
+OwingTeam:PHX

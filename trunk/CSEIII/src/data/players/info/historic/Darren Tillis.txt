@@ -1,0 +1,10 @@
+Name:Darren Tillis
+Number:22
+Position:C
+Height:6-11
+Weight:215
+Birth:1960-02-23
+Age:55
+Exp:1
+School:Cleveland State
+OwingTeam:GOS

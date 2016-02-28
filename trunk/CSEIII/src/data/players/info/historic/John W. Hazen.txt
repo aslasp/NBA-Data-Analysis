@@ -1,0 +1,10 @@
+Name:John W. Hazen
+Number:3-10
+Position:G
+Height:6-2
+Weight:172
+Birth:1927-03-02
+Age:88
+Exp:0
+School:Indiana State
+OwingTeam:BOS

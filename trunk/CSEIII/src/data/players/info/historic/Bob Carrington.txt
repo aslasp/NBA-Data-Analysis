@@ -1,0 +1,10 @@
+Name:Bob Carrington
+Number:30
+Position:G
+Height:6-6
+Weight:195
+Birth:1953-07-03
+Age:61
+Exp:1
+School:Boston College
+OwingTeam:SDC

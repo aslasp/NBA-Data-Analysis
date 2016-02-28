@@ -1,0 +1,10 @@
+Name:Elmer Bennett
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-02-13
+Age:45
+Exp:0
+School:Notre Dame
+OwingTeam:

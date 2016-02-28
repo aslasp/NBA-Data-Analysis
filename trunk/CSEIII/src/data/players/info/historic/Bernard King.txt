@@ -1,0 +1,10 @@
+Name:Bernard King
+Number:30
+Position:F
+Height:6-7
+Weight:205
+Birth:1956-12-04
+Age:58
+Exp:13
+School:Tennessee
+OwingTeam:NJN

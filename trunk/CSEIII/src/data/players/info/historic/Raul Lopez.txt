@@ -1,0 +1,10 @@
+Name:Raul Lopez
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-04-15
+Age:35
+Exp:0
+School:Spain
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Ed Macauley
+Number:20
+Position:C
+Height:6-8
+Weight:185
+Birth:1928-03-22
+Age:87
+Exp:9
+School:Saint Louis
+OwingTeam:STL

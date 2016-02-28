@@ -1,0 +1,10 @@
+Name:John Mahnken
+Number:16
+Position:C
+Height:6-8
+Weight:220
+Birth:1922-06-16
+Age:92
+Exp:6
+School:Georgetown
+OwingTeam:BOS

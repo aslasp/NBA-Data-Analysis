@@ -1,0 +1,10 @@
+Name:Carl Meinhold
+Number:
+Position:G
+Height:6-2
+Weight:185
+Birth:1926-03-29
+Age:89
+Exp:1
+School:Long Island-Brooklyn
+OwingTeam:CHS

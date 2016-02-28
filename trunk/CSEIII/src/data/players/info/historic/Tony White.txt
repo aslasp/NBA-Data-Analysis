@@ -1,0 +1,10 @@
+Name:Tony White
+Number:4
+Position:G
+Height:6-2
+Weight:170
+Birth:1965-02-15
+Age:50
+Exp:0
+School:Tennessee
+OwingTeam:GOS

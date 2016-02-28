@@ -1,0 +1,10 @@
+Name:Claude Gregory
+Number:43
+Position:F
+Height:6-8
+Weight:205
+Birth:1958-12-26
+Age:56
+Exp:1
+School:Wisconsin
+OwingTeam:LAC

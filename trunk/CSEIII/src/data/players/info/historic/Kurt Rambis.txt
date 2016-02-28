@@ -1,0 +1,10 @@
+Name:Kurt Rambis
+Number:18
+Position:F
+Height:6-8
+Weight:213
+Birth:1958-02-25
+Age:57
+Exp:13
+School:Santa Clara
+OwingTeam:LAL

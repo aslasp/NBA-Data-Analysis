@@ -1,0 +1,10 @@
+Name:Kevin Porter
+Number:1
+Position:G
+Height:6-0
+Weight:170
+Birth:1950-04-17
+Age:65
+Exp:9
+School:Saint Francis 
+OwingTeam:WAS

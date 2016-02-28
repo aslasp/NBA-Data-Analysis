@@ -1,0 +1,10 @@
+Name:Travis Hansen
+Number:6
+Position:G-F
+Height:6-6
+Weight:205
+Birth:1978-04-15
+Age:37
+Exp:0
+School:Brigham Young
+OwingTeam:ATL

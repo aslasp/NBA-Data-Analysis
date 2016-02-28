@@ -1,0 +1,10 @@
+Name:Sam Lacey
+Number:52
+Position:C
+Height:6-10
+Weight:235
+Birth:1948-03-28
+Age:67
+Exp:12
+School:New Mexico State
+OwingTeam:CLE

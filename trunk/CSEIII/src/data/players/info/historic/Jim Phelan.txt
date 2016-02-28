@@ -1,0 +1,10 @@
+Name:Jim Phelan
+Number: 
+Position:G
+Height:6-1
+Weight:175
+Birth:1929-03-19
+Age:86
+Exp:0
+School:La Salle
+OwingTeam:PHW

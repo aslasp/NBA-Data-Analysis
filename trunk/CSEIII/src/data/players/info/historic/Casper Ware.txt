@@ -1,0 +1,10 @@
+Name:Casper Ware
+Number:17
+Position:G
+Height:5-10
+Weight:175
+Birth:1990-01-17
+Age:25
+Exp:0
+School:Long Beach State
+OwingTeam:PHI

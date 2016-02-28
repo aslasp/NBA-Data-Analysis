@@ -1,0 +1,10 @@
+Name:Willie McCarter
+Number:17
+Position:G
+Height:6-3
+Weight:175
+Birth:1946-07-26
+Age:68
+Exp:2
+School:Drake
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Rickey Green
+Number:13
+Position:G
+Height:6-0
+Weight:170
+Birth:1954-08-18
+Age:60
+Exp:13
+School:Michigan
+OwingTeam:BOS

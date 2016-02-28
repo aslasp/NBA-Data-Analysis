@@ -1,0 +1,10 @@
+Name:Roger Strickland
+Number:16
+Position:F
+Height:6-5
+Weight:200
+Birth:1940-09-04
+Age:74
+Exp:0
+School:Jacksonville
+OwingTeam:BLT

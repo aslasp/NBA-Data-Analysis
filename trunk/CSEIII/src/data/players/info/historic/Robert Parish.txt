@@ -1,0 +1,10 @@
+Name:Robert Parish
+Number:00
+Position:C
+Height:7-1
+Weight:244
+Birth:1953-08-30
+Age:61
+Exp:20
+School:Centenary 
+OwingTeam:CHI

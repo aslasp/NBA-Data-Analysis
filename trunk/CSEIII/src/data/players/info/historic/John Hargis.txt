@@ -1,0 +1,10 @@
+Name:John Hargis
+Number:9
+Position:G
+Height:6-2
+Weight:180
+Birth:1920-08-20
+Age:94
+Exp:1
+School:Texas
+OwingTeam:TCB

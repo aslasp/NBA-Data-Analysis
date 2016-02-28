@@ -1,0 +1,10 @@
+Name:Sam Mitchell
+Number:42
+Position:F
+Height:6-7
+Weight:215
+Birth:1963-09-02
+Age:51
+Exp:12
+School:Mercer
+OwingTeam:MIN

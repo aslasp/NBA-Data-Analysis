@@ -1,0 +1,10 @@
+Name:Brent Price
+Number:25
+Position:G
+Height:6-1
+Weight:185
+Birth:1968-12-09
+Age:46
+Exp:9
+School:Oklahoma
+OwingTeam:SAC

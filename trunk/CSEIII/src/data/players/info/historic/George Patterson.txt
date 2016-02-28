@@ -1,0 +1,10 @@
+Name:George Patterson
+Number:20
+Position:C
+Height:6-7
+Weight:230
+Birth:1939-11-26
+Age:75
+Exp:0
+School:Toledo
+OwingTeam:DET

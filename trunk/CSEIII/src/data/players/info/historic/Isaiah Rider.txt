@@ -1,0 +1,10 @@
+Name:Isaiah Rider
+Number:
+Position:
+Height:
+Weight:
+Birth:1971-03-12
+Age:44
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:

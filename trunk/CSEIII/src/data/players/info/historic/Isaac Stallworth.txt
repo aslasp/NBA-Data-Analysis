@@ -1,0 +1,10 @@
+Name:Isaac Stallworth
+Number:15
+Position:F
+Height:6-5
+Weight:190
+Birth:1950-01-18
+Age:65
+Exp:4
+School:Kansas
+OwingTeam:NOJ

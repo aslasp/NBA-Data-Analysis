@@ -1,0 +1,10 @@
+Name:Vladimir Radmanovic
+Number:77
+Position:F
+Height:6-10
+Weight:235
+Birth:1980-11-19
+Age:34
+Exp:11
+School:Belgrade
+OwingTeam:CHI

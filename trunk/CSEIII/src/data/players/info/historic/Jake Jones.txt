@@ -1,0 +1,10 @@
+Name:Jake Jones
+Number:12
+Position:G
+Height:6-3
+Weight:180
+Birth:1949-05-09
+Age:66
+Exp:0
+School:Assumption
+OwingTeam:CIN

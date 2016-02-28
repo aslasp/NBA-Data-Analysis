@@ -1,0 +1,10 @@
+Name:Bernard Robinson
+Number:22
+Position:G-F
+Height:6-6
+Weight:210
+Birth:1980-12-26
+Age:34
+Exp:2
+School:Michigan
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Walter Sharpe
+Number:42
+Position:F
+Height:6-9
+Weight:245
+Birth:1986-07-18
+Age:28
+Exp:0
+School:Alabama-Birmingham
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:James Augustine
+Number:40
+Position:F
+Height:6-10
+Weight:235
+Birth:1984-02-27
+Age:31
+Exp:1
+School:Illinois
+OwingTeam:ORL

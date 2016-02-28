@@ -1,0 +1,10 @@
+Name:Malik Rose
+Number:9
+Position:F
+Height:6-7
+Weight:255
+Birth:1974-11-23
+Age:40
+Exp:12
+School:Drexel
+OwingTeam:OKC

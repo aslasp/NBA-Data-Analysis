@@ -1,0 +1,10 @@
+Name:Lucious Harris
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-12-18
+Age:44
+Exp:0
+School:Long Beach State
+OwingTeam:

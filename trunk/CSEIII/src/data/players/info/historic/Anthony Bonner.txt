@@ -1,0 +1,10 @@
+Name:Anthony Bonner
+Number:33
+Position:F
+Height:6-8
+Weight:230
+Birth:1968-06-08
+Age:46
+Exp:6
+School:Saint Louis
+OwingTeam:UTA

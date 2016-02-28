@@ -1,0 +1,10 @@
+Name:Donald Royal
+Number:5
+Position:F
+Height:6-8
+Weight:218
+Birth:1966-05-22
+Age:49
+Exp:7
+School:Notre Dame
+OwingTeam:CHH

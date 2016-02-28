@@ -1,0 +1,10 @@
+Name:Jim Garvin
+Number:30
+Position:F
+Height:6-7
+Weight:200
+Birth:1950-02-05
+Age:65
+Exp:0
+School:Boston University
+OwingTeam:BUF

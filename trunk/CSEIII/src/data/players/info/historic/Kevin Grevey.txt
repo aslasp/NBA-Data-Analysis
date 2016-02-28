@@ -1,0 +1,10 @@
+Name:Kevin Grevey
+Number:35
+Position:G
+Height:6-5
+Weight:210
+Birth:1953-05-12
+Age:62
+Exp:9
+School:Kentucky
+OwingTeam:MIL

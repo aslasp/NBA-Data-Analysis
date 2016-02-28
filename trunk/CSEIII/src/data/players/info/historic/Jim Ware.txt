@@ -1,0 +1,10 @@
+Name:Jim Ware
+Number:27
+Position:F
+Height:6-7
+Weight:210
+Birth:1944-05-02
+Age:71
+Exp:1
+School:Oklahoma City
+OwingTeam:SDR

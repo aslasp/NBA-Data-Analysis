@@ -1,0 +1,10 @@
+Name:Earl Tatum
+Number:43
+Position:G
+Height:6-4
+Weight:185
+Birth:1953-07-26
+Age:61
+Exp:3
+School:Marquette
+OwingTeam:CLE

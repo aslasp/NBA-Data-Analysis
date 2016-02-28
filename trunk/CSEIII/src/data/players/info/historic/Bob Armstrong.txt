@@ -1,0 +1,10 @@
+Name:Bob Armstrong
+Number:19
+Position:C
+Height:6-8
+Weight:220
+Birth:1933-06-17
+Age:81
+Exp:0
+School:Michigan State
+OwingTeam:PHW

@@ -1,0 +1,10 @@
+Name:Steve Harris
+Number:20
+Position:G
+Height:6-5
+Weight:195
+Birth:1963-10-15
+Age:51
+Exp:4
+School:Tulsa
+OwingTeam:LAC

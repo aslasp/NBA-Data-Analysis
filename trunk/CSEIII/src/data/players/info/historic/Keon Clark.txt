@@ -1,0 +1,10 @@
+Name:Keon Clark
+Number:13
+Position:C-F
+Height:6-11
+Weight:221
+Birth:1975-04-16
+Age:40
+Exp:5
+School:Nevada-Las Vegas
+OwingTeam:PHX

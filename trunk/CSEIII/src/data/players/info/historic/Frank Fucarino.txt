@@ -1,0 +1,10 @@
+Name:Frank Fucarino
+Number:
+Position:F
+Height:6-2
+Weight:175
+Birth:1920-07-24
+Age:94
+Exp:0
+School:Long Island-Brooklyn
+OwingTeam:HUS

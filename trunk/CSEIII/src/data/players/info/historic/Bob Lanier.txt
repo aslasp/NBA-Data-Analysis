@@ -1,0 +1,10 @@
+Name:Bob Lanier
+Number:16
+Position:C
+Height:6-11
+Weight:250
+Birth:1948-09-10
+Age:66
+Exp:13
+School:St. Bonaventure
+OwingTeam:MIL

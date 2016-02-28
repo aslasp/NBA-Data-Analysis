@@ -1,0 +1,10 @@
+Name:Doug Sims
+Number:11
+Position:F
+Height:6-7
+Weight:195
+Birth:1943-06-29
+Age:71
+Exp:0
+School:Kent State
+OwingTeam:CIN

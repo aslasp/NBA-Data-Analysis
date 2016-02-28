@@ -1,0 +1,10 @@
+Name:David Thompson
+Number:44
+Position:G
+Height:6-4
+Weight:195
+Birth:1954-07-13
+Age:60
+Exp:7
+School:North Carolina State
+OwingTeam:SEA

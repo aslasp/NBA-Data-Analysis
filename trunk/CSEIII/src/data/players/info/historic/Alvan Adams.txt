@@ -1,0 +1,10 @@
+Name:Alvan Adams
+Number:33
+Position:C
+Height:6-9
+Weight:210
+Birth:1954-07-19
+Age:60
+Exp:12
+School:Oklahoma
+OwingTeam:PHX

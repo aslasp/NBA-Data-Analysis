@@ -1,0 +1,10 @@
+Name:Mccoy McLemore
+Number:18
+Position:F
+Height:6-7
+Weight:230
+Birth:1942-04-03
+Age:73
+Exp:7
+School:Drake
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Franklin Edwards
+Number:10
+Position:G
+Height:6-1
+Weight:170
+Birth:1959-02-02
+Age:56
+Exp:6
+School:Cleveland State
+OwingTeam:SAC

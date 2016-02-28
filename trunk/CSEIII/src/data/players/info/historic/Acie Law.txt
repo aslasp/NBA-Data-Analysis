@@ -1,0 +1,10 @@
+Name:Acie Law
+Number:2
+Position:G
+Height:6-3
+Weight:202
+Birth:1985-01-25
+Age:30
+Exp:3
+School:Texas A
+OwingTeam:GSW

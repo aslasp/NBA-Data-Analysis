@@ -1,0 +1,10 @@
+Name:Greg Grant
+Number:9
+Position:G
+Height:5-7
+Weight:140
+Birth:1966-08-29
+Age:48
+Exp:5
+School:College of New Jersey
+OwingTeam:DEN

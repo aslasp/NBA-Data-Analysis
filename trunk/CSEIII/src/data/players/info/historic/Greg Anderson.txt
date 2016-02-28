@@ -1,0 +1,10 @@
+Name:Greg Anderson
+Number:0
+Position:C-F
+Height:6-10
+Weight:250
+Birth:1964-06-22
+Age:50
+Exp:9
+School:Houston
+OwingTeam:ATL

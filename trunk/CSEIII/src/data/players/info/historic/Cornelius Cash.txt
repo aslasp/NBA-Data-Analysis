@@ -1,0 +1,10 @@
+Name:Cornelius Cash
+Number:45
+Position:F
+Height:6-8
+Weight:215
+Birth:1952-03-03
+Age:63
+Exp:0
+School:Bowling Green
+OwingTeam:DET

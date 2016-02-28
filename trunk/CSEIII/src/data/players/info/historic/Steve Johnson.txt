@@ -1,0 +1,10 @@
+Name:Steve Johnson
+Number:33
+Position:C
+Height:6-10
+Weight:235
+Birth:1957-11-03
+Age:57
+Exp:9
+School:Oregon State
+OwingTeam:GOS

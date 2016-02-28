@@ -1,0 +1,10 @@
+Name:Fred Hoiberg
+Number:32
+Position:G
+Height:6-5
+Weight:210
+Birth:1972-10-15
+Age:42
+Exp:9
+School:Iowa State
+OwingTeam:MIN

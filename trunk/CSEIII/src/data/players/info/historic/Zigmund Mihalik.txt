@@ -1,0 +1,10 @@
+Name:Zigmund Mihalik
+Number:
+Position:G
+Height:6-0
+Weight:180
+Birth:1916-09-22
+Age:98
+Exp:0
+School:
+OwingTeam:PIT

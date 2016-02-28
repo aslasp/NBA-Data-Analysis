@@ -1,0 +1,10 @@
+Name:Jack Foley
+Number:7
+Position:F
+Height:6-3
+Weight:170
+Birth:1939-04-19
+Age:76
+Exp:0
+School:Holy Cross
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Jerome Allen
+Number:53
+Position:G
+Height:6-4
+Weight:184
+Birth:1973-01-28
+Age:42
+Exp:1
+School:Pennsylvania
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:James Donaldson
+Number:54
+Position:C
+Height:7-2
+Weight:275
+Birth:1957-08-16
+Age:57
+Exp:13
+School:Washington State
+OwingTeam:UTH

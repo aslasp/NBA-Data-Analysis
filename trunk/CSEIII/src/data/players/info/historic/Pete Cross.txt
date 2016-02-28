@@ -1,0 +1,10 @@
+Name:Pete Cross
+Number:41
+Position:C
+Height:6-9
+Weight:230
+Birth:1948-03-28
+Age:67
+Exp:2
+School:San Francisco
+OwingTeam:SEA

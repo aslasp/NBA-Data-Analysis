@@ -1,0 +1,10 @@
+Name:Lucius Allen
+Number:42
+Position:G
+Height:6-2
+Weight:175
+Birth:1947-09-26
+Age:67
+Exp:9
+School:California-Los Angeles
+OwingTeam:KCK

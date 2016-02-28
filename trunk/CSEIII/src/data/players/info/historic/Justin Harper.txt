@@ -1,0 +1,10 @@
+Name:Justin Harper
+Number:32
+Position:F-C
+Height:6-10
+Weight:225
+Birth:1989-08-30
+Age:25
+Exp:0
+School:Richmond
+OwingTeam:ORL

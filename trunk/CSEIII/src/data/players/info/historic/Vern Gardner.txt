@@ -1,0 +1,10 @@
+Name:Vern Gardner
+Number:12
+Position:C
+Height:6-5
+Weight:200
+Birth:1925-05-14
+Age:90
+Exp:2
+School:Utah
+OwingTeam:PHW

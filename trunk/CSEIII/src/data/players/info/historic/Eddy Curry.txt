@@ -1,0 +1,10 @@
+Name:Eddy Curry
+Number:
+Position:
+Height:
+Weight:
+Birth:1982-12-05
+Age:32
+Exp:0
+School:Thornwood HS 
+OwingTeam:

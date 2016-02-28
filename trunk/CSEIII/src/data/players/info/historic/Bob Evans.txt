@@ -1,0 +1,10 @@
+Name:Bob Evans
+Number:
+Position:G
+Height:6-2
+Weight:175
+Birth:1925-05-31
+Age:90
+Exp:0
+School:Butler
+OwingTeam:INO

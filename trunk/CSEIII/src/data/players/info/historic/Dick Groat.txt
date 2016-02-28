@@ -1,0 +1,10 @@
+Name:Dick Groat
+Number:5
+Position:G
+Height:5-11
+Weight:180
+Birth:1930-11-04
+Age:84
+Exp:0
+School:Duke
+OwingTeam:FTW

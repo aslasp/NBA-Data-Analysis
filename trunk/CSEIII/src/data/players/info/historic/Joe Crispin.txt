@@ -1,0 +1,10 @@
+Name:Joe Crispin
+Number:11
+Position:G
+Height:6-0
+Weight:185
+Birth:1979-07-18
+Age:35
+Exp:0
+School:Penn State
+OwingTeam:PHX

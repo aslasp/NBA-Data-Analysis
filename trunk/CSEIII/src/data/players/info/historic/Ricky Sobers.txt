@@ -1,0 +1,10 @@
+Name:Ricky Sobers
+Number:14
+Position:G
+Height:6-3
+Weight:198
+Birth:1953-01-15
+Age:62
+Exp:10
+School:Nevada-Las Vegas
+OwingTeam:SEA

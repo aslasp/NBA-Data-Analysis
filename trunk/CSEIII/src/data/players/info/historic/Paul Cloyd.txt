@@ -1,0 +1,10 @@
+Name:Paul Cloyd
+Number:
+Position:G
+Height:6-2
+Weight:180
+Birth:1920-06-13
+Age:94
+Exp:0
+School:Wisconsin
+OwingTeam:WAT

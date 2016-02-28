@@ -1,0 +1,10 @@
+Name:Martin Nessley
+Number:51
+Position:F
+Height:7-2
+Weight:260
+Birth:1965-02-16
+Age:50
+Exp:0
+School:Duke
+OwingTeam:SAC

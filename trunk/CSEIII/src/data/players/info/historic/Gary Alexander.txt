@@ -1,0 +1,10 @@
+Name:Gary Alexander
+Number:16
+Position:F
+Height:6-7
+Weight:240
+Birth:1969-11-01
+Age:45
+Exp:0
+School:South Florida
+OwingTeam:CLE

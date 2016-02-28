@@ -1,0 +1,10 @@
+Name:John Greig
+Number:22
+Position:F
+Height:6-7
+Weight:215
+Birth:1961-04-28
+Age:54
+Exp:0
+School:Oregon
+OwingTeam:SEA

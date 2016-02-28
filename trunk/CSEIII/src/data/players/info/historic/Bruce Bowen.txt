@@ -1,0 +1,10 @@
+Name:Bruce Bowen
+Number:12
+Position:F
+Height:6-7
+Weight:200
+Birth:1971-06-14
+Age:43
+Exp:12
+School:Cal State-Fullerton
+OwingTeam:SAS

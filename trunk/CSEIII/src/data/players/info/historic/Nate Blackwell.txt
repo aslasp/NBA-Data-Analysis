@@ -1,0 +1,10 @@
+Name:Nate Blackwell
+Number:3
+Position:G
+Height:6-4
+Weight:170
+Birth:1965-02-15
+Age:50
+Exp:0
+School:Temple
+OwingTeam:SAN

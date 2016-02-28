@@ -1,0 +1,10 @@
+Name:Jeff Judkins
+Number:22
+Position:G
+Height:6-6
+Weight:185
+Birth:1956-03-23
+Age:59
+Exp:4
+School:Utah
+OwingTeam:POR

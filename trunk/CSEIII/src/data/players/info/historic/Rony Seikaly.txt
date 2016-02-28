@@ -1,0 +1,10 @@
+Name:Rony Seikaly
+Number:2
+Position:C
+Height:6-11
+Weight:253
+Birth:1965-05-10
+Age:50
+Exp:10
+School:Syracuse
+OwingTeam:NJN

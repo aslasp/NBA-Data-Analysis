@@ -1,0 +1,10 @@
+Name:Steve Malovic
+Number:
+Position:F
+Height:6-10
+Weight:230
+Birth:1956-07-21
+Age:58
+Exp:0
+School:San Diego State
+OwingTeam:DET

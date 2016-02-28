@@ -1,0 +1,10 @@
+Name:Greg Fillmore
+Number:34
+Position:C
+Height:7-1
+Weight:240
+Birth:1947-03-07
+Age:68
+Exp:1
+School:Cheyney
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Joel Ingram
+Number:22
+Position:F
+Height:6-0
+Weight:210
+Birth:1931-08-31
+Age:83
+Exp:0
+School:Jackson State
+OwingTeam:MNL

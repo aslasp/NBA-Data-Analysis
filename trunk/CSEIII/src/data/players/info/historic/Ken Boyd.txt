@@ -1,0 +1,10 @@
+Name:Ken Boyd
+Number:33
+Position:F
+Height:6-5
+Weight:195
+Birth:1952-03-25
+Age:63
+Exp:0
+School:Boston University
+OwingTeam:NOJ

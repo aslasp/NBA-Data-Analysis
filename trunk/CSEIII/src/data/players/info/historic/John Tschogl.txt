@@ -1,0 +1,10 @@
+Name:John Tschogl
+Number:26
+Position:F
+Height:6-6
+Weight:206
+Birth:1950-04-25
+Age:65
+Exp:2
+School:California-Santa Barbara
+OwingTeam:PHL

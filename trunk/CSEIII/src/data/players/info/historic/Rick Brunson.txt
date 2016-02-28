@@ -1,0 +1,10 @@
+Name:Rick Brunson
+Number:9
+Position:G
+Height:6-4
+Weight:190
+Birth:1972-06-14
+Age:42
+Exp:8
+School:Temple
+OwingTeam:HOU

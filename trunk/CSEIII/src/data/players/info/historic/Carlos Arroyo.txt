@@ -1,0 +1,10 @@
+Name:Carlos Arroyo
+Number:45
+Position:G
+Height:6-2
+Weight:200
+Birth:1979-07-30
+Age:35
+Exp:8
+School:Florida International
+OwingTeam:BOS

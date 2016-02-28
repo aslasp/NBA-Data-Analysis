@@ -1,0 +1,10 @@
+Name:Alvin Scott
+Number:14
+Position:F
+Height:6-7
+Weight:185
+Birth:1955-09-14
+Age:59
+Exp:7
+School:Oral Roberts
+OwingTeam:PHX

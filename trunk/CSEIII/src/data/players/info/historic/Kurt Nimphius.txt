@@ -1,0 +1,10 @@
+Name:Kurt Nimphius
+Number:40
+Position:C
+Height:6-10
+Weight:218
+Birth:1958-03-13
+Age:57
+Exp:7
+School:Arizona State
+OwingTeam:PHL

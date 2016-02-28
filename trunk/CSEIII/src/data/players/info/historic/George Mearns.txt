@@ -1,0 +1,10 @@
+Name:George Mearns
+Number:
+Position:F
+Height:6-3
+Weight:175
+Birth:1922-04-18
+Age:93
+Exp:1
+School:Rhode Island
+OwingTeam:PRO

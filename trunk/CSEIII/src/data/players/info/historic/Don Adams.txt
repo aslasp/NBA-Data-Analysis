@@ -1,0 +1,10 @@
+Name:Don Adams
+Number:10
+Position:F
+Height:6-7
+Weight:210
+Birth:1947-11-27
+Age:67
+Exp:6
+School:Northwestern
+OwingTeam:BUF

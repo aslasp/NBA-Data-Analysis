@@ -1,0 +1,10 @@
+Name:Othella Harrington
+Number:24
+Position:F-C
+Height:6-9
+Weight:235
+Birth:1974-01-31
+Age:41
+Exp:11
+School:Georgetown
+OwingTeam:CHA

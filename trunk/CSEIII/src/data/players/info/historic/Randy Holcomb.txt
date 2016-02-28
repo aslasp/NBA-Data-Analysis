@@ -1,0 +1,10 @@
+Name:Randy Holcomb
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-08-08
+Age:35
+Exp:0
+School:San Diego State
+OwingTeam:

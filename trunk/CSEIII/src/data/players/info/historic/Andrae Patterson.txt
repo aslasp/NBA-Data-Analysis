@@ -1,0 +1,10 @@
+Name:Andrae Patterson
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-11-12
+Age:39
+Exp:0
+School:Indiana
+OwingTeam:

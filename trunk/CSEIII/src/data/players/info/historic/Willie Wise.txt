@@ -1,0 +1,10 @@
+Name:Willie Wise
+Number:42
+Position:F
+Height:6-6
+Weight:210
+Birth:1947-03-03
+Age:68
+Exp:1
+School:Drake
+OwingTeam:SEA

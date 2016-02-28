@@ -1,0 +1,10 @@
+Name:Brian Howard
+Number:41
+Position:F
+Height:6-6
+Weight:204
+Birth:1967-10-19
+Age:47
+Exp:1
+School:North Carolina State
+OwingTeam:DAL

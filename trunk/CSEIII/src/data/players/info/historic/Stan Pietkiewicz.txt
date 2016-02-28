@@ -1,0 +1,10 @@
+Name:Stan Pietkiewicz
+Number:43
+Position:G
+Height:6-5
+Weight:200
+Birth:1956-07-14
+Age:58
+Exp:2
+School:Auburn
+OwingTeam:DAL

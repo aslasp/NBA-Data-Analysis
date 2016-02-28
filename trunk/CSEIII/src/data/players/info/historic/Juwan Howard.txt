@@ -1,0 +1,10 @@
+Name:Juwan Howard
+Number:5
+Position:F
+Height:6-9
+Weight:250
+Birth:1973-02-07
+Age:42
+Exp:18
+School:Michigan
+OwingTeam:MIA

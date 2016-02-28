@@ -1,0 +1,10 @@
+Name:George Yardley
+Number:12
+Position:F
+Height:6-5
+Weight:190
+Birth:1928-11-03
+Age:86
+Exp:6
+School:Stanford
+OwingTeam:SYR

@@ -1,0 +1,10 @@
+Name:Ray Scott
+Number:31
+Position:F
+Height:6-9
+Weight:215
+Birth:1938-07-12
+Age:76
+Exp:8
+School:Portland
+OwingTeam:BLT

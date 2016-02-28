@@ -1,0 +1,10 @@
+Name:Darrin Hancock
+Number:35
+Position:F
+Height:6-7
+Weight:205
+Birth:1971-11-03
+Age:43
+Exp:2
+School:Kansas
+OwingTeam:ATL

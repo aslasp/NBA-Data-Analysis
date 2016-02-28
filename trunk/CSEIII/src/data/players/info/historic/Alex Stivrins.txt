@@ -1,0 +1,10 @@
+Name:Alex Stivrins
+Number:11
+Position:F
+Height:6-8
+Weight:220
+Birth:1962-11-29
+Age:52
+Exp:1
+School:Colorado
+OwingTeam:PHX

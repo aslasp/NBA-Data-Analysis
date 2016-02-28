@@ -1,0 +1,10 @@
+Name:Mark Macon
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-04-14
+Age:46
+Exp:0
+School:Temple
+OwingTeam:

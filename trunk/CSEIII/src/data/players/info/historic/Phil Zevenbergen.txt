@@ -1,0 +1,10 @@
+Name:Phil Zevenbergen
+Number:41
+Position:F
+Height:6-10
+Weight:230
+Birth:1964-04-13
+Age:51
+Exp:0
+School:Washington
+OwingTeam:SAN

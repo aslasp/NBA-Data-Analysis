@@ -1,0 +1,10 @@
+Name:Damone Brown
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-06-28
+Age:35
+Exp:0
+School:Syracuse
+OwingTeam:

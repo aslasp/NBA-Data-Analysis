@@ -1,0 +1,10 @@
+Name:Chris Welp
+Number:40
+Position:C
+Height:7-0
+Weight:245
+Birth:1964-01-02
+Age:51
+Exp:2
+School:Washington
+OwingTeam:GOS

@@ -1,0 +1,10 @@
+Name:Nick Shaback
+Number:
+Position:G
+Height:5-11
+Weight:180
+Birth:1918-09-10
+Age:96
+Exp:0
+School:
+OwingTeam:CLR

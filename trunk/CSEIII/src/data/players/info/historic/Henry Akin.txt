@@ -1,0 +1,10 @@
+Name:Henry Akin
+Number:10
+Position:C
+Height:6-10
+Weight:225
+Birth:1944-07-31
+Age:70
+Exp:1
+School:Morehead State
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Michael Kearns
+Number:7
+Position:G
+Height:6-2
+Weight:178
+Birth:1929-06-18
+Age:85
+Exp:0
+School:Princeton
+OwingTeam:PHW

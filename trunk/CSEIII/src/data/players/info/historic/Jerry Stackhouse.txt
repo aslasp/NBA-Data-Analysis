@@ -1,0 +1,10 @@
+Name:Jerry Stackhouse
+Number:42
+Position:F
+Height:6-6
+Weight:218
+Birth:1974-11-05
+Age:40
+Exp:17
+School:North Carolina
+OwingTeam:BKN

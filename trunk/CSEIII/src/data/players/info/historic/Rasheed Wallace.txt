@@ -1,0 +1,10 @@
+Name:Rasheed Wallace
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-09-17
+Age:40
+Exp:0
+School:North Carolina
+OwingTeam:

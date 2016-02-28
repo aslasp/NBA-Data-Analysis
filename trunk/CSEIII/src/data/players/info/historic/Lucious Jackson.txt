@@ -1,0 +1,10 @@
+Name:Lucious Jackson
+Number:
+Position:F
+Height:6-9
+Weight:240
+Birth:1941-10-31
+Age:73
+Exp:7
+School:Texas-Pan American
+OwingTeam:PHL

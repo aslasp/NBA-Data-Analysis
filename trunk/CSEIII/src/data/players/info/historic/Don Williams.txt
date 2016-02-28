@@ -1,0 +1,10 @@
+Name:Don Williams
+Number:20
+Position:G
+Height:6-2
+Weight:180
+Birth:1956-08-02
+Age:58
+Exp:0
+School:Notre Dame
+OwingTeam:UTH

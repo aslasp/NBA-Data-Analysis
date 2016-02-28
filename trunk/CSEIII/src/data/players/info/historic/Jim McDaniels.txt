@@ -1,0 +1,10 @@
+Name:Jim McDaniels
+Number:44
+Position:C
+Height:6-11
+Weight:228
+Birth:1948-04-02
+Age:67
+Exp:4
+School:Western Kentucky
+OwingTeam:BUF

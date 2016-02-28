@@ -1,0 +1,10 @@
+Name:Greg Stokes
+Number:41
+Position:F
+Height:6-10
+Weight:220
+Birth:1963-08-05
+Age:51
+Exp:1
+School:Iowa
+OwingTeam:SAC

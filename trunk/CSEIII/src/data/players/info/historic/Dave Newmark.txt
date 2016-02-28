@@ -1,0 +1,10 @@
+Name:Dave Newmark
+Number:29
+Position:C
+Height:7-0
+Weight:240
+Birth:1946-09-11
+Age:68
+Exp:1
+School:Columbia
+OwingTeam:ATL

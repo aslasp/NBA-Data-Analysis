@@ -1,0 +1,10 @@
+Name:Aubrey Davis
+Number:
+Position:G
+Height:6-2
+Weight:175
+Birth:1921-03-28
+Age:94
+Exp:0
+School:Oklahoma Baptist
+OwingTeam:BOM

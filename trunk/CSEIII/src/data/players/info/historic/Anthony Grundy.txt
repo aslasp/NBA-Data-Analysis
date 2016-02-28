@@ -1,0 +1,10 @@
+Name:Anthony Grundy
+Number:16
+Position:G
+Height:6-3
+Weight:185
+Birth:1979-04-15
+Age:36
+Exp:0
+School:North Carolina State
+OwingTeam:ATL

@@ -1,0 +1,10 @@
+Name:Charlie Sitton
+Number:52
+Position:F
+Height:6-8
+Weight:210
+Birth:1962-07-03
+Age:52
+Exp:0
+School:Oregon State
+OwingTeam:DAL

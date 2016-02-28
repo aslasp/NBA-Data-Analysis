@@ -1,0 +1,10 @@
+Name:Muggsy Bogues
+Number:
+Position:
+Height:
+Weight:
+Birth:1965-01-09
+Age:50
+Exp:0
+School:Wake Forest
+OwingTeam:

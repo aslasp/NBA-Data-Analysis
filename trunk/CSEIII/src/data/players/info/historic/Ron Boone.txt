@@ -1,0 +1,10 @@
+Name:Ron Boone
+Number:24
+Position:G
+Height:6-2
+Weight:200
+Birth:1946-09-06
+Age:68
+Exp:4
+School:Idaho State
+OwingTeam:UTH

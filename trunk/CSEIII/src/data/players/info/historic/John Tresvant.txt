@@ -1,0 +1,10 @@
+Name:John Tresvant
+Number:12
+Position:F
+Height:6-7
+Weight:215
+Birth:1939-11-06
+Age:75
+Exp:8
+School:Seattle
+OwingTeam:BLT

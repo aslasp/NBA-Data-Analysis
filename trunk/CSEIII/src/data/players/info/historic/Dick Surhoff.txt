@@ -1,0 +1,10 @@
+Name:Dick Surhoff
+Number:6
+Position:F
+Height:6-4
+Weight:210
+Birth:1929-11-16
+Age:85
+Exp:1
+School:Long Island-Brooklyn
+OwingTeam:MIH

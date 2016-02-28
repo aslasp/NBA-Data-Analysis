@@ -1,0 +1,10 @@
+Name:Lennie Rosenbluth
+Number:18
+Position:F
+Height:6-4
+Weight:190
+Birth:1933-01-22
+Age:82
+Exp:1
+School:North Carolina
+OwingTeam:PHW

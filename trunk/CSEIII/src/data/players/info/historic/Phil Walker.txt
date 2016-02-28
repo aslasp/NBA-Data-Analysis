@@ -1,0 +1,10 @@
+Name:Phil Walker
+Number:20
+Position:G
+Height:6-3
+Weight:180
+Birth:1956-03-20
+Age:59
+Exp:0
+School:Millersville
+OwingTeam:WAS

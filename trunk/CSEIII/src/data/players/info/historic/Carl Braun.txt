@@ -1,0 +1,10 @@
+Name:Carl Braun
+Number:4
+Position:G
+Height:6-5
+Weight:180
+Birth:1927-09-25
+Age:87
+Exp:12
+School:Colgate
+OwingTeam:BOS

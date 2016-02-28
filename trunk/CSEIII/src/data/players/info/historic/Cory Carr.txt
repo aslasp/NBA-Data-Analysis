@@ -1,0 +1,10 @@
+Name:Cory Carr
+Number:21
+Position:G
+Height:6-4
+Weight:210
+Birth:1975-12-05
+Age:39
+Exp:0
+School:Texas Tech
+OwingTeam:CHI

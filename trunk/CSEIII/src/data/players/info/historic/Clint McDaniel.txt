@@ -1,0 +1,10 @@
+Name:Clint McDaniel
+Number:20
+Position:G
+Height:6-4
+Weight:180
+Birth:1972-02-26
+Age:43
+Exp:0
+School:Arkansas
+OwingTeam:SAC

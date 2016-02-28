@@ -1,0 +1,10 @@
+Name:Shaquille O'Neal
+Number:36
+Position:C
+Height:7-1
+Weight:325
+Birth:1972-03-06
+Age:43
+Exp:18
+School:Louisiana State
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Michael Wallace
+Number:
+Position:G
+Height:6-1
+Weight:185
+Birth:1918-07-12
+Age:96
+Exp:0
+School:Scranton
+OwingTeam:HUS

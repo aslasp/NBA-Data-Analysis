@@ -1,0 +1,10 @@
+Name:Mel Thurston
+Number:
+Position:G
+Height:6-0
+Weight:175
+Birth:1919-01-16
+Age:96
+Exp:0
+School:Canisius
+OwingTeam:PRO

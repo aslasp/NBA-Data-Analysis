@@ -1,0 +1,10 @@
+Name:Gus Gerard
+Number:22
+Position:F
+Height:6-8
+Weight:200
+Birth:1953-07-27
+Age:61
+Exp:4
+School:Virginia
+OwingTeam:SAN

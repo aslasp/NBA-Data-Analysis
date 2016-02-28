@@ -1,0 +1,10 @@
+Name:Dave Fedor
+Number:17
+Position:F
+Height:6-6
+Weight:190
+Birth:1940-12-10
+Age:74
+Exp:0
+School:Florida State
+OwingTeam:SFW

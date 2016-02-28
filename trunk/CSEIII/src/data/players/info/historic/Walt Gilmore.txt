@@ -1,0 +1,10 @@
+Name:Walt Gilmore
+Number:48
+Position:F
+Height:6-6
+Weight:225
+Birth:1947-02-27
+Age:68
+Exp:0
+School:Fort Valley State
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Nelson Bobb
+Number:5
+Position:G
+Height:6-0
+Weight:170
+Birth:1924-02-25
+Age:91
+Exp:3
+School:Temple
+OwingTeam:PHW

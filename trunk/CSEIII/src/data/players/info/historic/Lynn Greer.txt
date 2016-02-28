@@ -1,0 +1,10 @@
+Name:Lynn Greer
+Number:3
+Position:G
+Height:6-2
+Weight:175
+Birth:1979-10-23
+Age:35
+Exp:0
+School:Temple
+OwingTeam:MIL

@@ -1,0 +1,10 @@
+Name:Buck Williams
+Number:52
+Position:F
+Height:6-8
+Weight:225
+Birth:1960-03-08
+Age:55
+Exp:16
+School:Maryland
+OwingTeam:NYK

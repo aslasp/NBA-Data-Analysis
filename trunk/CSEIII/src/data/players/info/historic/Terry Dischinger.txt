@@ -1,0 +1,10 @@
+Name:Terry Dischinger
+Number:42
+Position:F
+Height:6-7
+Weight:189
+Birth:1940-11-21
+Age:74
+Exp:8
+School:Purdue
+OwingTeam:POR

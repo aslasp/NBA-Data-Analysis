@@ -1,0 +1,10 @@
+Name:Carl Nicks
+Number:24
+Position:G
+Height:6-1
+Weight:175
+Birth:1958-10-06
+Age:56
+Exp:2
+School:Indiana State
+OwingTeam:CLE

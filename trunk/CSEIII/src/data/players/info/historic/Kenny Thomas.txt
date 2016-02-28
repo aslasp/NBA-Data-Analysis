@@ -1,0 +1,10 @@
+Name:Kenny Thomas
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-07-25
+Age:37
+Exp:0
+School:New Mexico
+OwingTeam:

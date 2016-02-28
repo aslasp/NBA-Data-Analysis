@@ -1,0 +1,10 @@
+Name:Rich Yonakor
+Number:43
+Position:F
+Height:6-9
+Weight:220
+Birth:1958-10-03
+Age:56
+Exp:0
+School:North Carolina
+OwingTeam:SAN

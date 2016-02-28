@@ -1,0 +1,10 @@
+Name:Art Harris
+Number:23
+Position:G
+Height:6-4
+Weight:185
+Birth:1947-01-13
+Age:68
+Exp:3
+School:Stanford
+OwingTeam:PHX

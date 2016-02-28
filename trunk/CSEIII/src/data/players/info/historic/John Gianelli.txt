@@ -1,0 +1,10 @@
+Name:John Gianelli
+Number:40
+Position:C
+Height:6-10
+Weight:220
+Birth:1950-06-10
+Age:64
+Exp:7
+School:Pacific
+OwingTeam:UTH

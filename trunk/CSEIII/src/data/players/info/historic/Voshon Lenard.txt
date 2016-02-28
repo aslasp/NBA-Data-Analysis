@@ -1,0 +1,10 @@
+Name:Voshon Lenard
+Number:0
+Position:G
+Height:6-4
+Weight:215
+Birth:1973-05-14
+Age:42
+Exp:10
+School:Minnesota
+OwingTeam:POR

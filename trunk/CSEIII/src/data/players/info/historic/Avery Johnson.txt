@@ -1,0 +1,10 @@
+Name:Avery Johnson
+Number:6
+Position:G
+Height:5-11
+Weight:185
+Birth:1965-03-25
+Age:50
+Exp:15
+School:Southern
+OwingTeam:GSW

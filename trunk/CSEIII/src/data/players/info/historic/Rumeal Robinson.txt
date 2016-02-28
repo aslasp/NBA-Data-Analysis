@@ -1,0 +1,10 @@
+Name:Rumeal Robinson
+Number:20
+Position:G
+Height:6-2
+Weight:195
+Birth:1966-11-13
+Age:48
+Exp:5
+School:Michigan
+OwingTeam:POR

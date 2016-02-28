@@ -1,0 +1,10 @@
+Name:Derrick Gervin
+Number:30
+Position:F
+Height:6-8
+Weight:200
+Birth:1963-03-28
+Age:52
+Exp:1
+School:Texas-San Antonio
+OwingTeam:NJN

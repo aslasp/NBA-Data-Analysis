@@ -1,0 +1,10 @@
+Name:Phil Lumpkin
+Number:10
+Position:G
+Height:6-0
+Weight:165
+Birth:1951-12-20
+Age:63
+Exp:1
+School:Miami 
+OwingTeam:PHX

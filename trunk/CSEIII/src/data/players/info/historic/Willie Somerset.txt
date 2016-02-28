@@ -1,0 +1,10 @@
+Name:Willie Somerset
+Number:24
+Position:G
+Height:5-8
+Weight:170
+Birth:1942-03-17
+Age:73
+Exp:0
+School:Duquesne
+OwingTeam:BLT

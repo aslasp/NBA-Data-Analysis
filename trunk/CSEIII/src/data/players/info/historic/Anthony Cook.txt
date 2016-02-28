@@ -1,0 +1,10 @@
+Name:Anthony Cook
+Number:38
+Position:F
+Height:6-9
+Weight:205
+Birth:1967-03-19
+Age:48
+Exp:3
+School:Arizona
+OwingTeam:POR

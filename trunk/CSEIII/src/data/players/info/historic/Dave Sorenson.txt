@@ -1,0 +1,10 @@
+Name:Dave Sorenson
+Number:35
+Position:F
+Height:6-8
+Weight:225
+Birth:1948-07-08
+Age:66
+Exp:2
+School:Ohio State
+OwingTeam:PHL

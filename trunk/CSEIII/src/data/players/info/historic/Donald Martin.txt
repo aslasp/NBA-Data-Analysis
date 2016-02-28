@@ -1,0 +1,10 @@
+Name:Donald Martin
+Number:
+Position:G
+Height:5-8
+Weight:160
+Birth:1920-05-25
+Age:95
+Exp:1
+School:Georgetown
+OwingTeam:PRO

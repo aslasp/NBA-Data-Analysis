@@ -1,0 +1,10 @@
+Name:Luke Walton
+Number:4
+Position:F
+Height:6-8
+Weight:235
+Birth:1980-03-28
+Age:35
+Exp:9
+School:Arizona
+OwingTeam:CLE

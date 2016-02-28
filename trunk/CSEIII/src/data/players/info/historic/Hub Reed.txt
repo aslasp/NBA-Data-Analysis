@@ -1,0 +1,10 @@
+Name:Hub Reed
+Number:20-23
+Position:C
+Height:6-9
+Weight:215
+Birth:1936-10-04
+Age:78
+Exp:6
+School:Oklahoma City
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Bob Cousy
+Number:19
+Position:G
+Height:6-1
+Weight:175
+Birth:1928-08-09
+Age:86
+Exp:13
+School:Holy Cross
+OwingTeam:CIN

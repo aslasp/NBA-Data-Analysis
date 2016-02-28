@@ -1,0 +1,10 @@
+Name:Greg Dreiling
+Number:50
+Position:C
+Height:7-1
+Weight:265
+Birth:1963-11-07
+Age:51
+Exp:9
+School:Kansas
+OwingTeam:DAL

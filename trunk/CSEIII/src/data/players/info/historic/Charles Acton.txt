@@ -1,0 +1,10 @@
+Name:Charles Acton
+Number:24
+Position:F
+Height:6-6
+Weight:210
+Birth:1942-01-11
+Age:73
+Exp:0
+School:Hillsdale
+OwingTeam:SDR

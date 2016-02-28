@@ -1,0 +1,10 @@
+Name:Dedric Willoughby
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-05-27
+Age:41
+Exp:0
+School:Iowa State
+OwingTeam:

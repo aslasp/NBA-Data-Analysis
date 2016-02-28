@@ -1,0 +1,10 @@
+Name:Jeffrey Crompton
+Number:41
+Position:C
+Height:6-11
+Weight:280
+Birth:1955-07-04
+Age:59
+Exp:4
+School:North Carolina
+OwingTeam:CLE

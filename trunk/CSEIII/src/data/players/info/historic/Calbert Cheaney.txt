@@ -1,0 +1,10 @@
+Name:Calbert Cheaney
+Number:40
+Position:G-F
+Height:6-7
+Weight:210
+Birth:1971-07-17
+Age:43
+Exp:12
+School:Indiana
+OwingTeam:GSW

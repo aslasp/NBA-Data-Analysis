@@ -1,0 +1,10 @@
+Name:Tom Owens
+Number:44
+Position:C
+Height:6-10
+Weight:215
+Birth:1949-06-28
+Age:65
+Exp:6
+School:South Carolina
+OwingTeam:DET

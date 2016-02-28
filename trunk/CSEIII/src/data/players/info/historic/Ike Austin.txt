@@ -1,0 +1,10 @@
+Name:Ike Austin
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-08-18
+Age:45
+Exp:0
+School:Arizona State
+OwingTeam:

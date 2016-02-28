@@ -1,0 +1,10 @@
+Name:Frank Oleynick
+Number:44
+Position:G
+Height:6-2
+Weight:185
+Birth:1955-02-20
+Age:60
+Exp:1
+School:Seattle
+OwingTeam:SEA

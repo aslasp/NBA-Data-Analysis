@@ -1,0 +1,10 @@
+Name:Tom Boerwinkle
+Number:18
+Position:C
+Height:7-0
+Weight:265
+Birth:1945-08-23
+Age:69
+Exp:9
+School:Tennessee
+OwingTeam:CHI

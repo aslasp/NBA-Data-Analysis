@@ -1,0 +1,10 @@
+Name:Rashard Lewis
+Number:9
+Position:F
+Height:6-10
+Weight:235
+Birth:1979-08-08
+Age:35
+Exp:15
+School:Alief Elsik HS 
+OwingTeam:MIA

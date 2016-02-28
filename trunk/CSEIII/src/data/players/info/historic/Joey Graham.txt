@@ -1,0 +1,10 @@
+Name:Joey Graham
+Number:12
+Position:F
+Height:6-7
+Weight:230
+Birth:1982-06-11
+Age:32
+Exp:5
+School:Oklahoma State
+OwingTeam:CLE

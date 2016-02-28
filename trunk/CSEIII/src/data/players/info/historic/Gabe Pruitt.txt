@@ -1,0 +1,10 @@
+Name:Gabe Pruitt
+Number:13
+Position:G
+Height:6-4
+Weight:170
+Birth:1986-04-19
+Age:29
+Exp:1
+School:Southern California
+OwingTeam:BOS

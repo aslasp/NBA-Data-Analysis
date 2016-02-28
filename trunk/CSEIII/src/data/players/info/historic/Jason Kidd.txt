@@ -1,0 +1,10 @@
+Name:Jason Kidd
+Number:5
+Position:G
+Height:6-4
+Weight:210
+Birth:1973-03-23
+Age:42
+Exp:18
+School:California
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Rich King
+Number:45
+Position:C
+Height:7-2
+Weight:260
+Birth:1969-04-04
+Age:46
+Exp:3
+School:Nebraska
+OwingTeam:SEA

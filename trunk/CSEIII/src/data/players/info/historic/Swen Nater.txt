@@ -1,0 +1,10 @@
+Name:Swen Nater
+Number:41
+Position:C
+Height:6-11
+Weight:240
+Birth:1950-01-14
+Age:65
+Exp:7
+School:California-Los Angeles
+OwingTeam:LAL

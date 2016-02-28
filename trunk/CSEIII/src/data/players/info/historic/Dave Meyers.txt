@@ -1,0 +1,10 @@
+Name:Dave Meyers
+Number:7
+Position:F
+Height:6-9
+Weight:215
+Birth:1953-04-21
+Age:62
+Exp:3
+School:California-Los Angeles
+OwingTeam:MIL

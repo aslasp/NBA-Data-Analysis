@@ -1,0 +1,10 @@
+Name:Joe Courtney
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-10-17
+Age:45
+Exp:0
+School:Southern Mississippi
+OwingTeam:

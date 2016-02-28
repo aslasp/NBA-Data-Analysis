@@ -1,0 +1,10 @@
+Name:Michael Harris
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-06-15
+Age:31
+Exp:0
+School:Rice
+OwingTeam:

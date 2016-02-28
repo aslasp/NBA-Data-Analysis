@@ -1,0 +1,10 @@
+Name:Chris Washburn
+Number:50
+Position:C
+Height:6-11
+Weight:225
+Birth:1965-05-13
+Age:50
+Exp:1
+School:North Carolina State
+OwingTeam:ATL

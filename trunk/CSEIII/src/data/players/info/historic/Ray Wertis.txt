@@ -1,0 +1,10 @@
+Name:Ray Wertis
+Number:
+Position:G
+Height:5-11
+Weight:
+Birth:1922-01-01
+Age:93
+Exp:1
+School:St. John
+OwingTeam:PRO

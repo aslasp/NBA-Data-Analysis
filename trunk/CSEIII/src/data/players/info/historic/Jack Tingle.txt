@@ -1,0 +1,10 @@
+Name:Jack Tingle
+Number: 
+Position:F
+Height:6-4
+Weight:205
+Birth:1924-12-30
+Age:90
+Exp:1
+School:Kentucky
+OwingTeam:MNL

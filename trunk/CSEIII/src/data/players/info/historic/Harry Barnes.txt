@@ -1,0 +1,10 @@
+Name:Harry Barnes
+Number:30
+Position:F
+Height:6-3
+Weight:205
+Birth:1945-07-25
+Age:69
+Exp:0
+School:Northeastern
+OwingTeam:SDR

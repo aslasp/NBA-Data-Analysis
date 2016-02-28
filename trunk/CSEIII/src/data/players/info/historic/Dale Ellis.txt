@@ -1,0 +1,10 @@
+Name:Dale Ellis
+Number:
+Position:
+Height:
+Weight:
+Birth:1960-08-06
+Age:54
+Exp:0
+School:Tennessee
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Bob Thornton
+Number:34
+Position:F
+Height:6-10
+Weight:225
+Birth:1962-07-10
+Age:52
+Exp:7
+School:California-Irvine
+OwingTeam:WAS

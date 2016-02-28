@@ -1,0 +1,10 @@
+Name:Byron Beck
+Number:40
+Position:C
+Height:6-9
+Weight:225
+Birth:1945-01-25
+Age:70
+Exp:0
+School:Denver
+OwingTeam:DEN

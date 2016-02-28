@@ -1,0 +1,10 @@
+Name:Scott Meents
+Number:8
+Position:F
+Height:6-10
+Weight:225
+Birth:1964-01-04
+Age:51
+Exp:1
+School:Illinois
+OwingTeam:SEA

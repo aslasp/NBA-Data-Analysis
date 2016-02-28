@@ -1,0 +1,10 @@
+Name:Derek Fisher
+Number:6
+Position:G
+Height:6-1
+Weight:210
+Birth:1974-08-09
+Age:40
+Exp:17
+School:Arkansas-Little Rock
+OwingTeam:OKC

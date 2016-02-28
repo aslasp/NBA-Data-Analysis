@@ -1,0 +1,10 @@
+Name:Matt Bullard
+Number:50
+Position:F
+Height:6-10
+Weight:229
+Birth:1967-06-05
+Age:47
+Exp:11
+School:Iowa
+OwingTeam:NOH

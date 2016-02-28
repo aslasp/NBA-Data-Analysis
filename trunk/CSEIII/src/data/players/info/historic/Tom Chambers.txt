@@ -1,0 +1,10 @@
+Name:Tom Chambers
+Number:
+Position:
+Height:
+Weight:
+Birth:1959-06-21
+Age:55
+Exp:0
+School:Utah
+OwingTeam:

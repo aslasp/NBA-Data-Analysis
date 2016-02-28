@@ -1,0 +1,10 @@
+Name:Lionel Chalmers
+Number:0
+Position:G
+Height:6-0
+Weight:180
+Birth:1980-11-10
+Age:34
+Exp:0
+School:Xavier
+OwingTeam:LAC

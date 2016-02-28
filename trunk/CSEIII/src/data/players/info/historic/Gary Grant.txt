@@ -1,0 +1,10 @@
+Name:Gary Grant
+Number:
+Position:
+Height:
+Weight:
+Birth:1965-04-21
+Age:50
+Exp:0
+School:Michigan
+OwingTeam:

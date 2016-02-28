@@ -1,0 +1,10 @@
+Name:Johnny Kerr
+Number:43
+Position:C
+Height:6-9
+Weight:230
+Birth:1932-08-17
+Age:82
+Exp:11
+School:Illinois
+OwingTeam:BLT

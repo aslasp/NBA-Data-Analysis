@@ -1,0 +1,10 @@
+Name:Greg Hyder
+Number:16
+Position:F
+Height:6-6
+Weight:215
+Birth:1948-06-21
+Age:66
+Exp:0
+School:Eastern New Mexico
+OwingTeam:CIN

@@ -1,0 +1,10 @@
+Name:Vinnie Johnson
+Number:15-25
+Position:G
+Height:6-2
+Weight:200
+Birth:1956-09-01
+Age:58
+Exp:12
+School:Baylor
+OwingTeam:SAN

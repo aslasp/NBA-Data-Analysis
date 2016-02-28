@@ -1,0 +1,10 @@
+Name:Jim Jackson
+Number:24
+Position:F-G
+Height:6-6
+Weight:220
+Birth:1970-10-14
+Age:44
+Exp:13
+School:Ohio State
+OwingTeam:LAL

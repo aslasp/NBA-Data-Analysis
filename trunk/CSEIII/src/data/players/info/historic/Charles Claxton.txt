@@ -1,0 +1,10 @@
+Name:Charles Claxton
+Number:51
+Position:C
+Height:7-0
+Weight:265
+Birth:1970-12-13
+Age:44
+Exp:0
+School:Georgia
+OwingTeam:BOS

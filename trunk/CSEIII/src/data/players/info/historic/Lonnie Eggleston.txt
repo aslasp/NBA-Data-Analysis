@@ -1,0 +1,10 @@
+Name:Lonnie Eggleston
+Number:
+Position:G
+Height:6-0
+Weight:170
+Birth:1918-06-08
+Age:96
+Exp:0
+School:Oklahoma State
+OwingTeam:BOM

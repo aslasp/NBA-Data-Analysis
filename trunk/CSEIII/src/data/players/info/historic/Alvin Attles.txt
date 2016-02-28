@@ -1,0 +1,10 @@
+Name:Alvin Attles
+Number:16
+Position:G
+Height:6-1
+Weight:175
+Birth:1936-11-07
+Age:78
+Exp:10
+School:North Carolina A
+OwingTeam:SFW

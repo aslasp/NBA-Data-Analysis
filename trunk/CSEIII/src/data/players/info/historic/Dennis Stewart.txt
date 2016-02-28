@@ -1,0 +1,10 @@
+Name:Dennis Stewart
+Number:40
+Position:F
+Height:6-6
+Weight:220
+Birth:1947-04-11
+Age:68
+Exp:0
+School:Michigan
+OwingTeam:BLT

@@ -1,0 +1,10 @@
+Name:Mardy Collins
+Number:25
+Position:G
+Height:6-6
+Weight:220
+Birth:1984-08-04
+Age:30
+Exp:3
+School:Temple
+OwingTeam:LAC

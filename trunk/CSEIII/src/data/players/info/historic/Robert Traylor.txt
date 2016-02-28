@@ -1,0 +1,10 @@
+Name:Robert Traylor
+Number:32
+Position:F-C
+Height:6-8
+Weight:284
+Birth:1977-02-01
+Age:38
+Exp:6
+School:Michigan
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Loy Petersen
+Number:15
+Position:G
+Height:6-5
+Weight:205
+Birth:1945-07-26
+Age:69
+Exp:1
+School:Oregon State
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Cornell Warner
+Number:20-30
+Position:F
+Height:6-9
+Weight:220
+Birth:1948-08-12
+Age:66
+Exp:6
+School:Jackson State
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Mike Barr
+Number:34
+Position:G
+Height:6-3
+Weight:180
+Birth:1950-10-19
+Age:64
+Exp:0
+School:Duquesne
+OwingTeam:KCK

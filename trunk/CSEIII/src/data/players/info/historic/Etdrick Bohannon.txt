@@ -1,0 +1,10 @@
+Name:Etdrick Bohannon
+Number:
+Position:
+Height:
+Weight:
+Birth:1973-05-29
+Age:42
+Exp:0
+School:Auburn-Montgomery
+OwingTeam:

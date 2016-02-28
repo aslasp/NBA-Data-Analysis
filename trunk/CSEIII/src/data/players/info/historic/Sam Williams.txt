@@ -1,0 +1,10 @@
+Name:Sam Williams
+Number:3
+Position:G
+Height:6-3
+Weight:180
+Birth:1945-01-22
+Age:70
+Exp:1
+School:Iowa
+OwingTeam:MIL

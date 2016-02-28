@@ -1,0 +1,10 @@
+Name:Charlie Yelverton
+Number:11
+Position:G
+Height:6-2
+Weight:190
+Birth:1948-12-05
+Age:66
+Exp:0
+School:Fordham
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Jim Creighton
+Number:24
+Position:F
+Height:6-8
+Weight:200
+Birth:1950-04-18
+Age:65
+Exp:0
+School:Colorado
+OwingTeam:ATL

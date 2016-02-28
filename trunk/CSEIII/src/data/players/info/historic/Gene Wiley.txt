@@ -1,0 +1,10 @@
+Name:Gene Wiley
+Number:12
+Position:C
+Height:6-10
+Weight:210
+Birth:1937-11-12
+Age:77
+Exp:3
+School:Wichita State
+OwingTeam:LAL

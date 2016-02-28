@@ -1,0 +1,10 @@
+Name:Vern Fleming
+Number:10
+Position:G
+Height:6-5
+Weight:185
+Birth:1962-02-04
+Age:53
+Exp:11
+School:Georgia
+OwingTeam:NJN

@@ -1,0 +1,10 @@
+Name:Dwayne Schintzius
+Number:55
+Position:C
+Height:7-2
+Weight:285
+Birth:1968-10-14
+Age:46
+Exp:7
+School:Florida
+OwingTeam:BOS

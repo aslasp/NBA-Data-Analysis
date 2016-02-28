@@ -1,0 +1,10 @@
+Name:Wayne Cooper
+Number:42
+Position:C
+Height:6-10
+Weight:220
+Birth:1956-11-16
+Age:58
+Exp:13
+School:New Orleans
+OwingTeam:POR

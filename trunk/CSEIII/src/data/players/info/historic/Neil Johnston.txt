@@ -1,0 +1,10 @@
+Name:Neil Johnston
+Number:6
+Position:C
+Height:6-8
+Weight:210
+Birth:1929-02-04
+Age:86
+Exp:7
+School:Ohio State
+OwingTeam:PHW

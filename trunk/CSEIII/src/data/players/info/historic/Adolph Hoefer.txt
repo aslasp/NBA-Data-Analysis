@@ -1,0 +1,10 @@
+Name:Adolph Hoefer
+Number:3
+Position:G
+Height:5-9
+Weight:158
+Birth:1917-07-12
+Age:97
+Exp:1
+School:Queens 
+OwingTeam:BOS

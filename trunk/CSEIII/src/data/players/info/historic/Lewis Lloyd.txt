@@ -1,0 +1,10 @@
+Name:Lewis Lloyd
+Number:32
+Position:G
+Height:6-6
+Weight:205
+Birth:1959-02-22
+Age:56
+Exp:6
+School:Drake
+OwingTeam:HOU

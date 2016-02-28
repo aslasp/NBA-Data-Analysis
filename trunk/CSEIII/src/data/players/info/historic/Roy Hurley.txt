@@ -1,0 +1,10 @@
+Name:Roy Hurley
+Number:
+Position:F
+Height:6-2
+Weight:170
+Birth:1922-08-12
+Age:92
+Exp:0
+School:Murray State
+OwingTeam:HUS

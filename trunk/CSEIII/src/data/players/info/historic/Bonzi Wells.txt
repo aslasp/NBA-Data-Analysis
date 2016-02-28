@@ -1,0 +1,10 @@
+Name:Bonzi Wells
+Number:24
+Position:G-F
+Height:6-5
+Weight:210
+Birth:1976-09-28
+Age:38
+Exp:9
+School:Ball State
+OwingTeam:NOH

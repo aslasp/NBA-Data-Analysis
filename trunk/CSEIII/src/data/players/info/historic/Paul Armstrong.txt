@@ -1,0 +1,10 @@
+Name:Paul Armstrong
+Number:3
+Position:G
+Height:5-11
+Weight:170
+Birth:1918-11-01
+Age:96
+Exp:2
+School:Indiana
+OwingTeam:FTW

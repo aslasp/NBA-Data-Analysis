@@ -1,0 +1,10 @@
+Name:George Carter
+Number:12
+Position:F
+Height:6-4
+Weight:210
+Birth:1944-01-18
+Age:71
+Exp:0
+School:St. Bonaventure
+OwingTeam:DET

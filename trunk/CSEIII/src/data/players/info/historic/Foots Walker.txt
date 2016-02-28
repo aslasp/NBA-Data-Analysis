@@ -1,0 +1,10 @@
+Name:Foots Walker
+Number:1
+Position:G
+Height:6-1
+Weight:172
+Birth:1951-05-21
+Age:64
+Exp:9
+School:West Georgia
+OwingTeam:NJN

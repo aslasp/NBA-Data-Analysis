@@ -1,0 +1,10 @@
+Name:Jimmy Collins
+Number:22
+Position:G
+Height:6-2
+Weight:175
+Birth:1946-11-24
+Age:68
+Exp:1
+School:New Mexico State
+OwingTeam:CHI

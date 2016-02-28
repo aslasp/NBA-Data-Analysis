@@ -1,0 +1,10 @@
+Name:Mark Jones
+Number:7
+Position:G
+Height:6-6
+Weight:215
+Birth:1975-05-25
+Age:40
+Exp:0
+School:Central Florida
+OwingTeam:ORL

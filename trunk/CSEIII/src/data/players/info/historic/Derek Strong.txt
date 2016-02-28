@@ -1,0 +1,10 @@
+Name:Derek Strong
+Number:30
+Position:F
+Height:6-9
+Weight:240
+Birth:1968-02-09
+Age:47
+Exp:9
+School:Xavier
+OwingTeam:LAC

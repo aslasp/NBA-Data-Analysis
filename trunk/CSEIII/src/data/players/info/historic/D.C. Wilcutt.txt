@@ -1,0 +1,10 @@
+Name:D.C. Wilcutt
+Number:
+Position:G
+Height:6-2
+Weight:165
+Birth:1923-03-25
+Age:92
+Exp:1
+School:Saint Louis
+OwingTeam:BOM

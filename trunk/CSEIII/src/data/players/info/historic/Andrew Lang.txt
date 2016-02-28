@@ -1,0 +1,10 @@
+Name:Andrew Lang
+Number:28
+Position:C
+Height:6-11
+Weight:275
+Birth:1966-06-28
+Age:48
+Exp:11
+School:Arkansas
+OwingTeam:NYK

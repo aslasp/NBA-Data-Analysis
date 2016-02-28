@@ -1,0 +1,10 @@
+Name:Don Sunderlage
+Number:18
+Position:G
+Height:6-1
+Weight:180
+Birth:1929-12-20
+Age:85
+Exp:1
+School:Illinois
+OwingTeam:MNL

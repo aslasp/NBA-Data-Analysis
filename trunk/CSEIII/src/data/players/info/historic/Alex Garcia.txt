@@ -1,0 +1,10 @@
+Name:Alex Garcia
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-03-04
+Age:35
+Exp:0
+School:Brazil
+OwingTeam:

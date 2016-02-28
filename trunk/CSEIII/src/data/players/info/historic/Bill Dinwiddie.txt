@@ -1,0 +1,10 @@
+Name:Bill Dinwiddie
+Number:20
+Position:F
+Height:6-7
+Weight:220
+Birth:1943-07-15
+Age:71
+Exp:3
+School:New Mexico Highlands
+OwingTeam:MIL

@@ -1,0 +1,10 @@
+Name:Lavor Postell
+Number:7
+Position:G-F
+Height:6-5
+Weight:215
+Birth:1978-02-26
+Age:37
+Exp:2
+School:St. John
+OwingTeam:NYK

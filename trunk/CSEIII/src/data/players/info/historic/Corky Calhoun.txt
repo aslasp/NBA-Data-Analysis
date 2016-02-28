@@ -1,0 +1,10 @@
+Name:Corky Calhoun
+Number:10
+Position:F
+Height:6-7
+Weight:210
+Birth:1950-11-01
+Age:64
+Exp:7
+School:Pennsylvania
+OwingTeam:IND

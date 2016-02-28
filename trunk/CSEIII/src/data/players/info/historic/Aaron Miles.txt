@@ -1,0 +1,10 @@
+Name:Aaron Miles
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-04-13
+Age:32
+Exp:0
+School:Kansas
+OwingTeam:

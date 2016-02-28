@@ -1,0 +1,10 @@
+Name:Mike Gale
+Number:12
+Position:G
+Height:6-4
+Weight:185
+Birth:1950-07-18
+Age:64
+Exp:5
+School:Elizabeth City State
+OwingTeam:GOS

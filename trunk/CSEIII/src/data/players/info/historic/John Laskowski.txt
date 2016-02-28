@@ -1,0 +1,10 @@
+Name:John Laskowski
+Number:31
+Position:G
+Height:6-6
+Weight:185
+Birth:1953-06-07
+Age:61
+Exp:1
+School:Indiana
+OwingTeam:CHI

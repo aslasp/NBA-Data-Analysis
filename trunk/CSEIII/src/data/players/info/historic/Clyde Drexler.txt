@@ -1,0 +1,10 @@
+Name:Clyde Drexler
+Number:22
+Position:G
+Height:6-7
+Weight:222
+Birth:1962-06-22
+Age:52
+Exp:14
+School:Houston
+OwingTeam:HOU

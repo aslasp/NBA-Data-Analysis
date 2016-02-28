@@ -1,0 +1,10 @@
+Name:Dennis Layton
+Number:1
+Position:G
+Height:6-1
+Weight:180
+Birth:1948-12-24
+Age:66
+Exp:4
+School:Southern California
+OwingTeam:SAN

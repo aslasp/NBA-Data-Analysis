@@ -1,0 +1,10 @@
+Name:Jerrod Mustaf
+Number:0
+Position:F
+Height:6-10
+Weight:238
+Birth:1969-10-28
+Age:45
+Exp:3
+School:Maryland
+OwingTeam:PHX

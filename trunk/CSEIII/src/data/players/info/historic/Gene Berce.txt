@@ -1,0 +1,10 @@
+Name:Gene Berce
+Number: 
+Position:G
+Height:5-11
+Weight:175
+Birth:1926-11-22
+Age:88
+Exp:0
+School:Marquette
+OwingTeam:TCB

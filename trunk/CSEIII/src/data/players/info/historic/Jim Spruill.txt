@@ -1,0 +1,10 @@
+Name:Jim Spruill
+Number:
+Position:F
+Height:6-2
+Weight:225
+Birth:1923-02-26
+Age:92
+Exp:0
+School:Rice
+OwingTeam:JET

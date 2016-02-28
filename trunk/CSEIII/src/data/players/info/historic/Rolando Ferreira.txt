@@ -1,0 +1,10 @@
+Name:Rolando Ferreira
+Number:32
+Position:F
+Height:7-1
+Weight:240
+Birth:1964-05-24
+Age:51
+Exp:0
+School:Houston
+OwingTeam:POR

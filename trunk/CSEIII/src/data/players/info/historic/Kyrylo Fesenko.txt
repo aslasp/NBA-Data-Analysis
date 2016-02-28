@@ -1,0 +1,10 @@
+Name:Kyrylo Fesenko
+Number:44
+Position:C
+Height:7-1
+Weight:280
+Birth:1986-12-24
+Age:28
+Exp:4
+School:Dnepropetrovsk
+OwingTeam:IND

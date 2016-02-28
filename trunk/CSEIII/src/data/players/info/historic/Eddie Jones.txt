@@ -1,0 +1,10 @@
+Name:Eddie Jones
+Number:6
+Position:G-F
+Height:6-6
+Weight:200
+Birth:1971-10-20
+Age:43
+Exp:13
+School:Temple
+OwingTeam:DAL

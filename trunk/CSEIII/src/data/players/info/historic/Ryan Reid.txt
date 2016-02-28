@@ -1,0 +1,10 @@
+Name:Ryan Reid
+Number:
+Position:
+Height:
+Weight:
+Birth:1986-10-30
+Age:28
+Exp:0
+School:Florida State
+OwingTeam:

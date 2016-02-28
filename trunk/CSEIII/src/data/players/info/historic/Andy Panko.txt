@@ -1,0 +1,10 @@
+Name:Andy Panko
+Number:
+Position:
+Height:
+Weight:
+Birth:1977-11-29
+Age:37
+Exp:0
+School:Lebanon Valley
+OwingTeam:

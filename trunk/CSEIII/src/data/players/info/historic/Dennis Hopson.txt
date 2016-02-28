@@ -1,0 +1,10 @@
+Name:Dennis Hopson
+Number:20
+Position:F
+Height:6-5
+Weight:200
+Birth:1965-04-22
+Age:50
+Exp:4
+School:Ohio State
+OwingTeam:SAC

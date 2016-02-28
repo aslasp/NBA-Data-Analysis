@@ -1,0 +1,10 @@
+Name:Bob Burrow
+Number:50
+Position:C
+Height:6-7
+Weight:228
+Birth:1934-06-29
+Age:80
+Exp:1
+School:Kentucky
+OwingTeam:MNL

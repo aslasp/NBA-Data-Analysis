@@ -1,0 +1,10 @@
+Name:Pat Durham
+Number:30
+Position:F
+Height:6-7
+Weight:210
+Birth:1967-03-10
+Age:48
+Exp:1
+School:Colorado State
+OwingTeam:MIN

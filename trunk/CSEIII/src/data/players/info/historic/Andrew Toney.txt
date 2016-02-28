@@ -1,0 +1,10 @@
+Name:Andrew Toney
+Number:22
+Position:G
+Height:6-3
+Weight:178
+Birth:1957-11-23
+Age:57
+Exp:7
+School:Louisiana-Lafayette
+OwingTeam:PHL

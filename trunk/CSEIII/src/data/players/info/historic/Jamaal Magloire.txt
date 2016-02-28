@@ -1,0 +1,10 @@
+Name:Jamaal Magloire
+Number:21
+Position:C
+Height:6-11
+Weight:265
+Birth:1978-05-21
+Age:37
+Exp:11
+School:Kentucky
+OwingTeam:TOR

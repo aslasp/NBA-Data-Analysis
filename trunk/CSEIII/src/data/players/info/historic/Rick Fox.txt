@@ -1,0 +1,10 @@
+Name:Rick Fox
+Number:17
+Position:F
+Height:6-7
+Weight:235
+Birth:1969-07-24
+Age:45
+Exp:12
+School:North Carolina
+OwingTeam:LAL

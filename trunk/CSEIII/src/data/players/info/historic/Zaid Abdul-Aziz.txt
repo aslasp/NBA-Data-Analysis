@@ -1,0 +1,10 @@
+Name:Zaid Abdul-Aziz
+Number:54
+Position:C
+Height:6-9
+Weight:235
+Birth:1946-04-07
+Age:69
+Exp:9
+School:Iowa State
+OwingTeam:BOS

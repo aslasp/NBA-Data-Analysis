@@ -1,0 +1,10 @@
+Name:Essie Hollis
+Number:22-24
+Position:F
+Height:6-6
+Weight:195
+Birth:1955-05-16
+Age:60
+Exp:0
+School:St. Bonaventure
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Shane Battier
+Number:31
+Position:F
+Height:6-8
+Weight:220
+Birth:1978-09-09
+Age:36
+Exp:12
+School:Duke
+OwingTeam:MIA

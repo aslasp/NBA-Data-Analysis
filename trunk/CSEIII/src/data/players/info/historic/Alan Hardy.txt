@@ -1,0 +1,10 @@
+Name:Alan Hardy
+Number:24
+Position:G
+Height:6-6
+Weight:195
+Birth:1957-05-25
+Age:58
+Exp:1
+School:Michigan
+OwingTeam:DET

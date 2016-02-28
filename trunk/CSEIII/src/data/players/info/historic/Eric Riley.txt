@@ -1,0 +1,10 @@
+Name:Eric Riley
+Number:44
+Position:C
+Height:7-0
+Weight:245
+Birth:1970-06-02
+Age:44
+Exp:3
+School:Michigan
+OwingTeam:BOS

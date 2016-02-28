@@ -1,0 +1,10 @@
+Name:Gerald Madkins
+Number:12
+Position:G
+Height:6-4
+Weight:200
+Birth:1969-04-18
+Age:46
+Exp:1
+School:California-Los Angeles
+OwingTeam:GSW

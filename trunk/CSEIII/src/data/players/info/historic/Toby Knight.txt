@@ -1,0 +1,10 @@
+Name:Toby Knight
+Number:43
+Position:F
+Height:6-9
+Weight:210
+Birth:1955-05-03
+Age:60
+Exp:3
+School:Notre Dame
+OwingTeam:NYK

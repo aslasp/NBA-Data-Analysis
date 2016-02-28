@@ -1,0 +1,10 @@
+Name:Ken Green
+Number:3
+Position:F
+Height:6-8
+Weight:215
+Birth:1959-09-19
+Age:55
+Exp:0
+School:Texas-Pan American
+OwingTeam:NYK

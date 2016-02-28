@@ -1,0 +1,10 @@
+Name:Jeff Mullins
+Number:23
+Position:G
+Height:6-4
+Weight:190
+Birth:1942-03-18
+Age:73
+Exp:11
+School:Duke
+OwingTeam:GOS

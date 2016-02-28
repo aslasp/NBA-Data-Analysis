@@ -1,0 +1,10 @@
+Name:Ben Kelso
+Number:5-30
+Position:G
+Height:6-3
+Weight:195
+Birth:1949-04-11
+Age:66
+Exp:0
+School:Central Michigan
+OwingTeam:DET

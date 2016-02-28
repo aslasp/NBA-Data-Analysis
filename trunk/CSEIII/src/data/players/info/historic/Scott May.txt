@@ -1,0 +1,10 @@
+Name:Scott May
+Number:24
+Position:F
+Height:6-6
+Weight:215
+Birth:1954-03-19
+Age:61
+Exp:6
+School:Indiana
+OwingTeam:DET

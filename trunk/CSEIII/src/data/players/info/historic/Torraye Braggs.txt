@@ -1,0 +1,10 @@
+Name:Torraye Braggs
+Number:32
+Position:F
+Height:6-8
+Weight:245
+Birth:1976-05-15
+Age:39
+Exp:1
+School:Xavier
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Carldell Johnson
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-01-28
+Age:32
+Exp:0
+School:Alabama-Birmingham
+OwingTeam:

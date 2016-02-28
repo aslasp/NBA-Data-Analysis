@@ -1,0 +1,10 @@
+Name:Scot Pollard
+Number:66
+Position:C-F
+Height:6-11
+Weight:278
+Birth:1975-02-12
+Age:40
+Exp:10
+School:Kansas
+OwingTeam:BOS

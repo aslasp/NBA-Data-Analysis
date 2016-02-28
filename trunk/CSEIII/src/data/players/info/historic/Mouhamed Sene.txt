@@ -1,0 +1,10 @@
+Name:Mouhamed Sene
+Number:18
+Position:C
+Height:6-11
+Weight:230
+Birth:1986-05-12
+Age:29
+Exp:2
+School:Senegal
+OwingTeam:NYK

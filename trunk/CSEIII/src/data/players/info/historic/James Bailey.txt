@@ -1,0 +1,10 @@
+Name:James Bailey
+Number:2
+Position:F
+Height:6-9
+Weight:220
+Birth:1957-05-21
+Age:58
+Exp:8
+School:Rutgers
+OwingTeam:PHX

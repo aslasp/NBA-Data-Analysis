@@ -1,0 +1,10 @@
+Name:Milt Williams
+Number:12
+Position:G
+Height:6-2
+Weight:182
+Birth:1945-11-22
+Age:69
+Exp:2
+School:Lincoln 
+OwingTeam:SEA

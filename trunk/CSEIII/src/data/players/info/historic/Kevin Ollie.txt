@@ -1,0 +1,10 @@
+Name:Kevin Ollie
+Number:7
+Position:G
+Height:6-2
+Weight:195
+Birth:1972-12-27
+Age:42
+Exp:12
+School:Connecticut
+OwingTeam:OKC

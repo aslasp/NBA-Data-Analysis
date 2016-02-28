@@ -1,0 +1,10 @@
+Name:Tito Horford
+Number:42
+Position:C
+Height:7-1
+Weight:245
+Birth:1966-01-19
+Age:49
+Exp:2
+School:Miami 
+OwingTeam:WAS

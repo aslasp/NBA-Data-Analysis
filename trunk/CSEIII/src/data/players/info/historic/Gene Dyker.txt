@@ -1,0 +1,10 @@
+Name:Gene Dyker
+Number:5
+Position:F
+Height:6-6
+Weight:225
+Birth:1930-02-17
+Age:85
+Exp:0
+School:DePaul
+OwingTeam:MIH

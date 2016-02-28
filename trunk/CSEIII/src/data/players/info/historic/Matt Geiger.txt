@@ -1,0 +1,10 @@
+Name:Matt Geiger
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-09-10
+Age:45
+Exp:0
+School:Georgia Tech
+OwingTeam:

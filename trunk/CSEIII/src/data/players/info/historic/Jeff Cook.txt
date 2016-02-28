@@ -1,0 +1,10 @@
+Name:Jeff Cook
+Number:45
+Position:F
+Height:6-10
+Weight:215
+Birth:1956-10-21
+Age:58
+Exp:7
+School:Idaho State
+OwingTeam:PHX

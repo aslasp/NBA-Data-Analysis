@@ -1,0 +1,10 @@
+Name:Trent Tucker
+Number:6
+Position:G
+Height:6-5
+Weight:193
+Birth:1959-12-20
+Age:55
+Exp:10
+School:Minnesota
+OwingTeam:CHI

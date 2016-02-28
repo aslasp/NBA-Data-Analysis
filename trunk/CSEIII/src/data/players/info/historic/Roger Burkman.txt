@@ -1,0 +1,10 @@
+Name:Roger Burkman
+Number:21
+Position:G
+Height:6-5
+Weight:175
+Birth:1958-05-22
+Age:57
+Exp:0
+School:Louisville
+OwingTeam:CHI

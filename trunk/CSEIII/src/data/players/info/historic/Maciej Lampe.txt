@@ -1,0 +1,10 @@
+Name:Maciej Lampe
+Number:15
+Position:F
+Height:6-11
+Weight:275
+Birth:1985-02-05
+Age:30
+Exp:2
+School:Poland
+OwingTeam:HOU

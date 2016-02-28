@@ -1,0 +1,10 @@
+Name:Irving Thomas
+Number:30
+Position:F
+Height:6-8
+Weight:225
+Birth:1966-01-02
+Age:49
+Exp:0
+School:Florida State
+OwingTeam:LAL

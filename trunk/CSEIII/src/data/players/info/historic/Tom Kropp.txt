@@ -1,0 +1,10 @@
+Name:Tom Kropp
+Number:44
+Position:G
+Height:6-3
+Weight:205
+Birth:1953-02-12
+Age:62
+Exp:1
+School:Nebraska-Kearney
+OwingTeam:CHI

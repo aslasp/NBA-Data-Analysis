@@ -1,0 +1,10 @@
+Name:Wayne Radford
+Number:21
+Position:G
+Height:6-3
+Weight:205
+Birth:1956-05-29
+Age:59
+Exp:0
+School:Indiana
+OwingTeam:IND

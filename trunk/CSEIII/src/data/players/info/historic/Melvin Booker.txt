@@ -1,0 +1,10 @@
+Name:Melvin Booker
+Number:5
+Position:G
+Height:6-2
+Weight:185
+Birth:1972-08-20
+Age:42
+Exp:1
+School:Missouri
+OwingTeam:GSW

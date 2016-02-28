@@ -1,0 +1,10 @@
+Name:Otto Schnellbacher
+Number:
+Position:F
+Height:6-4
+Weight:185
+Birth:1923-04-15
+Age:92
+Exp:0
+School:Kansas
+OwingTeam:PRO

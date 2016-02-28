@@ -1,0 +1,10 @@
+Name:Patrick Ewing Jr.
+Number:22
+Position:F
+Height:6-8
+Weight:235
+Birth:1984-05-20
+Age:31
+Exp:0
+School:Georgetown
+OwingTeam:NOH

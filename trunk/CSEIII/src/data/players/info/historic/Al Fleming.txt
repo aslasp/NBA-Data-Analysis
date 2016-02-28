@@ -1,0 +1,10 @@
+Name:Al Fleming
+Number:30
+Position:F
+Height:6-7
+Weight:215
+Birth:1954-04-05
+Age:61
+Exp:0
+School:Arizona
+OwingTeam:SEA

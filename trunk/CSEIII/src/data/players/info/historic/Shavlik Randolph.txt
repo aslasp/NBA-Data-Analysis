@@ -1,0 +1,10 @@
+Name:Shavlik Randolph
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-11-24
+Age:31
+Exp:0
+School:Duke
+OwingTeam:

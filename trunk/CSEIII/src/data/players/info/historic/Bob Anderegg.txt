@@ -1,0 +1,10 @@
+Name:Bob Anderegg
+Number:18
+Position:F
+Height:6-3
+Weight:200
+Birth:1937-08-24
+Age:77
+Exp:0
+School:Michigan State
+OwingTeam:NYK

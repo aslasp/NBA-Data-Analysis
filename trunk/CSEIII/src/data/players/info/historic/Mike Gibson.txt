@@ -1,0 +1,10 @@
+Name:Mike Gibson
+Number:35
+Position:F
+Height:6-10
+Weight:205
+Birth:1960-10-27
+Age:54
+Exp:1
+School:South Carolina Upstate
+OwingTeam:DET

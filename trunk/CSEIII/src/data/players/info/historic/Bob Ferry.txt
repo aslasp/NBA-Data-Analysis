@@ -1,0 +1,10 @@
+Name:Bob Ferry
+Number:12
+Position:C
+Height:6-8
+Weight:230
+Birth:1937-05-31
+Age:78
+Exp:9
+School:Saint Louis
+OwingTeam:BLT

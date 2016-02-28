@@ -1,0 +1,10 @@
+Name:Mike Taylor
+Number:4
+Position:G
+Height:6-2
+Weight:165
+Birth:1986-01-21
+Age:29
+Exp:0
+School:Iowa State
+OwingTeam:LAC

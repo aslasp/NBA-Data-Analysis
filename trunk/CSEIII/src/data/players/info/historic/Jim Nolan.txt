@@ -1,0 +1,10 @@
+Name:Jim Nolan
+Number:19
+Position:C
+Height:6-8
+Weight:210
+Birth:1927-06-09
+Age:87
+Exp:0
+School:Georgia Tech
+OwingTeam:PHW

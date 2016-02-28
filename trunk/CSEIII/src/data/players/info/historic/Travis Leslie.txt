@@ -1,0 +1,10 @@
+Name:Travis Leslie
+Number:23
+Position:G
+Height:6-4
+Weight:205
+Birth:1990-03-29
+Age:25
+Exp:0
+School:Georgia
+OwingTeam:LAC

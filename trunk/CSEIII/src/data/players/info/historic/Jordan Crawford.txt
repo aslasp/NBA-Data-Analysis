@@ -1,0 +1,10 @@
+Name:Jordan Crawford
+Number:55
+Position:G
+Height:6-4
+Weight:195
+Birth:1988-10-23
+Age:26
+Exp:3
+School:Xavier
+OwingTeam:GSW

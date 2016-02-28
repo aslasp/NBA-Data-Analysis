@@ -1,0 +1,10 @@
+Name:Gary Hill
+Number:20
+Position:G
+Height:6-4
+Weight:185
+Birth:1941-10-07
+Age:73
+Exp:1
+School:Oklahoma City
+OwingTeam:BLT

@@ -1,0 +1,10 @@
+Name:Rick Robey
+Number:8
+Position:C
+Height:6-11
+Weight:230
+Birth:1956-01-30
+Age:59
+Exp:7
+School:Kentucky
+OwingTeam:PHX

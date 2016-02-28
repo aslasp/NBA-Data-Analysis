@@ -1,0 +1,10 @@
+Name:Johnny Newman
+Number:2
+Position:F
+Height:6-7
+Weight:210
+Birth:1963-11-28
+Age:51
+Exp:15
+School:Richmond
+OwingTeam:DAL

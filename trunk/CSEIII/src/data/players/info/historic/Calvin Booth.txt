@@ -1,0 +1,10 @@
+Name:Calvin Booth
+Number:52
+Position:C
+Height:6-11
+Weight:230
+Birth:1976-05-07
+Age:39
+Exp:9
+School:Penn State
+OwingTeam:SAC

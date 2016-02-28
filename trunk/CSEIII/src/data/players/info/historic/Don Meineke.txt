@@ -1,0 +1,10 @@
+Name:Don Meineke
+Number:22
+Position:F
+Height:6-7
+Weight:208
+Birth:1930-10-30
+Age:84
+Exp:4
+School:Dayton
+OwingTeam:CIN

@@ -1,0 +1,10 @@
+Name:Howard Wright
+Number:42
+Position:F
+Height:6-8
+Weight:220
+Birth:1967-12-20
+Age:47
+Exp:1
+School:Stanford
+OwingTeam:ORL

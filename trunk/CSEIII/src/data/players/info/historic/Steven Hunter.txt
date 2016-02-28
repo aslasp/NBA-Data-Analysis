@@ -1,0 +1,10 @@
+Name:Steven Hunter
+Number:45
+Position:C
+Height:7-0
+Weight:240
+Birth:1981-10-31
+Age:33
+Exp:7
+School:DePaul
+OwingTeam:MEM

@@ -1,0 +1,10 @@
+Name:Brook Steppe
+Number:7
+Position:G
+Height:6-5
+Weight:195
+Birth:1959-11-07
+Age:55
+Exp:4
+School:Georgia Tech
+OwingTeam:POR

@@ -1,0 +1,10 @@
+Name:Bob Kauffman
+Number:44
+Position:F
+Height:6-8
+Weight:240
+Birth:1946-07-13
+Age:68
+Exp:6
+School:Guilford
+OwingTeam:ATL

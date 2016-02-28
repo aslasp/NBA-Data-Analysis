@@ -1,0 +1,10 @@
+Name:DaJuan Summers
+Number:35
+Position:F
+Height:6-8
+Weight:240
+Birth:1988-01-24
+Age:27
+Exp:3
+School:Georgetown
+OwingTeam:LAC

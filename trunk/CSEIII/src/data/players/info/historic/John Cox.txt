@@ -1,0 +1,10 @@
+Name:John Cox
+Number:32
+Position:G
+Height:6-2
+Weight:180
+Birth:1955-12-29
+Age:59
+Exp:0
+School:San Francisco
+OwingTeam:WAS

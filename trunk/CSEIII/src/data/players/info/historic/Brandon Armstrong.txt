@@ -1,0 +1,10 @@
+Name:Brandon Armstrong
+Number:1
+Position:G
+Height:6-5
+Weight:185
+Birth:1980-06-16
+Age:34
+Exp:2
+School:Pepperdine
+OwingTeam:NJN

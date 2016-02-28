@@ -1,0 +1,10 @@
+Name:Ron Behagen
+Number:12
+Position:F
+Height:6-9
+Weight:185
+Birth:1951-01-14
+Age:64
+Exp:6
+School:Minnesota
+OwingTeam:WAS

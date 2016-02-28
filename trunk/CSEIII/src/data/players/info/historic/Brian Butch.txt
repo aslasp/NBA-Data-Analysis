@@ -1,0 +1,10 @@
+Name:Brian Butch
+Number:43
+Position:C
+Height:6-11
+Weight:240
+Birth:1984-12-22
+Age:30
+Exp:0
+School:Wisconsin
+OwingTeam:DEN

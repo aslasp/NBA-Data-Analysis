@@ -1,0 +1,10 @@
+Name:George Thompson
+Number:24
+Position:G
+Height:6-2
+Weight:200
+Birth:1947-11-29
+Age:67
+Exp:0
+School:Marquette
+OwingTeam:MIL

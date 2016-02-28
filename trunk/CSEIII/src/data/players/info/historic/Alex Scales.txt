@@ -1,0 +1,10 @@
+Name:Alex Scales
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-07-03
+Age:36
+Exp:0
+School:Oregon
+OwingTeam:

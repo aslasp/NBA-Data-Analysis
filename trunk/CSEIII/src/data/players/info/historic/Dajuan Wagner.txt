@@ -1,0 +1,10 @@
+Name:Dajuan Wagner
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-02-04
+Age:32
+Exp:0
+School:Memphis
+OwingTeam:

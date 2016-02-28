@@ -1,0 +1,10 @@
+Name:Darvin Ham
+Number:8
+Position:F-G
+Height:6-7
+Weight:240
+Birth:1973-07-23
+Age:41
+Exp:7
+School:Texas Tech
+OwingTeam:DET

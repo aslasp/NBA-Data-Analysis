@@ -1,0 +1,10 @@
+Name:Otis Howard
+Number:32
+Position:F
+Height:6-7
+Weight:220
+Birth:1956-11-05
+Age:58
+Exp:0
+School:Austin Peay
+OwingTeam:DET

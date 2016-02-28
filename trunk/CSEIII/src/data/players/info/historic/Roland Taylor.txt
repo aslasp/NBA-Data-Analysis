@@ -1,0 +1,10 @@
+Name:Roland Taylor
+Number:
+Position:G
+Height:6-0
+Weight:175
+Birth:1946-03-13
+Age:69
+Exp:0
+School:La Salle
+OwingTeam:DEN

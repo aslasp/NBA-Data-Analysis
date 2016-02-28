@@ -1,0 +1,10 @@
+Name:Winston Bennett
+Number:30
+Position:G
+Height:6-7
+Weight:210
+Birth:1965-02-09
+Age:50
+Exp:2
+School:Kentucky
+OwingTeam:MIA

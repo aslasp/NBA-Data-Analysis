@@ -1,0 +1,10 @@
+Name:Eddielee Wilkins
+Number:55
+Position:C
+Height:6-10
+Weight:220
+Birth:1962-05-07
+Age:53
+Exp:5
+School:Gardner-Webb
+OwingTeam:PHL

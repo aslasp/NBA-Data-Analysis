@@ -1,0 +1,10 @@
+Name:Johnny Payak
+Number:6
+Position:G
+Height:6-4
+Weight:174
+Birth:1926-11-20
+Age:88
+Exp:1
+School:Bowling Green
+OwingTeam:MIH

@@ -1,0 +1,10 @@
+Name:Dick Knostman
+Number:10
+Position:C
+Height:6-6
+Weight:215
+Birth:1931-08-09
+Age:83
+Exp:0
+School:Kansas State
+OwingTeam:SYR

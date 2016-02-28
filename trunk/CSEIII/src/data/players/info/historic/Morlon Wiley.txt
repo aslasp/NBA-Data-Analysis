@@ -1,0 +1,10 @@
+Name:Morlon Wiley
+Number:11
+Position:G
+Height:6-4
+Weight:185
+Birth:1966-09-24
+Age:48
+Exp:6
+School:Long Beach State
+OwingTeam:ATL

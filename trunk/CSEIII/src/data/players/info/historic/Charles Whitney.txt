@@ -1,0 +1,10 @@
+Name:Charles Whitney
+Number:43
+Position:F
+Height:6-5
+Weight:235
+Birth:1957-06-22
+Age:57
+Exp:1
+School:North Carolina State
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Kendall Gill
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-05-25
+Age:47
+Exp:0
+School:Illinois
+OwingTeam:

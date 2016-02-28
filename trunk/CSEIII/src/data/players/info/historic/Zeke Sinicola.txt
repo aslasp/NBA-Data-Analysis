@@ -1,0 +1,10 @@
+Name:Zeke Sinicola
+Number:5
+Position:G
+Height:5-10
+Weight:165
+Birth:1929-01-25
+Age:86
+Exp:1
+School:Niagara
+OwingTeam:FTW

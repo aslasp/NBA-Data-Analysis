@@ -1,0 +1,10 @@
+Name:Salim Stoudamire
+Number:
+Position:G
+Height:6-1
+Weight:175
+Birth:1982-10-11
+Age:32
+Exp:3
+School:Arizona
+OwingTeam:MIL

@@ -1,0 +1,10 @@
+Name:Peja Stojakovic
+Number:16
+Position:F
+Height:6-10
+Weight:229
+Birth:1977-06-09
+Age:37
+Exp:12
+School:Belgrade
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Glenn Hagan
+Number:10
+Position:G
+Height:6-0
+Weight:170
+Birth:1955-06-25
+Age:59
+Exp:0
+School:St. Bonaventure
+OwingTeam:DET

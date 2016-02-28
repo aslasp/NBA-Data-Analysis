@@ -1,0 +1,10 @@
+Name:Antonio Burks
+Number:1
+Position:G
+Height:6-0
+Weight:195
+Birth:1980-02-25
+Age:35
+Exp:1
+School:Memphis
+OwingTeam:MEM

@@ -1,0 +1,10 @@
+Name:Brad Holland
+Number:14
+Position:G
+Height:6-3
+Weight:180
+Birth:1956-12-06
+Age:58
+Exp:2
+School:California-Los Angeles
+OwingTeam:WAS

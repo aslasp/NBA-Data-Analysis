@@ -1,0 +1,10 @@
+Name:John Starks
+Number:9
+Position:G
+Height:6-5
+Weight:190
+Birth:1965-08-10
+Age:49
+Exp:12
+School:Oklahoma State
+OwingTeam:UTA

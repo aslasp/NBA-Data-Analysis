@@ -1,0 +1,10 @@
+Name:Soumaila Samake
+Number:0
+Position:C
+Height:6-10
+Weight:240
+Birth:1978-03-18
+Age:37
+Exp:1
+School:Mali
+OwingTeam:LAL

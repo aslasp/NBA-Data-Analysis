@@ -1,0 +1,10 @@
+Name:Demetrius Calip
+Number:7
+Position:G
+Height:6-1
+Weight:165
+Birth:1969-11-18
+Age:45
+Exp:0
+School:Michigan
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Dexter Cambridge
+Number:30
+Position:F
+Height:6-7
+Weight:224
+Birth:1970-01-29
+Age:45
+Exp:0
+School:Texas
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Bill Curley
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-05-29
+Age:43
+Exp:0
+School:Boston College
+OwingTeam:

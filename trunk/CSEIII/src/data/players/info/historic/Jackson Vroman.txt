@@ -1,0 +1,10 @@
+Name:Jackson Vroman
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-06-06
+Age:33
+Exp:0
+School:Iowa State
+OwingTeam:

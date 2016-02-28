@@ -1,0 +1,10 @@
+Name:Kevin Restani
+Number:24
+Position:F
+Height:6-9
+Weight:225
+Birth:1951-12-23
+Age:63
+Exp:7
+School:San Francisco
+OwingTeam:CLE

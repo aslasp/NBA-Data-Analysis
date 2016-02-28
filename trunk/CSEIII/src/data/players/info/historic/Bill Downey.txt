@@ -1,0 +1,10 @@
+Name:Bill Downey
+Number:
+Position:C
+Height:6-6
+Weight:210
+Birth:1923-11-11
+Age:91
+Exp:0
+School:Marquette
+OwingTeam:PRO

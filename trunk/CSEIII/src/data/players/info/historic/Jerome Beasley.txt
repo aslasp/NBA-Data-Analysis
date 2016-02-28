@@ -1,0 +1,10 @@
+Name:Jerome Beasley
+Number:24
+Position:F
+Height:6-9
+Weight:237
+Birth:1980-05-17
+Age:35
+Exp:0
+School:North Dakota
+OwingTeam:MIA

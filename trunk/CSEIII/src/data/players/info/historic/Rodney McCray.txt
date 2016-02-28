@@ -1,0 +1,10 @@
+Name:Rodney McCray
+Number:22
+Position:F
+Height:6-8
+Weight:220
+Birth:1961-08-29
+Age:53
+Exp:9
+School:Louisville
+OwingTeam:CHI

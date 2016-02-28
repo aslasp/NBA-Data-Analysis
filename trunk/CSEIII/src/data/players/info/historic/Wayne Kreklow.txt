@@ -1,0 +1,10 @@
+Name:Wayne Kreklow
+Number:20
+Position:G
+Height:6-4
+Weight:175
+Birth:1957-01-04
+Age:58
+Exp:0
+School:Drake
+OwingTeam:BOS

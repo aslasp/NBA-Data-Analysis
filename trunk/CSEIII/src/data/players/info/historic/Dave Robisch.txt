@@ -1,0 +1,10 @@
+Name:Dave Robisch
+Number:35
+Position:C
+Height:6-10
+Weight:235
+Birth:1949-12-22
+Age:65
+Exp:7
+School:Kansas
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Tony Campbell
+Number:9
+Position:F
+Height:6-7
+Weight:215
+Birth:1962-05-07
+Age:53
+Exp:10
+School:Ohio State
+OwingTeam:CLE

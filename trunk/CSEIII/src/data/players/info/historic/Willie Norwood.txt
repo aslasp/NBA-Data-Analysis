@@ -1,0 +1,10 @@
+Name:Willie Norwood
+Number:8
+Position:F
+Height:6-7
+Weight:220
+Birth:1947-08-08
+Age:67
+Exp:6
+School:Alcorn State
+OwingTeam:DET

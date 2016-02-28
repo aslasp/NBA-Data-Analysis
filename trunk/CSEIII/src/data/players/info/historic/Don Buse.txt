@@ -1,0 +1,10 @@
+Name:Don Buse
+Number:10
+Position:G
+Height:6-4
+Weight:190
+Birth:1950-08-10
+Age:64
+Exp:8
+School:Evansville
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Wayne Molis
+Number:18
+Position:F
+Height:6-8
+Weight:230
+Birth:1943-04-17
+Age:72
+Exp:0
+School:Lewis
+OwingTeam:NYK

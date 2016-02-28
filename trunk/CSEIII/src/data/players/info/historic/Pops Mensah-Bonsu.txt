@@ -1,0 +1,10 @@
+Name:Pops Mensah-Bonsu
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-09-07
+Age:31
+Exp:0
+School:George Washington
+OwingTeam:

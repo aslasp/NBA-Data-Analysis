@@ -1,0 +1,10 @@
+Name:Larry Smith
+Number:2
+Position:F
+Height:6-8
+Weight:215
+Birth:1958-01-18
+Age:57
+Exp:12
+School:Alcorn State
+OwingTeam:SAN

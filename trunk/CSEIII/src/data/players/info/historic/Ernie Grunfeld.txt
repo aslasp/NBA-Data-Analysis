@@ -1,0 +1,10 @@
+Name:Ernie Grunfeld
+Number:18
+Position:G
+Height:6-6
+Weight:210
+Birth:1955-04-24
+Age:60
+Exp:8
+School:Tennessee
+OwingTeam:NYK

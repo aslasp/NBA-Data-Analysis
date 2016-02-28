@@ -1,0 +1,10 @@
+Name:Art Hillhouse
+Number:18
+Position:C
+Height:6-7
+Weight:220
+Birth:1916-06-12
+Age:98
+Exp:1
+School:Long Island-Brooklyn
+OwingTeam:PHW

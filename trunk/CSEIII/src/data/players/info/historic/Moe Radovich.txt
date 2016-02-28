@@ -1,0 +1,10 @@
+Name:Moe Radovich
+Number:4
+Position:G
+Height:6-0
+Weight:160
+Birth:1929-05-05
+Age:86
+Exp:0
+School:Wyoming
+OwingTeam:PHW

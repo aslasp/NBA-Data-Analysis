@@ -1,0 +1,10 @@
+Name:Malcolm Thomas
+Number:
+Position:
+Height:
+Weight:
+Birth:1988-11-08
+Age:26
+Exp:0
+School:San Diego State
+OwingTeam:

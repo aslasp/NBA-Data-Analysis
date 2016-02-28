@@ -1,0 +1,10 @@
+Name:Jim Les
+Number:14
+Position:G
+Height:5-11
+Weight:165
+Birth:1963-08-18
+Age:51
+Exp:6
+School:Bradley
+OwingTeam:ATL

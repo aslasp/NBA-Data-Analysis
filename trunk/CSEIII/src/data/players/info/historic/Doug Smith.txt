@@ -1,0 +1,10 @@
+Name:Doug Smith
+Number:34
+Position:F
+Height:6-10
+Weight:220
+Birth:1969-09-17
+Age:45
+Exp:4
+School:Missouri
+OwingTeam:BOS

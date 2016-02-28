@@ -1,0 +1,10 @@
+Name:Dick Wehr
+Number:
+Position:F
+Height:6-4
+Weight:180
+Birth:1925-12-09
+Age:89
+Exp:0
+School:Rice
+OwingTeam:JET

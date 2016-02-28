@@ -1,0 +1,10 @@
+Name:Tyrus Thomas
+Number:
+Position:
+Height:
+Weight:
+Birth:1986-08-17
+Age:28
+Exp:0
+School:Louisiana State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Ken Norman
+Number:
+Position:
+Height:
+Weight:
+Birth:1964-09-05
+Age:50
+Exp:0
+School:Illinois
+OwingTeam:

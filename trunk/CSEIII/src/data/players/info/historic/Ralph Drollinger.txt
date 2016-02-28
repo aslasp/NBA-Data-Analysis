@@ -1,0 +1,10 @@
+Name:Ralph Drollinger
+Number:52
+Position:C
+Height:7-2
+Weight:250
+Birth:1954-04-20
+Age:61
+Exp:0
+School:California-Los Angeles
+OwingTeam:DAL

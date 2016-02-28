@@ -1,0 +1,10 @@
+Name:Jamaal Tinsley
+Number:
+Position:
+Height:
+Weight:
+Birth:1978-02-28
+Age:37
+Exp:0
+School:Iowa State
+OwingTeam:

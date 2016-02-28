@@ -1,0 +1,10 @@
+Name:J.R. Henderson
+Number:52
+Position:F
+Height:6-8
+Weight:233
+Birth:1976-10-30
+Age:38
+Exp:0
+School:California-Los Angeles
+OwingTeam:VAN

@@ -1,0 +1,10 @@
+Name:Derek Grimm
+Number:
+Position:
+Height:
+Weight:
+Birth:1974-08-03
+Age:40
+Exp:0
+School:Missouri
+OwingTeam:

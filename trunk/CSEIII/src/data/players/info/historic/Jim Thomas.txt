@@ -1,0 +1,10 @@
+Name:Jim Thomas
+Number:20
+Position:G
+Height:6-3
+Weight:190
+Birth:1960-10-19
+Age:54
+Exp:3
+School:Indiana
+OwingTeam:MIN

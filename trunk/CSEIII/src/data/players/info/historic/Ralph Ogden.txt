@@ -1,0 +1,10 @@
+Name:Ralph Ogden
+Number:22
+Position:F
+Height:6-5
+Weight:205
+Birth:1948-01-25
+Age:67
+Exp:0
+School:Santa Clara
+OwingTeam:SFW

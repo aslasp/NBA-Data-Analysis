@@ -1,0 +1,10 @@
+Name:Andrei Kirilenko
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-02-18
+Age:34
+Exp:0
+School:St. Petersburg
+OwingTeam:

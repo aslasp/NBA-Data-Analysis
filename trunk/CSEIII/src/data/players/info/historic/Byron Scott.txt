@@ -1,0 +1,10 @@
+Name:Byron Scott
+Number:4
+Position:G
+Height:6-4
+Weight:205
+Birth:1961-03-28
+Age:54
+Exp:13
+School:Arizona State
+OwingTeam:LAL

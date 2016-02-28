@@ -1,0 +1,10 @@
+Name:Hank Rosenstein
+Number:
+Position:F
+Height:6-4
+Weight:185
+Birth:1920-06-16
+Age:94
+Exp:0
+School:City College of New York
+OwingTeam:PRO

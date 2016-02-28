@@ -1,0 +1,10 @@
+Name:Nate Bowman
+Number:17
+Position:C
+Height:6-10
+Weight:230
+Birth:1943-03-19
+Age:72
+Exp:4
+School:Wichita State
+OwingTeam:BUF

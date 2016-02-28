@@ -1,0 +1,10 @@
+Name:Paul McCracken
+Number:7
+Position:G
+Height:6-4
+Weight:180
+Birth:1950-09-11
+Age:64
+Exp:2
+School:Cal State-Northridge
+OwingTeam:CHI

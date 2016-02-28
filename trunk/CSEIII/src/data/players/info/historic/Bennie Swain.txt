@@ -1,0 +1,10 @@
+Name:Bennie Swain
+Number:16
+Position:F
+Height:6-8
+Weight:220
+Birth:1933-12-16
+Age:81
+Exp:0
+School:Texas Southern
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Mel Davis
+Number:31
+Position:F
+Height:6-6
+Weight:220
+Birth:1950-11-09
+Age:64
+Exp:3
+School:St. John
+OwingTeam:NYN

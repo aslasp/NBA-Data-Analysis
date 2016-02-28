@@ -1,0 +1,10 @@
+Name:Chet Aubuchon
+Number:
+Position:G
+Height:5-10
+Weight:137
+Birth:1916-05-08
+Age:99
+Exp:0
+School:Michigan State
+OwingTeam:DEF

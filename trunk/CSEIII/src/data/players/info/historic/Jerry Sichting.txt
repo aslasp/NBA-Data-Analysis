@@ -1,0 +1,10 @@
+Name:Jerry Sichting
+Number:12
+Position:G
+Height:6-1
+Weight:168
+Birth:1956-11-29
+Age:58
+Exp:9
+School:Purdue
+OwingTeam:MIL

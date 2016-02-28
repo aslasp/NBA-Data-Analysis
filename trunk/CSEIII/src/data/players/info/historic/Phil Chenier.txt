@@ -1,0 +1,10 @@
+Name:Phil Chenier
+Number:15
+Position:G
+Height:6-3
+Weight:180
+Birth:1950-10-30
+Age:64
+Exp:9
+School:California
+OwingTeam:GOS

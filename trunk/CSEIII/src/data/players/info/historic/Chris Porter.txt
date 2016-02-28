@@ -1,0 +1,10 @@
+Name:Chris Porter
+Number:4
+Position:F
+Height:6-7
+Weight:218
+Birth:1978-05-09
+Age:37
+Exp:0
+School:Auburn
+OwingTeam:GSW

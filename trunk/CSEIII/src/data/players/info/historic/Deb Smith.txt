@@ -1,0 +1,10 @@
+Name:Deb Smith
+Number:
+Position:F
+Height:6-3
+Weight:180
+Birth:1920-01-07
+Age:95
+Exp:0
+School:Utah
+OwingTeam:BOM

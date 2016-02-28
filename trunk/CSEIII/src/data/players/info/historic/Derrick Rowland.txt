@@ -1,0 +1,10 @@
+Name:Derrick Rowland
+Number:12
+Position:F
+Height:6-5
+Weight:195
+Birth:1959-06-21
+Age:55
+Exp:0
+School:Potsdam
+OwingTeam:MIL

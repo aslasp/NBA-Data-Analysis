@@ -1,0 +1,10 @@
+Name:Randy Livingston
+Number:14
+Position:G
+Height:6-4
+Weight:209
+Birth:1975-04-02
+Age:40
+Exp:10
+School:Louisiana State
+OwingTeam:SEA

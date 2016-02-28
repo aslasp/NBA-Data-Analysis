@@ -1,0 +1,10 @@
+Name:Mike McGee
+Number:40
+Position:F
+Height:6-5
+Weight:190
+Birth:1959-07-29
+Age:55
+Exp:8
+School:Michigan
+OwingTeam:PHX

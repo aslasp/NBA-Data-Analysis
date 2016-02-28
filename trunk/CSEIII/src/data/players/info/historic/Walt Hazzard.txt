@@ -1,0 +1,10 @@
+Name:Walt Hazzard
+Number:42
+Position:G
+Height:6-2
+Weight:185
+Birth:1942-04-15
+Age:73
+Exp:9
+School:California-Los Angeles
+OwingTeam:SEA

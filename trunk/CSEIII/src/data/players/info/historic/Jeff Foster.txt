@@ -1,0 +1,10 @@
+Name:Jeff Foster
+Number:10
+Position:F-C
+Height:6-11
+Weight:250
+Birth:1977-01-16
+Age:38
+Exp:12
+School:Texas State
+OwingTeam:IND

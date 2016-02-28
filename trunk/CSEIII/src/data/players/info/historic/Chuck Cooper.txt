@@ -1,0 +1,10 @@
+Name:Chuck Cooper
+Number:6
+Position:F
+Height:6-5
+Weight:210
+Birth:1926-09-29
+Age:88
+Exp:5
+School:Duquesne
+OwingTeam:FTW

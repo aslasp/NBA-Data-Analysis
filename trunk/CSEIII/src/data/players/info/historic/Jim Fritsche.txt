@@ -1,0 +1,10 @@
+Name:Jim Fritsche
+Number:8
+Position:C
+Height:6-8
+Weight:210
+Birth:1931-12-10
+Age:83
+Exp:1
+School:Hamline
+OwingTeam:FTW

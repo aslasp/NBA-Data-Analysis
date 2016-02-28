@@ -1,0 +1,10 @@
+Name:Doug Collins
+Number:20
+Position:G
+Height:6-6
+Weight:180
+Birth:1951-07-28
+Age:63
+Exp:7
+School:Illinois State
+OwingTeam:PHL

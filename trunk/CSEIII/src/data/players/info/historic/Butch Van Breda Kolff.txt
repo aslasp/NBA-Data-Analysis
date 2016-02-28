@@ -1,0 +1,10 @@
+Name:Butch Van Breda Kolff
+Number:17
+Position:G-F
+Height:6-3
+Weight:185
+Birth:1922-10-28
+Age:92
+Exp:3
+School:New York University
+OwingTeam:NYK

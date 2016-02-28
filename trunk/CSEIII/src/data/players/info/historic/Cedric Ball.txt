@@ -1,0 +1,10 @@
+Name:Cedric Ball
+Number:44
+Position:F
+Height:6-8
+Weight:210
+Birth:1968-04-16
+Age:47
+Exp:0
+School:North Carolina-Charlotte
+OwingTeam:LAC

@@ -1,0 +1,10 @@
+Name:Francisco Garcia
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-12-31
+Age:34
+Exp:0
+School:Louisville
+OwingTeam:

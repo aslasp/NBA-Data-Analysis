@@ -1,0 +1,10 @@
+Name:Paul McPherson
+Number:23
+Position:G
+Height:6-4
+Weight:210
+Birth:1978-07-03
+Age:36
+Exp:0
+School:DePaul
+OwingTeam:GSW

@@ -1,0 +1,10 @@
+Name:Esteban Batista
+Number:11
+Position:F-C
+Height:6-10
+Weight:268
+Birth:1983-09-02
+Age:31
+Exp:1
+School:Uruguay
+OwingTeam:ATL

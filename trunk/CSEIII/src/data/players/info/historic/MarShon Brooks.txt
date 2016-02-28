@@ -1,0 +1,10 @@
+Name:MarShon Brooks
+Number:2
+Position:G
+Height:6-5
+Weight:200
+Birth:1989-01-26
+Age:26
+Exp:2
+School:Providence
+OwingTeam:LAL

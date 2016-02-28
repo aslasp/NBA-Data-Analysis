@@ -1,0 +1,10 @@
+Name:Ray Ramsey
+Number:
+Position:G
+Height:6-2
+Weight:165
+Birth:1921-07-18
+Age:93
+Exp:0
+School:Bradley
+OwingTeam:BAL

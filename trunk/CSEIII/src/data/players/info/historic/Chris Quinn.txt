@@ -1,0 +1,10 @@
+Name:Chris Quinn
+Number:20
+Position:G
+Height:6-2
+Weight:175
+Birth:1983-09-27
+Age:31
+Exp:5
+School:Notre Dame
+OwingTeam:CLE

@@ -1,0 +1,10 @@
+Name:Earl Jones
+Number:31
+Position:C
+Height:7-0
+Weight:210
+Birth:1961-01-13
+Age:54
+Exp:1
+School:District of Columbia
+OwingTeam:MIL

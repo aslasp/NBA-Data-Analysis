@@ -1,0 +1,10 @@
+Name:Barry Sumpter
+Number:51
+Position:F
+Height:6-11
+Weight:215
+Birth:1965-11-11
+Age:49
+Exp:0
+School:Austin Peay
+OwingTeam:LAC

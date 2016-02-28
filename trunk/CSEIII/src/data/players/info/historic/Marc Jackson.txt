@@ -1,0 +1,10 @@
+Name:Marc Jackson
+Number:44
+Position:F
+Height:6-10
+Weight:253
+Birth:1975-01-16
+Age:40
+Exp:6
+School:Temple
+OwingTeam:NOK

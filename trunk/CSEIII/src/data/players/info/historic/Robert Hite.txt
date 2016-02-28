@@ -1,0 +1,10 @@
+Name:Robert Hite
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-01-12
+Age:31
+Exp:0
+School:Miami 
+OwingTeam:

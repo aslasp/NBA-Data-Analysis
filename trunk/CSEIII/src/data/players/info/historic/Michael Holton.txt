@@ -1,0 +1,10 @@
+Name:Michael Holton
+Number:6
+Position:G
+Height:6-4
+Weight:185
+Birth:1961-08-04
+Age:53
+Exp:5
+School:California-Los Angeles
+OwingTeam:CHH

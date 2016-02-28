@@ -1,0 +1,10 @@
+Name:Nate Archibald
+Number:7
+Position:G
+Height:6-1
+Weight:150
+Birth:1948-09-02
+Age:66
+Exp:12
+School:Texas-El Paso
+OwingTeam:MIL

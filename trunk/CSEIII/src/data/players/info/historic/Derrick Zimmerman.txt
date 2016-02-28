@@ -1,0 +1,10 @@
+Name:Derrick Zimmerman
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-12-02
+Age:33
+Exp:0
+School:Mississippi State
+OwingTeam:

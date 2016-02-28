@@ -1,0 +1,10 @@
+Name:Brent Barry
+Number:17
+Position:G
+Height:6-7
+Weight:210
+Birth:1971-12-31
+Age:43
+Exp:13
+School:Oregon State
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Joao Vianna
+Number:31
+Position:F
+Height:6-9
+Weight:215
+Birth:1966-11-15
+Age:48
+Exp:0
+School:
+OwingTeam:DAL

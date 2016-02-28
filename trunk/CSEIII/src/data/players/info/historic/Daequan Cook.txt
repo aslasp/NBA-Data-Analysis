@@ -1,0 +1,10 @@
+Name:Daequan Cook
+Number:14
+Position:G
+Height:6-5
+Weight:210
+Birth:1987-04-28
+Age:28
+Exp:5
+School:Ohio State
+OwingTeam:CHI

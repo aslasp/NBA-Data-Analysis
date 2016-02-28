@@ -1,0 +1,10 @@
+Name:Kevin Burleson
+Number:12
+Position:G
+Height:6-3
+Weight:205
+Birth:1979-04-09
+Age:36
+Exp:0
+School:Minnesota
+OwingTeam:CHA

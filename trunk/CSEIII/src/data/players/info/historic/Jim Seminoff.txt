@@ -1,0 +1,10 @@
+Name:Jim Seminoff
+Number:15
+Position:G
+Height:6-2
+Weight:190
+Birth:1922-09-01
+Age:92
+Exp:3
+School:Southern California
+OwingTeam:BOS

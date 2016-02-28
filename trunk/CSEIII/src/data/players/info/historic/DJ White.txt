@@ -1,0 +1,10 @@
+Name:DJ White
+Number:8
+Position:F
+Height:6-9
+Weight:250
+Birth:1986-08-31
+Age:28
+Exp:5
+School:Indiana
+OwingTeam:CHA

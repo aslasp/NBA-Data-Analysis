@@ -1,0 +1,10 @@
+Name:Otis Thorpe
+Number:52
+Position:C-F
+Height:6-10
+Weight:248
+Birth:1962-08-05
+Age:52
+Exp:16
+School:Providence
+OwingTeam:CHH

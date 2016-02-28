@@ -1,0 +1,10 @@
+Name:Archie Clark
+Number:11
+Position:G
+Height:6-2
+Weight:175
+Birth:1941-07-15
+Age:73
+Exp:9
+School:Minnesota
+OwingTeam:DET

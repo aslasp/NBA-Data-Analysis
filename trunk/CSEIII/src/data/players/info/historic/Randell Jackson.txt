@@ -1,0 +1,10 @@
+Name:Randell Jackson
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-01-06
+Age:39
+Exp:0
+School:Florida State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Earl Dodd
+Number:
+Position:F
+Height:6-5
+Weight:175
+Birth:1924-11-01
+Age:90
+Exp:0
+School:Truman State
+OwingTeam:

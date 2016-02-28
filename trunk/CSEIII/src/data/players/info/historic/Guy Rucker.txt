@@ -1,0 +1,10 @@
+Name:Guy Rucker
+Number:4
+Position:F-C
+Height:6-9
+Weight:270
+Birth:1977-07-27
+Age:37
+Exp:0
+School:Iowa
+OwingTeam:LAL

@@ -1,0 +1,10 @@
+Name:Ken Wilburn
+Number:9
+Position:F
+Height:6-6
+Weight:195
+Birth:1944-06-08
+Age:70
+Exp:1
+School:Central State 
+OwingTeam:CHI

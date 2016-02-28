@@ -1,0 +1,10 @@
+Name:Brad Sellers
+Number:4
+Position:F
+Height:7-0
+Weight:210
+Birth:1962-12-17
+Age:52
+Exp:5
+School:Ohio State
+OwingTeam:MIN

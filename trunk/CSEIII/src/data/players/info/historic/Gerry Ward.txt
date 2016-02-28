@@ -1,0 +1,10 @@
+Name:Gerry Ward
+Number:6
+Position:G
+Height:6-4
+Weight:195
+Birth:1941-09-06
+Age:73
+Exp:3
+School:Boston College
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Armand Cure
+Number:
+Position:F
+Height:6-0
+Weight:198
+Birth:1919-08-01
+Age:95
+Exp:0
+School:Rhode Island
+OwingTeam:PRO

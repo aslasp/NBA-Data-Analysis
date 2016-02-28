@@ -1,0 +1,10 @@
+Name:Kelenna Azubuike
+Number:4
+Position:G
+Height:6-5
+Weight:215
+Birth:1983-12-16
+Age:31
+Exp:4
+School:Kentucky
+OwingTeam:DAL

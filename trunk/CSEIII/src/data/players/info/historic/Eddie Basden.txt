@@ -1,0 +1,10 @@
+Name:Eddie Basden
+Number:13
+Position:G
+Height:6-5
+Weight:215
+Birth:1983-02-15
+Age:32
+Exp:0
+School:North Carolina-Charlotte
+OwingTeam:CHI

@@ -1,0 +1,10 @@
+Name:Sam Young
+Number:4
+Position:F-G
+Height:6-6
+Weight:225
+Birth:1985-06-01
+Age:29
+Exp:3
+School:Pittsburgh
+OwingTeam:IND

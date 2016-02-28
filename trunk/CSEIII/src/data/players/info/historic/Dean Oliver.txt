@@ -1,0 +1,10 @@
+Name:Dean Oliver
+Number:2
+Position:G
+Height:5-11
+Weight:175
+Birth:1978-11-05
+Age:36
+Exp:1
+School:Iowa
+OwingTeam:GSW

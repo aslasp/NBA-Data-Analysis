@@ -1,0 +1,10 @@
+Name:Adam Keefe
+Number:32
+Position:F
+Height:6-9
+Weight:230
+Birth:1970-02-22
+Age:45
+Exp:8
+School:Stanford
+OwingTeam:GSW

@@ -1,0 +1,10 @@
+Name:Mike Farmer
+Number:12
+Position:F
+Height:6-7
+Weight:210
+Birth:1936-09-26
+Age:78
+Exp:6
+School:San Francisco
+OwingTeam:STL

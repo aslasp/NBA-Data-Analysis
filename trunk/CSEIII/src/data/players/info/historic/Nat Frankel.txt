@@ -1,0 +1,10 @@
+Name:Nat Frankel
+Number:
+Position:F
+Height:6-0
+Weight:195
+Birth:1913-11-03
+Age:101
+Exp:0
+School:Brooklyn
+OwingTeam:PIT

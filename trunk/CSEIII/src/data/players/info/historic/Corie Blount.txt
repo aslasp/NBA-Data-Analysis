@@ -1,0 +1,10 @@
+Name:Corie Blount
+Number:44
+Position:F-C
+Height:6-10
+Weight:242
+Birth:1969-01-04
+Age:46
+Exp:10
+School:Cincinnati
+OwingTeam:TOR

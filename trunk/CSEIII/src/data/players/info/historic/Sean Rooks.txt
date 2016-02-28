@@ -1,0 +1,10 @@
+Name:Sean Rooks
+Number:45
+Position:C
+Height:6-10
+Weight:260
+Birth:1969-09-09
+Age:45
+Exp:11
+School:Arizona
+OwingTeam:ORL

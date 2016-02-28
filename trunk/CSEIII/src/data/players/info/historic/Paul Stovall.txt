@@ -1,0 +1,10 @@
+Name:Paul Stovall
+Number:23
+Position:F
+Height:6-4
+Weight:215
+Birth:1948-08-16
+Age:66
+Exp:0
+School:Arizona State
+OwingTeam:PHX

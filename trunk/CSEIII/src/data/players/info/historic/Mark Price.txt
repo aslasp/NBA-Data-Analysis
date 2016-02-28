@@ -1,0 +1,10 @@
+Name:Mark Price
+Number:5
+Position:G
+Height:6-0
+Weight:180
+Birth:1964-02-15
+Age:51
+Exp:11
+School:Georgia Tech
+OwingTeam:ORL

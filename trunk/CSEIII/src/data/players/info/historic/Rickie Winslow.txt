@@ -1,0 +1,10 @@
+Name:Rickie Winslow
+Number:31
+Position:F
+Height:6-8
+Weight:225
+Birth:1964-07-26
+Age:50
+Exp:0
+School:Houston
+OwingTeam:MIL

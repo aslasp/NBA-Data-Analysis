@@ -1,0 +1,10 @@
+Name:Kedrick Brown
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-03-18
+Age:34
+Exp:0
+School:Northwest Florida State
+OwingTeam:

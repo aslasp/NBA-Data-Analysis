@@ -1,0 +1,10 @@
+Name:Al Miksis
+Number:
+Position:C
+Height:6-7
+Weight:210
+Birth:1928-02-02
+Age:87
+Exp:0
+School:Western Illinois
+OwingTeam:WAT

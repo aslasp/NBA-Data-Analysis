@@ -1,0 +1,10 @@
+Name:George Johnson
+Number:
+Position:C
+Height:6-11
+Weight:205
+Birth:1948-12-18
+Age:66
+Exp:12
+School:Dillard
+OwingTeam:SEA

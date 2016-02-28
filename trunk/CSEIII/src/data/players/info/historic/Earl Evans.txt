@@ -1,0 +1,10 @@
+Name:Earl Evans
+Number:
+Position:F
+Height:6-8
+Weight:202
+Birth:1955-11-11
+Age:59
+Exp:0
+School:Nevada-Las Vegas
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Lance Allred
+Number:41
+Position:C
+Height:6-11
+Weight:250
+Birth:1981-02-02
+Age:34
+Exp:0
+School:Weber State
+OwingTeam:CLE

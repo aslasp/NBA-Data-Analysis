@@ -1,0 +1,10 @@
+Name:Norman Richardson
+Number:31
+Position:G
+Height:6-5
+Weight:200
+Birth:1979-07-24
+Age:35
+Exp:0
+School:Hofstra
+OwingTeam:CHI

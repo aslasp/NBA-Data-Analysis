@@ -1,0 +1,10 @@
+Name:Garfield Smith
+Number:33
+Position:C
+Height:6-9
+Weight:235
+Birth:1945-11-18
+Age:69
+Exp:1
+School:Eastern Kentucky
+OwingTeam:BOS

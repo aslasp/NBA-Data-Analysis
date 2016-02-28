@@ -1,0 +1,10 @@
+Name:Eric Murdock
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-06-14
+Age:46
+Exp:0
+School:Providence
+OwingTeam:

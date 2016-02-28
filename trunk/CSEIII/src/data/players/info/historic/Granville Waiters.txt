@@ -1,0 +1,10 @@
+Name:Granville Waiters
+Number:31
+Position:C
+Height:6-11
+Weight:225
+Birth:1961-01-08
+Age:54
+Exp:4
+School:Ohio State
+OwingTeam:CHI

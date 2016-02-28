@@ -1,0 +1,10 @@
+Name:Greg Bunch
+Number:30
+Position:F
+Height:6-6
+Weight:190
+Birth:1956-05-15
+Age:59
+Exp:0
+School:Cal State-Fullerton
+OwingTeam:NYK

@@ -1,0 +1,10 @@
+Name:Johnny Rogers
+Number:32
+Position:F
+Height:6-10
+Weight:225
+Birth:1963-12-30
+Age:51
+Exp:1
+School:California-Irvine
+OwingTeam:CLE

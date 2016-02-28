@@ -1,0 +1,10 @@
+Name:Reggie Smith
+Number:54
+Position:F
+Height:6-10
+Weight:240
+Birth:1970-08-21
+Age:44
+Exp:1
+School:Texas Christian
+OwingTeam:POR

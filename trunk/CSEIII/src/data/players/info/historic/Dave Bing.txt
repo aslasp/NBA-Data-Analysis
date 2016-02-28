@@ -1,0 +1,10 @@
+Name:Dave Bing
+Number:44
+Position:G
+Height:6-3
+Weight:180
+Birth:1943-11-24
+Age:71
+Exp:11
+School:Syracuse
+OwingTeam:BOS

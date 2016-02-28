@@ -1,0 +1,10 @@
+Name:Cheikh Samb
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-10-22
+Age:30
+Exp:0
+School:Spain
+OwingTeam:

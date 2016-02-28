@@ -1,0 +1,10 @@
+Name:Ray Blume
+Number:22
+Position:G
+Height:6-4
+Weight:185
+Birth:1958-09-23
+Age:56
+Exp:0
+School:Oregon State
+OwingTeam:CHI

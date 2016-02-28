@@ -1,0 +1,10 @@
+Name:Emanual Davis
+Number:15
+Position:G
+Height:6-5
+Weight:195
+Birth:1968-08-27
+Age:46
+Exp:5
+School:Delaware State
+OwingTeam:ATL

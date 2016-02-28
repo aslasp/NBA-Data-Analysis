@@ -1,0 +1,10 @@
+Name:George Lynch
+Number:9
+Position:F
+Height:6-8
+Weight:235
+Birth:1970-09-03
+Age:44
+Exp:11
+School:North Carolina
+OwingTeam:NOH

@@ -1,0 +1,10 @@
+Name:Kenny Gattison
+Number:44
+Position:F
+Height:6-8
+Weight:225
+Birth:1964-05-23
+Age:51
+Exp:8
+School:Old Dominion
+OwingTeam:VAN

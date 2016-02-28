@@ -1,0 +1,10 @@
+Name:Ted Manakas
+Number:23
+Position:G
+Height:6-2
+Weight:180
+Birth:1951-02-22
+Age:64
+Exp:0
+School:Princeton
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Vassilis Spanoulis
+Number:10
+Position:G
+Height:6-4
+Weight:195
+Birth:1982-07-08
+Age:32
+Exp:0
+School:Greece
+OwingTeam:HOU

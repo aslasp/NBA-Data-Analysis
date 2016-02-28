@@ -1,0 +1,10 @@
+Name:Vinny Del Negro
+Number:
+Position:
+Height:
+Weight:
+Birth:1966-08-09
+Age:48
+Exp:0
+School:North Carolina State
+OwingTeam:

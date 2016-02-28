@@ -1,0 +1,10 @@
+Name:Trevor Wilson
+Number:30
+Position:F
+Height:6-7
+Weight:210
+Birth:1968-03-16
+Age:47
+Exp:3
+School:California-Los Angeles
+OwingTeam:PHL

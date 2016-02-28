@@ -1,0 +1,10 @@
+Name:Walt Davis
+Number:12
+Position:C
+Height:6-8
+Weight:205
+Birth:1931-01-05
+Age:84
+Exp:4
+School:Texas A
+OwingTeam:PHW

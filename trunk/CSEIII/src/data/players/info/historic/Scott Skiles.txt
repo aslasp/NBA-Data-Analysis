@@ -1,0 +1,10 @@
+Name:Scott Skiles
+Number:5
+Position:G
+Height:6-1
+Weight:180
+Birth:1964-03-05
+Age:51
+Exp:9
+School:Michigan State
+OwingTeam:PHL

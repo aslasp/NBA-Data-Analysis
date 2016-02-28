@@ -1,0 +1,10 @@
+Name:Brian Oliver
+Number:
+Position:
+Height:
+Weight:
+Birth:1968-06-01
+Age:46
+Exp:0
+School:Georgia Tech
+OwingTeam:

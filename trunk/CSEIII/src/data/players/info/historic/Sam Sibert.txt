@@ -1,0 +1,10 @@
+Name:Sam Sibert
+Number:25
+Position:F
+Height:6-7
+Weight:215
+Birth:1949-02-11
+Age:66
+Exp:0
+School:Kentucky State
+OwingTeam:KCK

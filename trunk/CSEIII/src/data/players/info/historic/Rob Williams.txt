@@ -1,0 +1,10 @@
+Name:Rob Williams
+Number:21
+Position:G
+Height:6-2
+Weight:175
+Birth:1961-05-05
+Age:54
+Exp:1
+School:Houston
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Taylor Griffin
+Number:32
+Position:F
+Height:6-7
+Weight:238
+Birth:1986-04-18
+Age:29
+Exp:0
+School:Oklahoma
+OwingTeam:PHX

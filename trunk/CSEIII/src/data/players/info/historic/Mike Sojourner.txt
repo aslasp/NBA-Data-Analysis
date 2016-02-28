@@ -1,0 +1,10 @@
+Name:Mike Sojourner
+Number:40
+Position:C
+Height:6-9
+Weight:225
+Birth:1953-10-16
+Age:61
+Exp:2
+School:Utah
+OwingTeam:ATL

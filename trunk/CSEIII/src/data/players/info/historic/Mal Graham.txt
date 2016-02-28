@@ -1,0 +1,10 @@
+Name:Mal Graham
+Number:11
+Position:G
+Height:6-1
+Weight:185
+Birth:1945-02-23
+Age:70
+Exp:1
+School:New York University
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Earl Shannon
+Number:
+Position:G
+Height:5-11
+Weight:170
+Birth:1921-11-23
+Age:93
+Exp:2
+School:Rhode Island
+OwingTeam:PRO

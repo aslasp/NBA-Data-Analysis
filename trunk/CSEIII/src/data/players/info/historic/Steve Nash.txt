@@ -1,0 +1,10 @@
+Name:Steve Nash
+Number:10
+Position:G
+Height:6-3
+Weight:178
+Birth:1974-02-07
+Age:41
+Exp:17
+School:Santa Clara
+OwingTeam:LAL

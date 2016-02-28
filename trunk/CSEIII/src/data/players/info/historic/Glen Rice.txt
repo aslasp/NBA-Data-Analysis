@@ -1,0 +1,10 @@
+Name:Glen Rice
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-05-28
+Age:48
+Exp:0
+School:Michigan
+OwingTeam:

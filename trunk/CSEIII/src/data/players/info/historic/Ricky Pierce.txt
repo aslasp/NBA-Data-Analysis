@@ -1,0 +1,10 @@
+Name:Ricky Pierce
+Number:22
+Position:G
+Height:6-4
+Weight:215
+Birth:1959-08-19
+Age:55
+Exp:15
+School:Rice
+OwingTeam:MIL

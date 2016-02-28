@@ -1,0 +1,10 @@
+Name:Jason Lawson
+Number:55
+Position:C
+Height:6-11
+Weight:240
+Birth:1974-09-02
+Age:40
+Exp:1
+School:Villanova
+OwingTeam:LAC

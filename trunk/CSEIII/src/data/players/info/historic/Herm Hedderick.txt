@@ -1,0 +1,10 @@
+Name:Herm Hedderick
+Number:14
+Position:G
+Height:6-5
+Weight:170
+Birth:1930-01-01
+Age:85
+Exp:0
+School:Canisius
+OwingTeam:NYK

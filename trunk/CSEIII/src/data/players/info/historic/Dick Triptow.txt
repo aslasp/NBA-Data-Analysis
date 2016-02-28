@@ -1,0 +1,10 @@
+Name:Dick Triptow
+Number:
+Position:G
+Height:6-0
+Weight:170
+Birth:1922-11-03
+Age:92
+Exp:1
+School:DePaul
+OwingTeam:BAL

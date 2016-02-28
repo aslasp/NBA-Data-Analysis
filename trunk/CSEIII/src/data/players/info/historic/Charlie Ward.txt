@@ -1,0 +1,10 @@
+Name:Charlie Ward
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-10-12
+Age:44
+Exp:0
+School:Florida State
+OwingTeam:

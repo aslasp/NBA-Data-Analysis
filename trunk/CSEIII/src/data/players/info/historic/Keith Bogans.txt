@@ -1,0 +1,10 @@
+Name:Keith Bogans
+Number:4
+Position:G-F
+Height:6-5
+Weight:215
+Birth:1980-05-12
+Age:35
+Exp:10
+School:Kentucky
+OwingTeam:BOS

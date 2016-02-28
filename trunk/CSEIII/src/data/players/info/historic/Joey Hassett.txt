@@ -1,0 +1,10 @@
+Name:Joey Hassett
+Number:10
+Position:G
+Height:6-5
+Weight:180
+Birth:1955-09-11
+Age:59
+Exp:5
+School:Providence
+OwingTeam:GOS

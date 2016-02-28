@@ -1,0 +1,10 @@
+Name:Jackie Robinson
+Number:8
+Position:F
+Height:6-6
+Weight:210
+Birth:1955-05-20
+Age:60
+Exp:2
+School:Nevada-Las Vegas
+OwingTeam:CHI

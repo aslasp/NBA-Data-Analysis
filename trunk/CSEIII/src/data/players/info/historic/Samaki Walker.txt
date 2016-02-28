@@ -1,0 +1,10 @@
+Name:Samaki Walker
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-02-25
+Age:39
+Exp:0
+School:Louisville
+OwingTeam:

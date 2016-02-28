@@ -1,0 +1,10 @@
+Name:Walter Davis
+Number:6
+Position:G
+Height:6-6
+Weight:193
+Birth:1954-09-09
+Age:60
+Exp:14
+School:North Carolina
+OwingTeam:DEN

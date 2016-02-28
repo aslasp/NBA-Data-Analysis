@@ -1,0 +1,10 @@
+Name:Tom Tolbert
+Number:39
+Position:F
+Height:6-7
+Weight:235
+Birth:1965-10-16
+Age:49
+Exp:6
+School:Arizona
+OwingTeam:CHH

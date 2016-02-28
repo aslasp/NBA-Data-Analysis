@@ -1,0 +1,10 @@
+Name:Dan Gadzuric
+Number:50
+Position:C
+Height:6-11
+Weight:240
+Birth:1978-02-02
+Age:37
+Exp:9
+School:California-Los Angeles
+OwingTeam:NYK

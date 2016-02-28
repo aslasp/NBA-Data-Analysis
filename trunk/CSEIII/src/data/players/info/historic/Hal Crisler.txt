@@ -1,0 +1,10 @@
+Name:Hal Crisler
+Number:15
+Position:F
+Height:6-3
+Weight:215
+Birth:1923-12-31
+Age:91
+Exp:0
+School:Iowa State
+OwingTeam:BOS

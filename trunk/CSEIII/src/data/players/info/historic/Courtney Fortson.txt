@@ -1,0 +1,10 @@
+Name:Courtney Fortson
+Number:9
+Position:G
+Height:5-11
+Weight:185
+Birth:1988-05-23
+Age:27
+Exp:0
+School:Arkansas
+OwingTeam:HOU

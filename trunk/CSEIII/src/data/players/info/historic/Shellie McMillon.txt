@@ -1,0 +1,10 @@
+Name:Shellie McMillon
+Number:25
+Position:F
+Height:6-5
+Weight:205
+Birth:1936-03-11
+Age:79
+Exp:3
+School:Bradley
+OwingTeam:STL

@@ -1,0 +1,10 @@
+Name:Jackie Ridgle
+Number:23
+Position:G
+Height:6-4
+Weight:195
+Birth:1948-02-13
+Age:67
+Exp:0
+School:California
+OwingTeam:CLE

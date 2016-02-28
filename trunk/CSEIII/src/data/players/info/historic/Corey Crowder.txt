@@ -1,0 +1,10 @@
+Name:Corey Crowder
+Number:23
+Position:F
+Height:6-5
+Weight:214
+Birth:1969-04-13
+Age:46
+Exp:1
+School:Kentucky Wesleyan
+OwingTeam:SAN

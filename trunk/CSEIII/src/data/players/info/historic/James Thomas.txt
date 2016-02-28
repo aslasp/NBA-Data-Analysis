@@ -1,0 +1,10 @@
+Name:James Thomas
+Number:
+Position:
+Height:
+Weight:
+Birth:1980-11-22
+Age:34
+Exp:0
+School:Texas
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Scott English
+Number:14
+Position:F
+Height:6-6
+Weight:205
+Birth:1950-10-20
+Age:64
+Exp:0
+School:Texas-El Paso
+OwingTeam:PHX

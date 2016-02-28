@@ -1,0 +1,10 @@
+Name:Michael Olowokandi
+Number:41
+Position:C
+Height:7-0
+Weight:270
+Birth:1975-04-03
+Age:40
+Exp:8
+School:Pacific
+OwingTeam:BOS

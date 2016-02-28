@@ -1,0 +1,10 @@
+Name:Bob O'Brien
+Number:
+Position:F
+Height:6-4
+Weight:190
+Birth:1927-01-26
+Age:88
+Exp:1
+School:Pepperdine
+OwingTeam:BOM

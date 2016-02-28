@@ -1,0 +1,10 @@
+Name:Bill Fenley
+Number:7
+Position:F
+Height:6-3
+Weight:190
+Birth:1922-02-08
+Age:93
+Exp:0
+School:Manhattan
+OwingTeam:BOS

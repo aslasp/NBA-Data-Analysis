@@ -1,0 +1,10 @@
+Name:Erick Strickland
+Number:20
+Position:G
+Height:6-3
+Weight:218
+Birth:1973-11-25
+Age:41
+Exp:8
+School:Nebraska
+OwingTeam:MIL

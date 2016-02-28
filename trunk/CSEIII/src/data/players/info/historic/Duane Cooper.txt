@@ -1,0 +1,10 @@
+Name:Duane Cooper
+Number:10
+Position:G
+Height:6-1
+Weight:185
+Birth:1969-06-25
+Age:45
+Exp:1
+School:Southern California
+OwingTeam:PHX

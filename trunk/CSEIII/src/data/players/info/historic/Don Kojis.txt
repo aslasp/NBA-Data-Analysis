@@ -1,0 +1,10 @@
+Name:Don Kojis
+Number:21
+Position:F
+Height:6-3
+Weight:202
+Birth:1939-07-15
+Age:75
+Exp:11
+School:Marquette
+OwingTeam:KCK

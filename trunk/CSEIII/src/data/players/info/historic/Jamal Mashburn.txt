@@ -1,0 +1,10 @@
+Name:Jamal Mashburn
+Number:24
+Position:F
+Height:6-8
+Weight:247
+Birth:1972-11-29
+Age:42
+Exp:10
+School:Kentucky
+OwingTeam:NOH

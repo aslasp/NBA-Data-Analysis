@@ -1,0 +1,10 @@
+Name:Larry Wright
+Number:15
+Position:G
+Height:6-1
+Weight:160
+Birth:1954-11-23
+Age:60
+Exp:5
+School:Grambling
+OwingTeam:DET

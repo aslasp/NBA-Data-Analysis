@@ -1,0 +1,10 @@
+Name:Les Jepsen
+Number:51
+Position:G
+Height:7-0
+Weight:237
+Birth:1967-06-24
+Age:47
+Exp:1
+School:Iowa
+OwingTeam:SAC

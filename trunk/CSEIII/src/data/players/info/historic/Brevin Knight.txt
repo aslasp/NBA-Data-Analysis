@@ -1,0 +1,10 @@
+Name:Brevin Knight
+Number:2
+Position:G
+Height:5-10
+Weight:166
+Birth:1975-11-08
+Age:39
+Exp:11
+School:Stanford
+OwingTeam:UTA

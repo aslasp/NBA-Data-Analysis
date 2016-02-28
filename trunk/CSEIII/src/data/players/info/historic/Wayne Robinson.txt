@@ -1,0 +1,10 @@
+Name:Wayne Robinson
+Number:
+Position:F
+Height:6-8
+Weight:217
+Birth:1958-04-19
+Age:57
+Exp:0
+School:Virginia Tech
+OwingTeam:DET

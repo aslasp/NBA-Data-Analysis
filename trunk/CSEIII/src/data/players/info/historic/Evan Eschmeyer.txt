@@ -1,0 +1,10 @@
+Name:Evan Eschmeyer
+Number:00
+Position:C
+Height:6-11
+Weight:250
+Birth:1975-05-30
+Age:40
+Exp:4
+School:Northwestern
+OwingTeam:GSW

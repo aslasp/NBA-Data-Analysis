@@ -1,0 +1,10 @@
+Name:Roger Phegley
+Number:21
+Position:G
+Height:6-6
+Weight:205
+Birth:1956-10-16
+Age:58
+Exp:5
+School:Bradley
+OwingTeam:DAL

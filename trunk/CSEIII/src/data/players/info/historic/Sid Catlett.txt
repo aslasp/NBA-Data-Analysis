@@ -1,0 +1,10 @@
+Name:Sid Catlett
+Number:43
+Position:F
+Height:6-6
+Weight:230
+Birth:1948-04-18
+Age:67
+Exp:0
+School:Notre Dame
+OwingTeam:CIN

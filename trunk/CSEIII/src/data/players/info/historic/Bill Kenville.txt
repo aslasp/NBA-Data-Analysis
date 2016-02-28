@@ -1,0 +1,10 @@
+Name:Bill Kenville
+Number:10
+Position:G
+Height:6-2
+Weight:187
+Birth:1930-12-01
+Age:84
+Exp:5
+School:St. Bonaventure
+OwingTeam:DET

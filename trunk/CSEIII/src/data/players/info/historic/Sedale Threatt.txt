@@ -1,0 +1,10 @@
+Name:Sedale Threatt
+Number:2
+Position:G
+Height:6-2
+Weight:185
+Birth:1961-09-10
+Age:53
+Exp:13
+School:West Virginia Tech
+OwingTeam:HOU

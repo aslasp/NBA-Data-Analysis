@@ -1,0 +1,10 @@
+Name:Jim Springer
+Number:
+Position:C
+Height:6-9
+Weight:235
+Birth:1926-06-17
+Age:88
+Exp:0
+School:
+OwingTeam:JET

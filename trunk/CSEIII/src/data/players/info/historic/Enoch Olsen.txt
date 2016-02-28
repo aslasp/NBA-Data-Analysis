@@ -1,0 +1,10 @@
+Name:Enoch Olsen
+Number:10
+Position:F
+Height:6-8
+Weight:220
+Birth:1940-07-25
+Age:74
+Exp:6
+School:Louisville
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Michael Doleac
+Number:51
+Position:C
+Height:6-11
+Weight:262
+Birth:1977-06-15
+Age:37
+Exp:9
+School:Utah
+OwingTeam:MIN

@@ -1,0 +1,10 @@
+Name:Ryan Bowen
+Number:
+Position:
+Height:
+Weight:
+Birth:1975-11-20
+Age:39
+Exp:0
+School:Iowa
+OwingTeam:

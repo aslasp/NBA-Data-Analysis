@@ -1,0 +1,10 @@
+Name:Virgil Vaughn
+Number:17
+Position:F
+Height:6-4
+Weight:205
+Birth:1918-05-15
+Age:97
+Exp:0
+School:Western Kentucky
+OwingTeam:BOS

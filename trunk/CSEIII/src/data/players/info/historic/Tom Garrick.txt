@@ -1,0 +1,10 @@
+Name:Tom Garrick
+Number:5
+Position:G
+Height:6-2
+Weight:185
+Birth:1966-07-07
+Age:48
+Exp:3
+School:Rhode Island
+OwingTeam:DAL

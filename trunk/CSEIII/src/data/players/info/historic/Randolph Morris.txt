@@ -1,0 +1,10 @@
+Name:Randolph Morris
+Number:33
+Position:C
+Height:6-11
+Weight:275
+Birth:1986-01-02
+Age:29
+Exp:3
+School:Kentucky
+OwingTeam:ATL

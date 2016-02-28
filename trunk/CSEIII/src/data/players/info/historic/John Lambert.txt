@@ -1,0 +1,10 @@
+Name:John Lambert
+Number:24
+Position:C
+Height:6-10
+Weight:225
+Birth:1953-01-14
+Age:62
+Exp:6
+School:Southern California
+OwingTeam:KCK

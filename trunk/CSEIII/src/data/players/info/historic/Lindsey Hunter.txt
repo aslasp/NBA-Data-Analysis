@@ -1,0 +1,10 @@
+Name:Lindsey Hunter
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-12-03
+Age:44
+Exp:0
+School:Jackson State
+OwingTeam:

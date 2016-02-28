@@ -1,0 +1,10 @@
+Name:Mckinley Singleton
+Number:26
+Position:F
+Height:6-5
+Weight:175
+Birth:1961-10-29
+Age:53
+Exp:0
+School:Alabama-Birmingham
+OwingTeam:NYK

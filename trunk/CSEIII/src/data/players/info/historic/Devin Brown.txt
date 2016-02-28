@@ -1,0 +1,10 @@
+Name:Devin Brown
+Number:32
+Position:G
+Height:6-5
+Weight:210
+Birth:1978-12-30
+Age:36
+Exp:7
+School:Texas-San Antonio
+OwingTeam:CHI

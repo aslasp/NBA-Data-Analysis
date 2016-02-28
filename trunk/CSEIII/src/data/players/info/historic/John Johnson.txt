@@ -1,0 +1,10 @@
+Name:John Johnson
+Number:27
+Position:F
+Height:6-7
+Weight:200
+Birth:1947-10-18
+Age:67
+Exp:11
+School:Iowa
+OwingTeam:SEA

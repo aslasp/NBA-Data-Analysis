@@ -1,0 +1,10 @@
+Name:Rick Mahorn
+Number:4
+Position:F
+Height:6-10
+Weight:260
+Birth:1958-09-21
+Age:56
+Exp:17
+School:Hampton
+OwingTeam:PHI

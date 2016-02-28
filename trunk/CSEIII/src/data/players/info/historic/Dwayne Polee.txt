@@ -1,0 +1,10 @@
+Name:Dwayne Polee
+Number:12
+Position:F
+Height:6-5
+Weight:180
+Birth:1963-03-02
+Age:52
+Exp:0
+School:Pepperdine
+OwingTeam:LAC

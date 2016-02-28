@@ -1,0 +1,10 @@
+Name:Greg Griffin
+Number:25
+Position:F
+Height:6-7
+Weight:190
+Birth:1952-09-06
+Age:62
+Exp:0
+School:Idaho State
+OwingTeam:PHX

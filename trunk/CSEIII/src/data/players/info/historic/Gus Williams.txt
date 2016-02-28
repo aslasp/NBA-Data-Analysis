@@ -1,0 +1,10 @@
+Name:Gus Williams
+Number:1
+Position:G
+Height:6-2
+Weight:175
+Birth:1953-10-10
+Age:61
+Exp:10
+School:Southern California
+OwingTeam:ATL

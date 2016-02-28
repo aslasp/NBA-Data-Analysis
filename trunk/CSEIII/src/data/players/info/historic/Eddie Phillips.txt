@@ -1,0 +1,10 @@
+Name:Eddie Phillips
+Number:51
+Position:F
+Height:6-7
+Weight:225
+Birth:1961-09-29
+Age:53
+Exp:0
+School:Alabama
+OwingTeam:NJN

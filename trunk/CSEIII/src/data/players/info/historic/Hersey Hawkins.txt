@@ -1,0 +1,10 @@
+Name:Hersey Hawkins
+Number:33
+Position:G
+Height:6-3
+Weight:200
+Birth:1966-09-29
+Age:48
+Exp:12
+School:Bradley
+OwingTeam:CHH

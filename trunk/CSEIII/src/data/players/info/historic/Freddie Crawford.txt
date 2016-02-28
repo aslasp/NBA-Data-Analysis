@@ -1,0 +1,10 @@
+Name:Freddie Crawford
+Number:15
+Position:G
+Height:6-4
+Weight:189
+Birth:1940-12-23
+Age:74
+Exp:4
+School:St. Bonaventure
+OwingTeam:BUF

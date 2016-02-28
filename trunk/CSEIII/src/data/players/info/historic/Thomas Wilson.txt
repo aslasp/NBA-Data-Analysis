@@ -1,0 +1,10 @@
+Name:Thomas Wilson
+Number:17
+Position:G
+Height:6-3
+Weight:175
+Birth:1955-08-07
+Age:59
+Exp:0
+School:Western Carolina
+OwingTeam:GOS

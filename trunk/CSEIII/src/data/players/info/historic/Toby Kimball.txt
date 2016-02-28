@@ -1,0 +1,10 @@
+Name:Toby Kimball
+Number:7
+Position:F
+Height:6-6
+Weight:220
+Birth:1942-09-07
+Age:72
+Exp:8
+School:Connecticut
+OwingTeam:NOJ

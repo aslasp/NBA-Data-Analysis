@@ -1,0 +1,10 @@
+Name:Reggie Slater
+Number:35
+Position:F
+Height:6-7
+Weight:255
+Birth:1970-08-27
+Age:44
+Exp:7
+School:Wyoming
+OwingTeam:MIN

@@ -1,0 +1,10 @@
+Name:Samuel Dalembert
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-05-10
+Age:34
+Exp:0
+School:Seton Hall
+OwingTeam:

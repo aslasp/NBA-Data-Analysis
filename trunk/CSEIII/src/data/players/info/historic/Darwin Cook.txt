@@ -1,0 +1,10 @@
+Name:Darwin Cook
+Number:1
+Position:G
+Height:6-3
+Weight:184
+Birth:1958-08-06
+Age:56
+Exp:7
+School:Portland
+OwingTeam:DEN

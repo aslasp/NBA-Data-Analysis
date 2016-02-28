@@ -1,0 +1,10 @@
+Name:Rodney Carney
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-04-05
+Age:31
+Exp:0
+School:Memphis
+OwingTeam:

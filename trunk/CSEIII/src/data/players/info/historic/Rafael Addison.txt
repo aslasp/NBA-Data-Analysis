@@ -1,0 +1,10 @@
+Name:Rafael Addison
+Number:7
+Position:F
+Height:6-8
+Weight:241
+Birth:1964-07-22
+Age:50
+Exp:5
+School:Syracuse
+OwingTeam:CHH

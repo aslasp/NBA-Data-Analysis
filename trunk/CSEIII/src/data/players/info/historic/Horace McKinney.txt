@@ -1,0 +1,10 @@
+Name:Horace McKinney
+Number:17
+Position:F
+Height:6-6
+Weight:185
+Birth:1919-01-01
+Age:96
+Exp:5
+School:North Carolina
+OwingTeam:BOS

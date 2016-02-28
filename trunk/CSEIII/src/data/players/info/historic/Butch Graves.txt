@@ -1,0 +1,10 @@
+Name:Butch Graves
+Number:10
+Position:F
+Height:6-3
+Weight:200
+Birth:1962-01-05
+Age:53
+Exp:0
+School:Yale
+OwingTeam:CLE

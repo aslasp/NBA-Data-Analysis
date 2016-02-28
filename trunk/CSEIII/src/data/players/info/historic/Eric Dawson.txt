@@ -1,0 +1,10 @@
+Name:Eric Dawson
+Number:
+Position:
+Height:
+Weight:
+Birth:1984-07-07
+Age:30
+Exp:0
+School:Midwestern State
+OwingTeam:

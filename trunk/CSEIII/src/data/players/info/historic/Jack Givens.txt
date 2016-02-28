@@ -1,0 +1,10 @@
+Name:Jack Givens
+Number:21
+Position:F
+Height:6-5
+Weight:205
+Birth:1956-09-21
+Age:58
+Exp:1
+School:Kentucky
+OwingTeam:ATL

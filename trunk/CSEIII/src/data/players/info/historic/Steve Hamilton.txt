@@ -1,0 +1,10 @@
+Name:Steve Hamilton
+Number:30
+Position:F
+Height:6-6
+Weight:190
+Birth:1935-11-30
+Age:79
+Exp:1
+School:Morehead State
+OwingTeam:MNL

@@ -1,0 +1,10 @@
+Name:Richie Regan
+Number:14
+Position:G
+Height:6-2
+Weight:180
+Birth:1930-11-30
+Age:84
+Exp:2
+School:Seton Hall
+OwingTeam:CIN

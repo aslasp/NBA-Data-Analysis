@@ -1,0 +1,10 @@
+Name:Ken Austin
+Number:34
+Position:F
+Height:6-9
+Weight:205
+Birth:1961-07-15
+Age:53
+Exp:0
+School:Rice
+OwingTeam:DET

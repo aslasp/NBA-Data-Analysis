@@ -1,0 +1,10 @@
+Name:Cal Ramsey
+Number:3
+Position:F
+Height:6-4
+Weight:200
+Birth:1937-07-13
+Age:77
+Exp:1
+School:New York University
+OwingTeam:SYR

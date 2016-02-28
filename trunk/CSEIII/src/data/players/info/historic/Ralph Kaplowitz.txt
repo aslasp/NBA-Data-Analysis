@@ -1,0 +1,10 @@
+Name:Ralph Kaplowitz
+Number:9
+Position:G
+Height:6-2
+Weight:170
+Birth:1919-05-18
+Age:96
+Exp:1
+School:New York University
+OwingTeam:PHW

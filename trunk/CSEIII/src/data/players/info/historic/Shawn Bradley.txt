@@ -1,0 +1,10 @@
+Name:Shawn Bradley
+Number:44
+Position:C
+Height:7-6
+Weight:275
+Birth:1972-03-22
+Age:43
+Exp:11
+School:Brigham Young
+OwingTeam:DAL

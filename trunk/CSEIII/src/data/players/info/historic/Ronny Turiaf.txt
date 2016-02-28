@@ -1,0 +1,10 @@
+Name:Ronny Turiaf
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-01-13
+Age:32
+Exp:0
+School:Gonzaga
+OwingTeam:

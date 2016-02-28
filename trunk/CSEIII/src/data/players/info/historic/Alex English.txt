@@ -1,0 +1,10 @@
+Name:Alex English
+Number:2
+Position:F
+Height:6-8
+Weight:190
+Birth:1954-01-05
+Age:61
+Exp:14
+School:South Carolina
+OwingTeam:DAL

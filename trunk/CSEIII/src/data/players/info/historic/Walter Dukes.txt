@@ -1,0 +1,10 @@
+Name:Walter Dukes
+Number:23
+Position:C
+Height:7-0
+Weight:220
+Birth:1930-06-23
+Age:84
+Exp:7
+School:Seton Hall
+OwingTeam:DET

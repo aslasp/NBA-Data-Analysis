@@ -1,0 +1,10 @@
+Name:Jerome Dyson
+Number:11
+Position:G
+Height:6-3
+Weight:180
+Birth:1987-05-01
+Age:28
+Exp:0
+School:Connecticut
+OwingTeam:NOH

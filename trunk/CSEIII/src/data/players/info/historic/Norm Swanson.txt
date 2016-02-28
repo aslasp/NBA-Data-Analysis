@@ -1,0 +1,10 @@
+Name:Norm Swanson
+Number:12
+Position:F
+Height:6-6
+Weight:210
+Birth:1930-10-04
+Age:84
+Exp:0
+School:Detroit Mercy
+OwingTeam:ROC

@@ -1,0 +1,10 @@
+Name:Felton Spencer
+Number:50
+Position:C
+Height:7-0
+Weight:290
+Birth:1968-01-05
+Age:47
+Exp:11
+School:Louisville
+OwingTeam:NYK

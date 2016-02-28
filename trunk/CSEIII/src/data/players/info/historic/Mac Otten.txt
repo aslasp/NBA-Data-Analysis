@@ -1,0 +1,10 @@
+Name:Mac Otten
+Number:
+Position:F
+Height:6-7
+Weight:220
+Birth:1925-12-16
+Age:89
+Exp:0
+School:Bowling Green
+OwingTeam:BOM

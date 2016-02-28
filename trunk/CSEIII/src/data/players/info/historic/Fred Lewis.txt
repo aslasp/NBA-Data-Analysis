@@ -1,0 +1,10 @@
+Name:Fred Lewis
+Number:
+Position:F
+Height:6-2
+Weight:195
+Birth:1921-01-06
+Age:94
+Exp:1
+School:Eastern Kentucky
+OwingTeam:PHW

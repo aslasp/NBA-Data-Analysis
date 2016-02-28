@@ -1,0 +1,10 @@
+Name:Steve Scheffler
+Number:
+Position:
+Height:
+Weight:
+Birth:1967-09-03
+Age:47
+Exp:0
+School:Purdue
+OwingTeam:

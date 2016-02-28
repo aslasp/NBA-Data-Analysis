@@ -1,0 +1,10 @@
+Name:God Shammgod
+Number:2
+Position:G
+Height:6-0
+Weight:169
+Birth:1976-04-29
+Age:39
+Exp:0
+School:Providence
+OwingTeam:WAS

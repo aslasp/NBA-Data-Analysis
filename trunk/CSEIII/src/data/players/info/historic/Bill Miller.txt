@@ -1,0 +1,10 @@
+Name:Bill Miller
+Number:
+Position:F
+Height:6-3
+Weight:190
+Birth:1924-11-24
+Age:90
+Exp:0
+School:North Carolina
+OwingTeam:CHS

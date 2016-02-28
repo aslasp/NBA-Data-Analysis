@@ -1,0 +1,10 @@
+Name:Jim Spanarkel
+Number:34
+Position:G
+Height:6-5
+Weight:190
+Birth:1957-06-28
+Age:57
+Exp:4
+School:Duke
+OwingTeam:DAL

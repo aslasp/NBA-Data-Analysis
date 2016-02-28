@@ -1,0 +1,10 @@
+Name:Dontae' Jones
+Number:13
+Position:F
+Height:6-8
+Weight:220
+Birth:1975-06-02
+Age:40
+Exp:0
+School:Mississippi State
+OwingTeam:BOS

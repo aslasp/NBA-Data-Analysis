@@ -1,0 +1,10 @@
+Name:Metta World Peace
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-11-13
+Age:35
+Exp:0
+School:St. John
+OwingTeam:

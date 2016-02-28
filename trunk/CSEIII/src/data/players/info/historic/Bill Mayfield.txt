@@ -1,0 +1,10 @@
+Name:Bill Mayfield
+Number:36
+Position:F
+Height:6-7
+Weight:205
+Birth:1957-10-17
+Age:57
+Exp:0
+School:Iowa
+OwingTeam:GOS

@@ -1,0 +1,10 @@
+Name:Mickey Johnson
+Number:43
+Position:F
+Height:6-10
+Weight:190
+Birth:1952-08-31
+Age:62
+Exp:11
+School:Aurora
+OwingTeam:NJN

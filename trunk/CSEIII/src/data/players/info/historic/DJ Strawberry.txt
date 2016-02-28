@@ -1,0 +1,10 @@
+Name:DJ Strawberry
+Number:8
+Position:G
+Height:6-5
+Weight:201
+Birth:1985-06-15
+Age:29
+Exp:0
+School:Maryland
+OwingTeam:PHX

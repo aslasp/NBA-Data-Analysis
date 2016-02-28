@@ -1,0 +1,10 @@
+Name:Ralph Siewert
+Number:
+Position:C
+Height:7-1
+Weight:230
+Birth:1923-12-31
+Age:91
+Exp:0
+School:Dakota Wesleyan
+OwingTeam:HUS

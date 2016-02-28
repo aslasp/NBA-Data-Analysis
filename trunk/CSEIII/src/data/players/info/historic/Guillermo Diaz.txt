@@ -1,0 +1,10 @@
+Name:Guillermo Diaz
+Number:
+Position:
+Height:
+Weight:
+Birth:1985-03-04
+Age:30
+Exp:0
+School:Miami 
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Bernie Fryer
+Number:25
+Position:G
+Height:6-3
+Weight:185
+Birth:1949-12-25
+Age:65
+Exp:1
+School:Brigham Young
+OwingTeam:NOJ

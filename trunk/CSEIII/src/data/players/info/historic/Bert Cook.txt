@@ -1,0 +1,10 @@
+Name:Bert Cook
+Number:5
+Position:G
+Height:6-3
+Weight:185
+Birth:1929-04-26
+Age:86
+Exp:0
+School:Utah State
+OwingTeam:NYK

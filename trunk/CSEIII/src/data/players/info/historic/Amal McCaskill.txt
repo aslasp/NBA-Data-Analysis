@@ -1,0 +1,10 @@
+Name:Amal McCaskill
+Number:00
+Position:C
+Height:6-11
+Weight:235
+Birth:1973-10-28
+Age:41
+Exp:3
+School:Marquette
+OwingTeam:PHI

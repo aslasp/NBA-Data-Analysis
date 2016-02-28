@@ -1,0 +1,10 @@
+Name:Marshall Rogers
+Number:11
+Position:G
+Height:6-1
+Weight:190
+Birth:1953-08-27
+Age:61
+Exp:0
+School:Texas-Pan American
+OwingTeam:GOS

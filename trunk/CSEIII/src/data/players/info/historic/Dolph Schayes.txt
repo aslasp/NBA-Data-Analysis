@@ -1,0 +1,10 @@
+Name:Dolph Schayes
+Number:4
+Position:F
+Height:6-8
+Weight:195
+Birth:1928-05-19
+Age:87
+Exp:14
+School:New York University
+OwingTeam:PHL

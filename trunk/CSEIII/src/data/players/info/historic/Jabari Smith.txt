@@ -1,0 +1,10 @@
+Name:Jabari Smith
+Number:55
+Position:C
+Height:6-11
+Weight:250
+Birth:1977-02-12
+Age:38
+Exp:3
+School:Louisiana State
+OwingTeam:NJN

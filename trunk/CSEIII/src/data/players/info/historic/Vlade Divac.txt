@@ -1,0 +1,10 @@
+Name:Vlade Divac
+Number:12
+Position:C
+Height:7-1
+Weight:260
+Birth:1968-02-03
+Age:47
+Exp:15
+School:Serbia
+OwingTeam:LAL

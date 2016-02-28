@@ -1,0 +1,10 @@
+Name:Andy Phillip
+Number:17
+Position:G
+Height:6-3
+Weight:195
+Birth:1922-03-07
+Age:93
+Exp:10
+School:Illinois
+OwingTeam:BOS

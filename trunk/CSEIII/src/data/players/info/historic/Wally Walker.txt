@@ -1,0 +1,10 @@
+Name:Wally Walker
+Number:42
+Position:F
+Height:6-8
+Weight:190
+Birth:1954-07-18
+Age:60
+Exp:7
+School:Virginia
+OwingTeam:HOU

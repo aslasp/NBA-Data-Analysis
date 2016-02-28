@@ -1,0 +1,10 @@
+Name:Michael Finley
+Number:40
+Position:G-F
+Height:6-7
+Weight:225
+Birth:1973-03-06
+Age:42
+Exp:14
+School:Wisconsin
+OwingTeam:BOS

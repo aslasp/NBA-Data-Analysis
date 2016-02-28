@@ -1,0 +1,10 @@
+Name:Darrell Elston
+Number:15
+Position:G
+Height:6-3
+Weight:190
+Birth:1952-08-15
+Age:62
+Exp:0
+School:North Carolina
+OwingTeam:IND

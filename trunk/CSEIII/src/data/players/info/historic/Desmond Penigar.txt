@@ -1,0 +1,10 @@
+Name:Desmond Penigar
+Number:
+Position:
+Height:
+Weight:
+Birth:1981-07-16
+Age:33
+Exp:0
+School:Utah State
+OwingTeam:

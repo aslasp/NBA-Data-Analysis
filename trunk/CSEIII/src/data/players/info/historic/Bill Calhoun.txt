@@ -1,0 +1,10 @@
+Name:Bill Calhoun
+Number:3
+Position:F
+Height:6-3
+Weight:180
+Birth:1927-11-04
+Age:87
+Exp:6
+School:
+OwingTeam:MIH

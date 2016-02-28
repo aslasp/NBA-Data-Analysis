@@ -1,0 +1,10 @@
+Name:Anthony Peeler
+Number:8
+Position:G
+Height:6-4
+Weight:208
+Birth:1969-11-25
+Age:45
+Exp:12
+School:Missouri
+OwingTeam:WAS

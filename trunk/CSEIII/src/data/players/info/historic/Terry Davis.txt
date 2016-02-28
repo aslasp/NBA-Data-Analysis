@@ -1,0 +1,10 @@
+Name:Terry Davis
+Number:54
+Position:C-F
+Height:6-10
+Weight:270
+Birth:1967-06-17
+Age:47
+Exp:9
+School:Virginia Union
+OwingTeam:DEN

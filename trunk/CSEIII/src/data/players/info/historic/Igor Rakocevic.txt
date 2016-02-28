@@ -1,0 +1,10 @@
+Name:Igor Rakocevic
+Number:36
+Position:G
+Height:6-2
+Weight:184
+Birth:1978-03-29
+Age:37
+Exp:0
+School:Russia
+OwingTeam:MIN

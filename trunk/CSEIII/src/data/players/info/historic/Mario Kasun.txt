@@ -1,0 +1,10 @@
+Name:Mario Kasun
+Number:41
+Position:C
+Height:7-1
+Weight:260
+Birth:1980-04-05
+Age:35
+Exp:1
+School:Croatia
+OwingTeam:ORL

@@ -1,0 +1,10 @@
+Name:Monty Williams
+Number:5
+Position:F
+Height:6-8
+Weight:225
+Birth:1971-10-08
+Age:43
+Exp:8
+School:Notre Dame
+OwingTeam:PHI

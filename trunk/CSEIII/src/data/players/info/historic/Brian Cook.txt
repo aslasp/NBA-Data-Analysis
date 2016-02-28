@@ -1,0 +1,10 @@
+Name:Brian Cook
+Number:43
+Position:C-F
+Height:6-9
+Weight:250
+Birth:1980-12-04
+Age:34
+Exp:8
+School:Illinois
+OwingTeam:WAS

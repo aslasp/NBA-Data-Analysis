@@ -1,0 +1,10 @@
+Name:Jim Mooney
+Number:7
+Position:F
+Height:6-5
+Weight:215
+Birth:1930-07-08
+Age:84
+Exp:0
+School:Villanova
+OwingTeam:PHW

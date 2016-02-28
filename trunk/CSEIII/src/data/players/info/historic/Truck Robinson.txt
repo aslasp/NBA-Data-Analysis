@@ -1,0 +1,10 @@
+Name:Truck Robinson
+Number:21
+Position:F
+Height:6-7
+Weight:225
+Birth:1951-10-04
+Age:63
+Exp:10
+School:Tennessee State
+OwingTeam:NYK

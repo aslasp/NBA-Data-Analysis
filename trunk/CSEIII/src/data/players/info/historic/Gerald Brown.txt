@@ -1,0 +1,10 @@
+Name:Gerald Brown
+Number:4
+Position:G
+Height:6-4
+Weight:210
+Birth:1975-07-28
+Age:39
+Exp:0
+School:Pepperdine
+OwingTeam:PHX

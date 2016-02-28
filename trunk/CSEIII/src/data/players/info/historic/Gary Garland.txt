@@ -1,0 +1,10 @@
+Name:Gary Garland
+Number:24
+Position:G
+Height:6-4
+Weight:180
+Birth:1957-10-12
+Age:57
+Exp:0
+School:DePaul
+OwingTeam:DEN

@@ -1,0 +1,10 @@
+Name:Mike Wilson
+Number:15
+Position:G
+Height:6-3
+Weight:175
+Birth:1959-09-15
+Age:55
+Exp:2
+School:Marquette
+OwingTeam:ATL

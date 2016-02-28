@@ -1,0 +1,10 @@
+Name:Al McGuire
+Number:
+Position:G
+Height:6-2
+Weight:180
+Birth:1928-09-07
+Age:86
+Exp:3
+School:St. John
+OwingTeam:BAL

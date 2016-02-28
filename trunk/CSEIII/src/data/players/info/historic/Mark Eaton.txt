@@ -1,0 +1,10 @@
+Name:Mark Eaton
+Number:53
+Position:C
+Height:7-4
+Weight:275
+Birth:1957-01-24
+Age:58
+Exp:10
+School:California-Los Angeles
+OwingTeam:UTH

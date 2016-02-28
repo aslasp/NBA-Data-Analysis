@@ -1,0 +1,10 @@
+Name:Gus Bailey
+Number:20
+Position:G
+Height:6-5
+Weight:185
+Birth:1951-02-18
+Age:64
+Exp:4
+School:Texas-El Paso
+OwingTeam:WAS

@@ -1,0 +1,10 @@
+Name:Ray Epps
+Number:32
+Position:F
+Height:6-6
+Weight:195
+Birth:1956-08-20
+Age:58
+Exp:0
+School:Norfolk State
+OwingTeam:GOS

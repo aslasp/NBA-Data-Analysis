@@ -1,0 +1,10 @@
+Name:Art Spector
+Number:12
+Position:F
+Height:6-4
+Weight:200
+Birth:1920-10-17
+Age:94
+Exp:3
+School:Villanova
+OwingTeam:BOS

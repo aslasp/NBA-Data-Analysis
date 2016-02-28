@@ -1,0 +1,10 @@
+Name:Don Lofgran
+Number:8
+Position:F
+Height:6-5
+Weight:200
+Birth:1928-11-18
+Age:86
+Exp:3
+School:San Francisco
+OwingTeam:MIH

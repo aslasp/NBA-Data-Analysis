@@ -1,0 +1,10 @@
+Name:DeJuan Wheat
+Number:6
+Position:G
+Height:6-0
+Weight:165
+Birth:1973-10-14
+Age:41
+Exp:1
+School:Louisville
+OwingTeam:VAN

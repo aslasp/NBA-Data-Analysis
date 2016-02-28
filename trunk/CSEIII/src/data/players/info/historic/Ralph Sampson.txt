@@ -1,0 +1,10 @@
+Name:Ralph Sampson
+Number:50
+Position:C
+Height:7-4
+Weight:228
+Birth:1960-07-07
+Age:54
+Exp:8
+School:Virginia
+OwingTeam:WAS

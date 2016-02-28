@@ -1,0 +1,10 @@
+Name:Hal Lear
+Number:16
+Position:G
+Height:5-11
+Weight:163
+Birth:1935-01-31
+Age:80
+Exp:0
+School:Temple
+OwingTeam:PHW

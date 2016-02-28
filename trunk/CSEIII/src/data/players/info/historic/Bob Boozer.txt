@@ -1,0 +1,10 @@
+Name:Bob Boozer
+Number:20
+Position:F
+Height:6-8
+Weight:215
+Birth:1937-04-26
+Age:78
+Exp:10
+School:Kansas State
+OwingTeam:MIL

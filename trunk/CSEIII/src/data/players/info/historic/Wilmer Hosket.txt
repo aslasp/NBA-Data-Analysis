@@ -1,0 +1,10 @@
+Name:Wilmer Hosket
+Number:25
+Position:F
+Height:6-7
+Weight:225
+Birth:1946-12-20
+Age:68
+Exp:3
+School:Ohio State
+OwingTeam:BUF

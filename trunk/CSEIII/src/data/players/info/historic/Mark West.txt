@@ -1,0 +1,10 @@
+Name:Mark West
+Number:
+Position:
+Height:
+Weight:
+Birth:1960-11-05
+Age:54
+Exp:0
+School:Old Dominion
+OwingTeam:

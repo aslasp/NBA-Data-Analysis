@@ -1,0 +1,10 @@
+Name:Gaylon Nickerson
+Number:
+Position:
+Height:
+Weight:
+Birth:1969-02-06
+Age:46
+Exp:0
+School:Northwestern Oklahoma
+OwingTeam:

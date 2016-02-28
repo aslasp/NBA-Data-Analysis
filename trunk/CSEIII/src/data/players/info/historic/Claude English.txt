@@ -1,0 +1,10 @@
+Name:Claude English
+Number:15
+Position:G
+Height:6-4
+Weight:185
+Birth:1946-12-26
+Age:68
+Exp:0
+School:Rhode Island
+OwingTeam:POR

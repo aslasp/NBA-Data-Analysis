@@ -1,0 +1,10 @@
+Name:Sasha Pavlovic
+Number:3
+Position:G-F
+Height:6-7
+Weight:235
+Birth:1983-11-15
+Age:31
+Exp:9
+School:Bar
+OwingTeam:POR

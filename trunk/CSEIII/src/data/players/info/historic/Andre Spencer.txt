@@ -1,0 +1,10 @@
+Name:Andre Spencer
+Number:20
+Position:F
+Height:6-6
+Weight:210
+Birth:1964-07-20
+Age:50
+Exp:1
+School:Northern Arizona
+OwingTeam:SAC

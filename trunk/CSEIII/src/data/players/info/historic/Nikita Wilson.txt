@@ -1,0 +1,10 @@
+Name:Nikita Wilson
+Number:41
+Position:F
+Height:6-8
+Weight:200
+Birth:1964-02-25
+Age:51
+Exp:0
+School:Louisiana State
+OwingTeam:POR

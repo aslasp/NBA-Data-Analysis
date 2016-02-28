@@ -1,0 +1,10 @@
+Name:Mark Wade
+Number:10
+Position:G
+Height:5-11
+Weight:160
+Birth:1965-10-15
+Age:49
+Exp:1
+School:Nevada-Las Vegas
+OwingTeam:DAL

@@ -1,0 +1,10 @@
+Name:Ronald Martin
+Number:7
+Position:G
+Height:6-2
+Weight:185
+Birth:1939-04-11
+Age:76
+Exp:0
+School:St. Bonaventure
+OwingTeam:NYK

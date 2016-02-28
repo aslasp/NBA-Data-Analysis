@@ -1,0 +1,10 @@
+Name:Shammond Williams
+Number:3
+Position:G
+Height:6-1
+Weight:201
+Birth:1975-04-05
+Age:40
+Exp:6
+School:North Carolina
+OwingTeam:LAL

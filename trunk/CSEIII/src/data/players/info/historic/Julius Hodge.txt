@@ -1,0 +1,10 @@
+Name:Julius Hodge
+Number:
+Position:
+Height:
+Weight:
+Birth:1983-11-18
+Age:31
+Exp:0
+School:North Carolina State
+OwingTeam:

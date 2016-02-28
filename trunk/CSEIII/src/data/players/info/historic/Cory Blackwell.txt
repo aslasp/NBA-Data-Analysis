@@ -1,0 +1,10 @@
+Name:Cory Blackwell
+Number:30
+Position:F
+Height:6-6
+Weight:210
+Birth:1963-03-27
+Age:52
+Exp:0
+School:Wisconsin
+OwingTeam:SEA

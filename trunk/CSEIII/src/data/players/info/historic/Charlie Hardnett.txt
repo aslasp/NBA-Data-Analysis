@@ -1,0 +1,10 @@
+Name:Charlie Hardnett
+Number:23
+Position:F
+Height:6-8
+Weight:225
+Birth:1938-09-13
+Age:76
+Exp:2
+School:Grambling
+OwingTeam:BLT

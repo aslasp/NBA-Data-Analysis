@@ -1,0 +1,10 @@
+Name:Chucky Brown
+Number:52
+Position:F
+Height:6-8
+Weight:220
+Birth:1968-02-29
+Age:47
+Exp:12
+School:North Carolina State
+OwingTeam:SAC

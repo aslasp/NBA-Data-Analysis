@@ -1,0 +1,10 @@
+Name:John Stockton
+Number:12
+Position:G
+Height:6-1
+Weight:175
+Birth:1962-03-26
+Age:53
+Exp:18
+School:Gonzaga
+OwingTeam:UTA

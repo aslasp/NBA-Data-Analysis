@@ -1,0 +1,10 @@
+Name:Jimmy King
+Number:13
+Position:G
+Height:6-5
+Weight:210
+Birth:1973-08-09
+Age:41
+Exp:1
+School:Michigan
+OwingTeam:DEN

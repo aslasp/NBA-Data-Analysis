@@ -1,0 +1,10 @@
+Name:Jeff Wilkins
+Number:45
+Position:C
+Height:6-10
+Weight:230
+Birth:1955-03-09
+Age:60
+Exp:5
+School:Illinois State
+OwingTeam:UTH

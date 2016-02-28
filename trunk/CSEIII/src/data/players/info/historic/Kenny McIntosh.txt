@@ -1,0 +1,10 @@
+Name:Kenny McIntosh
+Number:43
+Position:F
+Height:6-7
+Weight:225
+Birth:1949-01-21
+Age:66
+Exp:3
+School:Eastern Michigan
+OwingTeam:SEA

@@ -1,0 +1,10 @@
+Name:Ruben Nembhard
+Number:
+Position:
+Height:
+Weight:
+Birth:1972-02-20
+Age:43
+Exp:0
+School:Weber State
+OwingTeam:

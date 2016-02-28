@@ -1,0 +1,10 @@
+Name:Tom Gugliotta
+Number:7
+Position:F
+Height:6-10
+Weight:250
+Birth:1969-12-19
+Age:45
+Exp:12
+School:North Carolina State
+OwingTeam:ATL

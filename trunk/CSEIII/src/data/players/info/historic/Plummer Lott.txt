@@ -1,0 +1,10 @@
+Name:Plummer Lott
+Number:43
+Position:F
+Height:6-5
+Weight:210
+Birth:1945-12-11
+Age:69
+Exp:1
+School:Seattle
+OwingTeam:SEA

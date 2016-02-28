@@ -1,0 +1,10 @@
+Name:Bill Cartwright
+Number:24
+Position:C
+Height:7-1
+Weight:245
+Birth:1957-07-30
+Age:57
+Exp:14
+School:San Francisco
+OwingTeam:SEA

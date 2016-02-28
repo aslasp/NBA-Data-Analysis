@@ -1,0 +1,10 @@
+Name:Buck Johnson
+Number:2
+Position:F
+Height:6-7
+Weight:190
+Birth:1964-01-03
+Age:51
+Exp:6
+School:Alabama
+OwingTeam:WAS

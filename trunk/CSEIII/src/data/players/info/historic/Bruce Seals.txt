@@ -1,0 +1,10 @@
+Name:Bruce Seals
+Number:45
+Position:F
+Height:6-8
+Weight:210
+Birth:1953-06-18
+Age:61
+Exp:2
+School:Xavier 
+OwingTeam:SEA

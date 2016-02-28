@@ -1,0 +1,10 @@
+Name:Charles Bradley
+Number:30
+Position:G
+Height:6-5
+Weight:215
+Birth:1959-05-16
+Age:56
+Exp:2
+School:Wyoming
+OwingTeam:SEA

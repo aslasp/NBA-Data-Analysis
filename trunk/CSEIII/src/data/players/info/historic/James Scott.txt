@@ -1,0 +1,10 @@
+Name:James Scott
+Number:32
+Position:F
+Height:6-6
+Weight:180
+Birth:1972-06-03
+Age:42
+Exp:0
+School:St. John
+OwingTeam:MIA

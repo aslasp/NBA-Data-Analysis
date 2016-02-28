@@ -1,0 +1,10 @@
+Name:Wardell Jackson
+Number:30
+Position:F
+Height:6-7
+Weight:200
+Birth:1951-07-18
+Age:63
+Exp:0
+School:Ohio State
+OwingTeam:SEA

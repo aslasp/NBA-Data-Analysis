@@ -1,0 +1,10 @@
+Name:Woody Sauldsberry
+Number:18
+Position:F
+Height:6-7
+Weight:220
+Birth:1934-07-11
+Age:80
+Exp:6
+School:Texas Southern
+OwingTeam:BOS

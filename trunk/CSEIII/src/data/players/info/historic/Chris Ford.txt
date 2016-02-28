@@ -1,0 +1,10 @@
+Name:Chris Ford
+Number:42
+Position:G
+Height:6-5
+Weight:190
+Birth:1949-01-11
+Age:66
+Exp:9
+School:Villanova
+OwingTeam:BOS

@@ -1,0 +1,10 @@
+Name:Jay Williams
+Number:22
+Position:G
+Height:6-2
+Weight:195
+Birth:1981-09-10
+Age:33
+Exp:0
+School:Duke
+OwingTeam:CHI

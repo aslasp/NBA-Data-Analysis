@@ -1,0 +1,10 @@
+Name:Hank Lefkowitz
+Number:
+Position:F
+Height:6-2
+Weight:190
+Birth:1923-08-31
+Age:91
+Exp:0
+School:Case Western
+OwingTeam:CLR

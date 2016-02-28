@@ -1,0 +1,10 @@
+Name:Larry Hughes
+Number:
+Position:
+Height:
+Weight:
+Birth:1979-01-23
+Age:36
+Exp:0
+School:Saint Louis
+OwingTeam:

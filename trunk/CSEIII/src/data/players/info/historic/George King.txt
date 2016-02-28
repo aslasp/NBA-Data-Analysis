@@ -1,0 +1,10 @@
+Name:George King
+Number:15
+Position:G
+Height:6-0
+Weight:175
+Birth:1928-08-16
+Age:86
+Exp:5
+School:Charleston 
+OwingTeam:CIN

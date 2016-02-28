@@ -1,0 +1,10 @@
+Name:Phil Ford
+Number:1
+Position:G
+Height:6-2
+Weight:175
+Birth:1956-02-09
+Age:59
+Exp:6
+School:North Carolina
+OwingTeam:HOU

@@ -1,0 +1,10 @@
+Name:Mark Davis
+Number:7
+Position:G-F
+Height:6-7
+Weight:205
+Birth:1973-04-26
+Age:42
+Exp:3
+School:Texas Tech
+OwingTeam:PHX

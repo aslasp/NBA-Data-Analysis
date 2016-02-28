@@ -1,0 +1,10 @@
+Name:Bill Hanzlik
+Number:24
+Position:F
+Height:6-7
+Weight:185
+Birth:1957-12-06
+Age:57
+Exp:9
+School:Notre Dame
+OwingTeam:DEN

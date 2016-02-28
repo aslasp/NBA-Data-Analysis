@@ -1,0 +1,10 @@
+Name:Donnie Freeman
+Number:20
+Position:G
+Height:6-3
+Weight:185
+Birth:1944-07-18
+Age:70
+Exp:0
+School:Illinois
+OwingTeam:LAL

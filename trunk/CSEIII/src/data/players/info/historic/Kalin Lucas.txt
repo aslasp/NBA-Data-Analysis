@@ -1,0 +1,10 @@
+Name:Kalin Lucas
+Number:
+Position:
+Height:
+Weight:
+Birth:1989-05-24
+Age:26
+Exp:0
+School:Michigan State
+OwingTeam:

@@ -1,0 +1,10 @@
+Name:Red Rocha
+Number:6
+Position:C
+Height:6-9
+Weight:185
+Birth:1923-09-18
+Age:91
+Exp:8
+School:Oregon State
+OwingTeam:FTW

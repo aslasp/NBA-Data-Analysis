@@ -1,0 +1,10 @@
+Name:Terry Thomas
+Number:50
+Position:F
+Height:6-8
+Weight:220
+Birth:1953-08-20
+Age:61
+Exp:0
+School:Detroit Mercy
+OwingTeam:DET

@@ -1,0 +1,10 @@
+Name:Frank Schade
+Number:15
+Position:G
+Height:6-1
+Weight:170
+Birth:1950-01-22
+Age:65
+Exp:0
+School:Wisconsin-Eau Claire
+OwingTeam:KCK

@@ -1,0 +1,10 @@
+Name:Bill Tosheff
+Number:9
+Position:G
+Height:6-1
+Weight:175
+Birth:1926-06-02
+Age:88
+Exp:2
+School:Indiana
+OwingTeam:MIH

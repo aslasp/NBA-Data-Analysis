@@ -1,0 +1,10 @@
+Name:Nolan Smith
+Number:4
+Position:G
+Height:6-2
+Weight:185
+Birth:1988-07-25
+Age:26
+Exp:1
+School:Duke
+OwingTeam:POR

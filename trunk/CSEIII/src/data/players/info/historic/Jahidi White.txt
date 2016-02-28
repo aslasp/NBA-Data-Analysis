@@ -1,0 +1,10 @@
+Name:Jahidi White
+Number:
+Position:
+Height:
+Weight:
+Birth:1976-02-19
+Age:39
+Exp:0
+School:Georgetown
+OwingTeam:

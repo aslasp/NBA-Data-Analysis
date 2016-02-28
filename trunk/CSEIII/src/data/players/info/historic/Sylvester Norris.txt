@@ -1,0 +1,10 @@
+Name:Sylvester Norris
+Number:40
+Position:C
+Height:6-11
+Weight:220
+Birth:1957-02-18
+Age:58
+Exp:0
+School:Jackson State
+OwingTeam:SAN

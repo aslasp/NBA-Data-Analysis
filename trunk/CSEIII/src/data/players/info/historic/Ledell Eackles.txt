@@ -1,0 +1,10 @@
+Name:Ledell Eackles
+Number:21
+Position:G
+Height:6-5
+Weight:231
+Birth:1966-11-24
+Age:48
+Exp:6
+School:New Orleans
+OwingTeam:WAS

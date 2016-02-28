@@ -1,0 +1,10 @@
+Name:John Rudometkin
+Number:34
+Position:F
+Height:6-6
+Weight:205
+Birth:1940-06-06
+Age:74
+Exp:2
+School:Southern California
+OwingTeam:SFW

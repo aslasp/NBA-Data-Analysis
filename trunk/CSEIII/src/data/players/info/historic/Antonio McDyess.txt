@@ -1,0 +1,10 @@
+Name:Antonio McDyess
+Number:34
+Position:F-C
+Height:6-9
+Weight:245
+Birth:1974-09-07
+Age:40
+Exp:14
+School:Alabama
+OwingTeam:SAS

@@ -1,0 +1,10 @@
+Name:Edwin Kachan
+Number:
+Position:G
+Height:6-2
+Weight:175
+Birth:1925-09-15
+Age:89
+Exp:0
+School:DePaul
+OwingTeam:CHS

@@ -1,0 +1,10 @@
+Name:Steve Stipanovich
+Number:40
+Position:C
+Height:6-11
+Weight:245
+Birth:1960-11-17
+Age:54
+Exp:4
+School:Missouri
+OwingTeam:IND

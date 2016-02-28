@@ -1,0 +1,10 @@
+Name:Georgi Glouchkov
+Number:16
+Position:F
+Height:6-8
+Weight:235
+Birth:1960-01-10
+Age:55
+Exp:0
+School:
+OwingTeam:PHX

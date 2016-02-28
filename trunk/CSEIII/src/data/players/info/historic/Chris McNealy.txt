@@ -1,0 +1,10 @@
+Name:Chris McNealy
+Number:14
+Position:F
+Height:6-7
+Weight:210
+Birth:1961-07-15
+Age:53
+Exp:2
+School:San Jose State
+OwingTeam:NYK

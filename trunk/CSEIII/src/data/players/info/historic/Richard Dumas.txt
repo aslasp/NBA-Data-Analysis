@@ -1,0 +1,10 @@
+Name:Richard Dumas
+Number:7
+Position:F
+Height:6-7
+Weight:225
+Birth:1969-05-19
+Age:46
+Exp:2
+School:Oklahoma State
+OwingTeam:PHL

@@ -1,0 +1,10 @@
+Name:Greg Oden
+Number:20
+Position:C
+Height:7-0
+Weight:273
+Birth:1988-01-22
+Age:27
+Exp:2
+School:Ohio State
+OwingTeam:MIA

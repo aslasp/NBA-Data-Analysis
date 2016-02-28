@@ -1,0 +1,10 @@
+Name:Francis O'Grady
+Number:
+Position:G
+Height:5-11
+Weight:160
+Birth:1920-01-19
+Age:95
+Exp:2
+School:Georgetown
+OwingTeam:PRO

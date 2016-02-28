@@ -1,0 +1,10 @@
+Name:Mark Alarie
+Number:31
+Position:F
+Height:6-8
+Weight:217
+Birth:1963-12-11
+Age:51
+Exp:4
+School:Duke
+OwingTeam:WAS

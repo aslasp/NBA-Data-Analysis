@@ -1,0 +1,10 @@
+Name:Walter Devlin
+Number:13
+Position:G
+Height:6-5
+Weight:195
+Birth:1931-12-21
+Age:83
+Exp:2
+School:George Washington
+OwingTeam:MNL

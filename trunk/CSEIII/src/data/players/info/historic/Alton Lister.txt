@@ -1,0 +1,10 @@
+Name:Alton Lister
+Number:53
+Position:C-F
+Height:7-0
+Weight:245
+Birth:1958-10-01
+Age:56
+Exp:15
+School:Arizona State
+OwingTeam:POR

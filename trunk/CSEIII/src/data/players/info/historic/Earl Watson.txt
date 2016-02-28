@@ -1,0 +1,10 @@
+Name:Earl Watson
+Number:17
+Position:G
+Height:6-1
+Weight:199
+Birth:1979-06-12
+Age:35
+Exp:12
+School:California-Los Angeles
+OwingTeam:POR

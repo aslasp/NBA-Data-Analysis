@@ -1,0 +1,10 @@
+Name:Joby Wright
+Number:14
+Position:F
+Height:6-8
+Weight:220
+Birth:1950-09-05
+Age:64
+Exp:0
+School:Indiana
+OwingTeam:SEA

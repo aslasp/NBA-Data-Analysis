@@ -1,0 +1,10 @@
+Name:Chris Jent
+Number:
+Position:
+Height:
+Weight:
+Birth:1970-01-11
+Age:45
+Exp:0
+School:Ohio State
+OwingTeam:

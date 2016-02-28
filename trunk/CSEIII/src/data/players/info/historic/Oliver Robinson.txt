@@ -1,0 +1,10 @@
+Name:Oliver Robinson
+Number:1
+Position:G
+Height:6-4
+Weight:180
+Birth:1960-03-13
+Age:55
+Exp:0
+School:Alabama-Birmingham
+OwingTeam:SAN

@@ -1,0 +1,10 @@
+Name:Billy Cunningham
+Number:32
+Position:F
+Height:6-6
+Weight:210
+Birth:1943-06-03
+Age:71
+Exp:8
+School:North Carolina
+OwingTeam:PHL

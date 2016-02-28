@@ -1,0 +1,10 @@
+Name:Ray Allen
+Number:34
+Position:G
+Height:6-5
+Weight:205
+Birth:1975-07-20
+Age:39
+Exp:17
+School:Connecticut
+OwingTeam:MIA

@@ -1,0 +1,10 @@
+Name:Larry Foust
+Number:14
+Position:C
+Height:6-9
+Weight:215
+Birth:1928-06-24
+Age:86
+Exp:11
+School:La Salle
+OwingTeam:STL

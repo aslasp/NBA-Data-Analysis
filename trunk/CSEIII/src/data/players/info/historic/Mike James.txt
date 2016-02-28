@@ -1,0 +1,10 @@
+Name:Mike James
+Number:8
+Position:G
+Height:6-2
+Weight:188
+Birth:1975-06-23
+Age:39
+Exp:11
+School:Duquesne
+OwingTeam:CHI

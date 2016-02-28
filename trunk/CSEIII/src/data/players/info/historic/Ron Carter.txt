@@ -1,0 +1,10 @@
+Name:Ron Carter
+Number:13
+Position:G
+Height:6-5
+Weight:190
+Birth:1956-08-31
+Age:58
+Exp:1
+School:Virginia Military Institute
+OwingTeam:IND

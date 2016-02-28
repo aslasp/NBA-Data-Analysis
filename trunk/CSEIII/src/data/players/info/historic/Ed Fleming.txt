@@ -1,0 +1,10 @@
+Name:Ed Fleming
+Number:50
+Position:G
+Height:6-3
+Weight:189
+Birth:1933-07-25
+Age:81
+Exp:4
+School:Niagara
+OwingTeam:MNL

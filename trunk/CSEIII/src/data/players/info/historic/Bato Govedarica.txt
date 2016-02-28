@@ -1,0 +1,10 @@
+Name:Bato Govedarica
+Number:14
+Position:G
+Height:5-11
+Weight:185
+Birth:1928-04-17
+Age:87
+Exp:0
+School:DePaul
+OwingTeam:SYR

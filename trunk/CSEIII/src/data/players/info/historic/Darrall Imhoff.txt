@@ -1,0 +1,10 @@
+Name:Darrall Imhoff
+Number:30-35
+Position:C
+Height:6-10
+Weight:220
+Birth:1938-10-11
+Age:76
+Exp:11
+School:California
+OwingTeam:POR
